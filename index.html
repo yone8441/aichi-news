@@ -199,20 +199,21 @@
 
         <!-- 気象・位置情報設定 -->
         <div class="settings-section">
-          <div class="settings-section-title">🌤️ 気象情報・現在地</div>
-          <div class="settings-row">
+          <div class="settings-section-title">🌤️ 気象情報・地域選択</div>
+          <div class="settings-row" style="flex-direction: column; align-items: flex-start; gap: 8px;">
             <div>
-              <div style="font-weight: 600;">現在地の天気を取得</div>
-              <div style="font-size: 11px; color: var(--text-muted);" id="geoStatusText">GPSで現在地（市町村）の天気を表示</div>
+              <div style="font-weight: 600;">地域・市町村をピンポイント選択</div>
+              <div style="font-size: 11px; color: var(--text-muted);" id="geoStatusText">GPSまたは主要都市から天気を指定できます</div>
             </div>
-            <button id="getLocationWeatherBtn" class="settings-btn">現在地で取得</button>
-          </div>
-          <div class="settings-row">
-            <div>
-              <div style="font-weight: 600;">気象庁データ（県全体）に戻す</div>
-              <div style="font-size: 11px; color: var(--text-muted);">愛知県西部・東部の公式予報</div>
+            <div style="display: flex; flex-wrap: wrap; gap: 6px; width: 100%; margin-top: 4px;">
+              <button class="city-pick-btn" data-city="gps" style="background: var(--primary); color:#fff; border:none; padding:5px 10px; border-radius:6px; font-size:11px; font-weight:600; cursor:pointer;">📍 GPS現在地</button>
+              <button class="city-pick-btn" data-city="nagoya" style="background: var(--bg-color); border:1px solid var(--border-color); color:var(--text-main); padding:5px 10px; border-radius:6px; font-size:11px; font-weight:600; cursor:pointer;">名古屋市</button>
+              <button class="city-pick-btn" data-city="toyota" style="background: var(--bg-color); border:1px solid var(--border-color); color:var(--text-main); padding:5px 10px; border-radius:6px; font-size:11px; font-weight:600; cursor:pointer;">豊田市</button>
+              <button class="city-pick-btn" data-city="okazaki" style="background: var(--bg-color); border:1px solid var(--border-color); color:var(--text-main); padding:5px 10px; border-radius:6px; font-size:11px; font-weight:600; cursor:pointer;">岡崎市</button>
+              <button class="city-pick-btn" data-city="ichinomiya" style="background: var(--bg-color); border:1px solid var(--border-color); color:var(--text-main); padding:5px 10px; border-radius:6px; font-size:11px; font-weight:600; cursor:pointer;">一宮市</button>
+              <button class="city-pick-btn" data-city="toyohashi" style="background: var(--bg-color); border:1px solid var(--border-color); color:var(--text-main); padding:5px 10px; border-radius:6px; font-size:11px; font-weight:600; cursor:pointer;">豊橋市</button>
+              <button class="city-pick-btn" data-city="default" style="background: var(--bg-color); border:1px solid var(--border-color); color:var(--text-main); padding:5px 10px; border-radius:6px; font-size:11px; font-weight:600; cursor:pointer;">愛知全域</button>
             </div>
-            <button id="resetWeatherBtn" class="settings-btn" style="background: var(--text-muted);">リセット</button>
           </div>
         </div>
 

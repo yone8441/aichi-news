@@ -243,10 +243,19 @@ document.addEventListener('DOMContentLoaded', () => {
   // ==========================================
   // 3. 現在地天気 ＆ 気象情報連携
   // ==========================================
+  const CITIES = {
+    nagoya: { name: '名古屋', lat: 35.1815, lon: 136.9066 },
+    toyota: { name: '豊田', lat: 35.0833, lon: 137.1500 },
+    okazaki: { name: '岡崎', lat: 34.9550, lon: 137.1725 },
+    ichinomiya: { name: '一宮', lat: 35.3044, lon: 136.7975 },
+    toyohashi: { name: '豊橋', lat: 34.7692, lon: 137.3914 }
+  };
+
   function initWeatherFeatures() {
-    // 天気ウィジェットタップ時も現在地取得
+    // 天気ウィジェットタップ時
     if (weatherWidget) {
       weatherWidget.addEventListener('click', () => {
+        // 設定タブへ誘導するか、現在地と愛知をトグル
         if (weatherLocTag.textContent === '現在地') {
           restoreDefaultWeather();
         } else {
@@ -255,51 +264,68 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
 
-    if (getLocationWeatherBtn) {
-      getLocationWeatherBtn.addEventListener('click', fetchCurrentLocationWeather);
-    }
+    // 都市クイック選択ボタン
+    const cityButtons = document.querySelectorAll('.city-pick-btn');
+    cityButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const cityKey = btn.dataset.city;
+        cityButtons.forEach(b => {
+          b.style.background = 'var(--bg-color)';
+          b.style.color = 'var(--text-main)';
+        });
+        btn.style.background = 'var(--primary)';
+        btn.style.color = '#fff';
 
-    if (resetWeatherBtn) {
-      resetWeatherBtn.addEventListener('click', restoreDefaultWeather);
+        if (cityKey === 'gps') {
+          fetchCurrentLocationWeather();
+        } else if (cityKey === 'default') {
+          restoreDefaultWeather();
+        } else if (CITIES[cityKey]) {
+          fetchCityWeather(CITIES[cityKey].lat, CITIES[cityKey].lon, CITIES[cityKey].name);
+        }
+      });
+    });
+  }
+
+  // 指定都市の天気を取得
+  async function fetchCityWeather(lat, lon, cityName) {
+    if (geoStatusText) geoStatusText.textContent = `${cityName}の天気を取得中...`;
+    try {
+      const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,precipitation,weather_code&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Asia%2FTokyo`;
+      const res = await fetch(url);
+      if (!res.ok) throw new Error('Weather API Error');
+      const data = await res.json();
+
+      applyWeatherData(data, cityName);
+      if (geoStatusText) geoStatusText.textContent = `${cityName}（ピンポイント予報）を表示中`;
+    } catch (e) {
+      console.error(e);
+      if (geoStatusText) geoStatusText.textContent = `${cityName}の天気取得に失敗しました`;
     }
   }
 
-  // GPSから現在地の天気を取得（Open-Meteo API: 無料・キー不要）
+  // GPSから現在地の天気を取得（iOS PWA / 各ブラウザ対応）
   function fetchCurrentLocationWeather() {
     if (!navigator.geolocation) {
-      alert('お使いの端末・ブラウザは位置情報に対応していません。');
+      alert('お使いの端末・ブラウザは位置情報に対応していません。主要都市ボタンをご利用ください。');
       return;
     }
 
-    if (geoStatusText) geoStatusText.textContent = 'GPS位置情報を取得中...';
+    if (geoStatusText) geoStatusText.textContent = 'GPS位置情報を測位中...';
 
     navigator.geolocation.getCurrentPosition(
       async (pos) => {
         const lat = pos.coords.latitude;
         const lon = pos.coords.longitude;
-        if (geoStatusText) geoStatusText.textContent = `現在地取得成功 (${lat.toFixed(2)}, ${lon.toFixed(2)}) 天気取得中...`;
+        if (geoStatusText) geoStatusText.textContent = '現在地測位成功。天気取得中...';
 
         try {
-          // Open-Meteo API
           const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,precipitation,weather_code&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Asia%2FTokyo`;
           const res = await fetch(url);
           if (!res.ok) throw new Error('Weather API HTTP Error');
           const data = await res.json();
 
-          const current = data.current || {};
-          const daily = data.daily || {};
-          const weatherCode = current.weather_code ?? 0;
-          const tempMax = Math.round(daily.temperature_2m_max?.[0] ?? current.temperature_2m ?? 25);
-          const tempMin = Math.round(daily.temperature_2m_min?.[0] ?? (tempMax - 7));
-          const rainProb = (daily.precipitation_probability_max?.[0] ?? 10) + '%';
-
-          // WMO気象コードからアイコン判定
-          const icon = parseWmoWeatherIcon(weatherCode);
-
-          if (weatherLocTag) weatherLocTag.textContent = '現在地';
-          if (weatherIcon) weatherIcon.textContent = icon;
-          if (weatherTemp) weatherTemp.textContent = `${tempMax}° / ${tempMin}°`;
-          if (weatherRain) weatherRain.textContent = `☂ ${rainProb}`;
+          applyWeatherData(data, '現在地');
           if (geoStatusText) geoStatusText.textContent = '現在地（GPSピンポイント）の天気を表示中';
 
         } catch (err) {
@@ -308,12 +334,39 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       },
       (err) => {
-        console.warn('位置情報エラー:', err);
-        if (geoStatusText) geoStatusText.textContent = '位置情報の利用が許可されませんでした';
-        alert('位置情報の利用が許可されませんでした。設定から許可してください。');
+        console.warn('位置情報エラー詳細:', err);
+        let errorMsg = '位置情報を取得できませんでした。';
+        if (err.code === 1) {
+          errorMsg = '位置情報が許可されていません。\n【iPhoneの場合】端末の「設定」➜「プライバシーとセキュリティ」➜「位置情報サービス」でSafariまたは当アプリの利用を許可してください。';
+        } else if (err.code === 2) {
+          errorMsg = '電波環境などにより位置情報が利用できませんでした。主要都市ボタンからお選びください。';
+        } else if (err.code === 3) {
+          errorMsg = 'GPS測位がタイムアウトしました。電波の良い場所でお試しいただくか、主要都市ボタンをご利用ください。';
+        }
+        if (geoStatusText) geoStatusText.textContent = errorMsg.replace(/\n/g, ' ');
+        alert(errorMsg);
       },
-      { timeout: 8000 }
+      {
+        enableHighAccuracy: false, // バッテリー節約＆屋内Wi-Fi/基地局高速測位
+        timeout: 15000,           // 15秒に延長
+        maximumAge: 300000        // 直近5分以内のキャッシュ位置情報を許可
+      }
     );
+  }
+
+  function applyWeatherData(data, label) {
+    const current = data.current || {};
+    const daily = data.daily || {};
+    const weatherCode = current.weather_code ?? 0;
+    const tempMax = Math.round(daily.temperature_2m_max?.[0] ?? current.temperature_2m ?? 25);
+    const tempMin = Math.round(daily.temperature_2m_min?.[0] ?? (tempMax - 7));
+    const rainProb = (daily.precipitation_probability_max?.[0] ?? 10) + '%';
+    const icon = parseWmoWeatherIcon(weatherCode);
+
+    if (weatherLocTag) weatherLocTag.textContent = label;
+    if (weatherIcon) weatherIcon.textContent = icon;
+    if (weatherTemp) weatherTemp.textContent = `${tempMax}° / ${tempMin}°`;
+    if (weatherRain) weatherRain.textContent = `☂ ${rainProb}`;
   }
 
   function restoreDefaultWeather() {
@@ -326,12 +379,12 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function parseWmoWeatherIcon(code) {
-    if (code === 0 || code === 1) return '☀️'; // 快晴・晴れ
-    if (code === 2) return '🌤️'; // 一部曇
-    if (code === 3) return '☁️'; // 曇り
-    if ([51, 53, 55, 61, 63, 65, 80, 81, 82].includes(code)) return '🌧️'; // 雨
-    if ([71, 73, 75, 85, 86].includes(code)) return '❄️'; // 雪
-    if ([95, 96, 99].includes(code)) return '⚡'; // 雷雨
+    if (code === 0 || code === 1) return '☀️';
+    if (code === 2) return '🌤️';
+    if (code === 3) return '☁️';
+    if ([51, 53, 55, 61, 63, 65, 80, 81, 82].includes(code)) return '🌧️';
+    if ([71, 73, 75, 85, 86].includes(code)) return '❄️';
+    if ([95, 96, 99].includes(code)) return '⚡';
     return '🌤️';
   }
 
