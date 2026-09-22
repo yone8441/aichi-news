@@ -446,7 +446,13 @@ document.addEventListener('DOMContentLoaded', () => {
     let filtered = articles;
 
     if (currentArea !== 'all') {
-      filtered = filtered.filter(item => item.area === currentArea || item.area === '全域' || item.area === '愛知');
+      if (currentArea === '豊橋') {
+        filtered = filtered.filter(item => item.area === '豊橋');
+      } else if (currentArea === '三河') {
+        filtered = filtered.filter(item => item.area === '三河' || item.area === '豊橋');
+      } else {
+        filtered = filtered.filter(item => item.area === currentArea || item.area === '全域' || item.area === '愛知');
+      }
     }
 
     if (searchQuery) {
