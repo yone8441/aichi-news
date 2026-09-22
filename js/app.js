@@ -149,7 +149,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const activePin = localStorage.getItem('aichi_news_pin') || DEFAULT_PIN;
     if (currentPinText) currentPinText.textContent = activePin;
     if (lockMessage) {
-      lockMessage.innerHTML = `プライベートアクセス用PIN（4桁）<br><span style="font-size: 11px; opacity: 0.8;">※ 現在のコード: <strong>${activePin}</strong></span>`;
+      lockMessage.innerHTML = 'プライベートアクセス用PIN（4桁）';
     }
   }
 
@@ -222,7 +222,10 @@ document.addEventListener('DOMContentLoaded', () => {
         dotsContainer.classList.remove('shake');
         inputPin = '';
         updatePinDisplay();
-      }, 500);
+        if (lockMessage) {
+          lockMessage.innerHTML = 'プライベートアクセス用PIN（4桁）';
+        }
+      }, 700);
     }
   }
 
