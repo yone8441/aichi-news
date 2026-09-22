@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-09-22T11:44:31+09:00",
-    "update_session": "昼刊便（12:30配信）",
+    "last_updated": "2026-09-22T11:54:03+09:00",
+    "update_session": "昼刊便（12:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
         "condition": "晴れ　夜　くもり",
@@ -46,28 +46,6 @@
         },
         {
             "id": "aichi-20260922-004",
-            "title": "愛知黎明－豊川 観戦記（2026年秋季愛知県大会） : 愛知野球通信＋",
-            "source": "targma.jp",
-            "published_at": "2026-09-22T07:00:04+09:00",
-            "category": "政治・行政",
-            "area": "三河",
-            "summary": "愛知黎明－豊川 観戦記（2026年秋季愛知県大会） : 愛知野球通信＋  targma.jp",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tNWxRc1U3ZlZRaXNiQUlic3JkbGpGQTNNdjNWR0t3dzIyLVUyS1ZsYTQ5R3hTMVlYQ240R0lCSDNmS3hoeGw1dVJlaU5oLXUtcnVkOUhWcXZWelc3YVcyd3VvTl9vZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "aichi-20260922-005",
-            "title": "8年間“野ざらし”か 愛知県運営の婚活支援サイトで個人情報599人分誤掲載 – Quebee キュエビー",
-            "source": "QAB 琉球朝日放送",
-            "published_at": "2026-09-22T10:13:34+09:00",
-            "category": "政治・行政",
-            "area": "愛知",
-            "summary": "8年間“野ざらし”か 愛知県運営の婚活支援サイトで個人情報599人分誤掲載 – Quebee キュエビー  QAB 琉球朝日放送",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLanpFUXFRWC1LdUVLTm1LbEVEenBrV0dYazFBNVFtTVVPODZPYVM4TkRqVWIwT2dJWEVHeXNVMmpYQ0hKVmg4RGpiUFJKUWJXMVNWQXJZS2Y?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "aichi-20260922-006",
             "title": "8年間“野ざらし”か 愛知県運営の婚活支援サイトで個人情報599人分誤掲載",
             "source": "KSBニュース",
             "published_at": "2026-09-22T10:13:34+09:00",
@@ -78,14 +56,36 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "aichi-20260922-007",
-            "title": "プレスリリース：石川のソウルフード「チャンピオンカレー」が愛知県に登場！「ご当地うまいもの市」に出展（PR TIMES）",
-            "source": "mainichi.jp",
-            "published_at": "2026-09-22T11:22:04+09:00",
+            "id": "aichi-20260922-005",
+            "title": "愛知黎明－豊川 観戦記（2026年秋季愛知県大会） : 愛知野球通信＋",
+            "source": "targma.jp",
+            "published_at": "2026-09-22T07:00:04+09:00",
+            "category": "政治・行政",
+            "area": "三河",
+            "summary": "愛知黎明－豊川 観戦記（2026年秋季愛知県大会） : 愛知野球通信＋  targma.jp",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tNWxRc1U3ZlZRaXNiQUlic3JkbGpGQTNNdjNWR0t3dzIyLVUyS1ZsYTQ5R3hTMVlYQ240R0lCSDNmS3hoeGw1dVJlaU5oLXUtcnVkOUhWcXZWelc3YVcyd3VvTl9vZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "aichi-20260922-006",
+            "title": "8年間“野ざらし”か 愛知県運営の婚活支援サイトで個人情報599人分誤掲載 – Quebee キュエビー",
+            "source": "QAB 琉球朝日放送",
+            "published_at": "2026-09-22T10:13:34+09:00",
             "category": "政治・行政",
             "area": "愛知",
-            "summary": "プレスリリース：石川のソウルフード「チャンピオンカレー」が愛知県に登場！「ご当地うまいもの市」に出展（PR TIMES）  mainichi.jp",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3aWxkZ3dZVUVDRktPLUpxVjlhUmRlT0tJdFVBWGE5RFpLM3JWdTBMcXhoZkZpckpJLUJYNHhYQXB3TEpPODJPeC1YRzQzdmVRc0J1TWhvZWU4M3h2VFFwMXdrSWduQXRk?oc=5",
+            "summary": "8年間“野ざらし”か 愛知県運営の婚活支援サイトで個人情報599人分誤掲載 – Quebee キュエビー  QAB 琉球朝日放送",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLanpFUXFRWC1LdUVLTm1LbEVEenBrV0dYazFBNVFtTVVPODZPYVM4TkRqVWIwT2dJWEVHeXNVMmpYQ0hKVmg4RGpiUFJKUWJXMVNWQXJZS2Y?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "aichi-20260922-007",
+            "title": "石川のソウルフード「チャンピオンカレー」が愛知県に登場！「ご当地うまいもの市」に出展",
+            "source": "PR TIMES",
+            "published_at": "2026-09-22T09:00:02+09:00",
+            "category": "政治・行政",
+            "area": "愛知",
+            "summary": "石川のソウルフード「チャンピオンカレー」が愛知県に登場！「ご当地うまいもの市」に出展  PR TIMES",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XOE50X21abVJ1bV9QdDIwOEtob1kxVm1QQUJXMURIdXc0NlY0b0ZieUdBM0U2WWtxcWgyTmo1aTRWZEZTeU1mQnBrNl9sX195NGlHM0pmSEFiZjJqSnB6cENLUDltcmx0emc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -156,13 +156,13 @@
         },
         {
             "id": "aichi-20260922-014",
-            "title": "愛知県の過去のアメダス実況(2026年09月21日)(気温)",
+            "title": "愛知県の過去の雨雲レーダー(2026年09月21日)",
             "source": "tenki.jp",
-            "published_at": "2026-09-22T00:30:32+09:00",
+            "published_at": "2026-09-22T00:22:04+09:00",
             "category": "政治・行政",
             "area": "愛知",
-            "summary": "愛知県の過去のアメダス実況(2026年09月21日)(気温)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wMklmaURMalZwYjhHQ25iaWNzNG1mSElIcGF1OW14N290YU9UaE16M0pSbjluNzczazdHVkphMEYySVVOSUt0dllYb3RVbVpOWHpTTVl4TEI?oc=5",
+            "summary": "愛知県の過去の雨雲レーダー(2026年09月21日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KMEhpNS1rcXJTTE8taXBsdXFzdVI2QUFLOTE1N1EtQmVUN2tJT0J4SnlCRXhUeEpqRGRST3FSdzNwc0FSMzQ2VTJhQ3lueEFEek1mNWQzQQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
