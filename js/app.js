@@ -607,11 +607,28 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  async function forceCleanCacheAndReload() {
+    try {
+      if ('caches' in window) {
+        const names = await caches.keys();
+        await Promise.all(names.map(name => caches.delete(name)));
+      }
+      if ('serviceWorker' in navigator) {
+        const regs = await navigator.serviceWorker.getRegistrations();
+        for (const reg of regs) {
+          await reg.update();
+        }
+      }
+    } catch (e) {
+      console.warn('キャッシュクリアエラー:', e);
+    }
+    window.location.href = window.location.pathname + '?v=' + Date.now();
+  }
+
   const forceReloadBtn = document.getElementById('forceReloadBtn');
   if (forceReloadBtn) {
     forceReloadBtn.addEventListener('click', () => {
-      loadNews();
-      alert('最新データを再取得しました。');
+      forceCleanCacheAndReload();
     });
   }
 
