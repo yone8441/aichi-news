@@ -46,7 +46,7 @@
       </div>
     </div>
 
-    <!-- アプリヘッダー -->
+    <!-- アプリヘッダー（セーフエリア対応済み） -->
     <header class="app-header">
       <div class="header-top">
         <div class="app-title-wrap">
@@ -78,7 +78,9 @@
           </div>
         </div>
 
-        <div class="weather-widget" id="weatherWidget" title="愛知県の気象情報">
+        <!-- タップで現在地の天気に切替可能 -->
+        <div class="weather-widget" id="weatherWidget" title="タップで現在地 / 愛知全域を切替">
+          <span class="weather-location-tag" id="weatherLocTag">愛知</span>
           <span class="weather-icon" id="weatherIcon">🌤️</span>
           <span class="weather-temp" id="weatherTemp">28° / 19°</span>
           <span style="font-size: 10px; opacity: 0.9;" id="weatherRain">☂ 10%</span>
@@ -86,49 +88,167 @@
       </div>
     </header>
 
-    <!-- 検索バー -->
-    <div class="search-bar-wrap">
-      <div class="search-input-container">
-        <span class="search-icon">🔍</span>
-        <input type="text" id="searchInput" class="search-input" placeholder="キーワード検索（例: 名古屋, ジブリ, トヨタ）" autocomplete="off">
-        <button id="searchClearBtn" class="search-clear" aria-label="検索クリア">✕</button>
-      </div>
-    </div>
+    <!-- メインコンテンツ領域（タブで切り替え） -->
+    <main class="tab-content">
 
-    <!-- 地域フィルター（横スクロール） -->
-    <nav class="area-nav" aria-label="地域フィルター">
-      <button class="area-tab active" data-area="all">すべて</button>
-      <button class="area-tab" data-area="名古屋">名古屋</button>
-      <button class="area-tab" data-area="尾張">尾張・知多</button>
-      <button class="area-tab" data-area="三河">西三河・東三河</button>
-    </nav>
+      <!-- ==========================================
+           タブ1: ニュース一覧
+           ========================================== -->
+      <div id="newsTab" class="tab-page active">
+        <!-- 検索バー -->
+        <div class="search-input-container">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="searchInput" class="search-input" placeholder="キーワード検索（名古屋, ジブリ, トヨタ）" autocomplete="off">
+          <button id="searchClearBtn" class="search-clear" aria-label="検索クリア">✕</button>
+        </div>
 
-    <!-- メインコンテンツ（ニュースフィード） -->
-    <main class="feed-content">
-      <div class="section-headline">
-        <span class="headline-title">
-          <span>📰</span> ニュース一覧
-        </span>
-        <span class="headline-count" id="articleCount">読み込み中...</span>
+        <!-- 地域フィルター（横スクロール） -->
+        <nav class="area-nav" aria-label="地域フィルター" style="margin: -4px -16px 0; padding: 6px 16px;">
+          <button class="area-tab active" data-area="all">すべて</button>
+          <button class="area-tab" data-area="名古屋">名古屋</button>
+          <button class="area-tab" data-area="尾張">尾張・知多</button>
+          <button class="area-tab" data-area="三河">西三河・東三河</button>
+        </nav>
+
+        <div class="section-headline">
+          <span class="headline-title">
+            <span>📰</span> ニュース一覧
+          </span>
+          <span class="headline-count" id="articleCount">読み込み中...</span>
+        </div>
+
+        <!-- ニュースカード一覧（JSで動的生成） -->
+        <div id="newsList" class="news-list">
+          <!-- JSによりカードが挿入されます -->
+        </div>
       </div>
 
-      <!-- ニュースカード一覧（JSで動的生成） -->
-      <div id="newsList" class="news-list">
-        <!-- JSによりカードが挿入されます -->
+      <!-- ==========================================
+           タブ2: 1日3回タイムライン
+           ========================================== -->
+      <div id="timelineTab" class="tab-page">
+        <div class="timeline-card">
+          <h3 style="font-size: 15px; font-weight: 700; margin-bottom: 8px;">🕒 本日の配信スケジュール</h3>
+          
+          <div class="timeline-schedule-item" id="itemMorning">
+            <div class="timeline-status-icon">🌅</div>
+            <div class="timeline-info">
+              <div class="timeline-title-row">
+                <span class="timeline-name">朝刊便</span>
+                <span class="timeline-time">07:00 配信</span>
+              </div>
+              <p class="timeline-desc">出勤・通学前に押さえておきたい愛知の朝刊トップニュース</p>
+            </div>
+          </div>
+
+          <div class="timeline-schedule-item" id="itemNoon">
+            <div class="timeline-status-icon">☀️</div>
+            <div class="timeline-info">
+              <div class="timeline-title-row">
+                <span class="timeline-name">昼刊便</span>
+                <span class="timeline-time">12:00 配信</span>
+              </div>
+              <p class="timeline-desc">ランチタイムにチェックする午前中の最新ニュースと午後の天気</p>
+            </div>
+          </div>
+
+          <div class="timeline-schedule-item" id="itemEvening">
+            <div class="timeline-status-icon">🌆</div>
+            <div class="timeline-info">
+              <div class="timeline-title-row">
+                <span class="timeline-name">夕刊便</span>
+                <span class="timeline-time">17:00 配信</span>
+              </div>
+              <p class="timeline-desc">帰宅時に読みたい夕方の主要ニュースと明日の愛知の天気予報</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="timeline-card" style="background: var(--primary-bg); border-color: var(--primary-light);">
+          <div style="font-size: 13px; font-weight: 700; color: var(--primary); margin-bottom: 4px;">
+            🤖 GitHub Actions 自動バッチ連携
+          </div>
+          <p style="font-size: 12px; color: var(--text-muted); line-height: 1.6;">
+            1日3回の指定時刻になると、GitHub Actions上のPHPスクリプトが自動起動し、最新情報を取得してアプリへ即時反映します。
+          </p>
+        </div>
       </div>
+
+      <!-- ==========================================
+           タブ3: 設定画面
+           ========================================== -->
+      <div id="settingsTab" class="tab-page">
+        <!-- セキュリティ設定 -->
+        <div class="settings-section">
+          <div class="settings-section-title">🔒 セキュリティ・認証</div>
+          <div class="settings-row">
+            <div>
+              <div style="font-weight: 600;">パスコード（PIN）変更</div>
+              <div style="font-size: 11px; color: var(--text-muted);">現在のPIN: <strong id="currentPinText">0928</strong></div>
+            </div>
+            <button id="changePinBtn" class="settings-btn">変更する</button>
+          </div>
+          <div class="settings-row">
+            <div>
+              <div style="font-weight: 600;">今すぐ画面をロック</div>
+              <div style="font-size: 11px; color: var(--text-muted);">PIN入力画面に戻ります</div>
+            </div>
+            <button id="instantLockBtn" class="settings-btn" style="background: #e11d48;">ロック</button>
+          </div>
+        </div>
+
+        <!-- 気象・位置情報設定 -->
+        <div class="settings-section">
+          <div class="settings-section-title">🌤️ 気象情報・現在地</div>
+          <div class="settings-row">
+            <div>
+              <div style="font-weight: 600;">現在地の天気を取得</div>
+              <div style="font-size: 11px; color: var(--text-muted);" id="geoStatusText">GPSで現在地（市町村）の天気を表示</div>
+            </div>
+            <button id="getLocationWeatherBtn" class="settings-btn">現在地で取得</button>
+          </div>
+          <div class="settings-row">
+            <div>
+              <div style="font-weight: 600;">気象庁データ（県全体）に戻す</div>
+              <div style="font-size: 11px; color: var(--text-muted);">愛知県西部・東部の公式予報</div>
+            </div>
+            <button id="resetWeatherBtn" class="settings-btn" style="background: var(--text-muted);">リセット</button>
+          </div>
+        </div>
+
+        <!-- 表示・システム設定 -->
+        <div class="settings-section">
+          <div class="settings-section-title">⚙️ システム・キャッシュ</div>
+          <div class="settings-row">
+            <div>
+              <div style="font-weight: 600;">データを最新に強制再取得</div>
+              <div style="font-size: 11px; color: var(--text-muted);">news.json を直接再フェッチ</div>
+            </div>
+            <button id="forceReloadBtn" class="settings-btn">再取得</button>
+          </div>
+          <div class="settings-row">
+            <div>
+              <div style="font-weight: 600;">アプリ情報</div>
+              <div style="font-size: 11px; color: var(--text-muted);">あいちNews速報 v1.2.0 (PWA)</div>
+            </div>
+            <a href="https://github.com/yone8441/aichi-news" target="_blank" rel="noopener" style="font-size: 11px; color: var(--primary); font-weight: 600; text-decoration: none;">GitHub ↗</a>
+          </div>
+        </div>
+      </div>
+
     </main>
 
-    <!-- ボトムナビゲーション -->
+    <!-- ボトムナビゲーション（3つのタブを切り替え可能） -->
     <nav class="bottom-nav">
-      <button class="nav-item active">
-        <span class="nav-icon">🏠</span>
+      <button class="nav-item active" data-tab="news">
+        <span class="nav-icon">📰</span>
         <span>ニュース</span>
       </button>
-      <button class="nav-item">
+      <button class="nav-item" data-tab="timeline">
         <span class="nav-icon">🕒</span>
         <span>1日3回</span>
       </button>
-      <button class="nav-item" id="navSettingsBtn">
+      <button class="nav-item" data-tab="settings">
         <span class="nav-icon">⚙️</span>
         <span>設定</span>
       </button>

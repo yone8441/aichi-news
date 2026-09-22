@@ -4,7 +4,7 @@
   --primary-bg: #eff6ff;
   --accent: #d97706;
   --accent-light: #fef3c7;
-  --bg-color: #f1f5f9;
+  --bg-color: #f8fafc;
   --card-bg: #ffffff;
   --text-main: #0f172a;
   --text-muted: #64748b;
@@ -47,7 +47,7 @@ body.dark-mode {
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Hiragino Kaku Gothic ProN", "BIZ UDPGothic", Meiryo, sans-serif;
-  background-color: #020617; /* PC外側背景 */
+  background-color: #020617;
   color: var(--text-main);
   line-height: 1.5;
   display: flex;
@@ -62,6 +62,7 @@ body {
   width: 100%;
   max-width: 430px;
   height: 100vh;
+  height: 100dvh; /* dynamic viewport height */
   max-height: 932px;
   background-color: var(--bg-color);
   display: flex;
@@ -80,11 +81,15 @@ body {
   }
 }
 
-/* ヘッダーエリア */
+/* ヘッダーエリア（セーフエリア対応） */
 .app-header {
   background: var(--header-bg);
   color: #ffffff;
-  padding: 14px 16px 10px;
+  /* iOSノッチ・時計表示の余白を確保 */
+  padding-top: calc(env(safe-area-inset-top, 0px) + 12px);
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 10px;
   position: sticky;
   top: 0;
   z-index: 50;
@@ -145,7 +150,7 @@ body {
   transform: scale(0.95);
 }
 
-/* 1日3回ステータス ＆ 愛知の天気 */
+/* 1日3回ステータス ＆ 天気ウィジェット */
 .header-sub-info {
   display: flex;
   gap: 6px;
@@ -191,7 +196,7 @@ body {
   font-size: 10px;
 }
 
-/* 天気ミニウィジェット */
+/* 天気ウィジェット（タップで現在地切替可能） */
 .weather-widget {
   background: rgba(255, 255, 255, 0.15);
   backdrop-filter: blur(8px);
@@ -199,14 +204,29 @@ body {
   border-radius: 12px;
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: 5px;
   font-size: 11px;
   color: #f8fafc;
   white-space: nowrap;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.weather-widget:active {
+  background: rgba(255, 255, 255, 0.28);
+  transform: scale(0.97);
+}
+
+.weather-location-tag {
+  font-size: 9px;
+  background: rgba(0, 0, 0, 0.2);
+  padding: 1px 4px;
+  border-radius: 4px;
+  color: #e2e8f0;
 }
 
 .weather-icon {
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .weather-temp {
@@ -298,8 +318,8 @@ body {
   color: #ffffff;
 }
 
-/* メインコンテンツ（スクロール可能） */
-.feed-content {
+/* タブコンテンツ共通ラッパー */
+.tab-content {
   flex: 1;
   overflow-y: auto;
   padding: 12px 16px 80px;
@@ -309,12 +329,21 @@ body {
   -webkit-overflow-scrolling: touch;
 }
 
+.tab-page {
+  display: none;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.tab-page.active {
+  display: flex;
+}
+
 /* タイムスタンプ・配信セクションヘッダー */
 .section-headline {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 2px;
 }
 
 .headline-title {
@@ -457,18 +486,184 @@ body {
   font-weight: 600;
 }
 
-/* ボトムナビゲーションバー */
+/* ==========================================
+   2. 1日3回タイムライン画面のスタイル
+   ========================================== */
+.timeline-card {
+  background: var(--card-bg);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  box-shadow: var(--shadow-sm);
+}
+
+.timeline-schedule-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  position: relative;
+  padding-bottom: 16px;
+}
+
+.timeline-schedule-item:last-child {
+  padding-bottom: 0;
+}
+
+.timeline-schedule-item::before {
+  content: '';
+  position: absolute;
+  left: 14px;
+  top: 28px;
+  bottom: 0;
+  width: 2px;
+  background: var(--border-color);
+}
+
+.timeline-schedule-item:last-child::before {
+  display: none;
+}
+
+.timeline-status-icon {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  background: var(--bg-color);
+  border: 2px solid var(--border-color);
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.timeline-schedule-item.done .timeline-status-icon {
+  background: #10b981;
+  color: #fff;
+  border-color: #10b981;
+}
+
+.timeline-schedule-item.current .timeline-status-icon {
+  background: var(--primary);
+  color: #fff;
+  border-color: var(--primary-light);
+  box-shadow: 0 0 8px rgba(59, 130, 246, 0.5);
+}
+
+.timeline-schedule-item.upcoming .timeline-status-icon {
+  background: var(--bg-color);
+  color: var(--text-muted);
+}
+
+.timeline-info {
+  flex: 1;
+}
+
+.timeline-title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.timeline-name {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+.timeline-time {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--primary);
+}
+
+.timeline-desc {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+/* ==========================================
+   3. 設定画面のスタイル
+   ========================================== */
+.settings-section {
+  background: var(--card-bg);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+}
+
+.settings-section-title {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-muted);
+  padding: 10px 14px;
+  background: var(--bg-color);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.settings-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--border-color);
+  font-size: 13px;
+  color: var(--text-main);
+}
+
+.settings-row:last-child {
+  border-bottom: none;
+}
+
+.settings-row-action {
+  background: none;
+  border: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: inherit;
+  font-size: 13px;
+  color: inherit;
+  padding: 12px 14px;
+  transition: background-color 0.15s;
+}
+
+.settings-row-action:active {
+  background-color: var(--bg-color);
+}
+
+.settings-btn {
+  background: var(--primary);
+  color: #fff;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* ボトムナビゲーションバー（セーフエリア対応） */
 .bottom-nav {
   position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
-  height: 56px;
+  height: calc(56px + env(safe-area-inset-bottom, 0px));
   background: var(--nav-bg);
   border-top: 1px solid var(--border-color);
   display: flex;
   justify-content: space-around;
-  align-items: center;
+  align-items: flex-start;
+  padding-top: 6px;
   padding-bottom: env(safe-area-inset-bottom, 0px);
   z-index: 40;
   transition: background-color 0.3s;
@@ -486,7 +681,8 @@ body {
   cursor: pointer;
   background: none;
   border: none;
-  padding: 6px 12px;
+  padding: 4px 16px;
+  transition: color 0.2s;
 }
 
 .nav-item.active {
@@ -494,10 +690,10 @@ body {
 }
 
 .nav-icon {
-  font-size: 16px;
+  font-size: 18px;
 }
 
-/* パスコードロック用オーバーレイ画面 */
+/* パスコードロック用オーバーレイ画面（セーフエリア対応） */
 .lock-screen {
   position: absolute;
   top: 0;
@@ -510,7 +706,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 24px;
+  padding: calc(env(safe-area-inset-top, 0px) + 24px) 24px calc(env(safe-area-inset-bottom, 0px) + 24px);
   backdrop-filter: blur(20px);
   transition: opacity 0.3s ease, visibility 0.3s ease;
 }
@@ -522,29 +718,29 @@ body {
 }
 
 .lock-icon-wrap {
-  width: 54px;
-  height: 54px;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
   background: var(--primary-bg);
   color: var(--primary);
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 24px;
-  margin-bottom: 12px;
+  font-size: 22px;
+  margin-bottom: 10px;
 }
 
 .lock-title {
   font-size: 18px;
   font-weight: 700;
   color: var(--text-main);
-  margin-bottom: 6px;
+  margin-bottom: 4px;
 }
 
 .lock-desc {
   font-size: 12px;
   color: var(--text-muted);
-  margin-bottom: 24px;
+  margin-bottom: 20px;
   text-align: center;
 }
 
@@ -552,7 +748,7 @@ body {
 .pin-dots {
   display: flex;
   gap: 16px;
-  margin-bottom: 32px;
+  margin-bottom: 28px;
 }
 
 .pin-dot {
@@ -573,14 +769,14 @@ body {
 .keypad {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 16px;
+  gap: 14px;
   width: 100%;
-  max-width: 280px;
+  max-width: 270px;
 }
 
 .key-btn {
-  width: 64px;
-  height: 64px;
+  width: 62px;
+  height: 62px;
   margin: 0 auto;
   border-radius: 50%;
   border: 1px solid var(--border-color);
@@ -603,7 +799,7 @@ body {
 }
 
 .key-btn.action-key {
-  font-size: 14px;
+  font-size: 13px;
   background: transparent;
   border: none;
   box-shadow: none;

@@ -1,5 +1,5 @@
 /**
- * 愛知県ニュースアプリ (Pure JavaScript)
+ * あいちNews速報 (Pure JavaScript)
  */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let currentArea = 'all';
   let searchQuery = '';
   let inputPin = '';
+  let defaultWeatherData = null; // 元の気象庁データ保持用
   const DEFAULT_PIN = '0928'; // 初期PINコード
 
   // ==========================================
@@ -24,9 +25,14 @@ document.addEventListener('DOMContentLoaded', () => {
   const refreshBtn = document.getElementById('refreshBtn');
 
   // 天気関連
+  const weatherWidget = document.getElementById('weatherWidget');
+  const weatherLocTag = document.getElementById('weatherLocTag');
   const weatherIcon = document.getElementById('weatherIcon');
   const weatherTemp = document.getElementById('weatherTemp');
   const weatherRain = document.getElementById('weatherRain');
+  const getLocationWeatherBtn = document.getElementById('getLocationWeatherBtn');
+  const resetWeatherBtn = document.getElementById('resetWeatherBtn');
+  const geoStatusText = document.getElementById('geoStatusText');
 
   // 検索関連
   const searchInput = document.getElementById('searchInput');
@@ -41,9 +47,80 @@ document.addEventListener('DOMContentLoaded', () => {
   const keypadBtns = document.querySelectorAll('.key-btn');
   const lockBtn = document.getElementById('lockBtn');
   const lockMessage = document.getElementById('lockMessage');
+  const currentPinText = document.getElementById('currentPinText');
+  const changePinBtn = document.getElementById('changePinBtn');
+  const instantLockBtn = document.getElementById('instantLockBtn');
+
+  // タブ切り替え関連
+  const navItems = document.querySelectorAll('.nav-item');
+  const tabPages = {
+    news: document.getElementById('newsTab'),
+    timeline: document.getElementById('timelineTab'),
+    settings: document.getElementById('settingsTab')
+  };
 
   // ==========================================
-  // 1. パスコードロック機能（クライアント簡易認証）
+  // 1. ボトムナビ タブ切り替え機能
+  // ==========================================
+  function initTabs() {
+    navItems.forEach(item => {
+      item.addEventListener('click', () => {
+        const targetTab = item.dataset.tab;
+        if (!targetTab || !tabPages[targetTab]) return;
+
+        // ナビボタンのアクティブ切替
+        navItems.forEach(n => n.classList.remove('active'));
+        item.classList.add('active');
+
+        // タブコンテンツの表示切替
+        Object.keys(tabPages).forEach(key => {
+          if (tabPages[key]) {
+            tabPages[key].classList.toggle('active', key === targetTab);
+          }
+        });
+
+        // タイムラインタブを開いた場合はステータス更新
+        if (targetTab === 'timeline') {
+          updateTimelineStatus();
+        }
+      });
+    });
+  }
+
+  // 1日3回のタイムライン進捗表示
+  function updateTimelineStatus() {
+    const hour = new Date().getHours();
+    const itemMorning = document.getElementById('itemMorning');
+    const itemNoon = document.getElementById('itemNoon');
+    const itemEvening = document.getElementById('itemEvening');
+
+    if (!itemMorning || !itemNoon || !itemEvening) return;
+
+    [itemMorning, itemNoon, itemEvening].forEach(el => {
+      el.className = 'timeline-schedule-item';
+    });
+
+    if (hour < 7) {
+      itemMorning.classList.add('current');
+      itemNoon.classList.add('upcoming');
+      itemEvening.classList.add('upcoming');
+    } else if (hour < 12) {
+      itemMorning.classList.add('done');
+      itemNoon.classList.add('current');
+      itemEvening.classList.add('upcoming');
+    } else if (hour < 17) {
+      itemMorning.classList.add('done');
+      itemNoon.classList.add('done');
+      itemEvening.classList.add('current');
+    } else {
+      itemMorning.classList.add('done');
+      itemNoon.classList.add('done');
+      itemEvening.classList.add('done');
+    }
+  }
+
+  // ==========================================
+  // 2. パスコードロック機能（クライアント簡易認証）
   // ==========================================
   function initLockSystem() {
     const isAuthed = sessionStorage.getItem('aichi_news_auth');
@@ -58,9 +135,43 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     });
 
-    if (lockBtn) {
-      lockBtn.addEventListener('click', lockApp);
+    if (lockBtn) lockBtn.addEventListener('click', lockApp);
+    if (instantLockBtn) instantLockBtn.addEventListener('click', lockApp);
+
+    // PIN変更機能
+    updateCurrentPinDisplay();
+    if (changePinBtn) {
+      changePinBtn.addEventListener('click', handleChangePin);
     }
+  }
+
+  function updateCurrentPinDisplay() {
+    const activePin = localStorage.getItem('aichi_news_pin') || DEFAULT_PIN;
+    if (currentPinText) currentPinText.textContent = activePin;
+    if (lockMessage) {
+      lockMessage.innerHTML = `プライベートアクセス用PIN（4桁）<br><span style="font-size: 11px; opacity: 0.8;">※ 現在のコード: <strong>${activePin}</strong></span>`;
+    }
+  }
+
+  function handleChangePin() {
+    const currentActivePin = localStorage.getItem('aichi_news_pin') || DEFAULT_PIN;
+    const inputOld = prompt('現在の4桁のPINを入力してください:');
+    if (inputOld === null) return;
+    if (inputOld !== currentActivePin) {
+      alert('現在のPINが一致しません。');
+      return;
+    }
+
+    const newPin = prompt('新しい4桁の数字PINを入力してください:');
+    if (newPin === null) return;
+    if (!/^\d{4}$/.test(newPin)) {
+      alert('半角数字4桁で入力してください。');
+      return;
+    }
+
+    localStorage.setItem('aichi_news_pin', newPin);
+    updateCurrentPinDisplay();
+    alert(`PINを「${newPin}」に変更しました。`);
   }
 
   function handleKeypadInput(key) {
@@ -81,7 +192,6 @@ document.addEventListener('DOMContentLoaded', () => {
       updatePinDisplay();
 
       if (inputPin.length === 4) {
-        // 4桁揃ったら即照合
         setTimeout(verifyPin, 150);
       }
     }
@@ -103,7 +213,6 @@ document.addEventListener('DOMContentLoaded', () => {
       sessionStorage.setItem('aichi_news_auth', 'true');
       unlockApp(true);
     } else {
-      // 失敗時のシェイク
       const dotsContainer = document.getElementById('pinDots');
       dotsContainer.classList.add('shake');
       if (lockMessage) {
@@ -121,9 +230,7 @@ document.addEventListener('DOMContentLoaded', () => {
     lockScreen.classList.add('unlocked');
     inputPin = '';
     updatePinDisplay();
-    if (lockMessage) {
-      lockMessage.innerHTML = 'プライベートアクセス用PIN（4桁）<br><span style="font-size: 11px; opacity: 0.8;">※ 初期コード: <strong>0928</strong></span>';
-    }
+    updateCurrentPinDisplay();
   }
 
   function lockApp() {
@@ -134,7 +241,102 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // ==========================================
-  // 2. ダークモード管理
+  // 3. 現在地天気 ＆ 気象情報連携
+  // ==========================================
+  function initWeatherFeatures() {
+    // 天気ウィジェットタップ時も現在地取得
+    if (weatherWidget) {
+      weatherWidget.addEventListener('click', () => {
+        if (weatherLocTag.textContent === '現在地') {
+          restoreDefaultWeather();
+        } else {
+          fetchCurrentLocationWeather();
+        }
+      });
+    }
+
+    if (getLocationWeatherBtn) {
+      getLocationWeatherBtn.addEventListener('click', fetchCurrentLocationWeather);
+    }
+
+    if (resetWeatherBtn) {
+      resetWeatherBtn.addEventListener('click', restoreDefaultWeather);
+    }
+  }
+
+  // GPSから現在地の天気を取得（Open-Meteo API: 無料・キー不要）
+  function fetchCurrentLocationWeather() {
+    if (!navigator.geolocation) {
+      alert('お使いの端末・ブラウザは位置情報に対応していません。');
+      return;
+    }
+
+    if (geoStatusText) geoStatusText.textContent = 'GPS位置情報を取得中...';
+
+    navigator.geolocation.getCurrentPosition(
+      async (pos) => {
+        const lat = pos.coords.latitude;
+        const lon = pos.coords.longitude;
+        if (geoStatusText) geoStatusText.textContent = `現在地取得成功 (${lat.toFixed(2)}, ${lon.toFixed(2)}) 天気取得中...`;
+
+        try {
+          // Open-Meteo API
+          const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,precipitation,weather_code&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Asia%2FTokyo`;
+          const res = await fetch(url);
+          if (!res.ok) throw new Error('Weather API HTTP Error');
+          const data = await res.json();
+
+          const current = data.current || {};
+          const daily = data.daily || {};
+          const weatherCode = current.weather_code ?? 0;
+          const tempMax = Math.round(daily.temperature_2m_max?.[0] ?? current.temperature_2m ?? 25);
+          const tempMin = Math.round(daily.temperature_2m_min?.[0] ?? (tempMax - 7));
+          const rainProb = (daily.precipitation_probability_max?.[0] ?? 10) + '%';
+
+          // WMO気象コードからアイコン判定
+          const icon = parseWmoWeatherIcon(weatherCode);
+
+          if (weatherLocTag) weatherLocTag.textContent = '現在地';
+          if (weatherIcon) weatherIcon.textContent = icon;
+          if (weatherTemp) weatherTemp.textContent = `${tempMax}° / ${tempMin}°`;
+          if (weatherRain) weatherRain.textContent = `☂ ${rainProb}`;
+          if (geoStatusText) geoStatusText.textContent = '現在地（GPSピンポイント）の天気を表示中';
+
+        } catch (err) {
+          console.error('現在地天気取得エラー:', err);
+          if (geoStatusText) geoStatusText.textContent = '現在地の天気取得に失敗しました';
+        }
+      },
+      (err) => {
+        console.warn('位置情報エラー:', err);
+        if (geoStatusText) geoStatusText.textContent = '位置情報の利用が許可されませんでした';
+        alert('位置情報の利用が許可されませんでした。設定から許可してください。');
+      },
+      { timeout: 8000 }
+    );
+  }
+
+  function restoreDefaultWeather() {
+    if (!defaultWeatherData) return;
+    if (weatherLocTag) weatherLocTag.textContent = '愛知';
+    if (weatherIcon) weatherIcon.textContent = defaultWeatherData.icon || '🌤️';
+    if (weatherTemp) weatherTemp.textContent = `${defaultWeatherData.temp_max}° / ${defaultWeatherData.temp_min}°`;
+    if (weatherRain) weatherRain.textContent = `☂ ${defaultWeatherData.rain_prob || '10%'}`;
+    if (geoStatusText) geoStatusText.textContent = '愛知県公式（気象庁）の天気を表示中';
+  }
+
+  function parseWmoWeatherIcon(code) {
+    if (code === 0 || code === 1) return '☀️'; // 快晴・晴れ
+    if (code === 2) return '🌤️'; // 一部曇
+    if (code === 3) return '☁️'; // 曇り
+    if ([51, 53, 55, 61, 63, 65, 80, 81, 82].includes(code)) return '🌧️'; // 雨
+    if ([71, 73, 75, 85, 86].includes(code)) return '❄️'; // 雪
+    if ([95, 96, 99].includes(code)) return '⚡'; // 雷雨
+    return '🌤️';
+  }
+
+  // ==========================================
+  // 4. ダークモード管理
   // ==========================================
   function initTheme() {
     const savedTheme = localStorage.getItem('aichi_news_theme');
@@ -158,7 +360,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // ==========================================
-  // 3. 検索機能
+  // 5. 検索機能
   // ==========================================
   function initSearch() {
     if (!searchInput) return;
@@ -185,17 +387,15 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // ==========================================
-  // 4. ニュース一覧レンダリング & フィルター
+  // 6. ニュース一覧レンダリング & フィルター
   // ==========================================
   function applyFilters() {
     let filtered = articles;
 
-    // エリア絞り込み
     if (currentArea !== 'all') {
-      filtered = filtered.filter(item => item.area === currentArea || item.area === '全域');
+      filtered = filtered.filter(item => item.area === currentArea || item.area === '全域' || item.area === '愛知');
     }
 
-    // キーワード検索絞り込み
     if (searchQuery) {
       filtered = filtered.filter(item => {
         const title = (item.title || '').toLowerCase();
@@ -254,7 +454,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         <div class="card-footer">
           <span class="source-name">${escapeHtml(article.source || '提供元')}</span>
-          <span class="read-more">記事を読む →</span>
+          <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="read-more" style="text-decoration:none;">記事を読む →</a>
         </div>
       </article>
     `).join('');
@@ -290,7 +490,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // ==========================================
-  // 5. データ取得 (fetch & fallback)
+  // 7. データ取得 (fetch & fallback)
   // ==========================================
   async function loadNews() {
     newsList.innerHTML = '<div class="loading-state"><p>最新の愛知県ニュースを取得中...</p></div>';
@@ -306,7 +506,6 @@ document.addEventListener('DOMContentLoaded', () => {
       const lastUpdated = data.last_updated;
       const updateSession = data.update_session || '定期配信';
 
-      // ヘッダ情報の反映
       if (sessionText) sessionText.textContent = updateSession;
       if (lastUpdatedText && lastUpdated) {
         const updateDate = new Date(lastUpdated);
@@ -314,8 +513,10 @@ document.addEventListener('DOMContentLoaded', () => {
         lastUpdatedText.textContent = `本日 ${timeStr} 更新`;
       }
 
-      // 天気情報の反映
+      // 天気情報の保存と描画
       if (data.weather) {
+        defaultWeatherData = data.weather;
+        if (weatherLocTag) weatherLocTag.textContent = '愛知';
         if (weatherIcon) weatherIcon.textContent = data.weather.icon || '🌤️';
         if (weatherTemp) weatherTemp.textContent = `${data.weather.temp_max}° / ${data.weather.temp_min}°`;
         if (weatherRain) weatherRain.textContent = `☂ ${data.weather.rain_prob || '10%'}`;
@@ -363,17 +564,6 @@ document.addEventListener('DOMContentLoaded', () => {
         summary: "豊田市と地元自動車メーカー各社は、レベル4相当の自動運転EVコミュニティバスの走行実験区間を拡大。持続可能な移動手段の確立を目指す。",
         url: "#",
         image_url: "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=600&auto=format&fit=crop&q=80"
-      },
-      {
-        id: "fb-4",
-        title: "【秋の味覚】蒲郡みかんの出荷が本格化 甘みと酸味のバランス上々",
-        source: "三河農業タイムス",
-        published_at: new Date(Date.now() - 180 * 60 * 1000).toISOString(),
-        category: "暮らし・交通",
-        area: "三河",
-        summary: "蒲郡市特産の温州みかんの選果作業がスタート。今年は日照時間が多く糖度が高い仕上がりとなっており、県内スーパーや贈答用として順次発送される。",
-        url: "#",
-        image_url: "https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=600&auto=format&fit=crop&q=80"
       }
     ];
 
@@ -383,11 +573,18 @@ document.addEventListener('DOMContentLoaded', () => {
     if (weatherTemp) weatherTemp.textContent = "28° / 19°";
     if (weatherRain) weatherRain.textContent = "☂ 10%";
 
+    defaultWeatherData = {
+      icon: "🌤️",
+      temp_max: 28,
+      temp_min: 19,
+      rain_prob: "10%"
+    };
+
     applyFilters();
   }
 
   // ==========================================
-  // 6. イベントリスナー登録
+  // 8. イベントリスナー登録
   // ==========================================
   areaTabs.forEach(tab => {
     tab.addEventListener('click', (e) => {
@@ -410,14 +607,24 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  const forceReloadBtn = document.getElementById('forceReloadBtn');
+  if (forceReloadBtn) {
+    forceReloadBtn.addEventListener('click', () => {
+      loadNews();
+      alert('最新データを再取得しました。');
+    });
+  }
+
   // 初期化実行
+  initTabs();
   initLockSystem();
+  initWeatherFeatures();
   initTheme();
   initSearch();
   loadNews();
 
   // ==========================================
-  // 7. PWA Service Worker 登録
+  // 9. PWA Service Worker 登録
   // ==========================================
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
