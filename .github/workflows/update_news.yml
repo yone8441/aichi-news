@@ -1,0 +1,48 @@
+name: Update Aichi News & Weather
+
+on:
+  schedule:
+    # 1日3回の定期実行 (UTC表記 / 日本時間 JST は UTC+9)
+    # 1) 朝刊便: JST 07:00 = UTC 22:00 (前日)
+    - cron: '0 22 * * *'
+    # 2) 昼刊便: JST 12:00 = UTC 03:00
+    - cron: '0 3 * * *'
+    # 3) 夕刊便: JST 17:00 = UTC 08:00
+    - cron: '0 8 * * *'
+  # GitHubのWeb画面から手動で即時実行できるトリガー
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: リポジトリのチェックアウト
+        uses: actions/checkout@v4
+
+      - name: PHP環境のセットアップ
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          extensions: mbstring, simplexml, curl, json
+
+      - name: 愛知県ニュース＆天気の収集スクリプトを実行
+        run: php scripts/fetch_news.php
+
+      - name: 変更差分をコミット＆プッシュ
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          
+          # 変更がある場合のみコミット＆プッシュ
+          if git diff --staged --quiet; then
+            echo "ニュースデータに変更はありませんでした。"
+          else
+            git commit -m "Auto Update: 愛知ニュース＆気象情報を更新 [skip ci]"
+            git push origin HEAD
+            echo "最新の news.json をプッシュしました。"
+          fi

@@ -1,0 +1,25 @@
+{
+  "name": "あいちNews速報",
+  "short_name": "あいちNews",
+  "description": "一日3回、愛知県の最新ニュースと気象情報を自動収集・配信するスマホ向けWebアプリ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1120",
+  "theme_color": "#1e40af",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

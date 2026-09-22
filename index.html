@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>あいちNews速報 - 愛知県の最新地域ニュース</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#1e40af">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="icon" type="image/png" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- スマホ風コンテナ（PCではスマホ枠、スマホ実機では全画面） -->
+  <div class="app-container">
+
+    <!-- 簡易パスコードロック画面（プライベートアクセス制限） -->
+    <div id="lockScreen" class="lock-screen">
+      <div class="lock-icon-wrap">🔒</div>
+      <h2 class="lock-title">パスコードを入力</h2>
+      <p class="lock-desc" id="lockMessage">プライベートアクセス用PIN（4桁）<br><span style="font-size: 11px; opacity: 0.8;">※ 初期コード: <strong>0928</strong></span></p>
+
+      <div class="pin-dots" id="pinDots">
+        <span class="pin-dot"></span>
+        <span class="pin-dot"></span>
+        <span class="pin-dot"></span>
+        <span class="pin-dot"></span>
+      </div>
+
+      <div class="keypad">
+        <button class="key-btn" data-key="1">1</button>
+        <button class="key-btn" data-key="2">2</button>
+        <button class="key-btn" data-key="3">3</button>
+        <button class="key-btn" data-key="4">4</button>
+        <button class="key-btn" data-key="5">5</button>
+        <button class="key-btn" data-key="6">6</button>
+        <button class="key-btn" data-key="7">7</button>
+        <button class="key-btn" data-key="8">8</button>
+        <button class="key-btn" data-key="9">9</button>
+        <button class="key-btn action-key" data-key="clear">クリア</button>
+        <button class="key-btn" data-key="0">0</button>
+        <button class="key-btn action-key" data-key="back">⌫</button>
+      </div>
+    </div>
+
+    <!-- アプリヘッダー -->
+    <header class="app-header">
+      <div class="header-top">
+        <div class="app-title-wrap">
+          <span class="app-logo-badge">愛知</span>
+          <h1 class="app-title">あいちNews</h1>
+        </div>
+        <div class="header-actions">
+          <button id="themeToggleBtn" class="btn-icon" title="ダークモード切替" aria-label="テーマ切替">
+            🌙
+          </button>
+          <button id="refreshBtn" class="btn-icon" title="最新情報に更新" aria-label="更新">
+            ↻
+          </button>
+          <button id="lockBtn" class="btn-icon" title="画面をロック" aria-label="ロック">
+            🔒
+          </button>
+        </div>
+      </div>
+
+      <!-- 1日3回配信ステータス ＆ 天気ウィジェット -->
+      <div class="header-sub-info">
+        <div class="sync-status-bar">
+          <div class="sync-badge">
+            <span class="pulse-dot"></span>
+            <span id="sessionText">朝刊便（07:00配信）</span>
+          </div>
+          <div class="sync-schedule" id="lastUpdatedText">
+            本日 07:15 更新
+          </div>
+        </div>
+
+        <div class="weather-widget" id="weatherWidget" title="愛知県の気象情報">
+          <span class="weather-icon" id="weatherIcon">🌤️</span>
+          <span class="weather-temp" id="weatherTemp">28° / 19°</span>
+          <span style="font-size: 10px; opacity: 0.9;" id="weatherRain">☂ 10%</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- 検索バー -->
+    <div class="search-bar-wrap">
+      <div class="search-input-container">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="searchInput" class="search-input" placeholder="キーワード検索（例: 名古屋, ジブリ, トヨタ）" autocomplete="off">
+        <button id="searchClearBtn" class="search-clear" aria-label="検索クリア">✕</button>
+      </div>
+    </div>
+
+    <!-- 地域フィルター（横スクロール） -->
+    <nav class="area-nav" aria-label="地域フィルター">
+      <button class="area-tab active" data-area="all">すべて</button>
+      <button class="area-tab" data-area="名古屋">名古屋</button>
+      <button class="area-tab" data-area="尾張">尾張・知多</button>
+      <button class="area-tab" data-area="三河">西三河・東三河</button>
+    </nav>
+
+    <!-- メインコンテンツ（ニュースフィード） -->
+    <main class="feed-content">
+      <div class="section-headline">
+        <span class="headline-title">
+          <span>📰</span> ニュース一覧
+        </span>
+        <span class="headline-count" id="articleCount">読み込み中...</span>
+      </div>
+
+      <!-- ニュースカード一覧（JSで動的生成） -->
+      <div id="newsList" class="news-list">
+        <!-- JSによりカードが挿入されます -->
+      </div>
+    </main>
+
+    <!-- ボトムナビゲーション -->
+    <nav class="bottom-nav">
+      <button class="nav-item active">
+        <span class="nav-icon">🏠</span>
+        <span>ニュース</span>
+      </button>
+      <button class="nav-item">
+        <span class="nav-icon">🕒</span>
+        <span>1日3回</span>
+      </button>
+      <button class="nav-item" id="navSettingsBtn">
+        <span class="nav-icon">⚙️</span>
+        <span>設定</span>
+      </button>
+    </nav>
+
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
