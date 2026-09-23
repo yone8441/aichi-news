@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-23T17:27:22+09:00",
+    "last_updated": "2026-09-23T22:29:16+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -78,6 +78,17 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-ec564dfaaad98bd8136d91397149b407",
+            "title": "愛知県の雨雲レーダー(実況)",
+            "source": "tenki.jp",
+            "published_at": "2026-09-23T17:05:01+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "愛知県の雨雲レーダー(実況)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-820486556f07d7049dfcd3da2ead19bd",
             "title": "【豊橋市】夏の名残と秋の気配が入り混じる、「睦美の彼岸花群生地」で五感で楽しむ絶景",
             "source": "地域ニュースサイト号外NET",
@@ -98,6 +109,17 @@
             "summary": "【Bプレミア開幕特集】三遠ネオフェニックス、開幕から試練のアウェー14連戦 注目は佐々木主将と元NBAのデイビス  東愛知新聞社",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wcXg5SFFIM0ZoX1l0VXcwZWE0ZmpwZ3hFMm5sQllLR1pvV1ZzTlNQSEwzRWZVZEE2SThFMGFvYUJrRjlLUVN0RHh4YjNPejM4b2pHbVJ6TTY0M25X?oc=5",
             "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-c30c144a452a02f449108c7c6ccfecc3",
+            "title": "#41三河港って何がすごい？〇〇が33年連続日本一！？【豊橋ここだけラジオ】Spotifyでお...",
+            "source": "選挙ドットコム",
+            "published_at": "2026-09-23T19:40:55+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "#41三河港って何がすごい？〇〇が33年連続日本一！？【豊橋ここだけラジオ】Spotifyでお...  選挙ドットコム",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3VzdGc3Z6SklVVVBCelZHNjk0MXNSZEZkUzlDWTdSb3pSdEdmS3FZbF9vZzFWV09HX3lPT2NBMnRxTTF2c0g1MjUtallhNzVSQ3B2UFB0SkxUYkxEaVE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
@@ -122,17 +144,6 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ec564dfaaad98bd8136d91397149b407",
-            "title": "愛知県の雨雲レーダー(実況)",
-            "source": "tenki.jp",
-            "published_at": "2026-09-22T14:01:35+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(実況)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-0be4321c23617f2b56ef92cbe35026d2",
             "title": "豊橋駅の「カルミア」 ホテルアソシア豊橋 来月「ぴよりん」フェア ブラックサンダーとコラボ",
             "source": "中部経済新聞",
@@ -144,15 +155,15 @@
             "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-183a4afd5215868e00f86441458e1349",
-            "title": "救急隊車両２台寄贈",
-            "source": "tonichi.net",
-            "published_at": "2026-09-23T00:01:29+09:00",
-            "category": "一般ニュース",
+            "id": "news-c91e33e1005e0b60d9b7ef8243d6b33b",
+            "title": "私の「夢のケーキ」グランプリに中尾さんと田口さん 豊橋市で表彰式",
+            "source": "中日新聞Web",
+            "published_at": "2026-09-22T05:05:00+09:00",
+            "category": "市政・行政",
             "area": "豊橋",
-            "summary": "救急隊車両２台寄贈  tonichi.net",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52ZF9OSjFiVTcyZnhMSEhUYU5MSWtuVHlyUWo0VUQ4bDhHODg2aUJfdDhEUF80QWdKU3czUkFCNHBDeVlXU1JkM1REQzNtSWw3U09UNEZYc0NsdVdK?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "summary": "私の「夢のケーキ」グランプリに中尾さんと田口さん 豊橋市で表彰式  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NcnFDLXBlbjRNTHRtSDcxV0pia3hzdVJvNHZUSUc2WmpvSHlUSDZvU05GRnhNYTYydmN4aDc5VFFDWWxsbGNOZTBsLXVXYVpGOVlkeA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-1ba1106af520aa46a0e88705a97cdb3d",
@@ -177,36 +188,80 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-c91e33e1005e0b60d9b7ef8243d6b33b",
-            "title": "私の「夢のケーキ」グランプリに中尾さんと田口さん 豊橋市で表彰式",
-            "source": "中日新聞Web",
-            "published_at": "2026-09-22T05:05:00+09:00",
+            "id": "news-70c936ab0e15922e391d10965e07293e",
+            "title": "愛知県の雨雲レーダー(予報)",
+            "source": "tenki.jp",
+            "published_at": "2026-09-23T16:17:58+09:00",
             "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "私の「夢のケーキ」グランプリに中尾さんと田口さん 豊橋市で表彰式  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NcnFDLXBlbjRNTHRtSDcxV0pia3hzdVJvNHZUSUc2WmpvSHlUSDZvU05GRnhNYTYydmN4aDc5VFFDWWxsbGNOZTBsLXVXYVpGOVlkeA?oc=5",
+            "area": "愛知",
+            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-bcc966bb73dde269f34e5bd424c83acf",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年09月)",
-            "source": "tenki.jp",
-            "published_at": "2026-09-23T09:31:31+09:00",
+            "id": "news-daafb7829d052c62dfdd7ef8e63cbc41",
+            "title": "【愛知県】9/24の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-09-23T19:30:50+09:00",
             "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年09月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01T1luUlhZbnF1Y19oOFdwdGxLWmdXYWoxa1FfLUZETlEyQU1rM3p4WUY3SDhsTHNKTzYxRmFubDBaV1hCTGxaS3ZmeHNYY2pLSGxLcVR4cG1YQ2dEUmc?oc=5",
+            "area": "愛知",
+            "summary": "【愛知県】9/24の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZ0N1bkRmbW9QNmR2U3N5R2xVbXFSVWJvQWc1NWJKYjc2d05POGNaTW9XdzJfRWt0S1FnYkhZb3NodncweHlBZkhrX1ltMGZ5UlREeEktRjlyeVRhN3Y4c0w2SmJmX0VsWGpzUW4tMHUyZHVKc2dXYktOLXV3aFU?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-b6241710600963e022e79fd16e0feff9",
+            "title": "北アルプス雄山 愛知県の女性公務員（63）転倒し足首の骨折る 登山中にバランス崩す 富山",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-09-23T19:02:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "北アルプス雄山 愛知県の女性公務員（63）転倒し足首の骨折る 登山中にバランス崩す 富山  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Gdld3aFBpQXp6YUpBamRzcjBtc0dMT044endvNXJXcHVOVHpsazBNb0VmdGhWUFZrMnFINlVUMFJkMk00Vk1QTFBHTFcwLTFpNVhMdXZBeE5VZw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-053a3506fc1d346214b2cee5d5de4c72",
             "title": "石川のソウルフード「チャンピオンカレー」が愛知県に登場！「ご当地うまいもの市」に出展",
             "source": "PR TIMES",
-            "published_at": "2026-09-23T13:52:56+09:00",
+            "published_at": "2026-09-23T19:56:55+09:00",
             "category": "観光・イベント",
             "area": "愛知",
             "summary": "石川のソウルフード「チャンピオンカレー」が愛知県に登場！「ご当地うまいもの市」に出展  PR TIMES",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XOE50X21abVJ1bV9QdDIwOEtob1kxVm1QQUJXMURIdXc0NlY0b0ZieUdBM0U2WWtxcWgyTmo1aTRWZEZTeU1mQnBrNl9sX195NGlHM0pmSEFiZjJqSnB6cENLUDltcmx0emc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-aa529403b922dcc45d99740a6d9c4a98",
+            "title": "選手権愛知県大会の組み合わせが決まる",
+            "source": "高校サッカードットコム",
+            "published_at": "2026-09-23T11:26:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "選手権愛知県大会の組み合わせが決まる  高校サッカードットコム",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92WGR3c2t3QjdORW1RemZYN0dzWC01Y2FYWHZ3RjFvcko0ZHRHanZnOWQ2cTdVTE53dVAzTEo3NU41YUFRMy0zNzJ0eU9wRkpLTElDZjBIV0dDeTRYc1lXY1VZTlllSDFndGhmT05B?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-b655e46664d3dbf37ff6f64841dbca2c",
+            "title": "享栄、5年ぶりの秋季東海大会出場が決定、三好を振り切る 元中日・鎌田圭司さんを父に持つエース鎌田拳至が1安打完封【秋季高校野球愛知県大会】：中日スポーツ・東京中日スポーツ",
+            "source": "中日新聞Web",
+            "published_at": "2026-09-23T18:31:59+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "享栄、5年ぶりの秋季東海大会出場が決定、三好を振り切る 元中日・鎌田圭司さんを父に持つエース鎌田拳至が1安打完封【秋季高校野球愛知県大会】：中日スポーツ・東京中日スポーツ  中日新...",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DUXpaQ3JOdmJQRUkzWHF5dWlCQWZLamdBVE5udlJ3dWpCWUJxSWRLbERwUGdTRlRoRWgtcXozTlozdmJjckVxQk9RM1k1MkpYcGJXVg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-aa860c77633a041266c6ac4ba820080d",
+            "title": "建設現場を間近で体感 愛知県東海市で子ども向けイベント 未来の担い手が左官やポンプ車操作を体験 - news.tv",
+            "source": "aichi.co.jp",
+            "published_at": "2026-09-23T17:36:05+09:00",
+            "category": "観光・イベント",
+            "area": "尾張",
+            "summary": "建設現場を間近で体感 愛知県東海市で子ども向けイベント 未来の担い手が左官やポンプ車操作を体験  news.tv-aichi.co.jp",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05M3MwRktfdDdZMXVTZDlYdHI3V2FBTHBPRGV0Wi1fT1h6QXZ4YjFyUDI3eHVDZGRCUnRjLVR5eXdpYWZvSWlBenA5bENUSkN4YVIyTHR2OHdWcFE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -221,6 +276,17 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-e70e7a796ae706013239fc28a4e5f4b1",
+            "title": "熊本で「おつきみどろぼう」発生！？子ども大行列の正体は愛知発祥のイベント",
+            "source": "kab.co.jp",
+            "published_at": "2026-09-23T18:35:00+09:00",
+            "category": "観光・イベント",
+            "area": "愛知",
+            "summary": "熊本で「おつきみどろぼう」発生！？子ども大行列の正体は愛知発祥のイベント  kab.co.jp",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTaVRBOHk1RzQxem1ZS1BCQmxvZ0pReE1sMVdMUmJIQ3R0aXRxaW96aXFrLUlfSzNjNThfWUhNdWJVZ1VOWWgzVEI2ZG5ReDJ4Ymo0blJ3?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-f98ee1d4144288749038f864e9377018",
             "title": "愛知県の婚活支援サイト ５９９人分の個人情報を誤って掲載…８年前から 名前・職業など：地域ニュース",
             "source": "読売新聞",
@@ -232,114 +298,48 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-f84e6c1b80c5db41e82973ce30ab599b",
-            "title": "亡くなったあなたに支えられ 精神科医Tomyさんの「ぼちぼち」 [愛知県]",
-            "source": "asahi.com",
-            "published_at": "2026-09-23T13:00:00+09:00",
+            "id": "news-bcc966bb73dde269f34e5bd424c83acf",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年09月)",
+            "source": "tenki.jp",
+            "published_at": "2026-09-23T15:31:31+09:00",
             "category": "市政・行政",
-            "area": "愛知",
-            "summary": "亡くなったあなたに支えられ 精神科医Tomyさんの「ぼちぼち」 [愛知県]  asahi.com",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02cFJ0c2hHWUhRLUh4dHNOVmlXcUthcmM2akl6dU4zSVRkeWtmbWFZTF95MF9Da19OV0k4dmdWYUo3TUM2d3Jrc2tHRWF4Q0ZXRkQ5TktCRlJ2VFlHYTlrVzdUTGNYMUk?oc=5",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年09月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01T1luUlhZbnF1Y19oOFdwdGxLWmdXYWoxa1FfLUZETlEyQU1rM3p4WUY3SDhsTHNKTzYxRmFubDBaV1hCTGxaS3ZmeHNYY2pLSGxLcVR4cG1YQ2dEUmc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ad0340a0f3baf5e2d8cfcd3dac953438",
-            "title": "観客席脇で社会貢献啓発 愛知・常滑市のアジア大会フェンシング会場、江村美咲選手ら寄付（読売新聞オンライン）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-09-23T15:17:57+09:00",
+            "id": "news-f51630fb7de1305ca24afd27dda360cb",
+            "title": "ローイングの男子ダブルスカル・宮口大誠選手が話す「船の感覚」とは 愛知・名古屋アジア大会、決勝進出",
+            "source": "中日新聞Web",
+            "published_at": "2026-09-23T20:56:42+09:00",
             "category": "スポーツ",
-            "area": "尾張",
-            "summary": "観客席脇で社会貢献啓発 愛知・常滑市のアジア大会フェンシング会場、江村美咲選手ら寄付（読売新聞オンライン）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EQm95OVA4cjV4dHotaS14Slp5SEhKaGtMem00T0s4emgwNUhDQkhjV19TcTFmMWhHc3BoaTU1dzN1ajl3cHBRaVBBQkptQTNKVk1rODgyNHhBdllkaXR2RGVka1ZSZ2hOak1sOGllNXNIMHBRSXFCMDcweHo2LW8?oc=5",
+            "area": "名古屋",
+            "summary": "ローイングの男子ダブルスカル・宮口大誠選手が話す「船の感覚」とは 愛知・名古屋アジア大会、決勝進出  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EcExRdjV5SFc4XzEzcENNOXlsRFZERWlicVlvdHVpd29lUEpHVTY5TkFLM0NnaHFnWThFbXIyM0VNdzB3TzVJdFFpLTc4bEhYa0NoRA?oc=5",
             "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-b9b50e2893b520bfbb4f42ec2af3195f",
-            "title": "愛知県「あいこんナビ」、599名の個人情報を誤掲載 2018年の申請時に非公開ファイルを誤添付、2026年に発覚",
-            "source": "合同会社ロケットボーイズ",
-            "published_at": "2026-09-23T09:00:11+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県「あいこんナビ」、599名の個人情報を誤掲載 2018年の申請時に非公開ファイルを誤添付、2026年に発覚  合同会社ロケットボーイズ",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQTlzRmFISkV3b2l4YkNaYXZvNmtON0xWNFUtMXYtdlk1OUlJckVzcVBncUVfY2lDbi0xVjNramZtWUlVaEZnZzQ1SzAzM2F5TDRUUzdGczBPMWxtZ1BobG5VS2VQR2JYVldJVmp1SVM2VUpOZFJQTWVpVE8zTm1EeWctVTU2aXhZckxEQ1RQR2E4dw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-43c989abc464c5a3a262ec866ce1f04b",
-            "title": "愛知県訪問の天皇皇后両陛下が帰京ジブリパークなど視察",
-            "source": "朝日放送",
-            "published_at": "2026-09-23T12:20:14+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県訪問の天皇皇后両陛下が帰京ジブリパークなど視察  朝日放送",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10VGJfaUxwUkFLV1BWcjhFUld1cXFKckN6SVpSc3J0OEdMbTRhOHVrVkp1UExGNEk1S1Aycko4WXU1Ty1zOWQwcDhsRkxrWlYzSExYWHoxLTBiWkFmREp1a2NkTVFGZkk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-aa529403b922dcc45d99740a6d9c4a98",
-            "title": "選手権愛知県大会の組み合わせが決まる - koko",
-            "source": "soccer.com",
-            "published_at": "2026-09-23T11:26:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "選手権愛知県大会の組み合わせが決まる  koko-soccer.com",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92WGR3c2t3QjdORW1RemZYN0dzWC01Y2FYWHZ3RjFvcko0ZHRHanZnOWQ2cTdVTE53dVAzTEo3NU41YUFRMy0zNzJ0eU9wRkpLTElDZjBIV0dDeTRYc1lXY1VZTlllSDFndGhmT05B?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-e270d75b805b2a5f6fd4b2a77f19755d",
-            "title": "【愛知県】9/23の天気予報",
-            "source": "FNNプライムオンライン",
-            "published_at": "2026-09-23T05:10:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【愛知県】9/23の天気予報  FNNプライムオンライン",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9naVNTcndrNlo3Z1dnQk44YU5hanA1QkN6anpncHRCbmdaTFhMRF8tWmZwQy1JV0Z4ZUFXYlF4UmpQQjRucWxzWC14aHhZdw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-61169069bf97a844280ab07fdac31686",
-            "title": "伊良湖(愛知県)の過去の天気(実況天気・2026年09月)",
+            "id": "news-e68bd93a73c37828903efa0c6be58ac6",
+            "title": "東海地方の雨雲レーダー(実況)",
             "source": "tenki.jp",
-            "published_at": "2026-09-23T06:31:32+09:00",
-            "category": "市政・行政",
+            "published_at": "2026-09-23T18:53:19+09:00",
+            "category": "一般ニュース",
             "area": "愛知",
-            "summary": "伊良湖(愛知県)の過去の天気(実況天気・2026年09月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2UUpOS1NibVI3b2xsaXB0b3JicnRVeVlUYnNpMm1RMjRVMlBob3NxVmxwOGprcDFBS2YwWi1IaUY3SU84ZG44UlZlaUpzT2ppY1FWdmtfQkJLVzNvdFE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "東海地方の雨雲レーダー(実況)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5ScUxOdFIzOVZRN1U2dlM0cTdwZGJHSFRNTFdzbU1GUEtvU1pfVjg2YjYwdHJCQmptdmx0QXln?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-04706d74fee640ac6ec89c455160a0b2",
-            "title": "FM AICHIの交通安全キャンペーン「Do! Safety 2026」セカンド・ステージがスタート！",
-            "source": "PR TIMES",
-            "published_at": "2026-09-23T11:30:01+09:00",
-            "category": "暮らし・交通",
-            "area": "愛知",
-            "summary": "FM AICHIの交通安全キャンペーン「Do! Safety 2026」セカンド・ステージがスタート！  PR TIMES",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BX0VfZ2tVZ1ZwdmI0bTFtYkNmNGQxSzd1ZktKQ3VIdUhsSUg2aHFmY211Rk90Z3U3X3Q1Y1FadE00d1VHWlhGR3p0LXJPdGt6QjVCaVJfYS04Ukt6S1pIVmprUnZHUFp3TEE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f6ed32836c410fa7647a8b25fc67d6f5",
-            "title": "愛知県の過去のアメダス実況(2026年09月22日)(気温)",
-            "source": "tenki.jp",
-            "published_at": "2026-09-23T00:30:32+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の過去のアメダス実況(2026年09月22日)(気温)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XTWxBYVp1YlFJU3NmLV9DNWJWQ3FENmxKSTJmSEY0cW9LdHlFTzFZTEtvUXV2RzFsQWswMnFNRTFUWDEwTFJLdmpwUzNXVEhvYUE2ajdQQmk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-48b57c0eadbc6569dc4fea9279bbb7a6",
-            "title": "愛知県の過去の天気(雨雲レーダー・2026年09月)",
-            "source": "tenki.jp",
-            "published_at": "2026-09-23T09:31:30+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の過去の天気(雨雲レーダー・2026年09月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OaFhLdWx1QTNEa2RwUnhnd2NMc3JTNGRIZmZULTFJVXZDVnV0VDFhYXdySzZfWkxqWXNlVUpjcHhzUm9XREQtbkl2MGk4U3VCSC1Z?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "id": "news-18fb408947dd43ce4835624153fd4a4b",
+            "title": "享栄が5年ぶりに東海大会出場！左腕エース鎌田が1安打10Ｋ完封の快投！【愛知・26年秋高校野球】（高校野球ドットコム）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-09-23T11:37:02+09:00",
+            "category": "スポーツ",
+            "area": "名古屋",
+            "summary": "享栄が5年ぶりに東海大会出場！左腕エース鎌田が1安打10Ｋ完封の快投！【愛知・26年秋高校野球】（高校野球ドットコム）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53TURGTnNfNGl3b3FRejhLU1RuWHBtRUNvZTRqeHNwc0Rtbm9zQTZjRnE2dHJ4Wm5XQ1p0OUVVTGxBYVgwRkc0aFBuVF81V2RoWjktNzczR0Q2WlFHaVNVcXljSWZtYmlMMkZOOWZQWG1mMEJ6eEI1MFdNVDFLXzQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
