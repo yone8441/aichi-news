@@ -1,12 +1,12 @@
 {
-    "last_updated": "2026-09-27T22:42:36+09:00",
-    "update_session": "夕刊便（17:00配信）",
+    "last_updated": "2026-09-28T09:28:14+09:00",
+    "update_session": "朝刊便（07:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "雨　所により　雷　を伴う",
+        "condition": "雨　時々　くもり　所により　昼前　まで　雷を伴い　激しく　降る",
         "icon": "🌧️",
         "temp_max": 26,
-        "temp_min": 21,
+        "temp_min": 26,
         "rain_prob": "60%"
     },
     "total_count": 30,
@@ -78,26 +78,37 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-93b501b6414eebaa1e08e8dbfea77f4a",
-            "title": "豊橋クラフトビールフェス「アワアワアワー」9月開催|全国13ブルワリー集結（おとなの週末）",
+            "id": "news-5631443ea1ab55c49bdd1a914259eef8",
+            "title": "【豊橋市】9/28 最高27℃、朝から夕方は雨、やや暑さを感じる場面もある予想【朝版】",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-09-27T18:30:00+09:00",
-            "category": "観光・イベント",
+            "published_at": "2026-09-28T05:29:25+09:00",
+            "category": "市政・行政",
             "area": "豊橋",
-            "summary": "豊橋クラフトビールフェス「アワアワアワー」9月開催|全国13ブルワリー集結（おとなの週末）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHTTJtc3VWelNJMkd4MEw3U0piU0JraDlGZUN4eG5LTFV5MjBsQm9makNWNE5GWUtnQ1RNRFd0c2JhY0RKbkdyM1JsWm9xaG5fLUNIRWpmSDBCMzNMamhqU29TVUc0RndBZW9JUUtfOEgyM3hkZm52WWpDT3F3Rzg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+            "summary": "【豊橋市】9/28 最高27℃、朝から夕方は雨、やや暑さを感じる場面もある予想【朝版】  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRDVCS0liMWM3MlphVkJCdll5TjdLTF9CZmo5UEQ0QzAzSHYxN2NyUGROaTZFNklDU2djTDV1WjhWNGRQdU5hTW1kVzhhRmduWHZONnUxa1BST0VqVnRGNFQyNzZoYlE4SVctcUZfbjdXUnFJam0zRGhLY1M2S3RuczRtekR4d25XdUVJZ0Rn?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-584897feba4af57bcab50b28eedadf56",
-            "title": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
-            "source": "tenki.jp",
-            "published_at": "2026-09-27T10:07:28+09:00",
-            "category": "観光・イベント",
+            "id": "news-79f7b002f71fec19ecf3bc74ee907de2",
+            "title": "消防団員の豊橋市職員、役所から出動OKに 駐車場にポンプ車配置：ニュース",
+            "source": "中日BIZナビ",
+            "published_at": "2026-09-28T04:50:31+09:00",
+            "category": "市政・行政",
             "area": "豊橋",
-            "summary": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2d0N5QnhERmtibVBadUUyS21rMEh3Z2VDNnlVQTZPN19LQjZvV2g5Ykw2ZWVkX3ppbXRLdk1CWUFza0oyZlU4NHhJTmNsaEhsOWxJ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+            "summary": "消防団員の豊橋市職員、役所から出動OKに 駐車場にポンプ車配置：ニュース  中日BIZナビ",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5WjhpRTVRMy04X3E1MDdvaE1naTJxa0lUeTZ6anZ4cXNUSTR1TzBtQk9oY0dqQldVeTVhVE00MGVIVUlpSU1nWUFhU29JTi1WcDZna0Zmc1NwVkN5RmVKenlINA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-27f4881e69ce1015e4d2a014bdd7472f",
+            "title": "共創成功へ支援推進 武蔵精密工業",
+            "source": "東愛知新聞社",
+            "published_at": "2026-09-28T04:13:12+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "共創成功へ支援推進 武蔵精密工業  東愛知新聞社",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52MVRqcDFtUkJqYkNaSHBuMkRTSGZzaWoyRXZXSFlTNGk2d21lcHpRVnVwMWl6OVJ0a1VaSGtrVGxaaWQ3SmxwTTZVZ2R5RWpXSWtaTzJNUGpQMlRu?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-1ba5d3072a133bee8a781300dfabe79a",
@@ -111,13 +122,35 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-584897feba4af57bcab50b28eedadf56",
+            "title": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
+            "source": "tenki.jp",
+            "published_at": "2026-09-27T10:07:28+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2d0N5QnhERmtibVBadUUyS21rMEh3Z2VDNnlVQTZPN19LQjZvV2g5Ykw2ZWVkX3ppbXRLdk1CWUFza0oyZlU4NHhJTmNsaEhsOWxJ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-3a020dd74e3843544523b8ed481d46db",
+            "title": "「豊橋カフェＤＯＮコンテスト」",
+            "source": "tonichi.net",
+            "published_at": "2026-09-28T00:04:13+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "「豊橋カフェＤＯＮコンテスト」  tonichi.net",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BVEdwc1hvNlBPeHNndkJMbGFkTHpNMDJTSDB0RHhMLW0tVWRiTG9hMnhPYUx3dW1iQk5zZTI5N1FtdkFyNFpCbjkwNzBmU0RoaU9Vd3hWVl9oNjZR?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-16e28281355e82f26baa3c0acb2ace17",
             "title": "豊橋市【前田南神明社朝市からの吉田方校区体育大会】本日は、前田南神明社からの奥様が出場する吉田...",
-            "source": "選挙ドットコム",
+            "source": "go2senkyo.com",
             "published_at": "2026-09-27T17:04:05+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "豊橋市【前田南神明社朝市からの吉田方校区体育大会】本日は、前田南神明社からの奥様が出場する吉田...  選挙ドットコム",
+            "summary": "豊橋市【前田南神明社朝市からの吉田方校区体育大会】本日は、前田南神明社からの奥様が出場する吉田...  go2senkyo.com",
             "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DMFZBUGVxTDE0ZWxJZV9YQ3Z2bkRqTUdFU2ZwcW5mdHBOdjh1MmZDVnJTOXFEckRiZzJhTXpyN05yUlFKUVdOdS1XVWs2XzNLNWZRTEFvRjFQcVVTQWdV?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
@@ -144,47 +177,146 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-e82f1efdf474bb788d729a8a2bd0c0d0",
-            "title": "新着情報“ＸＶ2．0e－S アイサイト”2022年式クリスタルホワイトパール入荷しました！",
-            "source": "中古車のガリバー",
-            "published_at": "2026-09-27T10:24:52+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "新着情報“ＸＶ2．0e－S アイサイト”2022年式クリスタルホワイトパール入荷しました！  中古車のガリバー",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1WjRLcENWZjFHRXR5Um5KWFVfNFUxaWJTUUVFQzdBSnJKNkV6WGFkMWlUOWNCeVRLUk55UHZZS1FKVkU4eG5qakVhM1pkcGtHd2IwZGRISlVuSDNaTWdFb1BVREJDSDBUYS1ONUJTVF9SdDJoRnRNb0tQWTh1c0U?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8afdf143c8984d51cb9c8d40f63b67cc",
-            "title": "愛知県の雨雲レーダー(過去)",
-            "source": "tenki.jp",
-            "published_at": "2026-09-27T17:58:33+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(過去)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pbjJxV2FNdFE5akcyUUJqQlhDVEdJVDdNMnBfNGFod2p2MXhJeEJFdUsyU1YybnJzS0Q1ZlRTdjZfWEFFNFNOWnRwMG5DUQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-693c77960aa3de140b0fd13ec901db5f",
-            "title": "豊橋市地域イノベーション推進室が豊橋サイエンスコアに移転 立地など生かし技科大や事業者の連携支援強化",
+            "id": "news-637f9d5aed297f799099ca8a9caebd2d",
+            "title": "市役所から現場へ出動！ 豊橋の消防団員職員支援",
             "source": "東愛知新聞社",
-            "published_at": "2026-09-26T00:00:00+09:00",
+            "published_at": "2026-09-28T00:00:00+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "豊橋市地域イノベーション推進室が豊橋サイエンスコアに移転 立地など生かし技科大や事業者の連携支援強化  東愛知新聞社",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmbWd2MUVWUWdsdnlmR01yb3NMdGhabHpwRUZZai1LSVljVy1kUmlIeFZadVRXRGVUZWpJdnEwcVRReXQxb01JdWQ5Yk1YWVd4ZENZWDdIczZBUzdH?oc=5",
+            "summary": "市役所から現場へ出動！ 豊橋の消防団員職員支援  東愛知新聞社",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YZGN6bEgtQ3lneW54TUlqSjhMYjVwaVhJQkNtRmFaS1dpZ1p4VlFiUll1dVZOQ0JKZGJxbkZQZi04alRHeFhydXZVb2h0bDlYam90NFFqeEJrSVps?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-bcc966bb73dde269f34e5bd424c83acf",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年09月)",
             "source": "tenki.jp",
-            "published_at": "2026-09-27T18:31:35+09:00",
+            "published_at": "2026-09-28T03:31:32+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年09月)  tenki.jp",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01T1luUlhZbnF1Y19oOFdwdGxLWmdXYWoxa1FfLUZETlEyQU1rM3p4WUY3SDhsTHNKTzYxRmFubDBaV1hCTGxaS3ZmeHNYY2pLSGxLcVR4cG1YQ2dEUmc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-07b8b235ad76734447b2bb37b887d01f",
+            "title": "【愛知県】9/28の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-09-28T05:17:11+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【愛知県】9/28の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pdWZwbnYyN2wxTmtteEE4SVRTM29yMDVUZU9wdUcwT2VhS2duUWNqcjZ1dzR3OEdUaWJYYWVtRXppUkhmWWVWbWd2eENvV2VpOW8zVzc4WjVRNV9vejBzb1dUenZseV81Tm1YX2JLaDJvY18xMHlVeF9TZkg2b3c?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ca92b83154e481b1a5fbb126a00a37d4",
+            "title": "去年の愛知県の観光消費額１兆３７８４億円 過去最高更新",
+            "source": "NHKニュース",
+            "published_at": "2026-09-28T05:39:00+09:00",
+            "category": "観光・イベント",
+            "area": "愛知",
+            "summary": "去年の愛知県の観光消費額１兆３７８４億円 過去最高更新  NHKニュース",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tZ1FSaF9nUVdxLTZYM2lRYVlMS1FmbGZrSmtCZWhWUjFxLWRZVlI3TjBZWEdDN1VSZDFiMll6OU1oZER0UV9HaVNOc0YyWVpON25Ub1BfQnE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-a3daf698abed4a121fdeb78db66174db",
+            "title": "速報！2026年度 AIFA 愛知県U-14クラブカップサッカー選手権 1次リーグ 9/26,27結果更新！入力ありがとうございます！次回10/3,4",
+            "source": "Green Card ニュース",
+            "published_at": "2026-09-27T21:25:20+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "速報！2026年度 AIFA 愛知県U-14クラブカップサッカー選手権 1次リーグ 9/26,27結果更新！入力ありがとうございます！次回10/3,4  Green Card ニュ...",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FdzRtUFRLRGFINlBNY2s3ZVN1Q1JVNE85YS03V0hXSmJaYzAyRHdaa2VMcHNqRGhDaEs3a0Q2akpBTjJYZEwtVk5vMFlpREZGNWN3Wno4SkpCZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-4f47526305c2bbd5bd5ac7ab474ccc63",
+            "title": "キッザニア監修「Out of KidZania in かりや」、愛知県刈谷市で10月18日開催…パズルカー製作など26種の仕事体験",
+            "source": "CAR CARE PLUS",
+            "published_at": "2026-09-28T08:00:03+09:00",
+            "category": "観光・イベント",
+            "area": "三河",
+            "summary": "キッザニア監修「Out of KidZania in かりや」、愛知県刈谷市で10月18日開催…パズルカー製作など26種の仕事体験  CAR CARE PLUS",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Lb1RRWjAwOFFBbDlwMjNHbnV3aGFySWxuOGJiTnEwY20wLTlNUmVHRm41YW4tLXk2bE92bGlIMHUwQjVidnZqY3hOZVB5YmZpbDA0UXZ0UkJxb1RKWUFSMG93?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-1c5975904b96987e57efa1a651b2e443",
+            "title": "【アジア競技大会2026】バレーボール男子｜結果速報・日本代表・メダル・成績一覧",
+            "source": "olympics.com",
+            "published_at": "2026-09-27T22:45:00+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "【アジア競技大会2026】バレーボール男子｜結果速報・日本代表・メダル・成績一覧  olympics.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aRFZkcEJHaGRYakJjN25LcDdtejVFbnpIZ3duVG1jZzBPeHcxLXU2OTYtQ1BwSURDTTFOa1pOSUdGMUlZSU1WWTRzYlhBN19ZRmNFbWEzemRGSHR2OFlyR0Riczl5dUxTcTZjclJEbWgzT0R6YW9vTk9hOHQ3Zw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-0bad84b3949a6506951ff2a6f65099bd",
+            "title": "津西－三重 観戦記（2026年秋季三重県大会） : 愛知野球通信＋",
+            "source": "targma.jp",
+            "published_at": "2026-09-28T07:00:47+09:00",
+            "category": "スポーツ",
+            "area": "愛知",
+            "summary": "津西－三重 観戦記（2026年秋季三重県大会） : 愛知野球通信＋  targma.jp",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jLUVDd1h6U3oxN0o4NDRDLVEzUGZ4RXoxR1pHcUJfbGN3Mm9OU3VOZDFTc2twU0xMaTVVYmhER3kxQlVlbllPWS1USWYxZHVQXzFCMHphMThJYV9nczhSOUpRT2VuUQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-62bf520823c1d3fee9c67d83b508c72a",
+            "title": "愛知県の過去の天気(アメダス・風向・風速・2026年09月)",
+            "source": "tenki.jp",
+            "published_at": "2026-09-28T00:31:34+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の過去の天気(アメダス・風向・風速・2026年09月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tcFVTekxxOER0ajhWenRIdVpJWUhYU1lvcFFtOUlMS0pwYUhDMTAzQXdYcjdUV2ZhU083ejYwaGl2bUNxSlh3YlJOcmhjTGxoMG9vYTdaZHlmTlk?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f89f6df6d2c6683be31e0c9137f2ebee",
+            "title": "アジア大会 黒木健闘、クラッシュ「銅」…愛知・岩倉市出身 地元で試合声援「力に」 ：地域ニュース",
+            "source": "読売新聞",
+            "published_at": "2026-09-28T09:15:00+09:00",
+            "category": "スポーツ",
+            "area": "愛知",
+            "summary": "アジア大会 黒木健闘、クラッシュ「銅」…愛知・岩倉市出身 地元で試合声援「力に」 ：地域ニュース  読売新聞",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42ZDRaTmw5QmFNb3FmTTF5RDdOQmdLTU56d0ttd2hJWXJBM0FwVzZIQ0p6THRZUEYwSGphV3pMME0tUXpqOWw5cF90T1JXenAyUE5zMVpodlNyNnpMVk96QjMxdXY1Z2NUZHkyMnkwZzc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-13f5abda8f212e73617a98b35c6ec1ed",
+            "title": "技能五輪 日本は金2個含むメダル10個獲得 2年後は愛知県で開催",
+            "source": "NHKニュース",
+            "published_at": "2026-09-28T06:26:08+09:00",
+            "category": "観光・イベント",
+            "area": "愛知",
+            "summary": "技能五輪 日本は金2個含むメダル10個獲得 2年後は愛知県で開催  NHKニュース",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vS0ZiTjNZWmYtaTVlWTVJeXFndG9VdWhqZ29waHF2X3ZTaENuMVJFbXJuMC1DUmdhendyS3JlWFltcU9lTmpVRnVOSFdKemlDeUhRTkgyQkk4SWxNVXdR?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-166006768259a2fe2eda92ff33fb5a40",
+            "title": "愛工大名電が享栄破り優勝、東邦も東海大会へ 秋の高校野球愛知大会（朝日新聞）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-09-27T20:00:00+09:00",
+            "category": "スポーツ",
+            "area": "名古屋",
+            "summary": "愛工大名電が享栄破り優勝、東邦も東海大会へ 秋の高校野球愛知大会（朝日新聞）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfQlU4cFNYRXpUeGtVamFaQVVuSFVKUFRtalZzNWk3VHJUakhudzl6YzRfaHZKMzlEZzJOc2lEQXJXa3ZyaERzYXhwMXJfMVpJWUtrdjNMT0t6UEt4Sy1QX21PenBkSHFmMkJySnlTbllqZVpGWUxIdm9TN2Z4dkE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-378af0e1017c7d60c0e777286b4d1a0f",
+            "title": "愛知県の過去のアメダス実況(2026年09月27日)(積雪深)",
+            "source": "tenki.jp",
+            "published_at": "2026-09-28T03:30:13+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の過去のアメダス実況(2026年09月27日)(積雪深)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YNnJnZldSSDBzVTMxS2dycHZ2ZDgxOHN5WGd3cWxndEhjVVc1RTgtSERzd09FbGM5UEdHdzVBczJxOFlhemNadjdhWVVSZW9sbEpiRklwWVVGZ2tCZmhVUXBQdE4?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -199,116 +331,6 @@
             "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-1c5975904b96987e57efa1a651b2e443",
-            "title": "【アジア競技大会2026】バレーボール男子｜結果速報・日本代表・メダル・成績一覧",
-            "source": "olympics.com",
-            "published_at": "2026-09-27T21:35:57+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "【アジア競技大会2026】バレーボール男子｜結果速報・日本代表・メダル・成績一覧  olympics.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aRFZkcEJHaGRYakJjN25LcDdtejVFbnpIZ3duVG1jZzBPeHcxLXU2OTYtQ1BwSURDTTFOa1pOSUdGMUlZSU1WWTRzYlhBN19ZRmNFbWEzemRGSHR2OFlyR0Riczl5dUxTcTZjclJEbWgzT0R6YW9vTk9hOHQ3Zw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-c404c6b9371d743602872f2cdb6b9526",
-            "title": "【愛知県】9/28の天気予報（FNNプライムオンライン（フジテレビ系））",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-09-27T19:30:51+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【愛知県】9/28の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uT0FXbWVfSkNCTjU4WUdXQXNWRERpWFBkbHUzN1BjNmhfN2NKbTRHTVF1N21VUjJLcGtNU2ZYQzdIQW5TWkc5S2lhOHpRVHRrcUkwYWp1RDFfQXhUSEJzcXBUSnAwS04xWk01ai1uQUViRmFQTm4xOF9RZEZ3S0k?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-699a663766a7334477faafb2f441de7d",
-            "title": "【スケボー】佐々木音憧が銀、小野寺吟雲が銅 男子ストリートで日本勢2人が表彰台",
-            "source": "日刊スポーツ",
-            "published_at": "2026-09-27T21:09:00+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "【スケボー】佐々木音憧が銀、小野寺吟雲が銅 男子ストリートで日本勢2人が表彰台  日刊スポーツ",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR205YmJscDB5bDdBcG9yWjZuckxOSWQyRjNjTnNQVFNfRHlBRzBBbHdTLWZFaVR4U2FCYXRjU0Rxd1hIdDUzck1QZVVXZnI1aHo4Uko3OVRzajkzYkdjejFNU3NRR1BKVFYyQ1ROTkFBM3lYbWNUMGFqNDNzUUt3YS1LUEo5RjNjWWhoWA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-480c59fccd79f6f4a94bbda9f5ff08e2",
-            "title": "〜 公明党愛知県本部女性局街頭演説会 〜 : ブログ : 尾張旭市議会議員 丸山さち子 公式ホームページ",
-            "source": "komei.or.jp",
-            "published_at": "2026-09-27T15:30:53+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "〜 公明党愛知県本部女性局街頭演説会 〜 : ブログ : 尾張旭市議会議員 丸山さち子 公式ホームページ  komei.or.jp",
-            "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPRy11M1J1ci02d1VkaGlyT2Y3S1N1ZHVXMjV3NF9VVnRLaElmZDJ1RVdqVExWQVRYTkF3cXpwOTVxS2xnSFdUZkhCZDFPaG1ENWRNU0ppMFE3bWZpNC1lQ3VvN3RzNDVSeFVXS1hBU3ptakVOT0ZCRzZCYmhrUnlzLUU5YVV6aVhPMm5NaU1JcER3eXhNM0tLbERWRE1Nbkp1YkllSVZDVHVjTk9vWXFRNEFIX1JIMWNFWU1EZ2RiQy1sX3hHT3ZjODhvSXJmU3dSSW9qQTFvS21IX05qWEk0MU1hb1dkcUxCdGhqMFVCbjVfZjBsa3A5OG9JOXhQazdHZ0dXR185VlBFUzhqVW15WkZnSm5ta0twSW1LZDRUQVF0cGhKRExJblB6QnA4UnN5M19ZYlA1bjdZaFExbm1RYzhXbVhfaGUwbkIzTnczWWdHSk0?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d03ffa2307b5d95bfbf97a08a79223a8",
-            "title": "［アジア大会・陸上］男子マラソン競歩・諏方元郁（長岡市出身）が銅メダル 林業経験、異色の経歴",
-            "source": "新潟日報",
-            "published_at": "2026-09-27T20:35:00+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "［アジア大会・陸上］男子マラソン競歩・諏方元郁（長岡市出身）が銅メダル 林業経験、異色の経歴  新潟日報",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aNkN6dms5dzlZeWxJVEVZcjVzMDBqZXRBcW0tOUtIdjhUcHNRLUdXYmloNGY2RXduMDdsWTd3THphV3ZZZTZVLWhlaEVfUTk0c29ma21IY014VTZPMkE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-bc2d5050c339aebe6c396c4a7d03e0ce",
-            "title": "【愛知・名古屋アジア大会】ＢＭＸ、岐阜県勢の小沢きょうだいが銀メダル",
-            "source": "岐阜新聞デジタル",
-            "published_at": "2026-09-27T15:45:00+09:00",
-            "category": "一般ニュース",
-            "area": "名古屋",
-            "summary": "【愛知・名古屋アジア大会】ＢＭＸ、岐阜県勢の小沢きょうだいが銀メダル  岐阜新聞デジタル",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OMVBFNWJNemFhd0dRcUktb2s4U3ZHU3l2aFc2RFRqRktpVVB4OUJwTlo5bGVwWExPSF9lNlVnSE9vTXVOazJJeHhLNTNMWERNaUdWUXZ3?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-2ae35f8dcbd55aa5bdcc48f70040d473",
-            "title": "日本破り5大会連続の金",
-            "source": "聯合ニュース",
-            "published_at": "2026-09-27T22:02:44+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "日本破り5大会連続の金  聯合ニュース",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWQmVpVXNSQ2o2YUtMWFJlbWcxdUp4M1YySnBNRTJsc2FPb0ZmajctYmxTZi1hd0kxTDIyQXFNalVDdVB4WDRab0x3blFKNzhsVjVBc0d3RmMxcGdCYmE2OHEwYk5fVmNwc0pwWkNlSFNmRmNaRlE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ec8713a36ce078cf795cc33db4e14a64",
-            "title": "東海地方の雨雲レーダー(予報)",
-            "source": "tenki.jp",
-            "published_at": "2026-09-27T19:06:03+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "東海地方の雨雲レーダー(予報)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vMWZFcWVOajRwV3lncks2c3JrTkl4N1J5VllxRlo4NWhWVkdrajNnUjhUNzBxSzVKeGlKMDJSa05XX1dGTGIwQlp5Xy1ESFU?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-166006768259a2fe2eda92ff33fb5a40",
-            "title": "愛工大名電が享栄破り優勝、東邦も東海大会へ 秋の高校野球愛知大会（朝日新聞）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-09-27T20:00:00+09:00",
-            "category": "スポーツ",
-            "area": "名古屋",
-            "summary": "愛工大名電が享栄破り優勝、東邦も東海大会へ 秋の高校野球愛知大会（朝日新聞）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfQlU4cFNYRXpUeGtVamFaQVVuSFVKUFRtalZzNWk3VHJUakhudzl6YzRfaHZKMzlEZzJOc2lEQXJXa3ZyaERzYXhwMXJfMVpJWUtrdjNMT0t6UEt4Sy1QX21PenBkSHFmMkJySnlTbllqZVpGWUxIdm9TN2Z4dkE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-5c54e0fa9c48c004dd3ad424ba8758bf",
-            "title": "【スケボー】織田夢海、女子ストリートで銀メダル 世界ランク１位の14歳松本雪聖は５位",
-            "source": "日刊スポーツ",
-            "published_at": "2026-09-27T17:00:07+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "【スケボー】織田夢海、女子ストリートで銀メダル 世界ランク１位の14歳松本雪聖は５位  日刊スポーツ",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2lPQV8zN2tmdC1Yd0hDcHNGMExrTlRMaHI2a1F5eXNTN1dOYXNvaWhxMEFLZi16a1RzRzBKWEdZaTRtNkJQZV9TQmVGanNTV3c3WXlCWGg4aXBlVTR4MmRsR3ExdXFjWXNWRDlOS1Jfa3RZeUp2RkxXVndQVWFidXJRTVhFdEJPYU00Vw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-61169069bf97a844280ab07fdac31686",
             "title": "伊良湖(愛知県)の過去の天気(実況天気・2026年09月)",
             "source": "tenki.jp",
@@ -318,28 +340,6 @@
             "summary": "伊良湖(愛知県)の過去の天気(実況天気・2026年09月)  tenki.jp",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2UUpOS1NibVI3b2xsaXB0b3JicnRVeVlUYnNpMm1RMjRVMlBob3NxVmxwOGprcDFBS2YwWi1IaUY3SU84ZG44UlZlaUpzT2ppY1FWdmtfQkJLVzNvdFE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a12def78227c95a82b964f8d3bacd710",
-            "title": "素早さや正確さなど…消防団が消火技術を競う操法大会 ポンプ車からホース伸ばし手際よく放水 愛知県犬山市（東海テレビ）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-09-27T18:15:25+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "素早さや正確さなど…消防団が消火技術を競う操法大会 ポンプ車からホース伸ばし手際よく放水 愛知県犬山市（東海テレビ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnYmo1amtDUmJPUGc4Zlg4UkU2NzJHX1E0MnRybXd0ejJGM0JPRWItelJqd2YzQWxxRV90anE0WDZ0RXhuWnI4Y2FnSEJjOWQtNmlHNDZNTlhXekNVMkhpY296WXNITERjdmpxX2ZVNmJwSHhDSFRPSmRGZmRWRGc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ab448719f968101da14a251af2b4431f",
-            "title": "【BMX】開会式旗手の中村輪夢が金メダル 小沢楓は妹・美晴とそろって銀、日本勢ワンツー",
-            "source": "日刊スポーツ",
-            "published_at": "2026-09-27T17:24:00+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "【BMX】開会式旗手の中村輪夢が金メダル 小沢楓は妹・美晴とそろって銀、日本勢ワンツー  日刊スポーツ",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVXQxTVFPamFYLV8zY0hxTkxKb1VneEotWVQxQXc1WGpqNGpvcE9VQVhRX2hZWkZyVklQbEdYajVDYkk4bzFNOEJGaUk1QlBPSDh0S05ob25aNUxJZHU2NG5DQkNoSElBeEtIZ2tPUnUyTm05TDFRc3lHOTQ1ZWl2ekZ5OWNweWc2Uk9QVg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
