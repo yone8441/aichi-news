@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-02T18:35:13+09:00",
+    "last_updated": "2026-10-02T23:35:30+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -78,6 +78,39 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-08ffab0073f1c9446785ee672b815d2c",
+            "title": "あの道路、大雨で冠水していないかな…？ 愛知県豊橋市、18地点のリアルタイム情報を公開開始",
+            "source": "chunichi.co.jp",
+            "published_at": "2026-10-02T21:37:13+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "あの道路、大雨で冠水していないかな…？ 愛知県豊橋市、18地点のリアルタイム情報を公開開始  chunichi.co.jp",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nNkE3bk8xZlIyZW9EOE91d0h5R3hmcWxXc3hfbTQ5eXNVMFB6VFAxNGxPNHd5THpSVUd5Rzc0Y2ktbWRRd3FvQ1NzRDFwbWFnU241Uw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ec564dfaaad98bd8136d91397149b407",
+            "title": "愛知県の雨雲レーダー(実況)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-02T17:47:35+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "愛知県の雨雲レーダー(実況)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-1dfefd6ad55f25753bcfeef85cec72bc",
+            "title": "豊橋の花柳芯喜依さんが花柳流の家元追善舞踊会に出演 名古屋の御園座で11月3日に開催",
+            "source": "東愛知新聞社",
+            "published_at": "2026-10-02T21:23:34+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "豊橋の花柳芯喜依さんが花柳流の家元追善舞踊会に出演 名古屋の御園座で11月3日に開催  東愛知新聞社",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYQ2lkSkhjRldWOHhEbzlLZTVzY2x4Slo0N2pNS1VwQzhwLUlvOEFKVS13OXd2MWpVMDVtUjVuOHB4MUtUbnJyei1FRVI4Qm1yT08zWWxPM2VqdnFC?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-d17d6d04a9b2a46d2f979845daf8cb4b",
             "title": "【愛知県豊橋市】市電と並走できる！「鈴木亜由子杯 穂の国・豊橋ハーフマラソン2027」一般エントリーが10月6日スタート",
             "source": "PR TIMES",
@@ -87,17 +120,6 @@
             "summary": "【愛知県豊橋市】市電と並走できる！「鈴木亜由子杯 穂の国・豊橋ハーフマラソン2027」一般エントリーが10月6日スタート  PR TIMES",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZGk3dnJ0OVUxY0g1T2YxVmNqLW1KMEFzUFhTeU04N1pJbXNOREtJRFk0UkxSLW9XUUx3Y0h3QzBXZFFialp3OWtFZ3BDU1FqZGlOWWdobGFnSDdNN0hfNzlVbDdxTXBNckE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-7b60644a5ef6d7b5ca30fc3d8ebd5933",
-            "title": "第20回アジア大会大詰め テコンドー、セーリングの2競技が東三河でメダル争う",
-            "source": "東愛知新聞社",
-            "published_at": "2026-10-02T13:55:26+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "第20回アジア大会大詰め テコンドー、セーリングの2競技が東三河でメダル争う  東愛知新聞社",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55M0ZqTGdKbVIyM2FFTnBqQkp2N3NvUmd0WUctQnJpQ2NGb1NNYUpLRjY4QnNWZDY1TWtwTGhlVldhY1VOcFpvZnFPN0sxLWt4cmFNTWJXQ1M2SzFj?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-ebc36f3d9805c5e3aea412b9eafaf662",
@@ -122,28 +144,6 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-f3ba6aa7a6b98575d8d56509d9395f05",
-            "title": "アジア大会 バーチャルテコンドー 中島美鳳、鈴木颯が出場 [写真特集1/15]",
-            "source": "毎日新聞",
-            "published_at": "2026-10-02T13:24:28+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "アジア大会 バーチャルテコンドー 中島美鳳、鈴木颯が出場 [写真特集1/15]  毎日新聞",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOWluc0R1bTEyeWVrT3hmaTdBT183Z3EtUUZtNE81aGV4d1BJai1KRW9NRTh1R0c0LWR5ZldHNWZ4bjJSQXVVZlFaR3JiSUVLQkZiMzJ1V2cxY1ZFZFp2RFVOS3F1WlptQ0RhUnhhWVBqU0g5VldFdWlJdXlrUmJLUEI5YVFXRk0?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-bed04c7de20eceee66e020556951bafb",
-            "title": "消防団員の豊橋市職員、役所から出動OKに 駐車場にポンプ車配置：ニュース",
-            "source": "中日BIZナビ",
-            "published_at": "2026-10-02T04:12:48+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "消防団員の豊橋市職員、役所から出動OKに 駐車場にポンプ車配置：ニュース  中日BIZナビ",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtWUN2Nk56dzVTV0k4ZThRLW5Ba1FqM2RCNEUxY0t6a3FVellOS3BTRG9ncVJabWFxZGJYdVpaVDlMc0JRNktsVFhreC0xTm9pRVNWYXRpQXNYRmoyenhV?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-a7d96542f0d238c2fd2291dcec71a3c9",
             "title": "暗視スコープで夜の動物に接近 立入禁止エリア潜入ツアーが豊橋のんほいパークで開催",
             "source": "いこーよニュース",
@@ -155,15 +155,15 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-584897feba4af57bcab50b28eedadf56",
-            "title": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
-            "source": "tenki.jp",
-            "published_at": "2026-10-01T02:30:34+09:00",
-            "category": "観光・イベント",
+            "id": "news-4a2d808955bcaf7b988c871fe6a8d842",
+            "title": "「仮想空間テコンドー」を初実施",
+            "source": "埼玉新聞",
+            "published_at": "2026-10-02T15:14:00+09:00",
+            "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2d0N5QnhERmtibVBadUUyS21rMEh3Z2VDNnlVQTZPN19LQjZvV2g5Ykw2ZWVkX3ppbXRLdk1CWUFza0oyZlU4NHhJTmNsaEhsOWxJ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+            "summary": "「仮想空間テコンドー」を初実施  埼玉新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TZUtJODhXS0xOVHdVTXk4Z1ZpRjVpd1RXR3NQb0NrTExXRmpVX1gxeFY2ZWdFZnpiSFVkUWZobTRMOW5fYVVWOERRRURIM3lndlE3a1pBNFhXQURlU3U5M0xEcmY?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
@@ -177,21 +177,54 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-5cb4d5df94778a99a764a713c3c8e2d6",
-            "title": "東三河２信金、金利のある時代に先手 豊橋信金 本店営業部を全面改装 蒲郡信金 豊橋市に初の支援拠点",
-            "source": "中部経済新聞",
-            "published_at": "2026-10-02T05:00:00+09:00",
-            "category": "ビジネス",
-            "area": "豊橋",
-            "summary": "東三河２信金、金利のある時代に先手 豊橋信金 本店営業部を全面改装 蒲郡信金 豊橋市に初の支援拠点  中部経済新聞",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1TWNiWUVTa0VXX2d5Rkw1MW1Uc3RDRlR6X3RTZTlobHJEaERWMlpjQkZNbXJKbE9GTnRoNHAzZFlIOWsxZ2pwbm1MMDhzelVTa2ZuR2psdkFrME5EcGhycG1uT2ZTa0NIbDNzNmZFb0p1X0k?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
+            "title": "愛知県の今日のアメダスの記録(10月02日)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-02T18:50:39+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の今日のアメダスの記録(10月02日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-5bae9d7a1442c0f1271a3e40be50fec7",
+            "title": "県民環境委員会審査状況（令和8年6月23日）",
+            "source": "pref.aichi.jp",
+            "published_at": "2026-10-02T18:24:11+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "県民環境委員会審査状況（令和8年6月23日）  pref.aichi.jp",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wRWszdmZvbkkydkptODIyRG1YNV9JTjFvcHVGYXlMVHdXVURXNE1mWnpLNDF4QzUzWHpSN3NfM2lRQkgtLWhvRXB2WXdWRUFfLTJVZUFqZHJCbWFTeFFRZWoxbkRudGE4OHJoTFJkdXM?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-12a075aec9b317b3db08b1007942f434",
+            "title": "砲丸が頭に、中1女子が大けが 愛知・春日井、部活動で（共同通信）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-02T20:06:35+09:00",
+            "category": "一般ニュース",
+            "area": "尾張",
+            "summary": "砲丸が頭に、中1女子が大けが 愛知・春日井、部活動で（共同通信）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02Q1R2UGxNOWc3cDlBSWtTUm9fT3FhblYxV3RvSkN4Vy1ZZzNzOTI0RW5RSkdYTmJqdGtzS1plTjRVUzk5MGZaQ0tqaVpTR0ZBdjdfbzhZemxBSkd4Q05rTktiMEZTWFh2YzFDUmd4aUpXS2tNZTU2Mzd0SGI3X00?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-b78f88cd7dc02ee2d4192b2f808ed8db",
+            "title": "民家に「ばくだん、きけん」の箱、中身はまさかのブドウ 警察も出動し、一時騒然 愛知県岡崎市",
+            "source": "産経ニュース",
+            "published_at": "2026-10-02T19:44:06+09:00",
+            "category": "社会",
+            "area": "三河",
+            "summary": "民家に「ばくだん、きけん」の箱、中身はまさかのブドウ 警察も出動し、一時騒然 愛知県岡崎市  産経ニュース",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45Z2tkbklmeXZ5eFMxXzBHb0Z6OEROU3hGV2pnMXNSQnNpV1dEUDhuS3BhZ05udEhWNllzZC1KWkRyRzdLa0JCTjhZYy1ITzlFaGhTMEZhTXMwa2Z6UVhMNGZ3bkh4ZVlVd1dKbm55MV9qQmtVeEE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-ed96029f5a5606d1dde62924923835d5",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
             "source": "tenki.jp",
-            "published_at": "2026-10-02T15:31:27+09:00",
+            "published_at": "2026-10-02T18:31:28+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
@@ -199,124 +232,91 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-d4acc3ee2e31b77090976360705e08ac",
-            "title": "「愛知県の印象は？」アジア大会観戦の訪日客に聞きました 景観や交通利便性に高評価、名古屋めしは…",
-            "source": "chunichi.co.jp",
-            "published_at": "2026-10-02T14:30:00+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "「愛知県の印象は？」アジア大会観戦の訪日客に聞きました 景観や交通利便性に高評価、名古屋めしは…  chunichi.co.jp",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03OFVRbTdhM3FKM0I3Z2FodlpuaHZHOTUxZmo4VzM1MGhrM1AyRkRWNkhtNFZDLXFqYzhDbS1xVDFfb2puS3VIc3cwaGI0NE14Tmttdg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-e60cabf13bc6298b5f51cd57a761b5a7",
-            "title": "列車使い様々なケースを想定…愛知県海部地域の消防が連携し列車と車の事故を想定した合同訓練 避難誘導の手順など確認",
-            "source": "FNNプライムオンライン",
-            "published_at": "2026-10-02T17:06:58+09:00",
-            "category": "社会",
-            "area": "愛知",
-            "summary": "列車使い様々なケースを想定…愛知県海部地域の消防が連携し列車と車の事故を想定した合同訓練 避難誘導の手順など確認  FNNプライムオンライン",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3ZU15UUFTVjBBUzhxMkRwWC05UWIxWndlSzJnczlwYXZwVmNhSDlFM3hRcnVDZTVQSzhNSHhqRGRZSzNYTFYwck5CeHk3UQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-eac5c756cbb4ef453e4e53f0630b1359",
-            "title": "【愛知県】9月8日大雨被害の最終報（第11報）を発表 床上浸水396棟 床下浸水605棟 被災世帯に見舞金2万円支給へ",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-02T00:05:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【愛知県】9月8日大雨被害の最終報（第11報）を発表 床上浸水396棟 床下浸水605棟 被災世帯に見舞金2万円支給へ  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMjZBOFZkVEhBRmVzemFvRHdRQWIxWUk5S1ZDV1FwMm1hY0F2T1g2bTRRQXJrQWtqaExUaHJsNlRoN3FORll1V1FIYTlENVM3S1QxSnhtWkJoc0RYVlFrQ0RnY0pyd1hwclRBck1aeXZyckVDVTZsWlhMZ3Y1R2s?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-bd69b8b8cbe0aed39191b421a8b737b6",
-            "title": "インフラ老朽化、さびにくいステンレス材で長寿命化後押し 愛知製鋼 [愛知県]",
-            "source": "朝日新聞",
-            "published_at": "2026-10-02T13:00:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "インフラ老朽化、さびにくいステンレス材で長寿命化後押し 愛知製鋼 [愛知県]  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81b3p5ekJPNEtOV0JHQjFKOFppR3RfQ1R0akF2cEYxelJXRG1zRjdaaUpjTVBDdjVlRXh0azMwX0Zta0gyZVhWb1NEYnJNOVhVQjFjMG9ZdURQS1c5V0JUeVNGZ29qeVk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-cf58e32c30873f3299c95e5895e5586f",
-            "title": "【愛知県・常滑の焼きもの巡り】美しいフォルムにほれぼれ…「日本一」と称される常滑焼の急須やモダンなデザインの器に出会える窯元・ギャラリーへ",
-            "source": "CREA WEB",
-            "published_at": "2026-10-02T11:00:00+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "【愛知県・常滑の焼きもの巡り】美しいフォルムにほれぼれ…「日本一」と称される常滑焼の急須やモダンなデザインの器に出会える窯元・ギャラリーへ  CREA WEB",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yd3lfcWp4MmRkMndkT3RxWEdGRVllSUM3ZVg1RUh0MjZXa1RjYWUyYVgyVVY5UWNNeG1VaHYyZGRLTXA3Q21WWnhRMVRScUtOcVE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-bb8ea27113f1c358aabe57a79970c0e9",
-            "title": "愛知県北名古屋市：教育長が「ぼんくら」「市の恥」「たわけ」、部下らへのパワハラ認め辞職願提出「指導のつもりだった」",
-            "source": "読売新聞",
-            "published_at": "2026-10-02T09:47:00+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "愛知県北名古屋市：教育長が「ぼんくら」「市の恥」「たわけ」、部下らへのパワハラ認め辞職願提出「指導のつもりだった」  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4waF9iZ19JQTFVQXduNk8tdUhlWDBxVWVpS3d0MXdmLUM1Z21rTEliRDktRGZfX0hyaVc5QXp0NFlETzJnTTRNcE92T0FhcENsdm5ZX05FRi16bm1MdXNINFRYYmllQQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-954ad08ed3480e634bf0ac7109647857",
-            "title": "【愛知県豊田市】「トヨタが動けば街が変わる」 クルマの”次世代拠点”がおひざ元にもたらす未来とは",
-            "source": "kenbiya.com",
-            "published_at": "2026-10-02T12:05:33+09:00",
-            "category": "市政・行政",
-            "area": "三河",
-            "summary": "【愛知県豊田市】「トヨタが動けば街が変わる」 クルマの”次世代拠点”がおひざ元にもたらす未来とは  kenbiya.com",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13bHFSeEhsUEdQMlNWa1ZWN2RkV1hCOEZfWUhhYTl0QW5nVThkMGNodmZGQ1M4bERDSGt5MUhVVzZTWTVSRkdBM3Z1MzdSZWtrdDJxREFQM3JPOTZ4cXlGQmhLeEs?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-cf6ae86069dbc1490cfd0209b4a87d49",
-            "title": "【愛知】2026年10月3日・4日週末開催の無料イベント8選 フェス＆秋祭り＆マルシェも！",
-            "source": "いこーよニュース",
-            "published_at": "2026-10-02T07:00:21+09:00",
+            "id": "news-1a0995d5a6be02d1255ffd672f2b9426",
+            "title": "【愛知県東海市2店舗目・県内96店舗目】ゴルフ・健康カラオケ・個室岩盤浴（女性専用）まで豊富なアミューズメントサービス導入の大型店舗！FIT-EASY太田川駅前店 10/30 (金)グランドオープン",
+            "source": "PR TIMES",
+            "published_at": "2026-10-02T20:30:05+09:00",
             "category": "観光・イベント",
-            "area": "愛知",
-            "summary": "【愛知】2026年10月3日・4日週末開催の無料イベント8選 フェス＆秋祭り＆マルシェも！  いこーよニュース",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00clU3R1Q4Ny0ybmppSHY1Rzd0TjZkdkdBYWtORUFLd01MemI2dWQxbnpCdHJ4eTd1S1J1X2RFaTIydDQ2dXRnenNQSWd6V3RZVUE?oc=5",
+            "area": "尾張",
+            "summary": "【愛知県東海市2店舗目・県内96店舗目】ゴルフ・健康カラオケ・個室岩盤浴（女性専用）まで豊富なアミューズメントサービス導入の大型店舗！FIT-EASY太田川駅前店 10/30 (金...",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYNlVqV3A0TmQ0LUJYZ3d1QVNEY0RPWjMtTUtRbEwxQzhaS1RTWF8wTVZnS0txeG9ycDdWbWQ0MTFuZW9EemhWYWU3Z29uNFR5YzJfb1NPdUhTZFdKOWhZMk5wOF9kTU5qcHc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-6ae08c8037aec33420bdd09751ebb448",
-            "title": "愛知県の過去の雨雲レーダー(2026年10月01日)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-02T02:19:33+09:00",
-            "category": "市政・行政",
+            "id": "news-7111af3cfced84b4cd9bedc17e7e125e",
+            "title": "農林水産委員会審査状況（令和8年6月23日）",
+            "source": "pref.aichi.jp",
+            "published_at": "2026-10-02T18:24:12+09:00",
+            "category": "一般ニュース",
             "area": "愛知",
-            "summary": "愛知県の過去の雨雲レーダー(2026年10月01日)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RY2xBcHhvM1JDYVJEa2k4TlVLWS1GaHFYWmNSOXV4X1hvNTJJejNCWk1KMTQwcXM2eGVTZ1pHajhHV0pBSjdIckNCNnBUaXN5dE93dFQyVQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "農林水産委員会審査状況（令和8年6月23日）  pref.aichi.jp",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByd09NLTZHaE5fNlZoQ01pTkRETUNRS1VjQjNiOVhOYXRTeTZobW9yY1lNRmVCdUdxRUV2eHlMelBSUjI0ei1veVZEQVZGMi1jOGd3YjhKaG1XN0RNdUU1ZGJXa1hMTVg4d2NhYW5vaw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-036c5994283f2e24dd8f5270ff5e726a",
-            "title": "アジア大会の観客らをお助け、愛知県内各地に「おもてなしカウンター」…名古屋駅では思わぬ交流も（読売新聞オンライン）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-02T10:32:15+09:00",
+            "id": "news-396cb6009f6239b11c6977007d3dbb5a",
+            "title": "列車使い様々なケースを想定…愛知県海部地域の消防が連携し列車と車の事故を想定した合同訓練 避難誘導の手順など確認",
+            "source": "東海テレビ放送",
+            "published_at": "2026-10-02T17:06:00+09:00",
+            "category": "社会",
+            "area": "愛知",
+            "summary": "列車使い様々なケースを想定…愛知県海部地域の消防が連携し列車と車の事故を想定した合同訓練 避難誘導の手順など確認  東海テレビ放送",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tX0xnYjFKV1lVTWZXSlU0aE41NXpBelR3SlU1VHNLWXIxcG16ekRLQXlseEZhTnI5TGhiS0NqUmhEZXFoYllzWHN2WmZUV19xSE9iaVlheEF3em1kLTdleUhTX3pnSzdLc3BqcTc2U2Y4WlU?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-d0935cd8aea7530a7db6c516cc1c3c6a",
+            "title": "時給三〇〇円の死神 名古屋空港(愛知県)の上映映画館・上映スケジュール",
+            "source": "MOVIE WALKER PRESS",
+            "published_at": "2026-10-02T18:14:53+09:00",
             "category": "市政・行政",
             "area": "名古屋",
-            "summary": "アジア大会の観客らをお助け、愛知県内各地に「おもてなしカウンター」…名古屋駅では思わぬ交流も（読売新聞オンライン）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84VDdKMkl3Y1Ita18wQVQ5R3piNDQ3aEhnWjc3Y2dWdElJVlh1SVFKdWVnRi1WTFpybGNLMWgzU2lBeFhDamRNeEhkOTZOYmNobGtPc0FhSTNNb3J4SlBrTGg5ZVNlSzBIRGxiMTloOThlQWFmdjAyRlJHNzNXTmM?oc=5",
+            "summary": "時給三〇〇円の死神 名古屋空港(愛知県)の上映映画館・上映スケジュール  MOVIE WALKER PRESS",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hSWYwQXJHRzBMSEctcmZMQmFobGxHSVpZM29JanYxNUF3aEEzYTNuYURLaEwxLWlxTVJVb0M5MkdNQ3RBQkU0aGhJX3I4bk1HUS16R21KN1R3cFM5OHJheQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-5d43c4f8fd0e1d91b1e8e4aa3b47bfd4",
-            "title": "UNERI、愛知県がPwC Japan有限責任監査法人に委託する事業の運営を支援。",
-            "source": "PR TIMES",
-            "published_at": "2026-10-02T08:30:01+09:00",
+            "id": "news-c7642c29985027453dd691c7455e41f7",
+            "title": "【愛知県】10/3の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-02T19:30:44+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "UNERI、愛知県がPwC Japan有限責任監査法人に委託する事業の運営を支援。  PR TIMES",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IMDBIZ3pSbmJUQTlZdmZJX2dNQXZESy1WZDN2RjRFcWlJUmFEQnlaU3dqV0xCNDFxQzQtdGgzZDFmOERVVmFLdUlURmQ4RTdGZGgtRTRlUEliNXZqTExwa0Vrbk1LX0lVVGc?oc=5",
+            "summary": "【愛知県】10/3の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QaThTbnRjUHNEb3JSUUFna0xmdnFZSTJpa2U4aF9zUnI4UzZTWGVTdVdETzhab01MZUV0enZzQTlxazg1VWhVMnFmWEdoMjhHdlp4czZ0dDJhWkp2d3VBeDRaRHZvUGRncGFhVjdrRjRrMl9WQnhIRFRJdVpLQkU?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-063b23097cd90fdd7fe60518c2c09ca7",
+            "title": "精神障害で自傷他害の恐れがある患者の措置入院で不適切な手続きか 愛知県の知多保健所",
+            "source": "chunichi.co.jp",
+            "published_at": "2026-10-02T20:05:58+09:00",
+            "category": "市政・行政",
+            "area": "尾張",
+            "summary": "精神障害で自傷他害の恐れがある患者の措置入院で不適切な手続きか 愛知県の知多保健所  chunichi.co.jp",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tbmlpNm5PNzdZYnhIOFBTVzd4eVBDOElKS1RxSE4xX3RBWlhCUENoVVNvYllqX1FYLU4wNlBIM3B0TS1UU1BwZWdsVWlNczBnc3lnMQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-097fbcaac75772086e99db7283cd0339",
+            "title": "県民環境委員会審査状況（令和8年6月24日）",
+            "source": "pref.aichi.jp",
+            "published_at": "2026-10-02T18:24:11+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "県民環境委員会審査状況（令和8年6月24日）  pref.aichi.jp",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1La0doWEFRS2cxWXRHS1FoRFMxVHFtazFQUUZnMW5LcVhPb1loYVdEeDF3dVFaT1ZrckJJNk4xVERKbHR5aV92OExtT3NyN2pBTFBvbjVSbi05bUxUanVHVkk4QTVhN3FBakJKMzVQUXE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-915c2a9d5ed3a33f90bd607fe905ea6e",
+            "title": "「漁港に泊まる」という新しい旅のかたち。Solana Resort、愛知県西尾市・一色漁港でトレーラーハウスを活用した宿泊実証プロジェクトを実施",
+            "source": "PR TIMES",
+            "published_at": "2026-10-02T18:00:01+09:00",
+            "category": "市政・行政",
+            "area": "三河",
+            "summary": "「漁港に泊まる」という新しい旅のかたち。Solana Resort、愛知県西尾市・一色漁港でトレーラーハウスを活用した宿泊実証プロジェクトを実施  PR TIMES",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sY3R0aWVfbU1qTUFHVlhFOUFCTlJtd0lPYjJTVFhuWmEzd2dlTUhvWW5nODc0VVV6T0REejQ1Znh4OXJSTEZCaUkzTDMzeGRqQThrYzBpeHhCYkdtRjQxTDJpNUstMlY2U1E?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
