@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-03T18:01:48+09:00",
+    "last_updated": "2026-10-03T22:10:49+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,7 +9,7 @@
         "temp_min": 19,
         "rain_prob": "10%"
     },
-    "total_count": 30,
+    "total_count": 27,
     "articles": [
         {
             "id": "toyohashi-city-9391e3e322f033dc0bfe6f0daa596ab3",
@@ -78,6 +78,17 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-95787796ef8163c4014f78c5894f0406",
+            "title": "餌を食べるレッサーパンダを公開　のんほいパークで秋まつり始まる　愛知県豊橋市",
+            "source": "nagoyatv.com",
+            "published_at": "2026-10-03T18:29:00+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "餌を食べるレッサーパンダを公開　のんほいパークで秋まつり始まる　愛知県豊橋市  nagoyatv.com",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CVmdDMllNZi14WFN6MmtPRENtQ3FPT2F3TFhwVWV6SVJNUWwzR0NzSm52Nmk1cjZ1U1ZvVXBKVXQ5RUFRTGxqRkxNaU5TX1VDWmfSAWRBVV95cUxOZ0FJckpQSWgyWTRmcXFzNld6d2RpaUhuVFRObk4zU2Q0UzJ2Y2RHWUY2QjA0LTNYT2ZSTmoycl9WeWZrRW1jSmlJSEJFX1FFMjZkaG9TVGd4SWVxUTlNbnBEUXRX?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-4dd7b028b62e4eb1d2942455b4347b32",
             "title": "豊橋市自然史博物館とアニメ「弱気MAX」がコラボイベントへ",
             "source": "東愛知新聞社",
@@ -111,6 +122,28 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-53069d715d109db1a3b0f6d28508e082",
+            "title": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
+            "source": "ウォーカープラス",
+            "published_at": "2026-10-03T20:48:56+09:00",
+            "category": "ビジネス",
+            "area": "豊橋",
+            "summary": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbmFBMjZVWTdXMENUUVM5X083Y3QySXVoeHdjWlhpaEhId1l0STRZdG1GLVZkbXpjcmVqYlRSSl9HMWtKMnNKTXRIQnROTXNRd0p0M1AwQW1CUnhWcWZ0dWZQcklBdlhmM2ZvUGFn?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f08121a07c8d111929b698c610a6e2dd",
+            "title": "【愛知県豊橋市】市電と並走できる！「鈴木亜由子杯 穂の国・豊橋ハーフマラソン2027」一般エントリーが10月6日スタート",
+            "source": "AERA DIGITAL",
+            "published_at": "2026-10-03T18:15:58+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "【愛知県豊橋市】市電と並走できる！「鈴木亜由子杯 穂の国・豊橋ハーフマラソン2027」一般エントリーが10月6日スタート  AERA DIGITAL",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oeXhCb0EzNHI0bmk3Ull6X1E1VzNlMGxOcDlBREhVLWR3REtFRF9OSXRGRFFFRE11akVPeGFEQlJaVHlIUE9xSkdNWFJQQmx1?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-fc7eb7d3af8d267ccb79c21b3372c2a2",
             "title": "【豊橋市】羽田祭り⛩️わっしょい‼️五十肩との戦い！#服部やすお#羽田祭り#お祭り#神輿",
             "source": "選挙ドットコム",
@@ -120,17 +153,6 @@
             "summary": "【豊橋市】羽田祭り⛩️わっしょい‼️五十肩との戦い！#服部やすお#羽田祭り#お祭り#神輿  選挙ドットコム",
             "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HTDBvNnM4NzFfZGJNSng5cnVrR3J3aXRsNWlvUk9kNmltMlJ1V3dsZ21WX1N2VHZpVlJQQ1JJOWZZa0dTUHZGeUI5R2FraTJNYzUwQktYRWpqSV9qb19N?oc=5",
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
-            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
-            "source": "ウォーカープラス",
-            "published_at": "2026-10-03T09:07:06+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-39afc9907db90779c663c84da9f4ebba",
@@ -144,69 +166,58 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-d17d6d04a9b2a46d2f979845daf8cb4b",
-            "title": "【愛知県豊橋市】市電と並走できる！「鈴木亜由子杯 穂の国・豊橋ハーフマラソン2027」一般エントリーが10月6日スタート",
-            "source": "PR TIMES",
-            "published_at": "2026-10-02T12:00:02+09:00",
+            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
+            "title": "愛知県の今日のアメダスの記録(10月03日)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-03T19:44:18+09:00",
             "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "【愛知県豊橋市】市電と並走できる！「鈴木亜由子杯 穂の国・豊橋ハーフマラソン2027」一般エントリーが10月6日スタート  PR TIMES",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZGk3dnJ0OVUxY0g1T2YxVmNqLW1KMEFzUFhTeU04N1pJbXNOREtJRFk0UkxSLW9XUUx3Y0h3QzBXZFFialp3OWtFZ3BDU1FqZGlOWWdobGFnSDdNN0hfNzlVbDdxTXBNckE?oc=5",
+            "area": "愛知",
+            "summary": "愛知県の今日のアメダスの記録(10月03日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-f5555f974871a480792961809b02fe80",
-            "title": "松葉公園地下駐車場が一時休止",
-            "source": "tonichi.net",
-            "published_at": "2026-10-03T00:00:57+09:00",
+            "id": "news-8c62b3e4a5dd1f89f05a36fdd31b33a1",
+            "title": "住宅にツキノワグマ 近隣では「クマ棚」確認も 愛知・豊田市（中京テレビＮＥＷＳ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-03T19:33:00+09:00",
             "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "松葉公園地下駐車場が一時休止  tonichi.net",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wZXZXV1l5UXpVZnNrUHhjeHljMU5VNUQzZzhldndYUTdOa0d4dm1WalNMQ2hQSmtGNzZENUVCaDhoc3pLYVUxRWk5YjY0cnY5WTNwZWlRM3NPeEZl?oc=5",
+            "area": "三河",
+            "summary": "住宅にツキノワグマ 近隣では「クマ棚」確認も 愛知・豊田市（中京テレビＮＥＷＳ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZZ1A3cEYtSk9vdF9nLTVpanIwTXZ1ckkyWG5tajRWbnBFdTdkWi1DbjkxSTZDQjBGRGhJUUhtMVVOeHdQQkV1TXlSZDRLbUR6cG5Hcko4czJvSTV5d2IwYkNvNmRCeWh2bVh3a3pGT2lwYkpqY0dhdkFVY0hQWEE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-1e62e70e0fd138def48bf192dece037d",
-            "title": "【豊橋市】10/2 最高29℃、乾燥、昼間はやや風がある晴れの予想【朝版】",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-02T05:30:11+09:00",
+            "id": "news-5bfc2e0b5da1df07b453156ccd204a38",
+            "title": "愛知・岡崎の中心部で4人がサルに襲われ軽傷、サルは捕獲し殺処分に [愛知県]",
+            "source": "朝日新聞",
+            "published_at": "2026-10-03T16:40:00+09:00",
             "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "【豊橋市】10/2 最高29℃、乾燥、昼間はやや風がある晴れの予想【朝版】  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDVFQXFpSUlUNk5obzVxdkVBS1ZCY0FVSGg1ek9IZGpENkU0ZEZKQWotXzc5V2RpdGJrSXhweGtyNW8zaGZvU3FNWVl4bUVETFg1OGdUMXpQWXV1SHFzVzB2eGcxRFdTZGwzRWloUFUxdTZ2N0lscE5yUU0yVlhKRVBVX3hkT194SnAtSVJn?oc=5",
+            "area": "三河",
+            "summary": "愛知・岡崎の中心部で4人がサルに襲われ軽傷、サルは捕獲し殺処分に [愛知県]  朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMUnRjY3Z2Ujd2TjhLdzNZNHhQNExlcVh1d3hVMVRXTE15MzdxajJCNEI2Y3dwRGJrdFNWNjBMcnVjeFJFRGZXNnR3UVQ1dTZYeF9DdURyNWUzdXB5ZWJZbGxlR2R4VHc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-3a8a12d873f1f04cfeb33fe4f7ba6efd",
+            "title": "愛知県は、第20回アジア競技大会を通じて伝統文化を振興する。",
+            "source": "Vietnam.vn",
+            "published_at": "2026-10-03T20:50:02+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県は、第20回アジア競技大会を通じて伝統文化を振興する。  Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0xGUkJ3TVpaN3lCODhsR0ZYZk9zR2dPYnpaOF9pVElnQmhTYWh3aUVxVzhmZWUyNm1KUGFJcm83d3ozZkNwWVQ3ZU9NSVdhVVEwN0FtazRiSnUwZjJPQTNvYXhhVHlzRks2b3V3MmJxWjhxcVpTalBTOGUzX1F2ZXlFSXUzZw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-ed96029f5a5606d1dde62924923835d5",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
             "source": "tenki.jp",
-            "published_at": "2026-10-03T12:31:28+09:00",
+            "published_at": "2026-10-03T18:31:27+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a610cc7b431e153dd2f5672dbfe2b514",
-            "title": "「名古屋の悪夢」とまで…愛知アジア大会が世界から連日酷評も記者会見から“逃亡”し続ける大村秀章知事 記者クラブからの要請も「公務」を理由に欠席（デイリー新潮）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-03T10:00:03+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "「名古屋の悪夢」とまで…愛知アジア大会が世界から連日酷評も記者会見から“逃亡”し続ける大村秀章知事 記者クラブからの要請も「公務」を理由に欠席（デイリー新潮）  Yahoo!ニュー...",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDUFo3SG5VeWFoVm1SMklBcXViTllfUTBVcGZndU9aTXFySnhxSlZhLVJVODNkTzN5UFlNNUdvQnVJdUR4WVFKT0t4Tm53a0I0VHFaelpkZW5iUm4xVVdVLTFFcG5OSHI3QXliY3kydW9XeV9WWlo4Um1ySmlxMXM?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-2665daefa178f193862195fd819f5277",
-            "title": "共益費徴収にトラブル対応 多国籍化進む県営住宅、自治会任せの限界 [愛知県] [外国人政策 高市早苗総理 自民党][外国人]",
-            "source": "朝日新聞",
-            "published_at": "2026-10-03T16:00:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "共益費徴収にトラブル対応 多国籍化進む県営住宅、自治会任せの限界 [愛知県] [外国人政策 高市早苗総理 自民党][外国人]  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6TE5PYXJHRWhBLTJSQktkSHJGLUpuLVVTNGZLbDFMNHM3MXBCbWdaajVhWXROMzBHbFMtQzdjUVJlRUpMajNiMzFRaTVsTFlSRFVWOTdKVlZ4X2hKcG9QMU05OWJuUms?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -221,125 +232,81 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-93b3ee3b0d05dc4595f3271792372dde",
-            "title": "時給三〇〇円の死神 港(愛知県)の上映映画館・上映スケジュール",
-            "source": "MOVIE WALKER PRESS",
-            "published_at": "2026-10-03T12:24:58+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "時給三〇〇円の死神 港(愛知県)の上映映画館・上映スケジュール  MOVIE WALKER PRESS",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FNFVNUkt0VWV1eGVpakZZV2d2UDRodzFDa1RNUTVfVTRQZ2pUazFQWEE3dG1SZWlFQWJRX3c3enNqNVRMaEVrR0FGY3dMTGYya255TVp6RlFNTzJaMmxwag?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-de881de8697c3814ebe160d54d61020f",
-            "title": "東海北陸代表８組の歌声が響く！ Ｎコン高等学校の部 出場校紹介",
-            "source": "nhk.or.jp",
-            "published_at": "2026-10-03T09:29:31+09:00",
+            "id": "news-a226228a2dc539de18702c74be141c7c",
+            "title": "住宅街に野生のサル、住民ら４人を相次ぎ襲い吹き矢撃たれる…愛知・岡崎",
+            "source": "読売新聞",
+            "published_at": "2026-10-03T17:46:00+09:00",
             "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "東海北陸代表８組の歌声が響く！ Ｎコン高等学校の部 出場校紹介  nhk.or.jp",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZNmJrZlFGelU0VzdGMm0yMFJIbEdDbnNiRXVFZ25UeXU2X2x5UmFpV1M0bUg2UW56M0tJNTdNcl90Y1NJdFJ2WmJhVlE3SXpILWRzMnRXRmp4QjBHOHRHa01vbFY?oc=5",
+            "area": "三河",
+            "summary": "住宅街に野生のサル、住民ら４人を相次ぎ襲い吹き矢撃たれる…愛知・岡崎  読売新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VSW9seFRaMTNsQXkxTDdiOENBZkxfeE5yTklZbkNCU0Q4R3JLUnVzSEpVdmQwWlRDcUFfd2JfOFF3SGhPbWd1dEVrc3VxRkpYVngydFBlS3dTT2tVSmtfcjdNMjh0dw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-5bae9d7a1442c0f1271a3e40be50fec7",
-            "title": "県民環境委員会審査状況（令和8年6月23日）",
-            "source": "pref.aichi.jp",
-            "published_at": "2026-10-02T18:24:11+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "県民環境委員会審査状況（令和8年6月23日）  pref.aichi.jp",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wRWszdmZvbkkydkptODIyRG1YNV9JTjFvcHVGYXlMVHdXVURXNE1mWnpLNDF4QzUzWHpSN3NfM2lRQkgtLWhvRXB2WXdWRUFfLTJVZUFqZHJCbWFTeFFRZWoxbkRudGE4OHJoTFJkdXM?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a8ec86b3cff254b929bdec327132879e",
-            "title": "【愛知県】10/3の天気予報",
+            "id": "news-22824e490393236fe136a5429d65618b",
+            "title": "【愛知県】10/4の天気予報",
             "source": "FNNプライムオンライン",
-            "published_at": "2026-10-03T05:10:00+09:00",
+            "published_at": "2026-10-03T19:30:00+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "【愛知県】10/3の天気予報  FNNプライムオンライン",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HNTNLOENZeHVTZ2lZUTFCdjdUNVVQVXNSaVpoMHI5Q2ZGLWJzVWU3VjhvamdlSmg0ZnRxcWxxRENLNzk5NzV3SWJWVWlPZw?oc=5",
+            "summary": "【愛知県】10/4の天気予報  FNNプライムオンライン",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NeTN2Qy1QRWNBMkczajJUTUVIMmpkTFI1NWRWZXZsdGV4N0pZOWVBUXJLZ3JucW1Ld2FQNVJCNG9DazcwRHhFMG1JUnNzdw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-a89d9b8c79a2ef5e051efeaf9f2c2ccb",
-            "title": "【愛知・知多半島】牡蠣シーズン到来！海辺の牡蠣小屋「ウッドデザインパーク野間」が1周年記念に10月限定5％OFFクーポンを配布",
-            "source": "PR TIMES",
-            "published_at": "2026-10-03T11:21:14+09:00",
+            "id": "news-be4b448df7f7df4893d68a10b6f4b1bf",
+            "title": "愛知県美術館「没後100年記念 ビゲロー 幻のコレクションと近代日本画の夜明け──日本美術に魅せられたボストン人──」招待券（ペア）",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-03T17:25:12+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県美術館「没後100年記念 ビゲロー 幻のコレクションと近代日本画の夜明け──日本美術に魅せられたボストン人──」招待券（ペア）  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2QzVIeWplN3RCeTdPQngyMldsRXdBdXNCdktwTmhySUYybzRYLUtBbFBHbGxET2cwZHJxMVhwVmtSdTBxQ3JManFxNFpZZGE2NVQ0VWRGX0hUNE8zRU90MU1nNA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-2d7ebcbca521db228ea08391a5f96223",
+            "title": "共益費徴収にトラブル対応 多国籍化進む県営住宅、自治会任せの限界 [愛知県] [外国人政策 高市早苗総理 自民党][外国人]",
+            "source": "朝日新聞",
+            "published_at": "2026-10-03T16:00:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "共益費徴収にトラブル対応 多国籍化進む県営住宅、自治会任せの限界 [愛知県] [外国人政策 高市早苗総理 自民党][外国人]  朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbEJSZEhpUll5SWYydnAyNXFSY2NjTzhFeUhnVnAzSmxTWC1QaDFwZlBweExNWUhOV2prYTNxamFCTkltT3VBOXNCVjRkak4xN1VTM3lzemhYYndfMGZjNmJqbzdUNHdYNnVkR2hKa3E0MWE3TzI2Sk9Jb0pUMHc0R2dXVzE3TlE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-404dc8710e9edab07aeab5e49d388440",
+            "title": "アジア大会 テコンドー 前田、準々決勝接戦で涙…愛知・長久手市出身、５８キロ級挑戦 ：地域ニュース",
+            "source": "読売新聞",
+            "published_at": "2026-10-03T20:35:00+09:00",
             "category": "一般ニュース",
             "area": "尾張",
-            "summary": "【愛知・知多半島】牡蠣シーズン到来！海辺の牡蠣小屋「ウッドデザインパーク野間」が1周年記念に10月限定5％OFFクーポンを配布  PR TIMES",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByeUxwcFlpbmU3TkM3Q3RoSVpRME43S1FSUExFVnhXQWN5dDQyRVd5ZzdNZENpQ24zRWx4UVJfcS1jdW9QNTdnZVFvcFFlVnNXRmV2Q18zcVh4U0U1M3ZPZ0ZoOXoyeXNrTnc?oc=5",
+            "summary": "アジア大会 テコンドー 前田、準々決勝接戦で涙…愛知・長久手市出身、５８キロ級挑戦 ：地域ニュース  読売新聞",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85VWJpVUJWd1gyR3NvZ0Z5Qm1VSGs5MU1JbTJTeW1OUkp5S09IR05FQ1JybXJUak80YURoV2d3d21tbUMxYkF4UFp0bGNFQTlfMERFMzBPa3VTRkJ2MEstb2hkN3EwSHdoMEVzeURRbm4?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-91b009678278ee2962eb03ce32a5faf3",
-            "title": "愛知県の過去のアメダス実況(2026年10月02日)(積雪深)",
+            "id": "news-e68bd93a73c37828903efa0c6be58ac6",
+            "title": "東海地方の雨雲レーダー(実況)",
             "source": "tenki.jp",
-            "published_at": "2026-10-03T09:05:26+09:00",
-            "category": "市政・行政",
+            "published_at": "2026-10-03T18:07:36+09:00",
+            "category": "一般ニュース",
             "area": "愛知",
-            "summary": "愛知県の過去のアメダス実況(2026年10月02日)(積雪深)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FbjNac1hiZlJ2dWRMekFnZkJoWDBDYjZQY2NhQmsyVF9UdDI3SDlObkI5WktVY3hwZnIzNnBnVjFDUmVvcjFmWnplaTBUbkx5V1J0eDRld28tdHZzejE3M3I0Qmk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "東海地方の雨雲レーダー(実況)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5ScUxOdFIzOVZRN1U2dlM0cTdwZGJHSFRNTFdzbU1GUEtvU1pfVjg2YjYwdHJCQmptdmx0QXln?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-d5d02d81e9eca8163f138e7eaa4f45fe",
-            "title": "愛知・岡崎の中心部で4人がサルに襲われ軽傷、サルは捕獲し殺処分に（朝日新聞）",
+            "id": "news-a610cc7b431e153dd2f5672dbfe2b514",
+            "title": "「名古屋の悪夢」とまで…愛知アジア大会が世界から連日酷評も記者会見から“逃亡”し続ける大村秀章知事 記者クラブからの要請も「公務」を理由に欠席（デイリー新潮）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-03T16:40:00+09:00",
-            "category": "一般ニュース",
-            "area": "三河",
-            "summary": "愛知・岡崎の中心部で4人がサルに襲われ軽傷、サルは捕獲し殺処分に（朝日新聞）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91aV9kaGdUbld0QlFjMmFqcVlGWnFYRXYtNm03bkRJS09aMEsyeEg0RnE2RFhBbzI0bFRxR3VsdE9hUHk3MHNZamNoMnItRzIwdGl1ZjdwclZNTTF4blhqU1BnaXZkbVpmRkxydzNCYWFmdnRIWDItdFEyWWZkYkE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-7111af3cfced84b4cd9bedc17e7e125e",
-            "title": "農林水産委員会審査状況（令和8年6月23日）",
-            "source": "pref.aichi.jp",
-            "published_at": "2026-10-02T18:24:12+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "農林水産委員会審査状況（令和8年6月23日）  pref.aichi.jp",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByd09NLTZHaE5fNlZoQ01pTkRETUNRS1VjQjNiOVhOYXRTeTZobW9yY1lNRmVCdUdxRUV2eHlMelBSUjI0ei1veVZEQVZGMi1jOGd3YjhKaG1XN0RNdUU1ZGJXa1hMTVg4d2NhYW5vaw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-2cf28f483175f7958a6aa0c6e7c304c9",
-            "title": "沖晴くんの涙を殺して 常滑(愛知県)の上映映画館・上映スケジュール",
-            "source": "MOVIE WALKER PRESS",
-            "published_at": "2026-10-03T07:59:04+09:00",
+            "published_at": "2026-10-03T10:00:03+09:00",
             "category": "市政・行政",
-            "area": "尾張",
-            "summary": "沖晴くんの涙を殺して 常滑(愛知県)の上映映画館・上映スケジュール  MOVIE WALKER PRESS",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UQ0ZDb0sxcHFnRkNWcENYWVd2U19adklkQThxTGItejdWS3Zla2FMdmRGYUtGOUpnRHBpMUVtak44a3pBdzYwR2VjcHpJWktIS1BUUWtiMThuOWlzbWJEag?oc=5",
+            "area": "名古屋",
+            "summary": "「名古屋の悪夢」とまで…愛知アジア大会が世界から連日酷評も記者会見から“逃亡”し続ける大村秀章知事 記者クラブからの要請も「公務」を理由に欠席（デイリー新潮）  Yahoo!ニュー...",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDUFo3SG5VeWFoVm1SMklBcXViTllfUTBVcGZndU9aTXFySnhxSlZhLVJVODNkTzN5UFlNNUdvQnVJdUR4WVFKT0t4Tm53a0I0VHFaelpkZW5iUm4xVVdVLTFFcG5OSHI3QXliY3kydW9XeV9WWlo4Um1ySmlxMXM?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-097fbcaac75772086e99db7283cd0339",
-            "title": "県民環境委員会審査状況（令和8年6月24日）",
-            "source": "pref.aichi.jp",
-            "published_at": "2026-10-02T18:24:11+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "県民環境委員会審査状況（令和8年6月24日）  pref.aichi.jp",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1La0doWEFRS2cxWXRHS1FoRFMxVHFtazFQUUZnMW5LcVhPb1loYVdEeDF3dVFaT1ZrckJJNk4xVERKbHR5aV92OExtT3NyN2pBTFBvbjVSbi05bUxUanVHVkk4QTVhN3FBakJKMzVQUXE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d1a8fa2f472ff89ab2e1a67609ca3057",
-            "title": "住宅街に野生のサル、住民ら４人を相次ぎ襲い吹き矢撃たれる…愛知・岡崎（読売新聞オンライン）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-03T17:46:51+09:00",
-            "category": "一般ニュース",
-            "area": "三河",
-            "summary": "住宅街に野生のサル、住民ら４人を相次ぎ襲い吹き矢撃たれる…愛知・岡崎（読売新聞オンライン）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40OVpZZldVMlcwYnBRMmQyTGRVSG5EZTF1UFpJR3JtZnlvVlFWenV6ZDJtVnd1NjQzOEVYX1d1TnhBN3FoUzZTSmRZVWJCUTZpUHdaaDZKOUE1Q3l2NVFZaEN2bzlRQVU0b2t0UFJKcGgxNVF2V2hDdk1nZUp4NlE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
