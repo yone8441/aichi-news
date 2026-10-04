@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-04T18:34:01+09:00",
+    "last_updated": "2026-10-04T22:49:56+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,7 +9,7 @@
         "temp_min": 19,
         "rain_prob": "30%"
     },
-    "total_count": 28,
+    "total_count": 29,
     "articles": [
         {
             "id": "toyohashi-city-9391e3e322f033dc0bfe6f0daa596ab3",
@@ -78,6 +78,28 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-ec564dfaaad98bd8136d91397149b407",
+            "title": "愛知県の雨雲レーダー(実況)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-04T19:57:24+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "愛知県の雨雲レーダー(実況)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-446665511da45515fce750f89bbba40e",
+            "title": "南稜（男子）接戦を制す",
+            "source": "tonichi.net",
+            "published_at": "2026-10-04T15:37:37+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "南稜（男子）接戦を制す  tonichi.net",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBERFliNW1WeFlZbnhMMlZqRF9UYXI5V005RTE0VVNoalBLak5HVno2YVFqOWdiem82UkhVTk05bEh3Z1U3RjR4aW93VXdDdUFjT1lYQTBfZlgtTmlO?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-4dd7b028b62e4eb1d2942455b4347b32",
             "title": "豊橋市自然史博物館とアニメ「弱気MAX」がコラボイベントへ",
             "source": "東愛知新聞社",
@@ -89,14 +111,14 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ec564dfaaad98bd8136d91397149b407",
-            "title": "愛知県の雨雲レーダー(実況)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-04T16:04:59+09:00",
+            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
+            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
+            "source": "ウォーカープラス",
+            "published_at": "2026-10-04T21:04:49+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(実況)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
+            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -111,6 +133,17 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-a67186fa86ab5d1f2438e6f0b5f35bc9",
+            "title": "とよはし共創ラボ、本格協業第1号誕生 IT系ベンチャー×薬局 AIで健康把握：ニュース",
+            "source": "中日BIZナビ",
+            "published_at": "2026-10-04T17:55:38+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "とよはし共創ラボ、本格協業第1号誕生 IT系ベンチャー×薬局 AIで健康把握：ニュース  中日BIZナビ",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02WUw3NG5QdW5lZTBXUnRhdzlRUjRibU5ELVZJeDA5Yl9KR2RuR0d0bU1BeXY4SEdjTjRIaG5uNGhGdWpUWnpiLWw1cWdUVzFrQ0RtT2liTklXYXJ6REdz?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-8e0a4e70ba12a395aab72e108b4782c4",
             "title": "豊橋市【羽田祭り1日目】今帰宅しました。",
             "source": "選挙ドットコム",
@@ -122,17 +155,6 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
-            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
-            "source": "ウォーカープラス",
-            "published_at": "2026-10-04T09:05:03+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-9ae5e997e2608934dcaf4c63193001bf",
             "title": "新着情報“ライズX S”2020年式ターコイズブルーマイカメタリック入荷しました！",
             "source": "中古車のガリバー",
@@ -141,39 +163,6 @@
             "area": "豊橋",
             "summary": "新着情報“ライズX S”2020年式ターコイズブルーマイカメタリック入荷しました！  中古車のガリバー",
             "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05R3Jnd2tFUDdOSG1rbThRR2xsYU8wVEZLUXpIbmxRd3dvNjUzaFNibEdDNkJBSXc4dXowRENZRzVXc2Z3bEMwLTVfZjExZndWX21KMk43cmk0clpfU1FaTXk5ZjA5RnNNbEtCeGpkck5LNFlaeGdXT0R2Q0gxNEE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f3d49e072b7a6060b0f99d7b0b1f2798",
-            "title": "豊橋の「さくらピア」で減災学習 在宅避難の備えを学ぶ",
-            "source": "東愛知新聞社",
-            "published_at": "2026-10-04T12:04:15+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "豊橋の「さくらピア」で減災学習 在宅避難の備えを学ぶ  東愛知新聞社",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yd01FLUxyODFxeUdRaUx2NzZPanMyQ05zVXRoa0tTeE5kN1JmVGg1R2Uwd1Qya2FUNEZheWpZbVVRVnFRS3kyVmZlbzRkTzR3TFdUZUJtRWZUTnMx?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-b010de4c8be020704af17a74271961d8",
-            "title": "歴史ある建築群に新しい風 愛知・豊橋「水上ビル」",
-            "source": "NEWSjp",
-            "published_at": "2026-10-04T08:00:01+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "歴史ある建築群に新しい風 愛知・豊橋「水上ビル」  NEWSjp",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSQk8tbHZNOWQtaVg0TXJWX0xEbHNQeWNVMEdjbHM1UFlyZ1h0YjktRE9yWnpDOU9wVG16TDk1X28wQU10aUhSV20xd1pSZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-9d4d13f8ccb9ef29894255c7cc0c6e6a",
-            "title": "親族内承継の事例特集",
-            "source": "tonichi.net",
-            "published_at": "2026-10-04T00:51:46+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "親族内承継の事例特集  tonichi.net",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5maUVTQ00ydVhRZEhjZFlUWWduaDloUDFUY01hX01TdHVxNzRPbF9OWmNjT1M4MHJDYjJ4UEJWREljUW5JMm1zckhjQUx0SmdsdEVNSlJGZC1sR0Jk?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -188,98 +177,21 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-de90c262e5aed7ecddd52c55644f9476",
-            "title": "アジア大会運営不備を陳謝、組織委会長・大村愛知県知事が会見 「アスリートのみなさんに申し訳なかった」",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-04T18:17:30+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "アジア大会運営不備を陳謝、組織委会長・大村愛知県知事が会見 「アスリートのみなさんに申し訳なかった」  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82WTcxYm8wNDFrQ1c2cTZZbm9tYUQxbWlkTzg1dGNyd29OVU5JczQwWjBDNk5aM1dsUzdQcnJJeUZrWDR4ZnZiQ1BTTkFFSElyaTljRQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-24937c7474acbaf76c2025a003c6711f",
-            "title": "【アジア大会】組織委会長の愛知県大村知事「運営に大きな支障を生じさせることなく対応できた」（日刊スポーツ）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-04T14:26:16+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【アジア大会】組織委会長の愛知県大村知事「運営に大きな支障を生じさせることなく対応できた」（日刊スポーツ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FdEFYNUdBa014ZVU2Q3hKS3diRHRldVV2ekNOY2VJbUYwVW1PRFVVaWMyaDNtbWdHaGtaOEhQSUlVc2NyQXBic01raG0xZ0ZxSGxSZk5xdjdxOU5IQW50Tm81YnNvMjhFTVBpVzIzV2VIZkRfMkdYeVNCNk95NDg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-990be78ed333dbf140eda09bdd72368b",
-            "title": "驚きの世界記録、新たなスターの誕生 写真で振り返るアジア大会",
-            "source": "朝日新聞",
-            "published_at": "2026-10-04T17:00:00+09:00",
+            "id": "news-b010de4c8be020704af17a74271961d8",
+            "title": "歴史ある建築群に新しい風 愛知・豊橋「水上ビル」",
+            "source": "NEWSjp",
+            "published_at": "2026-10-04T08:00:01+09:00",
             "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "驚きの世界記録、新たなスターの誕生 写真で振り返るアジア大会  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xQWRmbWZxWlRHOU1yN0RWT3Q0QmhXSjF3MDVZZ0FVNWU5M0RWU0l3XzJGTFVQOXBiNXFhaEIyZDZIaTdpazZEYjA4SlhoSkZGNE5HcVlqbHl2TVdLbzlXcUNEOU1mTzg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-fca4c4e104aac0b4e3771fbbc01a2d5d",
-            "title": "愛知県の離島・篠島が和装ランウェイの舞台に。和文化とエンターテインメントで島の魅力を発信する「篠島和装ランウェイ2026」を10月10日開催",
-            "source": "PR TIMES",
-            "published_at": "2026-10-04T16:35:34+09:00",
-            "category": "観光・イベント",
-            "area": "愛知",
-            "summary": "愛知県の離島・篠島が和装ランウェイの舞台に。和文化とエンターテインメントで島の魅力を発信する「篠島和装ランウェイ2026」を10月10日開催  PR TIMES",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OUlYzYmlWRG5Ycm1pUEJ6VlZoVDdFZWpmcUo4YVQ0TmFwWVV1Mm0xSWE2MWIwbEFoV2dfVUZmZVRxdEszc1BGVXB1U0VxLW04MVhRS29FTGtCSWVyR3ZuN09SdEZxTTZJanc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-037428e0a9b63153f96e940105b656f5",
-            "title": "オフロードバイクイベントで事故 愛知県の男性死亡",
-            "source": "NHKニュース",
-            "published_at": "2026-10-04T15:59:44+09:00",
-            "category": "観光・イベント",
-            "area": "愛知",
-            "summary": "オフロードバイクイベントで事故 愛知県の男性死亡  NHKニュース",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5RXp3Q2YyendNRlhUclBqXzVObUNmc0kwNTQ4aUdmQ3VEUG1QX0M1Yi1EWlp0QzEzeExpdnBTMWQyMGdrdTAyeGFRSDBQWEJjV2lfVkx3bHhQcmZUcm5B?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-4a4009094b5f6bb8acf671d838cac766",
-            "title": "組織委会長の愛知県知事「しっかり対応できた」　アジア大会総括",
-            "source": "ｄメニューニュース",
-            "published_at": "2026-10-04T15:24:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "組織委会長の愛知県知事「しっかり対応できた」　アジア大会総括  ｄメニューニュース",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdHVPbW1WLVE3ZFNqYTZ6dE5wcjYzUHQycExKY1M4M2tRUU9nM0tsQjFrYmZEeHY3RWZLd284Rk00aExQTTBRM2ZqZXdxYlhGT0JWQ2JBQ2F1TjYyZV9keWxyRGlxOGRteTBUa1BLcW16b2dmNzlaWkx3dnJ4cFRZSmJBLW43aHJjTzRMN29HcGdINTFfRWc1cNIBmAFBVV95cUxPdHVPbW1WLVE3ZFNqYTZ6dE5wcjYzUHQycExKY1M4M2tRUU9nM0tsQjFrYmZEeHY3RWZLd284Rk00aExQTTBRM2ZqZXdxYlhGT0JWQ2JBQ2F1TjYyZV9keWxyRGlxOGRteTBUa1BLcW16b2dmNzlaWkx3dnJ4cFRZSmJBLW43aHJjTzRMN29HcGdINTFfRWc1cA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8eecd677b051821abe3b954d7fd7a689",
-            "title": "「アスリートの皆さんに迷惑をかけた」　閉幕するアジア大会を大村愛知県知事が総括　トラブルを謝罪",
-            "source": "nagoyatv.com",
-            "published_at": "2026-10-04T15:44:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "「アスリートの皆さんに迷惑をかけた」　閉幕するアジア大会を大村愛知県知事が総括　トラブルを謝罪  nagoyatv.com",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MRnljUmE0ZkFCOVZfNlpIVXN5ZE1ETkpmUThZVjNhNFY0QUdIdGhkd0ZUeVhLNVdEY1hRZ2hhTTF4X1VfVlVOUVI5Y3FzdUZkNkpkNnNrN0V0dmdWdHVrV3JjV1rSAWRBVV95cUxOTEZ5Y1JhNGZBQjlWXzZaSFVzeWRNRE5KZlE4WVYzYTRWNEFHSHRoZHdGVHlYSzVXRGNYUWdoYU0xeF9VX1ZVTlFSOWNxc3VGZDZKZDZzazdFdHZnVnR1a1dyY1da?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-66bf8c6bb1c89c9af96b2faf39f1326c",
-            "title": "愛知・三重のお茶をめぐる旅へ。 「新・日本茶ジャーニー in 名古屋」",
-            "source": "蔦屋書店ポータル",
-            "published_at": "2026-10-04T10:44:24+09:00",
-            "category": "一般ニュース",
-            "area": "名古屋",
-            "summary": "愛知・三重のお茶をめぐる旅へ。 「新・日本茶ジャーニー in 名古屋」  蔦屋書店ポータル",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4cURaU3pvLVBiZXNoSmlTbXZsN3kwTVBBaDZ5ZFZPMXF6RnM2WEcxNy1LQXM4Zzg4dHNqOXVPMnlWb3RaTksyVkVPNWluS2NVY05SMkVEYnc2aVdYZXF3aENYRU5scDRMSHZERkkzY2RlRFpsVlJDclJhcnJWQQ?oc=5",
+            "area": "豊橋",
+            "summary": "歴史ある建築群に新しい風 愛知・豊橋「水上ビル」  NEWSjp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSQk8tbHZNOWQtaVg0TXJWX0xEbHNQeWNVMEdjbHM1UFlyZ1h0YjktRE9yWnpDOU9wVG16TDk1X28wQU10aUhSV20xd1pSZw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-ed96029f5a5606d1dde62924923835d5",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
             "source": "tenki.jp",
-            "published_at": "2026-10-04T09:31:27+09:00",
+            "published_at": "2026-10-04T21:31:25+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
@@ -287,14 +199,14 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-be4b448df7f7df4893d68a10b6f4b1bf",
-            "title": "愛知県美術館「没後100年記念 ビゲロー 幻のコレクションと近代日本画の夜明け──日本美術に魅せられたボストン人──」招待券（ペア）",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-04T15:17:51+09:00",
+            "id": "news-de90c262e5aed7ecddd52c55644f9476",
+            "title": "アジア大会運営不備を陳謝、組織委会長・大村愛知県知事が会見 「アスリートのみなさんに申し訳なかった」",
+            "source": "chunichi.co.jp",
+            "published_at": "2026-10-04T22:04:09+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県美術館「没後100年記念 ビゲロー 幻のコレクションと近代日本画の夜明け──日本美術に魅せられたボストン人──」招待券（ペア）  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2QzVIeWplN3RCeTdPQngyMldsRXdBdXNCdktwTmhySUYybzRYLUtBbFBHbGxET2cwZHJxMVhwVmtSdTBxQ3JManFxNFpZZGE2NVQ0VWRGX0hUNE8zRU90MU1nNA?oc=5",
+            "summary": "アジア大会運営不備を陳謝、組織委会長・大村愛知県知事が会見 「アスリートのみなさんに申し訳なかった」  chunichi.co.jp",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82WTcxYm8wNDFrQ1c2cTZZbm9tYUQxbWlkTzg1dGNyd29OVU5JczQwWjBDNk5aM1dsUzdQcnJJeUZrWDR4ZnZiQ1BTTkFFSElyaTljRQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -309,15 +221,114 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-f2cc22d113b72ddc2d3b1c13cb439a8b",
-            "title": "「バイクのツーリングイベント中に男性が倒れた」ゲレンデ走行中のオフロードバイクが斜面で転倒…愛知県の男性が死亡【長野・志賀高原】（テレビ信州）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-04T11:58:00+09:00",
-            "category": "観光・イベント",
+            "id": "news-64f42dfa3dc8f037f4c238d02c6e0d93",
+            "title": "【アジア大会】大会組織委会長の大村愛知県知事「アジアの新たな象徴に」トラブルには言及せず",
+            "source": "日刊スポーツ",
+            "published_at": "2026-10-04T21:39:00+09:00",
+            "category": "市政・行政",
             "area": "愛知",
-            "summary": "「バイクのツーリングイベント中に男性が倒れた」ゲレンデ走行中のオフロードバイクが斜面で転倒…愛知県の男性が死亡【長野・志賀高原】（テレビ信州）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MM0ZFenJnM0o3RFpjMjNuTUIyQUU4VnhMTW0yWTk0anRiQzFLTHVvRlV1ODFZWE5VelN0RUZFY0JYTnNobnd2ZF95Y2ZNNTF3dUJRY3RkTWVtTHc1MVFQSWNwTG9tYV91QVZkT0Q4S0FpTzJnZDgzb3RvQjlMTUU?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+            "summary": "【アジア大会】大会組織委会長の大村愛知県知事「アジアの新たな象徴に」トラブルには言及せず  日刊スポーツ",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnFweWUzWFl0SDJQaWh5QU51cU11TVBRV2lRUlYxVWdGM05yckZ0LXRXSHpvNFdaMHZtOE5iWEFNLVdFWi1ScHlTdmhzWGUzMTZDcWtTenVqZUZ4WkdlR3lUd194YkIzdnFza3RLTXJCY0hPZjZJbVlKN3JVRVVwYldqcmV1ckVuM1RFSg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-5c6e87d15e4cab85c0b6a3348252dedd",
+            "title": "愛知・名古屋アジア大会が閉幕 日本勢は過去最多メダル",
+            "source": "時事ドットコム",
+            "published_at": "2026-10-04T19:32:00+09:00",
+            "category": "一般ニュース",
+            "area": "名古屋",
+            "summary": "愛知・名古屋アジア大会が閉幕 日本勢は過去最多メダル  時事ドットコム",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZQVZwRmR0dDRhVWpYV1lHSmNONEZXb2thdTd2S1lzVUVqZEVPNnNtUTR3dDFOa2VjUHpudThmSmlpMzVvZ0loZFNubmNMWTdlNFFyY1VLdTI5WXlPeGRPVXZ5RQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-70c936ab0e15922e391d10965e07293e",
+            "title": "愛知県の雨雲レーダー(予報)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-04T17:25:26+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-68c8fc825c008b6b97da212cf04da84f",
+            "title": "日本のメダル過去最多、10代も活躍 愛知・名古屋アジア大会が閉幕",
+            "source": "朝日新聞",
+            "published_at": "2026-10-04T20:00:00+09:00",
+            "category": "一般ニュース",
+            "area": "名古屋",
+            "summary": "日本のメダル過去最多、10代も活躍 愛知・名古屋アジア大会が閉幕  朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CVjNFUWI5alVRYUUwdzdwUEw1TU1MSk9EY3ZwVjNKOERZNXFSV1NEQW9QMElxejlnM2dHd1otM1ROTEJaZ1ZtOUlibkZWazBhR0lrVU9oTW9lUGQwYXh3SHViS2ZCajg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-95e42ea551d2bfc2834f72f4b56ca004",
+            "title": "愛知県知事 アジア大会を巡り謝罪",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-04T22:04:34+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県知事 アジア大会を巡り謝罪  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OVnhnbWJrNElJcW1Jdjl6WDAwSEVWbVU5UjZNeFlJY3VWUnpsSkcxUW44YUhJT1NScHgwTENQaTEwMFMtanpZbmxKM3VON1hE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-be4b448df7f7df4893d68a10b6f4b1bf",
+            "title": "愛知県美術館「没後100年記念 ビゲロー 幻のコレクションと近代日本画の夜明け──日本美術に魅せられたボストン人──」招待券（ペア）",
+            "source": "plus.chunichi.co.jp",
+            "published_at": "2026-10-04T18:21:16+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県美術館「没後100年記念 ビゲロー 幻のコレクションと近代日本画の夜明け──日本美術に魅せられたボストン人──」招待券（ペア）  plus.chunichi.co.jp",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2QzVIeWplN3RCeTdPQngyMldsRXdBdXNCdktwTmhySUYybzRYLUtBbFBHbGxET2cwZHJxMVhwVmtSdTBxQ3JManFxNFpZZGE2NVQ0VWRGX0hUNE8zRU90MU1nNA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f4cc49194be82bc0ee806b4f0c0bc228",
+            "title": "同居中の男性が死亡しているのを放置、死体遺棄容疑で58歳逮捕 愛知県岡崎市の集合住宅、遺体は父親か",
+            "source": "chunichi.co.jp",
+            "published_at": "2026-10-04T21:46:56+09:00",
+            "category": "社会",
+            "area": "三河",
+            "summary": "同居中の男性が死亡しているのを放置、死体遺棄容疑で58歳逮捕 愛知県岡崎市の集合住宅、遺体は父親か  chunichi.co.jp",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkbTFlZkhaa2FPUFRWUzRBYWZ4dFBjaURqazQ4SDVVWU1kZXhyWWxUamkySTAzSnVhWGJfTTEwbnNOeXlPYnc2MmRnSGFscU42MmZPcw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ffb3d014899b5996fc614836a67b9da1",
+            "title": "【アジア大会】組織委会長の愛知県大村知事「運営に大きな支障を生じさせることなく対応できた」",
+            "source": "日刊スポーツ",
+            "published_at": "2026-10-04T13:56:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【アジア大会】組織委会長の愛知県大村知事「運営に大きな支障を生じさせることなく対応できた」  日刊スポーツ",
+            "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQVmxxbkFTSUFISnNOaFhYSEFLRElBamFoU3A3Z2JoQ3hMVUNxR1g0YVAxakdERzJ0d3QwSEJ3eVE4ZTBoSWp2ZmtoelAyY2Y0TWVuTU9NWGlJTVNYYV9TQU13OGg1R0padHh0VWFtMVZSZDE1amdPc3lVMmEzMndTdVNDaUN5dWctSFlwZVZEUXpaeUs1bUFLR19yV0h5MFg5Y2JzcUFvN2p3ZHpOYUtKOVNkSWFXUE1QaEMzMkNlZzE1NjNmcEFTWGNUR094bUsteWNrazhwX2xBOFdfdUpqemFzV3ZhSkRMaEVZUmppeVpwaU1wT3BlUURCdlFqN3JLNFpQcXlDRFpUOUpqWHAyVVJJRWR4ZTdMSC1LZE1jMURjZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-d02017bde67ba1d684911fe42ebfa00d",
+            "title": "愛知県の過去のアメダス実況(2026年10月03日)(日照時間)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-04T15:30:05+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の過去のアメダス実況(2026年10月03日)(日照時間)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IRmp4MzVfV3NYTnVCeDN2Z1VSWjJsYndUMzFpdnBpN2FBUy1idVk0UUN1SWUtcVp2V3FvOE96VjFwOWlBZ0VMTlJFRVJXcmJxTE5BMUFHVFBBU2Z1VDcxZTl0b1lmbWdLV0E?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-cbe280d0e166d06dde164dba2a1f90fc",
+            "title": "【愛知県】10/5の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-04T19:30:44+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【愛知県】10/5の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80NFZ3SW1nd1dsVmRiR3otc1UyWmpGb182WDltUFVrUWkycVVhWG02UFRMMTg5c0ZTRzc2SkgtUGVJVkxCOTRfMnVZVWEwdVR5Zm51YndyZTlHUXlIbVBmRWZwS0F6Ujh3WkxrNjUzbnUzazIzZHEyMFd2X3VtSDA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
