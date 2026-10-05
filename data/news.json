@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-05T19:15:39+09:00",
+    "last_updated": "2026-10-06T01:58:30+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,7 +9,7 @@
         "temp_min": 20,
         "rain_prob": "0%"
     },
-    "total_count": 29,
+    "total_count": 30,
     "articles": [
         {
             "id": "toyohashi-city-9391e3e322f033dc0bfe6f0daa596ab3",
@@ -80,11 +80,11 @@
         {
             "id": "news-a5dff674fbef74a735c106ac0e770f94",
             "title": "豊橋の羽田祭で手筒花火奉納 松井さん親子三代で夜空染める",
-            "source": "東愛知新聞社",
-            "published_at": "2026-10-05T15:25:59+09:00",
+            "source": "higashiaichi.jp",
+            "published_at": "2026-10-06T01:54:28+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "豊橋の羽田祭で手筒花火奉納 松井さん親子三代で夜空染める  東愛知新聞社",
+            "summary": "豊橋の羽田祭で手筒花火奉納 松井さん親子三代で夜空染める  higashiaichi.jp",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wX1o5V3hBcFpyTmU1UlJCbUwwQzJUM2VVMjRlMWJiTVFDWXQ4OFEweHphRUlodDR1RXJLN3dQSno0a1o2OGpMdS1uVDZPOHZVLUJucDEtOTNyYjdD?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
@@ -92,12 +92,67 @@
             "id": "news-8afdf143c8984d51cb9c8d40f63b67cc",
             "title": "愛知県の雨雲レーダー(過去)",
             "source": "tenki.jp",
-            "published_at": "2026-10-05T16:01:58+09:00",
+            "published_at": "2026-10-05T19:14:18+09:00",
             "category": "市政・行政",
             "area": "豊橋",
             "summary": "愛知県の雨雲レーダー(過去)  tenki.jp",
             "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pbjJxV2FNdFE5akcyUUJqQlhDVEdJVDdNMnBfNGFod2p2MXhJeEJFdUsyU1YybnJzS0Q1ZlRTdjZfWEFFNFNOWnRwMG5DUQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-9c22993f088e724e0bf4068aa3b00041",
+            "title": "元中日ドラゴンズの藤井淳志さんら主催、豊橋で軟式野球のリーグ戦開幕「地元に恩返しを」",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-05T22:02:32+09:00",
+            "category": "スポーツ",
+            "area": "豊橋",
+            "summary": "元中日ドラゴンズの藤井淳志さんら主催、豊橋で軟式野球のリーグ戦開幕「地元に恩返しを」  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lYnVLUEd5TTA4ZF9xXzJfeXdDVDFxQzdWUUp1WUZUVVpWNzdFRk5pQWl0dHg4azZVOGVHZUdFMnJjdWN0Tmxuc3JTWUs1LUZ2NUxEWg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-4b215ac44eb40a742eac3c7107ff5f06",
+            "title": "独・ヴォルフスブルグ市から実習生受け入れ",
+            "source": "tonichi.net",
+            "published_at": "2026-10-06T00:02:18+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "独・ヴォルフスブルグ市から実習生受け入れ  tonichi.net",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnMnlsRXRNUGkyUmdwbUZ6RlNmcWxaX2ZkR01IbEUyd2YzN0gxQWJUdGRyQThmTVBWVlBGYXNITUY5ZEh3b19WWUN1UVdFLXNRWWl6TjV1ZzFFQ2Ft?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-4bdae1c4647744635d1f9762e757b612",
+            "title": "東三河の命を守る要へ＝豊橋市民病院がICU刷新に向けて初のクラウドファンディングを開始",
+            "source": "PR TIMES",
+            "published_at": "2026-10-05T13:32:35+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "東三河の命を守る要へ＝豊橋市民病院がICU刷新に向けて初のクラウドファンディングを開始  PR TIMES",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sYUJXcDZpOV9ZSmU0UHYwcTVVbm56MmlhWVBPS3hUaEZWcHVEMjRKTm9NbkZTaEhSbnVTQ2l0TUFXWHp3cXRXUDRVNEtNY3dNeENqY3laX3RCU2JxZVRORHRGaEVTejM3UHc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
+            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
+            "source": "ウォーカープラス",
+            "published_at": "2026-10-05T21:01:28+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-c13c3494c07d9417324a737f1c4d9ad9",
+            "title": "【豊橋市】暗視スコープで夜の動物園を探検！のんほいパークで初の「プレミアムガイドツアー」が開催へ【10月7日応募締切】",
+            "source": "地域ニュースサイト号外NET",
+            "published_at": "2026-10-05T21:50:16+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "【豊橋市】暗視スコープで夜の動物園を探検！のんほいパークで初の「プレミアムガイドツアー」が開催へ【10月7日応募締切】  地域ニュースサイト号外NET",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRbWZ2RlFwMWFPRWlXTXNvUWxsSl8xU1lzT0dvdHJ6QkdBSjEzYmljeWlfaEtWV01jZHlyb01WbkJfM2piRFptTTVOc3hTc21nNG5wTGdPWVowemJNa1FvODl0N295ampoOTMyT2tZaw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-fbf1ca23c49689bf69d5a74f67b3b6c9",
@@ -111,14 +166,14 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-8c64bd484686fb3ad0684de287083584",
-            "title": "スポーツで秋を楽しもう！豊橋駅周辺でスポーツ&グルメイベント≪10月11日(日)・12日(祝・月)≫",
-            "source": "PR TIMES",
-            "published_at": "2026-10-05T10:19:50+09:00",
+            "id": "news-1fb4a041c83db08e5cbe7b4c5fbe6b8b",
+            "title": "ボッチャやピックルボールに親子で挑戦！スポーツの日は豊橋駅周辺のイベントへ - report.iko",
+            "source": "yo.net",
+            "published_at": "2026-10-05T19:27:07+09:00",
             "category": "観光・イベント",
             "area": "豊橋",
-            "summary": "スポーツで秋を楽しもう！豊橋駅周辺でスポーツ&グルメイベント≪10月11日(日)・12日(祝・月)≫  PR TIMES",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Xalozc3FYWlZkc3JpUVBDd0lkYU1hb3ktc0xHYUlyOFlWRkl2Ump0cTQzMVFfTGRveTROVk5Ud1lHenBLd1Ewd2JveWxoSUFQR0NSTzEtVVZVd3lrRTg2QWY5enM1WnFxYVE?oc=5",
+            "summary": "ボッチャやピックルボールに親子で挑戦！スポーツの日は豊橋駅周辺のイベントへ  report.iko-yo.net",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Fam9UVDVRSWI4MEpoNW9zSDNxYzBHVG9sNWkyaklzd1FJdWZPMTl1WnRjbUE4YzRzNWx3ZmxyTU1QempocXJsVUNrWkltdDVVd0E?oc=5",
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -133,65 +188,10 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-1fb4a041c83db08e5cbe7b4c5fbe6b8b",
-            "title": "ボッチャやピックルボールに親子で挑戦！スポーツの日は豊橋駅周辺のイベントへ",
-            "source": "いこーよニュース",
-            "published_at": "2026-10-05T14:56:34+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "ボッチャやピックルボールに親子で挑戦！スポーツの日は豊橋駅周辺のイベントへ  いこーよニュース",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Fam9UVDVRSWI4MEpoNW9zSDNxYzBHVG9sNWkyaklzd1FJdWZPMTl1WnRjbUE4YzRzNWx3ZmxyTU1QempocXJsVUNrWkltdDVVd0E?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d39c2f80984e345f51e905eebc3c7de2",
-            "title": "豊川稲荷の御開帳を機に東三河巡って スタンプラリーや日帰りバスツアー",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-05T14:10:11+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "豊川稲荷の御開帳を機に東三河巡って スタンプラリーや日帰りバスツアー  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xdmUzb0VjbmF5R3UycE5KSmFSOFg3a1VDQkhQWHRoSVdtRGlRdktVUi1VR20tOUZrSC1OeW1HbUU0WkZ2ZHpKTUgwX0NtejZLbm1BTHh1X1RONk5Edm5IQ3M2RVRKTld0N3c?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-446665511da45515fce750f89bbba40e",
-            "title": "南稜（男子）接戦を制す",
-            "source": "tonichi.net",
-            "published_at": "2026-10-04T15:37:37+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "南稜（男子）接戦を制す  tonichi.net",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBERFliNW1WeFlZbnhMMlZqRF9UYXI5V005RTE0VVNoalBLak5HVno2YVFqOWdiem82UkhVTk05bEh3Z1U3RjR4aW93VXdDdUFjT1lYQTBfZlgtTmlO?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ee382df01848cd7f1cab9ec6b187431a",
-            "title": "【愛知県豊橋市】市電と並走できる！「鈴木亜由子杯 穂の国・豊橋ハーフマラソン2027」一般エントリーが10月6日スタート",
-            "source": "AERA DIGITAL",
-            "published_at": "2026-10-05T11:04:36+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "【愛知県豊橋市】市電と並走できる！「鈴木亜由子杯 穂の国・豊橋ハーフマラソン2027」一般エントリーが10月6日スタート  AERA DIGITAL",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FZHEyRGdLaGJwaVJJbFB3RnIwSjBJMzFOTTJJNGZCZFlyQVNFdnRvdFJGQlNvWk1fR0VPOE1fTW42WHVSbkp6OElQWFktdmsyYmtwU2pn?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
-            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
-            "source": "ウォーカープラス",
-            "published_at": "2026-10-05T09:03:12+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-e6312c3dd871557a59298208b7d88c2a",
             "title": "令和８年10月６日及び７日に交通規制を実施します",
             "source": "pref.aichi.jp",
-            "published_at": "2026-10-05T16:52:49+09:00",
+            "published_at": "2026-10-05T22:37:56+09:00",
             "category": "暮らし・交通",
             "area": "愛知",
             "summary": "令和８年10月６日及び７日に交通規制を実施します  pref.aichi.jp",
@@ -199,25 +199,14 @@
             "image_url": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ed96029f5a5606d1dde62924923835d5",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
+            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
+            "title": "愛知県の今日のアメダスの記録(10月05日)",
             "source": "tenki.jp",
-            "published_at": "2026-10-05T12:31:29+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-06d1243aa5377b25e5d87bd7d58abf02",
-            "title": "愛知県青年海外協力隊を支援する会主催-「途上国とのお付き合い」第3弾!!-",
-            "source": "jica.go.jp",
-            "published_at": "2026-10-05T16:54:46+09:00",
+            "published_at": "2026-10-05T22:05:33+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県青年海外協力隊を支援する会主催-「途上国とのお付き合い」第3弾!!-  jica.go.jp",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmIwSWZyN0xfWEg5Y2Vfa1R3U1N3VzF6YnItU1duODgyWmtaZGdRN3ZZMXlnZUxKeDZaYkZKS0J6ZkNiWEFRNHZ0YVU3TkprZlVCell3T29aMmdYdko5ZlM5d250OFZBNmFRcDdVYWVicjk0TnRodG1ja0NtMWRTXw?oc=5",
+            "summary": "愛知県の今日のアメダスの記録(10月05日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -232,59 +221,103 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-de1ace0f7e34175d443ba47ec6850149",
-            "title": "年収が高い会社ランキング2026【愛知県・100社完全版】トヨタ自動車が3位、では1位は？",
-            "source": "diamond.jp",
-            "published_at": "2026-10-05T06:00:00+09:00",
+            "id": "news-06d1243aa5377b25e5d87bd7d58abf02",
+            "title": "愛知県青年海外協力隊を支援する会主催-「途上国とのお付き合い」第3弾!!-",
+            "source": "jica.go.jp",
+            "published_at": "2026-10-05T16:54:46+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "年収が高い会社ランキング2026【愛知県・100社完全版】トヨタ自動車が3位、では1位は？  diamond.jp",
-            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDckpZRmlobmFDby03QjZvajlvUlBRLTdJdGV2b3liekMxQkNnWFQ4Mmx5TVhXZXpzeVRtcUFFRlRadTVSbHU1MXdZQjnSAU9BVV95cUxNQUU5N19JTE5jcktEdTZCVE1xZ1pzU19SekNxRWtfejZhVXRSYzhEVElzSEJqb3ZKS3FQR3prTFJwZjdjbFNrbTZQSGRiM1Nv?oc=5",
+            "summary": "愛知県青年海外協力隊を支援する会主催-「途上国とのお付き合い」第3弾!!-  jica.go.jp",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmIwSWZyN0xfWEg5Y2Vfa1R3U1N3VzF6YnItU1duODgyWmtaZGdRN3ZZMXlnZUxKeDZaYkZKS0J6ZkNiWEFRNHZ0YVU3TkprZlVCell3T29aMmdYdko5ZlM5d250OFZBNmFRcDdVYWVicjk0TnRodG1ja0NtMWRTXw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-db091156a4a677eef7e677a4d642ba90",
-            "title": "アジア大会 愛知県知事「大きな混乱なかった」…総括記者会見で見解 トラブルには謝罪 ：地域ニュース",
-            "source": "yomiuri.co.jp",
-            "published_at": "2026-10-05T07:30:00+09:00",
+            "id": "news-0b04722d26eb8ab2b795a6f0170f9aa9",
+            "title": "愛知県小牧市のスーパーで販売の「しらす干し」にフグ混入か 加工業者が自主回収",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-05T20:40:15+09:00",
             "category": "市政・行政",
-            "area": "愛知",
-            "summary": "アジア大会 愛知県知事「大きな混乱なかった」…総括記者会見で見解 トラブルには謝罪 ：地域ニュース  yomiuri.co.jp",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xenF4emVCdHZYSHhHdkM5bS1zTng1YWZrVFJtaWk0R2xlTzl2cjdQT2p1NmJjNGk3OHZrOHJTNUNBUE1TUXk4NUg0TUVBaHNZSWRaa3VRRFFJWVFCYTFCa0xPRTFHSjJ1WjNfTWRqTGg?oc=5",
+            "area": "尾張",
+            "summary": "愛知県小牧市のスーパーで販売の「しらす干し」にフグ混入か 加工業者が自主回収  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95Q3pEcFhXY0MwS3VQaWNjVlJyTzZIOGpIN24waGJiMEdTMndCVWh2akhPM09MSkxrcmxsSWtNNW9lRkVEcWhGWEI5enlCb2tUbU01MQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-a404775e0da55ed848c7a4aa96d43c72",
-            "title": "あいちの鉱工業（2026年7月分）",
+            "id": "news-f2572f96480ad49d8c12e28c89c01c86",
+            "title": "【愛知県】10/6の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-05T19:30:53+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【愛知県】10/6の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUWDBwRTAtUlgwb3drLVJjcFdQUEtqemlpSWtuWDJFblg1bVJacTBIV1dESTdXcnVkRi1rMkR4bnIwajltUkRHOUU3NTFtdUJvUDlXTlpkTl9hX2R4TWVibkY2NXhWNU9aVklUYmwzZ3FSVHFralRRVG9iS0ZoQnc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ed96029f5a5606d1dde62924923835d5",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-05T18:31:28+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f42ac0a8650aa4a35ade7a61d2af0860",
+            "title": "経済労働委員会審査状況（令和8年7月2日）",
             "source": "pref.aichi.jp",
-            "published_at": "2026-10-05T11:22:38+09:00",
+            "published_at": "2026-10-05T18:19:42+09:00",
+            "category": "ビジネス",
+            "area": "愛知",
+            "summary": "経済労働委員会審査状況（令和8年7月2日）  pref.aichi.jp",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xQ21TVi1jVHBHeEFETDU4bjVvQ0VuM1ZGRkVCaEZKX0FOQzU1VVJBTVlJbVZGdU81M0dxOHkwVjJUc2FRSEJ2cTY0X2RYMTNrd2xqamM2ajI4NTUta3hOaHR2R3pURUpHTTVURUc3OHA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-118275ab26209cc2fdd9ec5ea00c02fa",
+            "title": "経済労働委員会審査状況（令和8年7月9日）",
+            "source": "pref.aichi.jp",
+            "published_at": "2026-10-05T18:19:41+09:00",
+            "category": "ビジネス",
+            "area": "愛知",
+            "summary": "経済労働委員会審査状況（令和8年7月9日）  pref.aichi.jp",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RaEtiVm52ajZ5ME95WERoTkFINUEtNE8xREVmcXNIT2pSMTZYeWp2cjV4SGx5SUFSMXJMSFUyYnNBRFlXVjlPbmFabjdhVm5YWk1ZRUJzZU90VTR0d1JvZTBmdHVxMnRIbkZhLWRtUnI?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-70c936ab0e15922e391d10965e07293e",
+            "title": "愛知県の雨雲レーダー(予報)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-05T17:35:56+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-8d919c67fe8c51a1f2c22e4ffeea8f21",
+            "title": "経済労働委員会審査状況（令和8年6月23日）",
+            "source": "pref.aichi.jp",
+            "published_at": "2026-10-05T18:19:41+09:00",
+            "category": "ビジネス",
+            "area": "愛知",
+            "summary": "経済労働委員会審査状況（令和8年6月23日）  pref.aichi.jp",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pZjd2Q0dQdl91bVc2a05wUmpoUHllRXZpUVJoSXl0MTNTSC04Y3RSYmYzWGstV2dCeXNCREdkcVllcV9oeU90bDV1dlMzYzBqc3Y5Z0psdEh3ekJldjQwWXJDcnUtakd6TXFVOC1PcDM?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-1af89d3d7702d62f1c9a6f20b2ff7255",
+            "title": "議員定数等調査特別委員会審査状況（令和8年7月2日）",
+            "source": "pref.aichi.jp",
+            "published_at": "2026-10-05T18:19:42+09:00",
             "category": "一般ニュース",
             "area": "愛知",
-            "summary": "あいちの鉱工業（2026年7月分）  pref.aichi.jp",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ySU96Zm1DdmtyZ2VFY0szUXo5RVJNeFlSQ255MUZsT0RSbGRxZTc1THFON1BkMkVuUzdKSF9rWVAyVG1oUGNoQWFaMXJsZ1RNVUZLVklTUmJjSnFraE1RRmNzTmdBdVVweFBMcVA3SjBETW8?oc=5",
+            "summary": "議員定数等調査特別委員会審査状況（令和8年7月2日）  pref.aichi.jp",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KSnBoWkVYb0ZjNURUczFhX2YtZGNJTzFSN2FUZHBVdkMtZFFTdGRxNFE2RFVSSEV4Wm13aU9NNk1CaVFmWEdQTjdSNlRjNmpGejhaSzhvRFdxNnBnd1hmdTdPU0Z1R3JpSFh6elBZZ08?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-7a5943ec59b4db887481146d9573f040",
-            "title": "アジア大会を総括した愛知県知事「大きな混乱なく全競技を実施」…送迎トラブルなど「申し訳なかった」とも",
-            "source": "yomiuri.co.jp",
-            "published_at": "2026-10-05T16:00:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "アジア大会を総括した愛知県知事「大きな混乱なく全競技を実施」…送迎トラブルなど「申し訳なかった」とも  yomiuri.co.jp",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42UTI4YmU0UF9zbmdwQ1hpOXVVd0FwT0U1bmh0b2ctdzJqaVhPUmRWb0pWZS1IR0h0b0FhVFpDbDJkRm9GM3NHemROSE9HX19iV09YZjRYREd4THhaaFl1aUpKZWlZc0Nn?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-62f583baf773d9a3b8aa05fce01bd46c",
-            "title": "第60回アジア開発銀行年次総会 半年前講演会 「アジア・太平洋地域の開発の現在地」を開催します",
-            "source": "pref.aichi.jp",
-            "published_at": "2026-10-05T11:22:39+09:00",
-            "category": "観光・イベント",
-            "area": "愛知",
-            "summary": "第60回アジア開発銀行年次総会 半年前講演会 「アジア・太平洋地域の開発の現在地」を開催します  pref.aichi.jp",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zMi1kLVNHVnVDQjhrZGFTM0JNaHJwX0FWc3Y3TUd1Wk9aOUkwNkhWNW1DenRrTnViVFNyTjRfbTFfTU5tMjFlZVR0eWloOGVSRDdxZjZ0SEFoZzEySjQzc0N2Rmc5dFlxRG9DUmVR?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-c1aab7d820f3d30817956c9fc59dd4b3",
@@ -298,37 +331,15 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-d429142833345db00d0e34b97c3198de",
-            "title": "フッ化物洗口についての説明動画を作成しました",
+            "id": "news-a404775e0da55ed848c7a4aa96d43c72",
+            "title": "あいちの鉱工業（2026年7月分）",
             "source": "pref.aichi.jp",
-            "published_at": "2026-10-05T10:33:11+09:00",
+            "published_at": "2026-10-05T11:22:38+09:00",
             "category": "一般ニュース",
             "area": "愛知",
-            "summary": "フッ化物洗口についての説明動画を作成しました  pref.aichi.jp",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00RThVamROTUdybXpVcnA0WUZ4clRpcm9VbzlBLTR2SVl5SkpMNGdqTXBKOHhpMmxXcTk4R0xxOGpTbmg1ZWowUFVhOGZkbmhtcURxOWpkck11WVFsZlpCN0c3OWRIWU1tQkdvNjF3?oc=5",
+            "summary": "あいちの鉱工業（2026年7月分）  pref.aichi.jp",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ySU96Zm1DdmtyZ2VFY0szUXo5RVJNeFlSQ255MUZsT0RSbGRxZTc1THFON1BkMkVuUzdKSF9rWVAyVG1oUGNoQWFaMXJsZ1RNVUZLVklTUmJjSnFraE1RRmNzTmdBdVVweFBMcVA3SjBETW8?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-5938778d7d425245175d8b2de8601710",
-            "title": "トヨタ子会社の営業秘密漏えい容疑 元社員2人を逮捕 元上司と部下 [愛知県]",
-            "source": "asahi.com",
-            "published_at": "2026-10-05T17:45:00+09:00",
-            "category": "社会",
-            "area": "愛知",
-            "summary": "トヨタ子会社の営業秘密漏えい容疑 元社員2人を逮捕 元上司と部下 [愛知県]  asahi.com",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fb3hzV3Y4NlVGSUVzUkVTTFlQTVhTYndsTUtrcHNzWUc4cGR2WnRJWjJGZXZHLTlTUHVHY3NweURnU0FHNUQzNXJPYjFiaWU2SGFQTHhGV3RlOGIyVlUzUzV5TFZKc3M?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f2ee8b2ba4a72c3275ff283876f140b2",
-            "title": "アジア大会閉幕 トラブル相次ぎ愛知県知事謝罪「予想しない問題に対応の毎日」",
-            "source": "テレ朝NEWS",
-            "published_at": "2026-10-05T09:46:28+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "アジア大会閉幕 トラブル相次ぎ愛知県知事謝罪「予想しない問題に対応の毎日」  テレ朝NEWS",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YUVAweTFsdHYwRVZOMktNc0VXak0zSHNsUEJXSHVvYW83TGhHaDRCWVRJYmtucmhFbmxJZ2FlRGpHV25JZWEwbFpnOV9iVXNmQnpyRlNBckhZS2J2ZkkxR0twa3NsUVhRSEJHRjJCYktHZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
