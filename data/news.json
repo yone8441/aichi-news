@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-06T19:01:07+09:00",
+    "last_updated": "2026-10-06T23:55:00+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,7 +9,7 @@
         "temp_min": 17,
         "rain_prob": "0%"
     },
-    "total_count": 30,
+    "total_count": 29,
     "articles": [
         {
             "id": "toyohashi-city-92146edd545ea49c414a825e1af0381d",
@@ -78,15 +78,37 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-a5dff674fbef74a735c106ac0e770f94",
-            "title": "豊橋の羽田祭で手筒花火奉納 松井さん親子三代で夜空染める",
+            "id": "news-77f5201e0c7828ac72c77f983592f533",
+            "title": "豊橋の書道家 浜野龍峰さんが外務大臣表彰 南米での書の普及活動を評価",
             "source": "東愛知新聞社",
-            "published_at": "2026-10-06T17:00:28+09:00",
+            "published_at": "2026-10-06T20:52:19+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "豊橋の羽田祭で手筒花火奉納 松井さん親子三代で夜空染める  東愛知新聞社",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wX1o5V3hBcFpyTmU1UlJCbUwwQzJUM2VVMjRlMWJiTVFDWXQ4OFEweHphRUlodDR1RXJLN3dQSno0a1o2OGpMdS1uVDZPOHZVLUJucDEtOTNyYjdD?oc=5",
+            "summary": "豊橋の書道家 浜野龍峰さんが外務大臣表彰 南米での書の普及活動を評価  東愛知新聞社",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1teFIxMFpLR09zaTRkSm5UTTRNaENwTy1VOVhEVzF4cl9PR3Q3WlJVWFZtTmZxb3EwUVRZWHJ3SGt5V0RaWnBEcmxlMG1sMTNKMXhDRnNULWVRaW5B?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-0e035162d3543194ddac3eadd46220d6",
+            "title": "アジア大会でパレスチナチームを観戦「参加することに意味」 ルーツ持つ豊橋の男性「紛争絶えぬ状況を知って」",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-06T19:49:58+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "アジア大会でパレスチナチームを観戦「参加することに意味」 ルーツ持つ豊橋の男性「紛争絶えぬ状況を知って」  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14WjJ1TjdkOVJBNjc3bWdZYWtKNjBCb05mWjRzMUh5Z3JjQ1VTUVpIY1FqMVo2NTZ4c2JEWk9TYXBRUVhGRnFQMzZSYW13TzhNeHl6ZA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ab85be54703a235d131e21a62452fd1f",
+            "title": "【豊橋市】開学50周年の節目！「第49回 技科大祭」が2026年10月10日(土)・11日(日)に開催！",
+            "source": "地域ニュースサイト号外NET",
+            "published_at": "2026-10-06T23:20:34+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "【豊橋市】開学50周年の節目！「第49回 技科大祭」が2026年10月10日(土)・11日(日)に開催！  地域ニュースサイト号外NET",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SZ0tXSlpvRDNBajFlLWhfOTNtMWxnUm9qc3dZaDZDRXpoOXZtQXlsamF0bjE0WjdMSUZzR1YzTno4OTZEVnRjTVdaMURkTjVuYWpKR1djX1dIdi1PVlZid01hdmJKcG92bjhR?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-a2c418309bced0862e40958f1b2259c4",
@@ -102,11 +124,11 @@
         {
             "id": "news-b241cdbb76828a1e732b19fafb0ae279",
             "title": "戦慄のホラープラネタリウム＆真っ暗闇の地下資源館で科学×恐怖体験＝応募期限は10/17まで★初開催ハロウィン企画",
-            "source": "PR TIMES",
+            "source": "prtimes.jp",
             "published_at": "2026-10-06T14:30:02+09:00",
             "category": "観光・イベント",
             "area": "豊橋",
-            "summary": "戦慄のホラープラネタリウム＆真っ暗闇の地下資源館で科学×恐怖体験＝応募期限は10/17まで★初開催ハロウィン企画  PR TIMES",
+            "summary": "戦慄のホラープラネタリウム＆真っ暗闇の地下資源館で科学×恐怖体験＝応募期限は10/17まで★初開催ハロウィン企画  prtimes.jp",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pWkZzcW9JM0l5UzFSYWpfTll6aVR6S2ltYXJjM2J3dFBYRDN4aFFKZ19RVnJLQU53RlRJZk0wc1lXMy1tTVFUd0ROWHRKWkhfQnVScEVLa3F1bUcyMlhrbG5JT1BMSFdTU0E?oc=5",
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
@@ -122,36 +144,14 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-25359a831a060d72aca3ac91d2451a81",
-            "title": "数々のやらかしを抑え…豊橋技科大企画「絶望グランプリ」で鈴鹿高専生が優勝 大失敗から学んだこととは",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-06T05:05:00+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "数々のやらかしを抑え…豊橋技科大企画「絶望グランプリ」で鈴鹿高専生が優勝 大失敗から学んだこととは  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aei1ITzVFTTMxODgyVmJLUXBzSmhpczNicF9VR2I5TU5LTHZCVkFZMXpQWXZpUl9KZVpMQmZvTFhtT2l0dHBNZ2p5VjBORkdZOUNWeQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
             "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
-            "source": "walkerplus.com",
+            "source": "ウォーカープラス",
             "published_at": "2026-10-06T09:00:32+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  walkerplus.com",
+            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
             "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ec564dfaaad98bd8136d91397149b407",
-            "title": "愛知県の雨雲レーダー(実況)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-05T14:07:31+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(実況)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -166,21 +166,10 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-08e28e76c22f0855efe608961fee7c55",
-            "title": "新着情報“アルファード3．5エグゼクティブラウンジ”2015年式ブラック入荷しました！",
-            "source": "221616.com",
-            "published_at": "2026-10-06T02:21:25+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "新着情報“アルファード3．5エグゼクティブラウンジ”2015年式ブラック入荷しました！  221616.com",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaQnZ6VjlaNFVScURKelFIWV9TVzVnU0QyUGt5dzJRN2ZJUGVmRHVWZkduZE5Jb1YzZUdCSHZGSzhOOV9JaUxpN2I1X0hQT2tmZmxwUWVsQnVybzVmVXRQN1RXTVVNOGJISEVfTjVtNUFUT09QRWlGcmg0VG96aTQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-6c8b504c6039733c099a4cd380ab1763",
             "title": "豊橋の居酒屋「ひっぱり凧」を「どんべえ」が事業承継 豊川信金豊橋支店内の取引先同士がM＆A活用し事業譲渡",
             "source": "東愛知新聞社",
-            "published_at": "2026-10-06T17:11:05+09:00",
+            "published_at": "2026-10-06T23:15:24+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
             "summary": "豊橋の居酒屋「ひっぱり凧」を「どんべえ」が事業承継 豊川信金豊橋支店内の取引先同士がM＆A活用し事業譲渡  東愛知新聞社",
@@ -188,25 +177,58 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-cd3fc5de632d7844e9d27c662708b950",
-            "title": "（その1７）～ 混雑緩和にご協力を（アジアパラ競技大会）",
-            "source": "pref.aichi.jp",
-            "published_at": "2026-10-06T17:42:56+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "（その1７）～ 混雑緩和にご協力を（アジアパラ競技大会）  pref.aichi.jp",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hSXhkUVFEQnBfeFJ5cUd4cWVMY0NWREJpZlZXZFRxUUVyNTRqMkM1U3JRNmpHZm5McVMyUTJiQnVYMXMzdl9VSGt2d0tyQkpCM0FKXzBLRVoyT3NoNjZYR0hGNnRBVFRWNzVCZEhiTQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-ed96029f5a5606d1dde62924923835d5",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
             "source": "tenki.jp",
-            "published_at": "2026-10-06T13:05:32+09:00",
+            "published_at": "2026-10-06T18:31:29+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-0b263eb59d6accc82759176a2065a82b",
+            "title": "教育・スポーツ委員会審査状況（令和8年6月25日）",
+            "source": "pref.aichi.jp",
+            "published_at": "2026-10-06T18:19:36+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "教育・スポーツ委員会審査状況（令和8年6月25日）  pref.aichi.jp",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UbXMxenM1WlBpRXJlel9Xdkh6RTFJMTNOdzF0UkZ2b2dBVGtyUXJtYW5IcTY0aFh1NWg3RmlOUkk5eC1tSTVOaVoyZkxMUW1qUVFCX2REWHZMbG1oSDkwWGdQLWotZmxIalFDeUdBWWs?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-e5f676121acb785559389efa667bd3d9",
+            "title": "アジアパラ大会の聖火採火式、西尾でスタート 愛知県の31市町村で順次実施、生徒らが選手へエール",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-06T20:48:12+09:00",
+            "category": "市政・行政",
+            "area": "三河",
+            "summary": "アジアパラ大会の聖火採火式、西尾でスタート 愛知県の31市町村で順次実施、生徒らが選手へエール  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12a2dSVDBXRjBXTlNvVmFhdVVDV1lzQ1ZrTndNSG1ZSFVnWWZxUFBuQ3d3YnlYWmIxcXlwdW80M2paeFl1NDVGOGlTZm1oSnI3THF2Rw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-3dd06036fcb6b9a9a42338379547b334",
+            "title": "【愛知県】10/7の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-06T19:31:07+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【愛知県】10/7の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96LUxwZmkwLVZFckNkVEpzbklSby1ScmNhUzF1bGh0UFFJU2ttQWpCZVl2SGg5RzhEZEViQU9PelBndmxTT1NCU1pWZjJBVWtxMFNwcVBsamo1WndsOTJBbjVIalpsdWRRVVE3UXdDeWxJZ2VKbTdnMTc4alFKV0k?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-43dfea853af65f6af16871ca15ca8a23",
+            "title": "愛知県職員の月給・ボーナス 5年連続で引き上げ勧告",
+            "source": "NHKニュース",
+            "published_at": "2026-10-06T20:41:36+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県職員の月給・ボーナス 5年連続で引き上げ勧告  NHKニュース",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhamY1UFR0dnRaRUxHNExPRFNIOXNpSzhnU0Fua1ZPUkd0N0ZDdVZlVURlY3RPenJPUDNzVHhjS3pacU5LMHMyODZDWkFUU0lDZ201WmtSOTJtSVRqTlhR?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -232,6 +254,28 @@
             "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-b7297c53ae0ed9c88f35873f45244e40",
+            "title": "愛知県名古屋市のプラモデルの買取に特化した店頭・出張買取専門サイトをオープン【株式会社コクメイ】",
+            "source": "prtimes.jp",
+            "published_at": "2026-10-06T17:35:07+09:00",
+            "category": "観光・イベント",
+            "area": "名古屋",
+            "summary": "愛知県名古屋市のプラモデルの買取に特化した店頭・出張買取専門サイトをオープン【株式会社コクメイ】  prtimes.jp",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BTXlkdzZDeVVzZklmTEgzOVhjR3V4Q3NrQ3BLRjkzSjh6V0c0aE9vZzZKeU9FQ2pfUU9lNHB1YXhVSEFYMG0yR2VfLXdpMzI0S0pfaWJFa0JiNDJaZmxKQmFickhndkhwRFE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
+            "title": "愛知県の今日のアメダスの記録(10月06日)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-06T17:16:43+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の今日のアメダスの記録(10月06日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-e41711b792be6bdc2bd951337d07bf80",
             "title": "第74回全日本吹奏楽コンクール高校の部 出場団体｜審査結果・出場団体・演奏曲｜吹奏楽プラス",
             "source": "朝日新聞",
@@ -243,103 +287,48 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-6ee63001c7a4ccbf08675d1a6a01ab31",
-            "title": "佐川グローバルロジ／愛知県大府市に1.8万m2の営業所開設へ、製造業の物流ニーズで",
-            "source": "物流ニュースのLNEWS",
-            "published_at": "2026-10-06T13:59:11+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "佐川グローバルロジ／愛知県大府市に1.8万m2の営業所開設へ、製造業の物流ニーズで  物流ニュースのLNEWS",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DRkc0OHBFWTdncEsxSUlJLTV3bGVTVHZGa3lCTm5iRlpYdURaWlN1VVFmMmFydUdtODNESzVvN0c5R2RBZWd0elY0TUNyOEw3Yl9ySg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-11c02c0cd3214a0543f7a9af5b0f3047",
-            "title": "新たに、愛知県大府市に「大府営業所」を開設",
-            "source": "共同通信PRワイヤー",
-            "published_at": "2026-10-06T11:00:00+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "新たに、愛知県大府市に「大府営業所」を開設  共同通信PRワイヤー",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mbTlFeTJ2ejhhZWVmZTZLOU45U0Frc0o0Y3BnVkVpbmctQzNIRGlNclRoM3VaTk45Z3B1Z0paRW01V0diWFE3UXNHVFU2VEtoUFBiUkNVNnJhM2c?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-de881de8697c3814ebe160d54d61020f",
-            "title": "東海北陸代表８組の歌声が響く！ Ｎコン高等学校の部 出場校紹介",
-            "source": "nhk.or.jp",
-            "published_at": "2026-10-06T14:59:11+09:00",
-            "category": "一般ニュース",
+            "id": "news-0d15d967d1221d0915eb27ce0b86de5d",
+            "title": "（その1８）～ 交通規制のお知らせ（アジアパラ開会式）",
+            "source": "pref.aichi.jp",
+            "published_at": "2026-10-06T17:42:59+09:00",
+            "category": "暮らし・交通",
             "area": "愛知",
-            "summary": "東海北陸代表８組の歌声が響く！ Ｎコン高等学校の部 出場校紹介  nhk.or.jp",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZNmJrZlFGelU0VzdGMm0yMFJIbEdDbnNiRXVFZ25UeXU2X2x5UmFpV1M0bUg2UW56M0tJNTdNcl90Y1NJdFJ2WmJhVlE3SXpILWRzMnRXRmp4QjBHOHRHa01vbFY?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "summary": "（その1８）～ 交通規制のお知らせ（アジアパラ開会式）  pref.aichi.jp",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HeFdac1BHMU1zVndfX25obHVwWVREeW1MaFF0U3V0WGRRUElTV3poejYtaUc2eEZ2WENJMFQ4VnNXRmYwWEVycWVsenpGdVJRSGowWm91VXFmcU5Ic2RBaFNTZE9qTkduQUpueXI4Ry1qZ1VE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-859a273a6293570bd64542d21099383f",
-            "title": "「HKT48 15th Anniversary Live Tour」愛知会場グッズ販売のお知らせ",
-            "source": "hkt48.jp",
-            "published_at": "2026-10-06T18:03:10+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "「HKT48 15th Anniversary Live Tour」愛知会場グッズ販売のお知らせ  hkt48.jp",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wQ0plTkwyOS15Y09rWlFZbm1JTHVWY2RWTVp3ZWpYa3dTNXNPbWlLNkxfRDI2TkY1VzZQN3N5Yk1PRlA0d2hIam5ETFQwVGlQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-b5d78e568ca1bd1e3bf39d772b858a12",
-            "title": "アジア大会「全競技完遂」愛知県の大村秀章知事、相次ぐトラブルには「控えたい」深い言及避ける",
-            "source": "日刊スポーツ",
-            "published_at": "2026-10-06T18:00:55+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "アジア大会「全競技完遂」愛知県の大村秀章知事、相次ぐトラブルには「控えたい」深い言及避ける  日刊スポーツ",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdndMV3JkTUQyZ253dThmY3JVNVZZdUcwWkdMWkU1YXVWVEdaQnVNeWh4Um9ONzRId0p5Z0pyX2FIb1ZsYnp1TjNoZGl2aUdJX0J1Z1Ziakg1UGhubXZEbzdZYnlmMnREMkJlX3dmWkc5ZzYwRnJ4a1NSVVBJalVJaklBNmZBM0Y2R0tiZQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-11218489967a264a4cd754345c1e10b1",
-            "title": "愛知県豊山町が10月の「3R推進月間」に不要品リユース事業で「おいくら」と連携を開始",
-            "source": "PR TIMES",
+            "id": "news-f7526c6a733b0d9d07ace48686823331",
+            "title": "愛知県豊山町とリユースに関する協定を締結",
+            "source": "prtimes.jp",
             "published_at": "2026-10-06T15:30:02+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県豊山町が10月の「3R推進月間」に不要品リユース事業で「おいくら」と連携を開始  PR TIMES",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mR2w0N0VpeGNqWVF1cFV6ZVA0M1ctVWVoOXFmeWJYTHdrUWpCX29DN2ZWRkI0UkptdFBzX0VlWkhaZDg0RkZCTmV2eXZIV05VdDIxMkZncWVkb25zR1pLSlE5TDJJRVB6dVE?oc=5",
+            "summary": "愛知県豊山町とリユースに関する協定を締結  prtimes.jp",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LX2swSnNCYjZOdmgyNEU4RXcyNU44VUNmWXB4ZUloaERndkpYOEw3b1lMa2Q5VEFRMGNGbUJ4ZkE4NklSRW00a1dvV3J5cWxoUHdyQlk1OWcwNU1jZE5hNFhHbXVldHdQQ0E?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-0f2b1988d43fc59221b5902f0ef7adc0",
-            "title": "アジア大会組織委トップの大村愛知県知事「大きな事故もなく完遂できた」OCA提示の関係者数が当初より2千人増に苦言",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-06T11:52:12+09:00",
-            "category": "社会",
-            "area": "愛知",
-            "summary": "アジア大会組織委トップの大村愛知県知事「大きな事故もなく完遂できた」OCA提示の関係者数が当初より2千人増に苦言  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYWkpwQnRpaFJJZXFZQlFZTW44d002RUI0YVVvTjVxcjRpQU1yQ2VqSmJpYVBTY2VZc3hKckszN1UwQ2dLZE4yaVNYUXhrYURGSTlSTkRBYmlhZkh4Rmx4NXlrN2NBM0FCVUo0allvMFFWYUxVZjlXakxCNGNxdGM?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-40cea453bb0b852ab0036db22049d9d4",
-            "title": "外国人の子の日本語学習、愛知県が応援 新基金に5000万円拠出、個人の寄付も募る",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-06T12:00:00+09:00",
+            "id": "news-70c936ab0e15922e391d10965e07293e",
+            "title": "愛知県の雨雲レーダー(予報)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-06T17:00:33+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "外国人の子の日本語学習、愛知県が応援 新基金に5000万円拠出、個人の寄付も募る  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XZS1tVV9IR2diaHNfcEtMY09NUmphei1mYnFBaG4xbGUtbWNuZUlneWNVbU5rUnREMlNSNXBvSUVvaGItRWFCS1pTcE5zcEV2WTNUTw?oc=5",
+            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-e6312c3dd871557a59298208b7d88c2a",
-            "title": "令和８年10月６日及び７日に交通規制を実施します",
+            "id": "news-cd3fc5de632d7844e9d27c662708b950",
+            "title": "（その1７）～ 混雑緩和にご協力を（アジアパラ競技大会）",
             "source": "pref.aichi.jp",
-            "published_at": "2026-10-06T07:41:53+09:00",
-            "category": "暮らし・交通",
+            "published_at": "2026-10-06T17:42:56+09:00",
+            "category": "一般ニュース",
             "area": "愛知",
-            "summary": "令和８年10月６日及び７日に交通規制を実施します  pref.aichi.jp",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SUTVEMFlzOXdhbE1YWGpjazBETEFrMDlnc01uZkVOQlhTZjFYUHNoY19xWlZISHF0X0laaVdSc1pPcnA5aW9wTlhIaGtOUllobUY4RnFKQnNHSTF2OWFwWkFDSzJCYWs?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=400&auto=format&fit=crop&q=80"
+            "summary": "（その1７）～ 混雑緩和にご協力を（アジアパラ競技大会）  pref.aichi.jp",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hSXhkUVFEQnBfeFJ5cUd4cWVMY0NWREJpZlZXZFRxUUVyNTRqMkM1U3JRNmpHZm5McVMyUTJiQnVYMXMzdl9VSGt2d0tyQkpCM0FKXzBLRVoyT3NoNjZYR0hGNnRBVFRWNzVCZEhiTQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
