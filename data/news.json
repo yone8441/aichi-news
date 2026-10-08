@@ -1,15 +1,15 @@
 {
-    "last_updated": "2026-10-08T00:21:56+09:00",
-    "update_session": "夕刊便（17:00配信）",
+    "last_updated": "2026-10-08T10:42:24+09:00",
+    "update_session": "朝刊便（07:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "晴れ　夜遅く　くもり",
+        "condition": "晴れ",
         "icon": "☀️",
         "temp_max": 27,
-        "temp_min": 16,
+        "temp_min": 27,
         "rain_prob": "0%"
     },
-    "total_count": 29,
+    "total_count": 30,
     "articles": [
         {
             "id": "toyohashi-city-802092aaaa0444ce0979c0bb3c489792",
@@ -20,17 +20,6 @@
             "area": "豊橋",
             "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
             "url": "https://www.city.toyohashi.lg.jp/item/125827.htm#itemid125827",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "toyohashi-city-dc3e58dbae2b03460827dae104e224de",
-            "title": "豊橋市健幸なまちづくり協議会歯科保健推進部会を開催しました",
-            "source": "豊橋市役所",
-            "published_at": "2026-10-07T09:00:00+09:00",
-            "category": "市政・くらし",
-            "area": "豊橋",
-            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
-            "url": "https://www.city.toyohashi.lg.jp/item/82978.htm#itemid82978",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -78,6 +67,61 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "toyohashi-city-3395fb308161e1de95bd6bf78871e5ed",
+            "title": "令和8年　防災功労者　内閣総理大臣表彰を２団体が受賞しました",
+            "source": "豊橋市役所",
+            "published_at": "2026-09-25T11:56:00+09:00",
+            "category": "市政・くらし",
+            "area": "豊橋",
+            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
+            "url": "https://www.city.toyohashi.lg.jp/item/125975.htm#itemid125975",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-176656577b2d44902b5675d2ff0101b2",
+            "title": "【豊橋市】10/8 最高27℃、最低16℃、昼間は晴れてやや暑さを感じる場面もある予想【朝版】",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-08T05:29:26+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "【豊橋市】10/8 最高27℃、最低16℃、昼間は晴れてやや暑さを感じる場面もある予想【朝版】  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhUV9QYVFsNXlwVUpiLURqTG9XcUpDTGxIQmxPT1VqakhqWWVyb3k4MTZNclN5bFprajd0SG94N05zNWxkSVhXNG4zU3JaOTVmaUlRalY2aDh5RG5udVlUY1RwM2ZCenRoM25ZU2tfTnZFbWI3TDFpRW5JeDFUMVE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
+            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
+            "source": "ウォーカープラス",
+            "published_at": "2026-10-08T09:38:29+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-d3a6eca2b5c4332f528240720fe185a6",
+            "title": "【豊橋市】残席わずか！稲垣潤一がアイプラザ豊橋に登場！名曲の世界に浸る至高の一夜",
+            "source": "地域ニュースサイト号外NET",
+            "published_at": "2026-10-08T07:36:43+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "【豊橋市】残席わずか！稲垣潤一がアイプラザ豊橋に登場！名曲の世界に浸る至高の一夜  地域ニュースサイト号外NET",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MM2pVT2lxMHRUZG92TGh2Z3R5NVFrdzQzMUFEYUpvNVFpSDBCN3hRQjFiZVRoX1VPN3lqTE1HWVdCMUFpMWdlbnNUZEdkaGNUSUVXcWhmMUpYNkRRNlo0a2tCY3Vfay1QWXdvVmdjczlWMC0yWG9N?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-726f358c72b44ef1b0593ff15ac92183",
+            "title": "“花火” 原材料を中国から輸入も… ｢昔は安かったが今は高い｣ 紙筒の専門業者が廃業… 伝統の手筒花火を自作 愛知･豊橋市",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-07T20:28:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "“花火” 原材料を中国から輸入も… ｢昔は安かったが今は高い｣ 紙筒の専門業者が廃業… 伝統の手筒花火を自作 愛知･豊橋市  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WYlRpbjl5c1N6VHRaSDMxcU8xOW1sNjhhVk0xMVRvSHQwNXVXVkdvVGpFSWJqVnBkQ2Z4RHZDOUtPTFJ0M0FMbTBZdk1kaVBzWUZUWVRtS3hxdVloazV3?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-c66c8f217eddbb5aa6717d42d5790ca2",
             "title": "りそなグループ Bリーグ 2026-27シーズン 市町村DAY 開催日決定のお知らせ",
             "source": "三遠ネオフェニックス",
@@ -86,6 +130,28 @@
             "area": "豊橋",
             "summary": "りそなグループ Bリーグ 2026-27シーズン 市町村DAY 開催日決定のお知らせ  三遠ネオフェニックス",
             "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4NERfamViRWlkUHhJcWR4X1U4T0ZkYTExaHUwY29yMUVyOWxDUUw3d3pfcDlfNDRKQ1BRazhXZmF4ZWp0RGJZLUpIdTU5T2t2N1BPM3cxZUt5dw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f7cc8979396d74ac96c7bcfc9d33ba0b",
+            "title": "大作から器まで多彩に",
+            "source": "東日新聞",
+            "published_at": "2026-10-08T00:01:25+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "大作から器まで多彩に  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zVldqS3pCNVY0SDZYcjByNHNFdTdvRXl0QmdOMHMyTGVBc01oX0x4SENLakpDZlFKSzJwVG9qT1VwcWxzc09HVk1oYUFYRnBoWmlWeHd0NktJVWZj?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ca5a524e0ded7e71d6574c399efa2d6b",
+            "title": "【連載】エンジョイサッカー〈119〉フォルツァIT Aが接戦を制す 豊橋で「U8ヨシケイカップ秋」開催",
+            "source": "東愛知新聞社",
+            "published_at": "2026-10-08T06:04:33+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "【連載】エンジョイサッカー〈119〉フォルツァIT Aが接戦を制す 豊橋で「U8ヨシケイカップ秋」開催  東愛知新聞社",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BSkZJM3NsYXAyZkRLcmV5OERCcnhRNEFldThESXVYUnRNN1lnUERNdDFnNW9xVDZvOWx0V2Q0T0lSbThmUFhQTkI0eng1bG00anZacG9pQkpPM09q?oc=5",
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -100,91 +166,58 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-f7cc8979396d74ac96c7bcfc9d33ba0b",
-            "title": "大作から器まで多彩に",
-            "source": "東日新聞",
-            "published_at": "2026-10-08T00:01:25+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "大作から器まで多彩に  東日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zVldqS3pCNVY0SDZYcjByNHNFdTdvRXl0QmdOMHMyTGVBc01oX0x4SENLakpDZlFKSzJwVG9qT1VwcWxzc09HVk1oYUFYRnBoWmlWeHd0NktJVWZj?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
-            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
-            "source": "ウォーカープラス",
-            "published_at": "2026-10-07T20:19:30+09:00",
+            "id": "news-ec564dfaaad98bd8136d91397149b407",
+            "title": "愛知県の雨雲レーダー(実況)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-07T04:58:25+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
+            "summary": "愛知県の雨雲レーダー(実況)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-31e792a2b3391274859d4e66e39b93f9",
-            "title": "【豊橋市】10/7 最高28℃、乾燥、昼間は晴れる予想【朝版】",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-07T05:29:30+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "【豊橋市】10/7 最高28℃、乾燥、昼間は晴れる予想【朝版】  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuUjk4ZnNVS3NBTjlvbFBoM3FwdU1paXZHSS1FTW1vYjgzdWY5U3BMRVV1aE5mbFZpV1U4UmVveWdZR3REZjNQQmVZeWR0d19wclZnSXkxdklfa2pYUDBKRFJPLTVFc1NCUkxoZF9FTXNTMkVxMU1zRnhhTERyaEk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-dcfc6a2e65b9255e650872bc4d78826e",
-            "title": "「溺れるくらいのジューシーさ！」CBC友廣アナが果汁たっぷりのマスクメロンに悶絶！愛知・豊橋市の直売所を満喫『チャント！』",
-            "source": "locipo.jp",
-            "published_at": "2026-10-07T17:28:19+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "「溺れるくらいのジューシーさ！」CBC友廣アナが果汁たっぷりのマスクメロンに悶絶！愛知・豊橋市の直売所を満喫『チャント！』  locipo.jp",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3UUphRE5tZ1BNTUtzRU0tNGhXU2lJUldtb1pGVjliYzRFTlZlV19yeHpwVjM2dUlneEZKb3FZRmFtT1pOS29YVWxFMHRYZXpKY3NPZ09HNVhtbEVlcU1RSERfdw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ca5a524e0ded7e71d6574c399efa2d6b",
-            "title": "【連載】エンジョイサッカー〈119〉フォルツァIT Aが接戦を制す 豊橋で「U8ヨシケイカップ秋」開催",
-            "source": "東愛知新聞社",
-            "published_at": "2026-10-08T00:00:00+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "【連載】エンジョイサッカー〈119〉フォルツァIT Aが接戦を制す 豊橋で「U8ヨシケイカップ秋」開催  東愛知新聞社",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BSkZJM3NsYXAyZkRLcmV5OERCcnhRNEFldThESXVYUnRNN1lnUERNdDFnNW9xVDZvOWx0V2Q0T0lSbThmUFhQTkI0eng1bG00anZacG9pQkpPM09q?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-13e7c8e7d1760e4ca13d19750a4fdbdb",
-            "title": "アニメ『弱気MAX令嬢』と豊橋市自然史博物館がコラボ！キャラクターボイスによる化石解説音声案内やスペシャルコラボ展示な",
-            "source": "ニコニコニュース",
-            "published_at": "2026-10-07T20:15:24+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "アニメ『弱気MAX令嬢』と豊橋市自然史博物館がコラボ！キャラクターボイスによる化石解説音声案内やスペシャルコラボ展示な  ニコニコニュース",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1czVlUUNBNzhzbEs0R1RycHpIbjcyUndUNE94TUhCaWg0V0RzV0gtSmgxSkJ2clMwem1XTUdtZld4QkFhUTFQNmJQanNuR1I4ZlV1YXFFOERSM04xUnhCYlNCek5GWThY?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ca195d0323d614850e54491fd1147f92",
-            "title": "新着情報“ワゴンＲスマイルハイブリッドS”2025年式ソフトベージュメタリック/トープグレージュ入荷しました！",
-            "source": "中古車のガリバー",
-            "published_at": "2026-10-07T18:22:07+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "新着情報“ワゴンＲスマイルハイブリッドS”2025年式ソフトベージュメタリック/トープグレージュ入荷しました！  中古車のガリバー",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Gd2hncXNRSVNWd2Y5eld3NEhMN2llWkdwYVZtLVNKMFBfaFBzMXpKb2JpZkNLM3FndnBXTkJxNDdLUXVNMTZNM0FreVhvQ0trTTRCS1B3bV9fOUNhVW5ZTEp6MUxBZnUzREJ6WHBNWG5QYzdHQ1dpa002SlJBeTg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-ed96029f5a5606d1dde62924923835d5",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
             "source": "tenki.jp",
-            "published_at": "2026-10-07T21:31:28+09:00",
+            "published_at": "2026-10-08T06:31:29+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-9a282709b72c75a9742a7e0acd7793f4",
+            "title": "タイ、愛知・大村知事発言に失望 「日本がどれほど変わったか、如実に示している」 アジア大会：時事ドットコム",
+            "source": "時事ドットコム",
+            "published_at": "2026-10-07T21:44:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "タイ、愛知・大村知事発言に失望 「日本がどれほど変わったか、如実に示している」 アジア大会：時事ドットコム  時事ドットコム",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16NkhCX09BM1JaQXE1bVJkWkFMU2lKWERHbU16ZzdlYk10djRHYU5aWHlOMmYwWEJJVk9COG13ajF2TkltR0NUSm4ybEVEaGRTVEgxS0otTEwzcVRIZ1Ixa3hVOA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-d00857809bdd29594ade16f46a39d9ea",
+            "title": "アジア大会開催中に会場の愛知県国際展示場へ許可証持たず入場 愛知県議会の成田修副議長が辞任の意向",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-08T10:02:01+09:00",
+            "category": "観光・イベント",
+            "area": "愛知",
+            "summary": "アジア大会開催中に会場の愛知県国際展示場へ許可証持たず入場 愛知県議会の成田修副議長が辞任の意向  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52QUxQQjRva2tiM2lYX0UyT0NfYXRnSzRCS3R5WDV2N2JYcGthc05WUmpjTjlyaElfb1czX1c1bklJbTdwdlRncUREV1VQcWdybFdVdkVUdFBCYWhoTGk1QUg0SzlzQzlQMEZZWlR5WVZhSWFxTnotdV9nTml4UkE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-55c0bb124f89105163a0880794e85156",
+            "title": "ＩＲ整備めぐり愛知県は民間事業者から参加表明があったと明らかに 競争環境確保のため事業者名・数などは公表せず 中部空港エリアでの整備・運営主体を募集",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-08T06:39:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "ＩＲ整備めぐり愛知県は民間事業者から参加表明があったと明らかに 競争環境確保のため事業者名・数などは公表せず 中部空港エリアでの整備・運営主体を募集  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1SVZBM29EOFhlZ05BdWdmNTRKTVRZQ3luYjI3OHJTX0lnWWt3N0tRUi1CTzRaWTJudmQyVVdtbFN5M1RodUdGRTZRbWZJZWlmb0lFS0tuR0dobmpxVW1B?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -199,6 +232,17 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-ba2007c8fd9aea3b464432166c848090",
+            "title": "“スタンガン暴行”現金脅し取った疑いで5人逮捕 被害の少年は約２か月のやけど 愛知県",
+            "source": "日テレNEWS NNN",
+            "published_at": "2026-10-08T07:01:00+09:00",
+            "category": "社会",
+            "area": "愛知",
+            "summary": "“スタンガン暴行”現金脅し取った疑いで5人逮捕 被害の少年は約２か月のやけど 愛知県  日テレNEWS NNN",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUlBTi1KVFRGZUd4UXR5Wld3WE5aQUFzdjdmQ2JzNUlhYnhGWkY3dm5Va3EzR0FsVlgyUnRLQWhCamwxN3U0MUg1Y1BWWkd0N1FXVXRGWXhVTzlqRHlXN0FZTGNHWEMxTTFGZ05UMkFNOUxlNVVKSUoxSVY2djE3TGJWNDJWQVE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-b211d9b46ac6328b2a492bd9eab83d1e",
             "title": "情報漏えい相次ぎ 愛知県でも免許証番号変更を認める",
             "source": "NHKニュース",
@@ -207,6 +251,61 @@
             "area": "愛知",
             "summary": "情報漏えい相次ぎ 愛知県でも免許証番号変更を認める  NHKニュース",
             "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92N2plVVNPLTczQk82eDRlRVZTa3NidE9VSXRxa3JwMWZLTm0zZ2g1aU0yM2xTaXg0NWdVVmlpbnQ2WlVPVnhCZV9iNThuOWJhbkF3UWNWOGRiTG5wb000?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
+            "title": "愛知県の今日のアメダスの記録(10月07日)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-07T23:09:14+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の今日のアメダスの記録(10月07日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-56689e28d9833523bf3c42a3176112b3",
+            "title": "愛知・春日井市の住宅火災は通報から約13時間後に鎮火 火元の木造平屋建て住宅は全焼 周辺の建物7軒が焼ける 住人の女性（88）が病院に搬送されるもけがなし （CBCテレビ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-08T08:58:14+09:00",
+            "category": "社会",
+            "area": "尾張",
+            "summary": "愛知・春日井市の住宅火災は通報から約13時間後に鎮火 火元の木造平屋建て住宅は全焼 周辺の建物7軒が焼ける 住人の女性（88）が病院に搬送されるもけがなし （CBCテレビ）  Ya...",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kNHZMQTVGT0tLUFFPMklXc3lMTnUwbko1djNUMG8zbFdIbEloRUpqeXVMZlJnY3lmel9lS1gxdmVfM0tlbEp1T2pGZ2RjTThfTC1JRVFuM1F5ZkxWUGtLS1ZPVU5nSnFmaXNuQ1EzNURfbVFRTnkxX0dnRHJNTlk?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-c4849cb490124967231f5474ccb25a98",
+            "title": "愛知県の過去のアメダス実況(2026年10月07日)(降水量)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-08T06:30:09+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の過去のアメダス実況(2026年10月07日)(降水量)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RTk9nY2FEREkzS2t5TjJSd0VFcGwxUzhvZWVsR2JWV01ZQTcweFJMYWkzY0hFMlZhWXBodWxhc3BfZFJJRE53VnpBT01wNkMxVklhSGRqUEwtbVRyenVmSVM0RUJDdGs?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-7136ba1b8b71a65caff2c9f551421b74",
+            "title": "IR整備めぐり愛知県は民間事業者から参加表明があったと明らかに 競争環境確保のため事業者名・数などは公表せず 中部空港エリアでの整備・運営主体を募集（CBCテレビ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-08T08:21:58+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "IR整備めぐり愛知県は民間事業者から参加表明があったと明らかに 競争環境確保のため事業者名・数などは公表せず 中部空港エリアでの整備・運営主体を募集（CBCテレビ）  Yahoo!...",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mT2hxeU5uZWpRT2RobUZoSUkxUUpKV2ctcENkdWh2LUlJWVNkQW1TbWZUNjBsaURwNU5xRkFWa3hPZ0Z5clpTSlN1b3JYN2cwVW04bHBsTjlObzJUTllJRHJCOUl4TVR2eXB0TGJybUwzTnN4N0M0Q1NSa1JyaFE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-3893fabf1a027621c5f8072fd2eebde4",
+            "title": "「家から火が出ている」愛知県春日井市の住宅密集地で火事 少なくとも建物2軒に延焼し1人搬送との情報も（東海テレビ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-07T19:16:05+09:00",
+            "category": "市政・行政",
+            "area": "尾張",
+            "summary": "「家から火が出ている」愛知県春日井市の住宅密集地で火事 少なくとも建物2軒に延焼し1人搬送との情報も（東海テレビ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDYzJKZ1k2OHg2T21uOTVtbGZnUFgzQ1J4OGVRQUVkSzN6d1JOb25iSzBELXJUc1dEQUlHTjlad3VIQmR5aDMwRjhwSmZFZjFMbUhtNjQ4QTNGbFZneVVmVEk3QzdrTGpEV1YzOEx1YUtXa2FGNjVZN2E3RWtnNUU?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -221,6 +320,17 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-61007cfdcd29a02727bf4c5c4d3df38a",
+            "title": "【愛知県】10/8の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-08T05:10:42+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【愛知県】10/8の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oM1NmOVJwdndBQkV5T010YmNwS0c5Z25DeUtrNngtWHBWczdGNXBJZHkxVGpTbm5OUkxKWUNWNUJtU0xZbHpKa1JDXzgyOXRWTktMbEpCQnFoQlY1d0Z5VHVtUVRVaTlLVnZrU0h0d3lCTjUwa1NNa09IZ3AzRW8?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-1fb0c539f7255f8fedf55178968f29e8",
             "title": "タイムズカー情報漏えい、免許証番号変更し再交付 愛知県公安委員会、県警への相談受け",
             "source": "中日新聞Web",
@@ -229,105 +339,6 @@
             "area": "愛知",
             "summary": "タイムズカー情報漏えい、免許証番号変更し再交付 愛知県公安委員会、県警への相談受け  中日新聞Web",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93aHBiVFVNSFMxMnhiT0hSNmg2NVNpYXBoNE5sNzFZdlU1ZTdjdXplWDRlcGZzTUl5RVFKTzhPeDJnbnVtci1lRkxjWGlWTG9OVjY2Rg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-75b4a811b2bd2d3c3eeae579896a6566",
-            "title": "第20回アジア競技大会（2026/愛知・名古屋）及び第5回アジアパラ競技大会（2026/愛知・名古屋）における愛知の発酵食文化の魅力発信について",
-            "source": "愛知県公式Webサイト",
-            "published_at": "2026-10-07T11:45:52+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "第20回アジア競技大会（2026/愛知・名古屋）及び第5回アジアパラ競技大会（2026/愛知・名古屋）における愛知の発酵食文化の魅力発信について  愛知県公式Webサイト",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KRVV5TWQ5aUl4RkcwaUdGZGQzdFNMVU01Vzh2X0Vyb1QyZUVZX1p2LVFNNTRwUnhNREEzdHZWUThQemRTOE51Y1hTRjYzcWRxbVdSeDYwTjd2ai1DdHBMeEVRcnNkb2c?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f561f8064172a920b39ec7f5adfabf3d",
-            "title": "【速報】愛知･春日井市で住宅火災 けが人や逃げ遅れた人なし 名古屋市との市境 消火活動続く",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-10-07T16:59:00+09:00",
-            "category": "社会",
-            "area": "名古屋",
-            "summary": "【速報】愛知･春日井市で住宅火災 けが人や逃げ遅れた人なし 名古屋市との市境 消火活動続く  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaZHhCQ3E3dGdWa2hQT1R1a1RqbFJwdEc5VXd1Y2lOdW5Udi1FQlhEb0dLbE9fTXlFZFNhRGdtZHZ1azkxeUNOblNxS245WlZtWHhGb25aTmY1enRCVlNpSE5JVV85RDg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ee2aba1be1a98a8803794955033e5c9b",
-            "title": "【Girls2】10/11(日) [愛知県]エアポートウォーク名古屋≫ 2026/11/11(水)リリースNew EP『EASY』リリースイベント",
-            "source": "紀伊國屋書店ウェブストア",
-            "published_at": "2026-10-07T19:38:53+09:00",
-            "category": "観光・イベント",
-            "area": "名古屋",
-            "summary": "【Girls2】10/11(日) [愛知県]エアポートウォーク名古屋≫ 2026/11/11(水)リリースNew EP『EASY』リリースイベント  紀伊國屋書店ウェブストア",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yVHBjVjlPcGQtMmNGSlRNTzN3U1ZsVURUblcwNDdDQlgyMGJaTkljeXh0RjRucUNLdGdPN2VRWXI4S0JXT1JHLXJqLXFLNVNSa0NHNWRlNW1pYUg5?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-9a282709b72c75a9742a7e0acd7793f4",
-            "title": "タイ、愛知・大村知事発言に失望 「日本がどれほど変わったか、如実に示している」 アジア大会",
-            "source": "時事ドットコム",
-            "published_at": "2026-10-07T21:44:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "タイ、愛知・大村知事発言に失望 「日本がどれほど変わったか、如実に示している」 アジア大会  時事ドットコム",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16NkhCX09BM1JaQXE1bVJkWkFMU2lKWERHbU16ZzdlYk10djRHYU5aWHlOMmYwWEJJVk9COG13ajF2TkltR0NUSm4ybEVEaGRTVEgxS0otTEwzcVRIZ1Ixa3hVOA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-62082124ac6600d7da7e42fe3b49b09c",
-            "title": "二児の母親も…愛知県警の新人警察官51人が警察学校に入校 来年7月まで共同生活送り法律知識や逮捕術等学ぶ",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-07T19:08:25+09:00",
-            "category": "社会",
-            "area": "愛知",
-            "summary": "二児の母親も…愛知県警の新人警察官51人が警察学校に入校 来年7月まで共同生活送り法律知識や逮捕術等学ぶ  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MYldraG1ESWcyVXgtd0UyYVRyZDlpNDZtdHVJVVV4cEpVaGctcDhOLUJtUUtNUTRleDR1SVNjbmJvWjJyUGdpUGVaaWhDX0cyMUxXcXVTTFFJVXY0cE9BeGI5eWk2ekc4SG5yMVFVSDZlY0t3dVRyVGRQbFB4alk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-3659630057927f3c9d8a8166b0ebc8a5",
-            "title": "木を知る、触れる、感じる、楽しむ「ウッドワンダーランド2026」を開催します",
-            "source": "愛知県公式Webサイト",
-            "published_at": "2026-10-07T11:29:12+09:00",
-            "category": "観光・イベント",
-            "area": "愛知",
-            "summary": "木を知る、触れる、感じる、楽しむ「ウッドワンダーランド2026」を開催します  愛知県公式Webサイト",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MbVNzei1kQzdyd1lVT1Ntd2VrMm1RLTRSbGNQVjlPOXE2WWtTc1lYd3Y2YXNTUW5SQjlSQ1NVN1FReE92NFJlS1JvUFZPdEwxR0lhTW1yVkx4anBmZE9vYUJBXy1OcmhyLWoyUDJ3djg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-e088f9a1b87d3b250bf63fd862734e07",
-            "title": "愛知県の過去のアメダス実況(2026年10月06日)(降水量)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-07T15:30:11+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の過去のアメダス実況(2026年10月06日)(降水量)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54RWtPZzMzQWRhd2ZHNXR4dHZjMFVLQ09MTUs0U3RJNUUycXQwMXNEVXFGOVlJVThFU1VDN2Zrb01iM19PYTZNRW1ZYXFXSzJlUlVWalN0aUJUS0lwUWpZRnV1UmVoTUE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-9488f0ff719fae55021bf0cfc987116f",
-            "title": "2026年度「サイエンス実践塾出前授業」開催校を決定しました！",
-            "source": "愛知県公式Webサイト",
-            "published_at": "2026-10-07T11:35:02+09:00",
-            "category": "観光・イベント",
-            "area": "愛知",
-            "summary": "2026年度「サイエンス実践塾出前授業」開催校を決定しました！  愛知県公式Webサイト",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWNVM1OW9qSko1LTdZY2VITnZ2V2cwMWxjM0VzYmZCSkFaWldXOS11bS1QWmJ6cjA2OUVZVXVPTHFrVGtsTXlXNENoMFVYVXRld3p6TXdPRjVDSnJFeU82UFI4Sm9KaUR6VFpvc1lCZ3BLd1VJSXozNA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-9abcd3c1f900f580d389276b64badfad",
-            "title": "貸トランクルーム内に死体 年齢や性別は不明 一部白骨化し衣服は着た状態 愛知県瀬戸市（テレビ愛知）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-07T18:57:02+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "貸トランクルーム内に死体 年齢や性別は不明 一部白骨化し衣服は着た状態 愛知県瀬戸市（テレビ愛知）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yZjB3dHZkSkZnVkNMQ1ZTT09yZ2hoVlp2RVRwMEYySmZGZzNvZmpRZHZFQjhCQ0JiZnV1SGJNd1g1YVJxeGJrRlpyVm9rc1ZhUHNpamxoYzA4N1JOX1JKOWR0T0JyclJxUkh0eWRXQjdMZzdIcExXakFmSkxBMWc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
