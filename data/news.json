@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-08T19:19:24+09:00",
+    "last_updated": "2026-10-09T00:24:28+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,7 +9,7 @@
         "temp_min": 16,
         "rain_prob": "0%"
     },
-    "total_count": 30,
+    "total_count": 28,
     "articles": [
         {
             "id": "toyohashi-city-802092aaaa0444ce0979c0bb3c489792",
@@ -78,37 +78,37 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-5cea1efaeca8885958a8dd91dcc2b238",
+            "id": "news-d48a569fae4af67498cade90503ea9e7",
+            "title": "飲酒運転で追突か…男（51）を逮捕「酔っている自覚なかった」 愛知・豊橋市（メ〜テレ（名古屋テレビ））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-08T22:28:01+09:00",
+            "category": "社会",
+            "area": "豊橋",
+            "summary": "飲酒運転で追突か…男（51）を逮捕「酔っている自覚なかった」 愛知・豊橋市（メ〜テレ（名古屋テレビ））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zQzVuc0Jsd0hkWTdRODgwVFRhdFFwWThLcVdwOHoxU2RrWmlMOWc2czhCdmY2TWctOWtKbXI5R05JYWhDcFJGaHl0YjZDbWFPMXNvWkYxbTA5ZzZEeG80MzFjUG9WNEF6Skd5WksxMVVuOFg2VE56OXA1YkNxQmc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ba7aff958df94ba43245d548b45b0548",
             "title": "撤去予定の歩道橋 カラフルな絵でお別れを… 老朽化や利用者の減少で 愛知･豊橋市の｢三郷南歩道橋｣",
             "source": "TBS NEWS DIG",
             "published_at": "2026-10-08T15:20:00+09:00",
             "category": "市政・行政",
             "area": "豊橋",
             "summary": "撤去予定の歩道橋 カラフルな絵でお別れを… 老朽化や利用者の減少で 愛知･豊橋市の｢三郷南歩道橋｣  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyRnRlRXNwQ0Y3Z09Wakp3RGhWZnhDdkR6MnFNdUQ0WEhRci1wNDhkY1JLZGJvU21jWUI1eFJ6LWpXOWVCRC1pdVFYTHZmR1lCVEg3SWd1c3Jldw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CcG03WU1wamhiRkJLUktBUlVhRXRpYUJWSFVyLUkwRE9BQS02SUpkU1oteHpmNVBGM3QySmtFZ1dVQWFDY0xxQUYwdEg3bDZCM00xOS1OU3I0QlJjY3Ew?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-7f307c691d0d95f5b5e07a0dd3c81829",
-            "title": "近代の東海道を巡る企画展「大正期の東海道ブーム」を開催します（豊橋市二川宿本陣資料館）",
-            "source": "PR TIMES",
-            "published_at": "2026-10-08T14:04:40+09:00",
-            "category": "観光・イベント",
+            "id": "news-34b097e79a3213bcf1c0a69de576fbbe",
+            "title": "豊橋南部がＶ",
+            "source": "東日新聞",
+            "published_at": "2026-10-09T00:00:57+09:00",
+            "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "近代の東海道を巡る企画展「大正期の東海道ブーム」を開催します（豊橋市二川宿本陣資料館）  PR TIMES",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtcHZpYXpGX1B0WEdkZ0xUQ1FuMEFKTndEOGxEMmE4ZFZFcm1ueWVnSWxHQzJSOUtkQlRodUhpQnNlX2w3bzBkSXZGQmZ4QUNabzlaZjg3ZlU5SzBLMlZPZXlDNzBsZjd6OWc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d0babbaedaf329743a912befe37cb145",
-            "title": "【試合情報】12/16（水）ホーム秋田戦「早割」実施のお知らせ",
-            "source": "三遠ネオフェニックス",
-            "published_at": "2026-10-08T12:44:39+09:00",
-            "category": "スポーツ",
-            "area": "豊橋",
-            "summary": "【試合情報】12/16（水）ホーム秋田戦「早割」実施のお知らせ  三遠ネオフェニックス",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sWlpiNEVlak94LVNraUxHWC1WUmVtNVM1a0RVV2xLWE5tV0kzUXlud0NQZkJHTXlDQWJxRVRKTkhGNDU3UVRlaFdqY3I4ODJRbWN5X19XbTNWdw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
+            "summary": "豊橋南部がＶ  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85SmJYLUpka2didnJ6d2ZHM3BOSVhQUnMzd1N3UmwzTFVaVGZyb1NBQWZ4NndfSHFjM2NrXzVrRE1rVjZwaGhxZmw1RHh3YVNOOU1KeWQtV2RoMGYz?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-17d341a520532312472f38ab6c3f6f8e",
@@ -122,15 +122,26 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
-            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
-            "source": "ウォーカープラス",
-            "published_at": "2026-10-08T09:38:29+09:00",
-            "category": "市政・行政",
+            "id": "news-d0babbaedaf329743a912befe37cb145",
+            "title": "【試合情報】12/16（水）ホーム秋田戦「早割」実施のお知らせ",
+            "source": "三遠ネオフェニックス",
+            "published_at": "2026-10-08T12:44:39+09:00",
+            "category": "スポーツ",
             "area": "豊橋",
-            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "【試合情報】12/16（水）ホーム秋田戦「早割」実施のお知らせ  三遠ネオフェニックス",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sWlpiNEVlak94LVNraUxHWC1WUmVtNVM1a0RVV2xLWE5tV0kzUXlud0NQZkJHTXlDQWJxRVRKTkhGNDU3UVRlaFdqY3I4ODJRbWN5X19XbTNWdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-e0768f77335f00191c7b00e36b7b1cd3",
+            "title": "ガールズ＆パンツァー 最終章 第5話 ユナイテッド・シネマ豊橋18(豊橋)の上映時間・上映スケジュール",
+            "source": "MOVIE WALKER PRESS",
+            "published_at": "2026-10-08T19:20:20+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "ガールズ＆パンツァー 最終章 第5話 ユナイテッド・シネマ豊橋18(豊橋)の上映時間・上映スケジュール  MOVIE WALKER PRESS",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00VHpRZ1JOOGdfTHBrdUI5VjlGS3VCd0ZwSEFTeHhSWlFiOElZVWVXRVphMGRQR2lKMXhTSHlBbkZIU0FFemlnakhFaVh5aWVUbUN1cEx6NWM3bTM4N0o0NENB?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-d3a6eca2b5c4332f528240720fe185a6",
@@ -144,32 +155,10 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-aac0054a018dca98f682ccc6065afef4",
-            "title": "新着情報“ノートX”2021年式ブリリアントシルバー入荷しました！",
-            "source": "中古車のガリバー",
-            "published_at": "2026-10-08T10:23:04+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "新着情報“ノートX”2021年式ブリリアントシルバー入荷しました！  中古車のガリバー",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oa0p2U2hMaUVoRFI1R0ZXMmhwZmFiRV94cXZOcFJNVnBEYTdaWld0YlRjVlN3ckI2djVwbjJ4UXQ2OTJuNUthbXN5Q1JURWU2OFRPV2xyTGFDbGd5TXRuSC1HME1xVFViaEpaQVZmcHhaZVFyNFJlTHZBUG9MM2c?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ca5a524e0ded7e71d6574c399efa2d6b",
-            "title": "【連載】エンジョイサッカー〈119〉フォルツァIT Aが接戦を制す 豊橋で「U8ヨシケイカップ秋」開催",
-            "source": "東愛知新聞社",
-            "published_at": "2026-10-08T12:04:33+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "【連載】エンジョイサッカー〈119〉フォルツァIT Aが接戦を制す 豊橋で「U8ヨシケイカップ秋」開催  東愛知新聞社",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BSkZJM3NsYXAyZkRLcmV5OERCcnhRNEFldThESXVYUnRNN1lnUERNdDFnNW9xVDZvOWx0V2Q0T0lSbThmUFhQTkI0eng1bG00anZacG9pQkpPM09q?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-ec564dfaaad98bd8136d91397149b407",
             "title": "愛知県の雨雲レーダー(実況)",
             "source": "tenki.jp",
-            "published_at": "2026-10-07T12:48:44+09:00",
+            "published_at": "2026-10-07T21:17:31+09:00",
             "category": "市政・行政",
             "area": "豊橋",
             "summary": "愛知県の雨雲レーダー(実況)  tenki.jp",
@@ -177,14 +166,113 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
-            "title": "愛知県の今日のアメダスの記録(10月08日)",
+            "id": "news-61184a0de06c86738f1f8bb7705e987a",
+            "title": "スマートＩＣ整備など要望",
+            "source": "東日新聞",
+            "published_at": "2026-10-09T00:11:15+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "スマートＩＣ整備など要望  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3WkhGalRodEZka3g0Vi1ZTXEyVkdfdnJub09BcHlVTWpoY3g3Y2lnUEZSRUl2UHA0cHctc2psNXpqVW4xcnpxOTVmRWtpZ3Bjdm5hdkJHbkhKVGVs?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ed96029f5a5606d1dde62924923835d5",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
             "source": "tenki.jp",
-            "published_at": "2026-10-08T17:14:40+09:00",
+            "published_at": "2026-10-08T21:31:26+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-af02540b5a45b6e558c5ecc4cfecc892",
+            "title": "アジア・アジアパラ競技大会推進特別委員会審査状況（令和8年7月21日）",
+            "source": "愛知県公式Webサイト",
+            "published_at": "2026-10-08T18:17:53+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県の今日のアメダスの記録(10月08日)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "summary": "アジア・アジアパラ競技大会推進特別委員会審査状況（令和8年7月21日）  愛知県公式Webサイト",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KUGtsS3Q0bjhVblNEbEY5Njd1UUxFczZaQVlpeFpYNDEyT0d2RjNOVS1wQ2lpcU1wXzUxZWt5d2x0RXNKa0dMRG1UZndiWFZPVUVTZ2tjallwWkJvcjVCd3BTREpWbUxTWExTRm5n?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-482dee0940d9f3cb8affdecde1c43dec",
+            "title": "タイムズカー情報漏えい 免許証番号と顔写真変更の再交付始まる 愛知県公安委員会 岐阜・三重でも（中京テレビＮＥＷＳ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-08T21:26:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "タイムズカー情報漏えい 免許証番号と顔写真変更の再交付始まる 愛知県公安委員会 岐阜・三重でも（中京テレビＮＥＷＳ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTaGljdVJRakIwWll5R0dtaThIaFhjZmVENnpMem9uRlotQ2taeVhKeEtMMXJaam9PbDRLdlk5SG9ZVjJIdGNGendONi1QZHdIQ2N4MEYtWm9wajdQeGNBdUVqUTdlMGFnNEdqQ3psVWRmd3RwYjF6eVlRdURPWWM?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-322be953ca57d785a9e336a5540bc392",
+            "title": "愛知県作手村のことば 盆のころ",
+            "source": "NHK",
+            "published_at": "2026-10-08T21:31:20+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県作手村のことば 盆のころ  NHK",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZY09oWS1ZdGdtVzFhRGZGVW10SjRMT09Yck95aC11bkRockZYMnBLeUlhMVJCSlQzY3Rncy1MczNxY01MOXpHQVZpMmJidzliU0I4YmlkYVF3YjA5UmlBRW5NTkczTGZRZkVvUg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-610b4bfac0638ceaf04d9cfd9573fe43",
+            "title": "愛知県副議長の成田氏辞任へ アジア大会に「強行入場」と週刊誌報道",
+            "source": "朝日新聞",
+            "published_at": "2026-10-08T13:00:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県副議長の成田氏辞任へ アジア大会に「強行入場」と週刊誌報道  朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xYUZRRmJyd3ZsWVVZWV8xZDZlZ2t0OUVKZmQtUERsbDRrdTFHWkVMLWx5alRtU21YSmJxd0o1amhvNXE2TS1MSE1JUHRtUmplbTJkbC12LTc2aFVkUVhkU0JaRUs4ejA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-62af1452fe9cfb866444b4177336bbd5",
+            "title": "愛知県･大村知事｢来てほしくなかった｣発言を釈明 アジア大会めぐりタイ国内でも波紋… ｢不満もらした個人への発言｣言い回しも修正",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-08T19:22:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県･大村知事｢来てほしくなかった｣発言を釈明 アジア大会めぐりタイ国内でも波紋… ｢不満もらした個人への発言｣言い回しも修正  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qaDRJSzhLSTQzbUk2aUc3SE9hSVM0TUdmdmNUaXhkVXFoaVNUY20xaWFFOFotQVhGNXZicFE2OHNVNGF6XzFINzhuRzF0cEJJajNCZkNyZjZiLUZIOUlr?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-be3a51170df6eabd3e273d802db2c930",
+            "title": "【まとめ詳報】愛知県知事発言にタイ反発 「来てほしくなかった」 アジア大会運営巡り 「監督とコーチ限定」「言い回し変える」と釈明",
+            "source": "47NEWS",
+            "published_at": "2026-10-08T22:39:05+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【まとめ詳報】愛知県知事発言にタイ反発 「来てほしくなかった」 アジア大会運営巡り 「監督とコーチ限定」「言い回し変える」と釈明  47NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03eGVmWE5uRXFQcVg3ZlRRQVFRSV9MOERqcjJDdnVDeTVSU25VZU00VVFtMnNPVFJOLTFMdUxka1VjQWZWX1dQb2s3QQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-860d2501466eed59623d8dddde614914",
+            "title": "総務企画委員会審査状況（令和8年7月9日）",
+            "source": "愛知県公式Webサイト",
+            "published_at": "2026-10-08T18:17:53+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "総務企画委員会審査状況（令和8年7月9日）  愛知県公式Webサイト",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XVUR5amhqTnhHSklJYkViMUJGLTFVMFR2OXROT0pyVDN5NU40SDM3Q2lHeGhXaDNldTF6MWxWWlZBUWVCdlR3ZFkwLVM1cWJtcFI1MmI3WUNsS3Z1TEpNTFMwUU5NNW9BeC0xUGtB?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-70c936ab0e15922e391d10965e07293e",
+            "title": "愛知県の雨雲レーダー(予報)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-08T17:12:51+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -199,48 +287,15 @@
             "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-610b4bfac0638ceaf04d9cfd9573fe43",
-            "title": "愛知県副議長の成田氏辞任へ アジア大会に「強行入場」と週刊誌報道",
-            "source": "朝日新聞",
-            "published_at": "2026-10-08T13:00:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県副議長の成田氏辞任へ アジア大会に「強行入場」と週刊誌報道  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xYUZRRmJyd3ZsWVVZWV8xZDZlZ2t0OUVKZmQtUERsbDRrdTFHWkVMLWx5alRtU21YSmJxd0o1amhvNXE2TS1MSE1JUHRtUmplbTJkbC12LTc2aFVkUVhkU0JaRUs4ejA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-9588438501a56cdb3531681b36415855",
-            "title": "辞任意向を表明》「お詫びしたい」愛知県議会・成田修副議長がアジア大会会場で起こしていた“強引進入トラブル”（文春オンライン",
+            "id": "news-6b8c136fe7b9323c419e6fc648e43b2b",
+            "title": "【愛知県】10/9の天気予報（FNNプライムオンライン（フジテレビ系））",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-08T13:42:17+09:00",
+            "published_at": "2026-10-08T19:30:55+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "辞任意向を表明》「お詫びしたい」愛知県議会・成田修副議長がアジア大会会場で起こしていた“強引進入トラブル”（文春オンライン  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xR2YyMERWLWlhNTZUbHlxb0g4UXZ4MkR5SUItbnZiQmhpODRnZU42b2dnWlh3dTN3eU5BamkyVTR5R1VzR2NNRWJSOWl3R05QWFFlY3NEaFpwRVdwcjFGZ0VPT2RPZ0dmSHVwdWRweUFuMDNzb1ZBNU8tRzQ2ajA?oc=5",
+            "summary": "【愛知県】10/9の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SdnEzbzlldVV1QXJtQ1NXZmFMVXZpaGtHN0w1M05NQVVtYzhDQ25Gd1RBT0kwR3NWeTMxOEdjQ0ttcldZaDJwZXJMN2RtOEhURXVJbkdXcHY3b3g4bE1hVlNMeXlHc2N0NHo5YTNVUlFvMWRpbFdwY2pLel9xaDg?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ed96029f5a5606d1dde62924923835d5",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-08T15:31:30+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-1f6797bfd3140cb26eef19cded30156b",
-            "title": "愛知・大村知事、アジア大会の「来てほしくなかった」発言を修正",
-            "source": "日本経済新聞",
-            "published_at": "2026-10-08T13:21:31+09:00",
-            "category": "ビジネス",
-            "area": "愛知",
-            "summary": "愛知・大村知事、アジア大会の「来てほしくなかった」発言を修正  日本経済新聞",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SdjNHMGQ2aFJxOUZIdWtJQzg2Wmt1RlRlX2ZYd24xTHpOU0pCSk8yZEN3Y3VoQjJTM0xNYmlDTk1PTHlWcWVZX21mY0JwekFHRmtha1ZaVW1VbmtuN1pRZlVLSVUzMU5HdkkzWg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-55b981b3c315569055105799c92c4eda",
@@ -254,92 +309,15 @@
             "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ebb886556cea74b0a2fa2cfa2b4f629f",
-            "title": "汝、星のごとく 常滑(愛知県)の上映映画館・上映スケジュール",
-            "source": "MOVIE WALKER PRESS",
-            "published_at": "2026-10-08T14:45:50+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "汝、星のごとく 常滑(愛知県)の上映映画館・上映スケジュール  MOVIE WALKER PRESS",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QSTlBcnJ5aDRIdlk3SGRQd04wSk81SHpReF84cnRuYjlIaXJ6cHQ1bkV4UkkzMU5QWUstM0xscktVS2xKT1V1SW93eUR6Z2RlRzJsdmp3bkpjcUhfb2VRbA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-fc5ff587b35ca88cde2578c72595ee08",
-            "title": "愛知県の大村知事 タイ代表チーム監督らへの発言を釈明",
-            "source": "NHKニュース",
-            "published_at": "2026-10-08T14:33:35+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の大村知事 タイ代表チーム監督らへの発言を釈明  NHKニュース",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13dGpMb1ptX283UV9WVkx6NWJDalc2UEViN2V0RHVBTGdXUF9aYTBZX2xVMnEzYUhldHNocWZJUVY2T3Q2V2RrcVdBRXFFWWlJVDVfSjQxQ0xjRUNXdWFV?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-edfb11413610dd588b3b831c7939c863",
-            "title": "「来てほしくなかった」発言は「監督らに限定」 大村知事が説明",
+            "id": "news-3182740b33566ae729c3daf7f395fe69",
+            "title": "住人の高齢女性1人と連絡取れず…愛知県犬山市で発生した住宅火災 年齢・性別不明の1人の遺体見つかる（東海テレビ）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-08T15:03:22+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "「来てほしくなかった」発言は「監督らに限定」 大村知事が説明  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PMVhBVDM2dVJta1diYTRpOG9EZ1lxQTAteUhnd3BwUWhRSEZFcmdPSkhiS1dvb3RXa0Rla1pnRkY5dnE2eUQ2QnEtX3h2NkpX?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-976abf6cf476878e3a3cce2354dcddc3",
-            "title": "「戦争遺跡を巡るバスツアーin東三河」を開催します！",
-            "source": "愛知県公式Webサイト",
-            "published_at": "2026-10-08T10:47:04+09:00",
-            "category": "観光・イベント",
-            "area": "三河",
-            "summary": "「戦争遺跡を巡るバスツアーin東三河」を開催します！  愛知県公式Webサイト",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXOG9nNFQ5TkdHLUl0Tk1WajBUcmFEVTl4THFxRjVDcF9rd2N0TElZYnhnZDNuTGU3aFpubmloUmdrcUxqU3B1T0Y5bkIyemltVF9GeDhHN2ZpNlZqbC1ETUgwRFRTX1JUdTlZMTFXQ0Y1N2NTbmxV?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-3f13023b50cac4325f58500c8824d6ce",
-            "title": "台風28号(2026年)の愛知県の暴風域に入る確率",
-            "source": "tenki.jp",
-            "published_at": "2026-10-08T03:00:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "台風28号(2026年)の愛知県の暴風域に入る確率  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2dFhQNE5FVU5aSWQzSmJwYzJWOVlFdlEzczQ3VGdkT29OaVNBaS02SE9VeHBYSHNGeE9QTEFNdE5DM21VY0FuMkFrZ29iUFFzLV9DT1dveS1CX0lG?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-56689e28d9833523bf3c42a3176112b3",
-            "title": "愛知・春日井市の住宅火災は通報から約13時間後に鎮火 火元の木造平屋建て住宅は全焼 周辺の建物7軒が焼ける 住人の女性（88）が病院に搬送されるもけがなし （CBCテレビ）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-08T08:58:14+09:00",
+            "published_at": "2026-10-08T21:23:43+09:00",
             "category": "社会",
             "area": "尾張",
-            "summary": "愛知・春日井市の住宅火災は通報から約13時間後に鎮火 火元の木造平屋建て住宅は全焼 周辺の建物7軒が焼ける 住人の女性（88）が病院に搬送されるもけがなし （CBCテレビ）  Ya...",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kNHZMQTVGT0tLUFFPMklXc3lMTnUwbko1djNUMG8zbFdIbEloRUpqeXVMZlJnY3lmel9lS1gxdmVfM0tlbEp1T2pGZ2RjTThfTC1JRVFuM1F5ZkxWUGtLS1ZPVU5nSnFmaXNuQ1EzNURfbVFRTnkxX0dnRHJNTlk?oc=5",
+            "summary": "住人の高齢女性1人と連絡取れず…愛知県犬山市で発生した住宅火災 年齢・性別不明の1人の遺体見つかる（東海テレビ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxYk5YaWl6S3dKbEh1VDhOY1NKNFFsRFdLdDdmbndGcDhhdnBpRXV2RzY4V0VTN1RvUkQ2Snp6MHJCTUplYmRaXzNLRVFFTEFEVFdlTlloRWtqNlN6bTFGSUdxeUF2aHJEWS1iMS1zVDhVNEtHX3p3VDViTlVqZGM?oc=5",
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8da9f865bf31b2ad1c5635b66179d861",
-            "title": "大村知事、SNS投稿めぐる発言を修正「言ってほしくなかった」に [愛知県] [アジア大会2026]",
-            "source": "朝日新聞",
-            "published_at": "2026-10-08T18:00:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "大村知事、SNS投稿めぐる発言を修正「言ってほしくなかった」に [愛知県] [アジア大会2026]  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ3lTN3FldEU5MWVybjFCR3RZRmc0bTQwVGtYTGFQOUdtWjZYRHB2ZnZGcnZad3lpSnRsTmIxcG1aTHpwdi1zX2w0bTJLQTExcG4xdXVZS1BCTHdpTktkM1NJVlhSdnhUNE1Sc3cyMTh0WnR3ZG5xd3NWN1hxai1JNng4UkJnZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-fc55220682ab420d00e094c4b72df1ef",
-            "title": "「来てほしくなかった」愛知県知事発言がタイで波紋広げる テックボールめぐり（テレビ朝日系（ANN））",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-08T13:12:17+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "「来てほしくなかった」愛知県知事発言がタイで波紋広げる テックボールめぐり（テレビ朝日系（ANN））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41NjNLU0Fpa0pTT3YwUkJGUDVYV0VTS2dpeUtTZXcxQi13dkpTNGpiUXE4OXloNGFfclp3UHR6cFgyckFfTzcxRmJ4WDRXTjBRMEw4M29qZUtzQlZWMWdtaFpnMDlkQURQQmk2WWRwVGlnTUZLVzlkSkdlaTZOdWc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
