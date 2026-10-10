@@ -1,15 +1,15 @@
 {
-    "last_updated": "2026-10-10T00:07:14+09:00",
-    "update_session": "夕刊便（17:00配信）",
+    "last_updated": "2026-10-10T10:37:03+09:00",
+    "update_session": "朝刊便（07:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "晴れ　夜遅く　くもり",
+        "condition": "晴れ　朝晩　くもり",
         "icon": "☀️",
         "temp_max": 28,
-        "temp_min": 18,
+        "temp_min": 28,
         "rain_prob": "0%"
     },
-    "total_count": 26,
+    "total_count": 27,
     "articles": [
         {
             "id": "toyohashi-city-802092aaaa0444ce0979c0bb3c489792",
@@ -78,6 +78,39 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-36a934221d7630197e145fdecdcfdb70",
+            "title": "野積み廃プラスチック撤去へ措置命令求める申し出 豊橋市に弁護士ら [愛知県]",
+            "source": "朝日新聞",
+            "published_at": "2026-10-10T06:00:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "野積み廃プラスチック撤去へ措置命令求める申し出 豊橋市に弁護士ら [愛知県]  朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15MTV4VWhqVWItdEFrSU12V3h6UTl5Mml1dklsRnRjYXFKMEEzZDU5eFRIRXA5Z0JSV2RJZGdXQjN5UzRWbEdSbXk0aFJJVFk2TTFhbFFVNVZMbFZMLWk0S1dzNi1XdnM?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-cbda8e905f6285f13d9e34485442cffa",
+            "title": "野積み廃プラの撤去求める申出書 行政手続法に基づく行政処分促す 反対住民と弁護士が豊橋市へ提出",
+            "source": "東愛知新聞社",
+            "published_at": "2026-10-10T06:00:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "野積み廃プラの撤去求める申出書 行政手続法に基づく行政処分促す 反対住民と弁護士が豊橋市へ提出  東愛知新聞社",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OYVoxYS1jUC1LSjdKVTU4UE5GV3gtLUctNzhyZkdyZ2lPNmdwcGU1X1ZkRkJnSDlDMjQwRzNIdjMtWjNqX3k5MENHQkpvSHB1S2ZpY19SVWhqSEo5?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-584897feba4af57bcab50b28eedadf56",
+            "title": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
+            "source": "tenki.jp",
+            "published_at": "2026-10-09T17:18:25+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2d0N5QnhERmtibVBadUUyS21rMEh3Z2VDNnlVQTZPN19LQjZvV2g5Ykw2ZWVkX3ppbXRLdk1CWUFza0oyZlU4NHhJTmNsaEhsOWxJ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-b7ec73bda2829a47ee2ee2be071ccfa6",
             "title": "愛知県豊橋市の豊川で遺体発見 45～65歳くらいの男性、死後4～6日",
             "source": "中日新聞Web",
@@ -89,69 +122,36 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ec564dfaaad98bd8136d91397149b407",
-            "title": "愛知県の雨雲レーダー(実況)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-09T17:18:50+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(実況)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-471be91e4c9516d7f3b3619c333b2b6b",
-            "title": "｢ごみか？資源か？｣ 野積みの廃プラスチックめぐり住民と業者が対立 住民側が全撤去求め市に申し入れ 業者を刑事告発へ 愛知･豊橋市",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-10-09T19:03:00+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "｢ごみか？資源か？｣ 野積みの廃プラスチックめぐり住民と業者が対立 住民側が全撤去求め市に申し入れ 業者を刑事告発へ 愛知･豊橋市  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LY0RaMkRlaDlNa0lhUlR4bDZOaWVvLTRLUmJYZFF1dVZHbm84SG5tX2ctWV9XTXNlTGFmLUFNdGFsWldZajNoODE5MFZKTXZOZ3FYNjVoaw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-99fa4e14a52e990be1b21108ae3a688c",
-            "title": "氾濫する川へ住民救出に挑み殉職…警察官４人を悼み６０年の慰霊祭 豊橋市（テレビ愛知）",
+            "id": "news-6fb49869ea9292ba1e3ba825beb65ded",
+            "title": "「ごみか?資源か?」 野積みの廃プラスチックめぐり住民と業者が対立 住民側が全撤去求め市に申し入れ 業者を刑事告発へ 愛知･豊橋市（CBCテレビ）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-09T18:57:01+09:00",
+            "published_at": "2026-10-09T19:03:18+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "「ごみか?資源か?」 野積みの廃プラスチックめぐり住民と業者が対立 住民側が全撤去求め市に申し入れ 業者を刑事告発へ 愛知･豊橋市（CBCテレビ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyeTM0OHc3cWpLOHc1djJqRzQtcGNLcGd5aldHX05LaE5PVmNJTU04SXU1eU9yUmpjN1djZEgyMF9iOHBKd09rWGJhZWpwU3Y5TFFyUG1hanFyNHZjalU4SWRaY0U4YmtkOERTaDBXd1FNaFRLSE5tM3N4aU1LZUE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-5177f12fcbcf7379b5d6676880f4986b",
+            "title": "氾濫する川へ住民救出に挑み殉職…警察官４人を悼み６０年の慰霊祭 豊橋市",
+            "source": "愛知のニュース",
+            "published_at": "2026-10-09T19:06:09+09:00",
             "category": "社会",
             "area": "豊橋",
-            "summary": "氾濫する川へ住民救出に挑み殉職…警察官４人を悼み６０年の慰霊祭 豊橋市（テレビ愛知）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sXzZKLXFCTVNMeFg3LTBBXzA3TURWZkdvc041eEM2QzBObWlRT0pyMHhHb3MyMDAwWFNVZEFFZGNjeDJwVWlTaEpIekh3RjU1WGxiSHR1bzl0OUQyZGR1eUQtbjFqVm1oYXhsSENvUEFQc3JaQTJKY3htaHJnNmc?oc=5",
+            "summary": "氾濫する川へ住民救出に挑み殉職…警察官４人を悼み６０年の慰霊祭 豊橋市  愛知のニュース",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCMHlUd3lfU2owS0FIendIcVE4UmRmdzVnRENRVkFYd2JHV0N6U2ZDX0FXUHJ0MUdTRzhsUUJUeENHMHN5cGdCQzJrYjF1ZUZnTkhRM19QdkhzRU0?oc=5",
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-fa574d36545087f55cea6acf1f4a68a8",
-            "title": "豊橋市視聴覚教育センター・地下資源館",
-            "source": "浜松市子育て情報サイト ぴっぴ",
-            "published_at": "2026-10-09T08:41:03+09:00",
+            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
+            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
+            "source": "ウォーカープラス",
+            "published_at": "2026-10-10T00:10:04+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "豊橋市視聴覚教育センター・地下資源館  浜松市子育て情報サイト ぴっぴ",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXVGpYMGRBMkJUY3lPLW5QX3N5ZVZsRWgwYjJPWHNvVTBfem9uY0ZsS2R1UzFuelkxYWJIWWgzQnY3N2lZbkJWSElDcENvSTdGVlZvZmtkRTdveEF5a3l4YnpMdDVSTjV0RHl2ZlpmTmhhUQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-46db89bc4eb39a1b6cc70c3379f89586",
-            "title": "面司の北沢美白さんによる「豊橋文化奨励賞」受賞記念作品展 代表作ほか舞台写真なども",
-            "source": "東愛知新聞社",
-            "published_at": "2026-10-10T00:00:00+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "面司の北沢美白さんによる「豊橋文化奨励賞」受賞記念作品展 代表作ほか舞台写真なども  東愛知新聞社",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oWjgtZG1QbFQ4Vy1XOEhNMmlHSDJmRWJiOE9vblRHSEVNN1JDcGMycU96U2gzbG53MURrajJiekVCNDRTM19semIwX0ZtNWFZX2NKclNtYnZ3VV9r?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-bad556cf773638f4220c30d902de5fb2",
-            "title": "愛知県豊橋市が県内初の取り組み＝市役所から消防車で災害現場へ直行できる体制を整備",
-            "source": "PR TIMES",
-            "published_at": "2026-10-09T10:03:26+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県豊橋市が県内初の取り組み＝市役所から消防車で災害現場へ直行できる体制を整備  PR TIMES",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55dlNhSVJnOGRma1dkczNpOFNDaEVHbF8tWHctYnhBc0E2VC1TZGwyaExBNWVhS0xkTDVnZm42ekNENVMzUl9SR1FYSGhEbVhIUWtUVnA5NktUTGlLX0tFV2JjNlBBRTZZdHc?oc=5",
+            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -169,7 +169,7 @@
             "id": "news-ed96029f5a5606d1dde62924923835d5",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
             "source": "tenki.jp",
-            "published_at": "2026-10-09T21:31:28+09:00",
+            "published_at": "2026-10-10T06:31:28+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
@@ -188,14 +188,14 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-6eaa0dad6a6ce24d2a9340566cc5febb",
-            "title": "あいちの人口（2026年9月1日現在） 愛知県人口動向調査結果 月報",
-            "source": "愛知県公式Webサイト",
-            "published_at": "2026-10-09T12:04:29+09:00",
+            "id": "news-3af3d1a19eae6f297e3991bf54d0754c",
+            "title": "【愛知県】10/10の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-10T05:10:31+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "あいちの人口（2026年9月1日現在） 愛知県人口動向調査結果 月報  愛知県公式Webサイト",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MTVBOWx6Y0dHMFJyS2d4cE1xQUxpSkxOYk9MRDNZclY5cnVhUDdoNVN6VTFGZ0Fzd0NSbnhDYS1MV0Rza05TMDBxaGdSMkloTDVUZXRobDhJbUJFU09PbXBmZUxDU2pkZHV6ZGZGUEdHelpXU19V?oc=5",
+            "summary": "【愛知県】10/10の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41RWlpRllQR0k3NEY4NVNTcTdDNFBWU2VVM3BsN1hfQWc0WXM1UUhKNkZvdWJPM0FUeDZRTmpYMTNWQ0hnOUg0QlQzNk9iY3JaM2ZQajlDbDM0Y05yYXBvbF9xdnNBd2ZCZkF5ak5CN3FWaUd3OElVLTU2ZGxPMkU?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -210,14 +210,36 @@
             "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-2d62a1fe5770c02c9cac3688e0d80b46",
-            "title": "愛知県が76歳の非常勤男性職員を懲戒免職 酒気帯び運転の罪で有罪判決 車の移動中に物損事故を起こす",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-09T22:13:01+09:00",
-            "category": "社会",
+            "id": "news-6eaa0dad6a6ce24d2a9340566cc5febb",
+            "title": "あいちの人口（2026年9月1日現在） 愛知県人口動向調査結果 月報",
+            "source": "愛知県公式Webサイト",
+            "published_at": "2026-10-09T12:04:29+09:00",
+            "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県が76歳の非常勤男性職員を懲戒免職 酒気帯び運転の罪で有罪判決 車の移動中に物損事故を起こす  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XSklGdlZxa0RmU0hKSzEwYlR4cF83VXpDc1B5RWJSaHAxN1FKLWRaM2pocG54QXJpVWxMSlB3Y3hlY0FzMXcweWFiRjhnWTVOaHZtRENNSHRybVRheXVZR0xoMGk2NGZoNUU0UVU4QlhXaU9VSE9JLWVGWHV1M2M?oc=5",
+            "summary": "あいちの人口（2026年9月1日現在） 愛知県人口動向調査結果 月報  愛知県公式Webサイト",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MTVBOWx6Y0dHMFJyS2d4cE1xQUxpSkxOYk9MRDNZclY5cnVhUDdoNVN6VTFGZ0Fzd0NSbnhDYS1MV0Rza05TMDBxaGdSMkloTDVUZXRobDhJbUJFU09PbXBmZUxDU2pkZHV6ZGZGUEdHelpXU19V?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-b7a24826ee45e245b40f803cf5e092b5",
+            "title": "＜画像7 / 7＞愛知県で遊ぶなら！愛知県の人気おでかけスポット7選",
+            "source": "ウォーカープラス",
+            "published_at": "2026-10-10T06:14:31+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "＜画像7 / 7＞愛知県で遊ぶなら！愛知県の人気おでかけスポット7選  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pdGRrZnIzcDJYbndNdkhtdk1KanpFYkQyaDRicW1aX3VWaGpVWDM5M3FidWVCdk1mZl9LMEladFMwOXZIeVFtWW0yWmxjR0ZNSlFFTnpjZEo2SDNqYThXSlFTaUk5b3NWSEVkdDZR?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-eb608c520ced0c64d7e86aaab1fa639e",
+            "title": "愛知県が76歳の非常勤男性職員を懲戒免職　酒気帯び運転の罪で有罪判決　車の移動中に物損事故を起こす",
+            "source": "名古屋テレビ【メ～テレ】",
+            "published_at": "2026-10-09T22:16:00+09:00",
+            "category": "社会",
+            "area": "名古屋",
+            "summary": "愛知県が76歳の非常勤男性職員を懲戒免職　酒気帯び運転の罪で有罪判決　車の移動中に物損事故を起こす  名古屋テレビ【メ～テレ】",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvVzFHLTZZWFJUN3VRZ2ZEWGNZNm83WjFQOEZfYUxaMWlQaWFWWUdpRjhtcWNqc00xMy1WUXJEbTNtRlhsbUlLdE5fYWMtb0hFa1lQeGEyQXRCSWVjazZsLURsMnbSAWRBVV95cUxQb1cxRy02WVhSVDd1UWdmRFhjWTZvN1oxUDhGX2FMWjFpUGlhVllHaUY4bXFjanNNMTMtVlFyRG0zbUZYbG1JS3ROX2FjLW9IRWtZUHhhMkF0QkllY2s2bC1EbDJ2?oc=5",
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -232,15 +254,37 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-eb4613931668a742846665ef1c35f45f",
-            "title": "三協立山、愛知県でのペロブスカイト太陽電池の実証事業に参画",
-            "source": "日本経済新聞",
-            "published_at": "2026-10-09T19:00:00+09:00",
-            "category": "ビジネス",
+            "id": "news-4d854e49eb59ab7f148242fa2dfb6697",
+            "title": "【東海】2026年10月12日「スポーツの日」開催の無料イベント8選 フェス＆秋祭りも！",
+            "source": "いこーよニュース",
+            "published_at": "2026-10-10T07:04:26+09:00",
+            "category": "観光・イベント",
             "area": "愛知",
-            "summary": "三協立山、愛知県でのペロブスカイト太陽電池の実証事業に参画  日本経済新聞",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Qc3NJVzRyNWFaQ0FveEJ3c1dLOWJGWVVpcm8tZWRLNXgxZ3RKZkNCQ1l2QnpyRFM3RzN2SS1IQUJ5WGFvRWJZTjR6Zlhjb05PTlhJSGozX3ZWNnJzUEhBU1B6a0llVVBkejl3Uw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+            "summary": "【東海】2026年10月12日「スポーツの日」開催の無料イベント8選 フェス＆秋祭りも！  いこーよニュース",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZeVR4SHhwRFUxWnZnLVdHWHM1VzdkUEdsa2NJNFFjSmw0WW9Bbk1LV3I5NkduVmsxcXpXYXRkMDQyQzZtd29MYUwxbXg2aU9fS0E?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-68b9bd403fdd9b54a8735ce253d7fb03",
+            "title": "アジア大会・アジアパラ大会 愛知・名古屋はいま何が起きている？",
+            "source": "NHK",
+            "published_at": "2026-10-10T05:26:16+09:00",
+            "category": "一般ニュース",
+            "area": "名古屋",
+            "summary": "アジア大会・アジアパラ大会 愛知・名古屋はいま何が起きている？  NHK",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYTkx6VURNOHl0bFg3MEtDZUJ2WHc1UFFiT2tfV2tuT2U0RzhVclBHMTJJVmhZZFBHT0htejlmWVpyRVBMSWVEN0NqaThMRExSck45TU00VENOMDFjb1E2Qm5UT1o?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-be649fce9a598a2b8fbc344e04e53037",
+            "title": "マックスバリュ浜松三方原店跡に愛知展開のスーパー「ドミー」 11月下旬オープン予定、県内初出店 浜松市中央区",
+            "source": "47NEWS",
+            "published_at": "2026-10-10T09:57:00+09:00",
+            "category": "観光・イベント",
+            "area": "愛知",
+            "summary": "マックスバリュ浜松三方原店跡に愛知展開のスーパー「ドミー」 11月下旬オープン予定、県内初出店 浜松市中央区  47NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hN1lUTW1ta2thZTlXR25fMTNtNi1Ja0dEUk85QWxndi16b1hPV2pxek9TSDZlcmxZNUREeWt4OWVMZ2pnWGdKSGxvcw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-f684bcb3f1848faa98c44ec172cdf678",
@@ -262,39 +306,6 @@
             "area": "名古屋",
             "summary": "熊本地震・千葉豪雨の義援金 日本赤十字社愛知県支部を通じて被災地へ寄付  名古屋グランパス公式サイト",
             "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDREpNNzVqOTNYNldmQWY1dUx3YzI2Zkg2ZDZNa1lUWkd6Wl84TEU2cThJWl9FeEZ4NU5lT0daMFdNeEg4cmNCczMySk9yNTNxSHVTMmF1QnNYUDZScnNMNDhfUkpmX3pXZHFDSnk3MA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-2acdf8843a9c1994471c909c0013eb85",
-            "title": "【愛知県】10/10の天気予報（FNNプライムオンライン（フジテレビ系））",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-09T19:30:45+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【愛知県】10/10の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CNGxRUEhmU19HTFhNQWtmTWIyQUl5RUZUNXZBYU9nV0dwT196SUE5N1I1V1VuVVFDX1ZlZWt0V1ZIbEEzSTZyM1F5Zm4xU21hOGJEZjRUZEJuMjVJMFgybnI5VW1jSUl4a3RRcTlRbWhON2xvckJpWGNZeldnX0U?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-83da3ee9ff6f70f555804d7f9156f4e2",
-            "title": "愛知県瀬戸市・せと末広町商店街の「ハタヤ洋装店」年内で閉店 夫婦二人三脚、今後も続く",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-09T19:30:37+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "愛知県瀬戸市・せと末広町商店街の「ハタヤ洋装店」年内で閉店 夫婦二人三脚、今後も続く  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsbzZMQlhTWXJtSTVLOXhjV3A0NUVtR0x5b21PaFNQYXdmaUl3QjJ3T2lQNEprNERHRXRnR2ZtU1ZQN3lFOWk1bmVlVElHb2F6ajlzNA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-3f13023b50cac4325f58500c8824d6ce",
-            "title": "台風28号(2026年)の愛知県の暴風域に入る確率",
-            "source": "tenki.jp",
-            "published_at": "2026-10-09T09:00:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "台風28号(2026年)の愛知県の暴風域に入る確率  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2dFhQNE5FVU5aSWQzSmJwYzJWOVlFdlEzczQ3VGdkT29OaVNBaS02SE9VeHBYSHNGeE9QTEFNdE5DM21VY0FuMkFrZ29iUFFzLV9DT1dveS1CX0lG?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
