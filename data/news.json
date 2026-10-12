@@ -1,15 +1,15 @@
 {
-    "last_updated": "2026-10-11T23:47:20+09:00",
-    "update_session": "夕刊便（17:00配信）",
+    "last_updated": "2026-10-12T10:07:47+09:00",
+    "update_session": "朝刊便（07:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "晴れ",
+        "condition": "晴れ　時々　くもり",
         "icon": "☀️",
-        "temp_max": 28,
-        "temp_min": 18,
+        "temp_max": 29,
+        "temp_min": 29,
         "rain_prob": "10%"
     },
-    "total_count": 29,
+    "total_count": 30,
     "articles": [
         {
             "id": "toyohashi-city-802092aaaa0444ce0979c0bb3c489792",
@@ -81,12 +81,23 @@
             "id": "news-7177ff6c4a4d25622dd06d6bb5272c37",
             "title": "アジアパラ競技大会を前に豊橋と蒲郡で聖火の採火式",
             "source": "東愛知新聞",
-            "published_at": "2026-10-11T14:35:42+09:00",
+            "published_at": "2026-10-12T08:24:32+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
             "summary": "アジアパラ競技大会を前に豊橋と蒲郡で聖火の採火式  東愛知新聞",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93ZlJvUGFGeklYMkgtZ3RVZFZvM2lZZVB4QUV2d0FndDY2b19pTHc1d01aWU1nb0M0SVBZS0xCeF9zTzNqOU5lcTEyWTFJX1N3Yml5MWp2eUtLN1Rs?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-53069d715d109db1a3b0f6d28508e082",
+            "title": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
+            "source": "ウォーカープラス",
+            "published_at": "2026-10-12T06:12:56+09:00",
+            "category": "ビジネス",
+            "area": "豊橋",
+            "summary": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbmFBMjZVWTdXMENUUVM5X083Y3QySXVoeHdjWlhpaEhId1l0STRZdG1GLVZkbXpjcmVqYlRSSl9HMWtKMnNKTXRIQnROTXNRd0p0M1AwQW1CUnhWcWZ0dWZQcklBdlhmM2ZvUGFn?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-584897feba4af57bcab50b28eedadf56",
@@ -100,15 +111,26 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
-            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
-            "source": "ウォーカープラス",
-            "published_at": "2026-10-11T21:41:16+09:00",
-            "category": "市政・行政",
+            "id": "news-9aed54200320371f4dd0277846f51b0f",
+            "title": "素材と鮮度へのこだわり学ぶ",
+            "source": "東日新聞",
+            "published_at": "2026-10-12T00:01:29+09:00",
+            "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "素材と鮮度へのこだわり学ぶ  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZ2NENVNqWHMtOGtRLVltbElDZHEyM2hhOTRMWlRsMGdoWEVGR3EwcW85YzRQM0RoX0ViM19UWUJNN2d6NzlDQi1Fb2IzN2tTU2YyUy14dWZRVC0t?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-655c1a39bfba4877c884b5438d1145f0",
+            "title": "豊橋で自主企画映画「石巻温泉パラダイス」（仮）の撮影開始 石巻山などで 初日は石巻神社で安全祈願も",
+            "source": "東愛知新聞",
+            "published_at": "2026-10-12T09:49:03+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "豊橋で自主企画映画「石巻温泉パラダイス」（仮）の撮影開始 石巻山などで 初日は石巻神社で安全祈願も  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zS3dGdEtxU1d6Z1QxVnE0cVhMQ25MbDE1bVFUUU1yNUE2UG5MME84Smx5YkpCY1hPdVNldzczNDBQM3lnN3d1MXZHUjdiYTJIai1BSW5ROGZtQmth?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-427477602bd6324c3379503f0cf85da5",
@@ -122,37 +144,15 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-36a934221d7630197e145fdecdcfdb70",
-            "title": "野積み廃プラスチック撤去へ措置命令求める申し出 豊橋市に弁護士ら [愛知県]",
-            "source": "朝日新聞",
-            "published_at": "2026-10-10T06:00:00+09:00",
+            "id": "news-83517da1b5083f78b0c99b59047248a0",
+            "title": "犯罪被害者支援条例が施行",
+            "source": "東日新聞",
+            "published_at": "2026-10-12T00:01:29+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "野積み廃プラスチック撤去へ措置命令求める申し出 豊橋市に弁護士ら [愛知県]  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15MTV4VWhqVWItdEFrSU12V3h6UTl5Mml1dklsRnRjYXFKMEEzZDU5eFRIRXA5Z0JSV2RJZGdXQjN5UzRWbEdSbXk0aFJJVFk2TTFhbFFVNVZMbFZMLWk0S1dzNi1XdnM?oc=5",
+            "summary": "犯罪被害者支援条例が施行  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Tbkt1RC1JTkI0R3MzSWZSd0pLSEhmZ2phY3pwbmthYWNyajdSSkRta3dOV0VQa2hlcFJzR0x4Yktsd0NlVF9aTkxUUEFhckVGRHNybjYzZ2I1X2Yx?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-655c1a39bfba4877c884b5438d1145f0",
-            "title": "豊橋で自主企画映画「石巻温泉パラダイス」（仮）の撮影開始 石巻山などで 初日は石巻神社で安全祈願も",
-            "source": "東愛知新聞",
-            "published_at": "2026-10-11T22:35:04+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "豊橋で自主企画映画「石巻温泉パラダイス」（仮）の撮影開始 石巻山などで 初日は石巻神社で安全祈願も  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zS3dGdEtxU1d6Z1QxVnE0cVhMQ25MbDE1bVFUUU1yNUE2UG5MME84Smx5YkpCY1hPdVNldzczNDBQM3lnN3d1MXZHUjdiYTJIai1BSW5ROGZtQmth?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a4d1068cf888ee642a6af137345e269e",
-            "title": "豊橋と蒲郡で採火式",
-            "source": "東日新聞",
-            "published_at": "2026-10-11T00:01:26+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "豊橋と蒲郡で採火式  東日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FX0U3Yzg1RllCQW5ycjMyWVczaExESlAtVy1xYkx6V0w5dFR2cnpLRmlaMllhTXByYU9kOU1kaTVqRG5YZDdoUndWNGlwYkhrMWwxSlN4ZEdCZFlS?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-2fb4d6a8bd66f5de205e9ed76508883d",
@@ -166,21 +166,32 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-8118aa7b107e070467c019cb461d368a",
-            "title": "「絶対にやめて！」国指定天然記念物「葦毛湿原」で重大な自然破壊行為が確認。在来種の絶滅につながる恐れも",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-10T07:03:12+09:00",
+            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
+            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
+            "source": "ウォーカープラス",
+            "published_at": "2026-10-11T21:41:16+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-c28598f725762703556ce0dba821fb9b",
+            "title": "「まちあるきのたのしみ」テーマに",
+            "source": "東日新聞",
+            "published_at": "2026-10-12T00:01:29+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "「絶対にやめて！」国指定天然記念物「葦毛湿原」で重大な自然破壊行為が確認。在来種の絶滅につながる恐れも  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YMlhHbnlxdlBia1NhYS0xNXhVdzdLb3F4elhiWEZDQ2FpdEU1ZEVDSG5tanNnTWV4LWNUTEZPak5aNThxeGdxYnF2SElxS19OSF9VTktGN1NrWEs2bEZtYkJuVUpaSkxMN1U1eDFDcnhzTVNkVzh0T0xjMkdmd3M?oc=5",
+            "summary": "「まちあるきのたのしみ」テーマに  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tTGFGQXFfX0xnLWpYV1QxUG41SWl3TDFrbDM5WFhGRmJEcW50Y0tlUDZ5eWdSQVBwZDF6ZHlIU010LVBiSWFXc3VvVU9sVWwybjdyMThKT1RWNS1l?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-ed96029f5a5606d1dde62924923835d5",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
             "source": "tenki.jp",
-            "published_at": "2026-10-11T18:31:28+09:00",
+            "published_at": "2026-10-12T06:31:29+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
@@ -188,26 +199,37 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-6f9cf07a3502e1374ae5ebc6c93ac5f2",
-            "title": "豊田市で男性がクマに襲われ右目などに重傷 愛知県内では2019年以来の人身被害",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-11T22:28:07+09:00",
-            "category": "市政・行政",
+            "id": "news-5446bbfdc7f4fa82d4d9c96bfc8b72d4",
+            "title": "男性（59）がクマに襲われ大けが 愛知・豊田市の住宅",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-12T04:03:25+09:00",
+            "category": "一般ニュース",
             "area": "三河",
-            "summary": "豊田市で男性がクマに襲われ右目などに重傷 愛知県内では2019年以来の人身被害  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vd0cyZHJLaDJPWll6ZVZwLVNBMVNWX2JnVWNJV0k2cWgwaFppcHNmMVlrbko5bXdEVGhwS250ZzNwRkUxY1Y5ZUpRTmVmTmpuQ094eQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "男性（59）がクマに襲われ大けが 愛知・豊田市の住宅  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHZDNsX3V2UGFoMWtPOHNfMmxudHVrS09UZS1GbEJHS2dWMk96MzV3Z3dYMWMyeG0yMzVLODVUWWVzZXZfeE9pUDhhd2dQbWtLeTZTa0lzWQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-71676fd9abd4aa513cff5b402705916f",
+            "id": "news-7f357f7f238e1dccc451d460252c7e33",
             "title": "【愛知県】10/12の天気予報（FNNプライムオンライン（フジテレビ系））",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-11T19:30:48+09:00",
+            "published_at": "2026-10-12T05:10:42+09:00",
             "category": "市政・行政",
             "area": "愛知",
             "summary": "【愛知県】10/12の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mdEJZZzdpbjh1NXJXTXNubzdWajZNcVVoc1Z3Z2NMNV9wRm1ha2R2ZjRLQVNDOVJFRERSLUM5eXc4c2gxcFZmZWc1aDZ3X3ZlUG5fU3pNOWlzTm42RGowYzJhLW1pUk0xT3RtOGdRUjBKNnFJRWxPazlYYTFUNG8?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2cHNtVUhwYUtxeF9SeWt1ZW5iVTFhLXFxbURBbHdmZGFyV1lOWWlpbHVyUzNqekhDOVFIblc0cURiWWdVeDV0VUVMdHI0NFM5bmJoRlNDTlFVSlRLN2ctLWYwWmJ3WjcwdFlqcHIwT0F3OHVSQmNqUDhBRXVXSFk?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-28e1b3a9ce98c3cb6a4151bc7f34b536",
+            "title": "2026年度 第50回 JFA全日本U-12サッカー選手権 愛知県大会 地区代表更新中 11/8~22開催！要項･組合せ情報募集！監督会議11/1",
+            "source": "Green Card ニュース",
+            "published_at": "2026-10-11T22:49:27+09:00",
+            "category": "観光・イベント",
+            "area": "愛知",
+            "summary": "2026年度 第50回 JFA全日本U-12サッカー選手権 愛知県大会 地区代表更新中 11/8~22開催！要項･組合せ情報募集！監督会議11/1  Green Card ニュース",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51STFvSWg5MXpGbmx1ZkJGbjAzS09hOUpFbjl3R2VKV25nZEpiMDk4NVZtdHJqcnFWUVNmNHg5bS1qSGh6a0I5RTBqZDQ0c181NFBhVHBkZk1yZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-3bd6bbfde8158547fc828aebef7df697",
@@ -218,61 +240,6 @@
             "area": "三河",
             "summary": "玄関先でクマに襲われたか、50代男性が重傷 愛知・豊田 [愛知県] [相次ぐクマ被害]  朝日新聞",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDS2JyNExUZnBBZnFrdm5EQTI4SDhCM1VlRHNlR3IxZmZlLTVxd052dW0zXzV0YnVZdFhpQVViWTI3OG5qbFpJRUVqemg4Yk85TGZydkJzUUJ3UGhCQWNFNVpHdngwNHM?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-98fcc7e9fc20735c3176221298e74b74",
-            "title": "木曽川で25歳の男性がおぼれ死亡 愛知・扶桑町",
-            "source": "テレ朝NEWS",
-            "published_at": "2026-10-11T17:35:24+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "木曽川で25歳の男性がおぼれ死亡 愛知・扶桑町  テレ朝NEWS",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83N2dmZmdiaWZRay1UbDlVd2JsR3UxbUgyenhMQXpqMHE5Qm02TlQzZHpLbnFzNlFBNVNuQ05uN1EtWG1BbFZkODI1OHB1eGRvVk9UVWtSU3JGclVrSjZyLTAxN1poLXZ4eEh1djZzY3pzZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d3b0dfee3a5450037358691e726bbebc",
-            "title": "「足をケガして動けない」愛知県の58歳男性が下山中に登山道で転倒 消防が救助 足首の骨折で重傷 八ヶ岳連峰蓼科山で遭難",
-            "source": "FNNプライムオンライン",
-            "published_at": "2026-10-11T19:30:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "「足をケガして動けない」愛知県の58歳男性が下山中に登山道で転倒 消防が救助 足首の骨折で重傷 八ヶ岳連峰蓼科山で遭難  FNNプライムオンライン",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JOEZxOHJEX2Y4V0tNbENpZDM5cHhWUlAxV05rT1k1MzUtX2NyNWFkZ1dyLWxXTmE0WW9iXzBnUDBSejN2dFdXWEpWZkl3dw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-98b67a60f295c638211d75c9f5dab9bd",
-            "title": "木曽川で男性（25）死亡、遊泳中に溺れたか 愛知と岐阜の県境",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-10-11T20:59:20+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "木曽川で男性（25）死亡、遊泳中に溺れたか 愛知と岐阜の県境  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45c284Q3E2cVVuR3NzWFBNUGtHLV9iaW5XRGVYbmhiQkFKUWpWcklQakRIT3hrdXFTRkdQT3dQSXA2Y0I4bE5wSXVGUFROejdlbEwycVJQVQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a4e6bbcba4e1cfde48aff76fcd31c5a7",
-            "title": "愛知 豊田 住宅の玄関先でクマに襲われ男性大けが",
-            "source": "NHKニュース",
-            "published_at": "2026-10-11T21:58:23+09:00",
-            "category": "一般ニュース",
-            "area": "三河",
-            "summary": "愛知 豊田 住宅の玄関先でクマに襲われ男性大けが  NHKニュース",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PdW5FZ3RaSzVFLUFyV1VBQzNJOHlKc2IzUEp0NG13dktpYlBzdzJ2Um0xUHdjWUwyZnZRWGNGOUEzX09KelV1X1lMREdKc2x0dFZvQ0kwUEVCaThHemRn?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-42512320d9e8f208e0fee8a3f387de39",
-            "title": "タイムズカー情報漏えい 愛知県公安委、対象者免許再交付を受け付け ：地域ニュース",
-            "source": "読売新聞",
-            "published_at": "2026-10-11T10:55:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "タイムズカー情報漏えい 愛知県公安委、対象者免許再交付を受け付け ：地域ニュース  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6Rk9KWjdkVHN6c3dXY0g4UHYyOGxzYTVKc0tyYWMxajlmalQ5ZHc4N2dXT0dvRzVkOUtTVXVJSnI1d19pQ2NRMEpVSUUyZWpvclc1QVN0dDJrMXAwMFV6ZzhsV3hoLVM3NmMtMlR2UXM?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -287,48 +254,92 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-5cb2e10ba4b31a405441bb499da40d99",
-            "title": "木曽川で水難事故、ベトナム国籍の男性死亡 愛知・扶桑町",
-            "source": "朝日新聞",
-            "published_at": "2026-10-11T22:15:00+09:00",
+            "id": "news-98fcc7e9fc20735c3176221298e74b74",
+            "title": "木曽川で25歳の男性がおぼれ死亡 愛知・扶桑町",
+            "source": "テレ朝NEWS",
+            "published_at": "2026-10-11T17:35:24+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "木曽川で25歳の男性がおぼれ死亡 愛知・扶桑町  テレ朝NEWS",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83N2dmZmdiaWZRay1UbDlVd2JsR3UxbUgyenhMQXpqMHE5Qm02TlQzZHpLbnFzNlFBNVNuQ05uN1EtWG1BbFZkODI1OHB1eGRvVk9UVWtSU3JGclVrSjZyLTAxN1poLXZ4eEh1djZzY3pzZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-4eb94bdfc915049900ef4a7417b35b7c",
+            "title": "画像2 / 4＞体が消える、丑の刻参り…事故物件住みます芸人・松原タニシが体験した愛知県の心霊スポット3選",
+            "source": "ウォーカープラス",
+            "published_at": "2026-10-12T06:07:18+09:00",
             "category": "社会",
             "area": "愛知",
-            "summary": "木曽川で水難事故、ベトナム国籍の男性死亡 愛知・扶桑町  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWVfVFoyUzAyZVNiX1NZOTk1TjVocmhfX2JmNWVyNWJITm41Q0tpNFh3QkhhQm1qTFRVMzNqeFZxZ09HWDI5SXF3azlOLW1CV1BPV0szWWtCbjZEaVotaDUzU1RfTWl3MnptUmFCZnZmZnRCZVYxNFVVaTlfQTQtS090MHlZdw?oc=5",
+            "summary": "画像2 / 4＞体が消える、丑の刻参り…事故物件住みます芸人・松原タニシが体験した愛知県の心霊スポット3選  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ObXRpMFMybGZDQ2pWUFl1bzV3UE93NlN4UWpKUlVmemVsNWI5V0hXaUhxcGU4ZFJLbTN3RHY1OEpHZS1vMXlLa2FjWkhzQjZ5X3lPQmRJZmItLWNMZDByajhZVC1BaVFKM2E1V1RR?oc=5",
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-f34aa315ccd123ccc80da0ee989962c1",
-            "title": "「浮石でバランスを崩し…」 八ヶ岳連峰の蓼科山で下山中に愛知県の男性が転倒 足首を折るなどの大けが（ＳＢＣ信越放送）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-11T19:06:19+09:00",
+            "id": "news-48ced45bca8d6f3ff13db9d40cc1f7b5",
+            "title": "愛知県",
+            "source": "シアターテイメントNEWS",
+            "published_at": "2026-10-12T07:47:39+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "「浮石でバランスを崩し…」 八ヶ岳連峰の蓼科山で下山中に愛知県の男性が転倒 足首を折るなどの大けが（ＳＢＣ信越放送）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83RFhZRV9tdE54VnBPMHVKMUtMZkRLb3N0Wlk3aEhSNmxKTnFId21yY2ZXcFhNZlp2ZEtYMEpoRVpidDhTR05jYmw0b1FiUmd4bU9UUmhjT0RxTm5NQ0NENVo4WlBFSEoxbDdBaE0zcVdWelYzMzc2NGRzRGllNWM?oc=5",
+            "summary": "愛知県  シアターテイメントNEWS",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EdmY4dkx0SU1Oc3BQb2xDc1BhXzFKQWJaeHpoV2ZVeUhiUjZ4REpxWGFzamZEWV9ucDBsTHd3dko3YkhWTWJNa3Y5ODlhMDRBRVZmR2dlakduSmhVdy1vODJYLXd1VUh4V2hF?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-a1f1c8e4b3d617e8dbadb3cf89c94700",
-            "title": "アジアパラ聖火リレー ～愛知県刈谷市：地域ニュース",
-            "source": "読売新聞",
-            "published_at": "2026-10-11T16:36:29+09:00",
-            "category": "市政・行政",
-            "area": "三河",
-            "summary": "アジアパラ聖火リレー ～愛知県刈谷市：地域ニュース  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWVdTRThIbjF0SGwxVkZRYXZsOWVkb0tOS1hPYlliSUdQalM0VHpqYkliMHZqWWtnZ3RHZFZGMi15b0hnUU9VU1FlRWg1bmMzX3ZPcmlTb2VJd1l6RHBUV2RtUEpNN0g2VW00OVplSERiMXB3cXJJVmRIWUIxTFVQN0UxUQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-3b69b6bbb91f8c81bb0d156918db010f",
-            "title": "豊橋(愛知県)の過去のアメダス(2026年10月10日)",
+            "id": "news-9518a0bc482aceb574184ac063dfa786",
+            "title": "愛知県の過去の天気(実況天気・2026年10月11日)",
             "source": "tenki.jp",
-            "published_at": "2026-10-11T09:30:14+09:00",
+            "published_at": "2026-10-12T00:29:20+09:00",
             "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "豊橋(愛知県)の過去のアメダス(2026年10月10日)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NT01wSkVmaWVpNnhyQXd0WEVTZkdhMnRQUzNUU1RUZjZ3blJMYkQxMnlZdS1NdlRUaVVROW95VXllbHV0RTVCNFZzZHpIWGRiU3BiTVRIakFBVmRjekNYYXRqb2Vhdw?oc=5",
+            "area": "愛知",
+            "summary": "愛知県の過去の天気(実況天気・2026年10月11日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scnJNVXhCa1h6YUtER1RRc2JMUVhlOGhOQ05yZVVJZW9kWUdwZ1VpOWJ0YmtSa2owcTItTnBnMnNKRWdhM1pxaU1OMk12RHhnUzRTeDJkWmZMdw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-a3daf698abed4a121fdeb78db66174db",
+            "title": "2026年度 AIFA 愛知県U-14クラブカップサッカー選手権 1次リーグ 10/10,11結果更新！入力ありがとうございます！10/12結果速報",
+            "source": "Green Card ニュース",
+            "published_at": "2026-10-11T23:19:20+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "2026年度 AIFA 愛知県U-14クラブカップサッカー選手権 1次リーグ 10/10,11結果更新！入力ありがとうございます！10/12結果速報  Green Card ニュー...",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FdzRtUFRLRGFINlBNY2s3ZVN1Q1JVNE85YS03V0hXSmJaYzAyRHdaa2VMcHNqRGhDaEs3a0Q2akpBTjJYZEwtVk5vMFlpREZGNWN3Wno4SkpCZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-576525df31ce83270e694982acf620db",
+            "title": "玄関先でクマに襲われる… 男性（59）は眼球が破裂するなどの重傷 現場周辺ではツキノワグマの目撃情報 愛知・豊田市",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-11T19:58:00+09:00",
+            "category": "一般ニュース",
+            "area": "三河",
+            "summary": "玄関先でクマに襲われる… 男性（59）は眼球が破裂するなどの重傷 現場周辺ではツキノワグマの目撃情報 愛知・豊田市  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ac0FmbEp6RVVzaEpXOU4tekNmWlRLcFAtd3AzZTM5OW9zOFVGa1JvRjFpSy1YbzlRQTJrQmFSNWJKWVNyU3Y1TnBZV0JFb09JY0ZYaGFDeHlYRmhKR0hkSHlMQ3BadlpJSjdrR05EYXptQlAzZjdSemh0X0tOcnM?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-b5fd8b7ee96ddcb3988cab85b006b87b",
+            "title": "愛知発バンドの緑黄色社会、AI時代だからこそ信じるライブの価値 [愛知県]",
+            "source": "朝日新聞",
+            "published_at": "2026-10-12T07:00:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知発バンドの緑黄色社会、AI時代だからこそ信じるライブの価値 [愛知県]  朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMWkyT2RfT0pNLVg1a3VFSDdwdVZrTGJkNUY5ODU0LXRIRXVfdHF2NktXMy1GaGpRZmtSN1dFTXJvRzRGQmdSVkV1bWpZZjV3OTNtMHQ3eWdoaV9hQ0xlUGtxVzRha3RoWTQ1cGJPRm9CYlYwOU51UlU2ZUZZNjFST3BrWEFZUQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-293bf93067c8b49faa16ca4f1b96c351",
+            "title": "木曽川でベトナム国籍の25歳男性死亡 遊泳中溺れたか",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-12T09:09:00+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "木曽川でベトナム国籍の25歳男性死亡 遊泳中溺れたか  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rUVN5LU9qcExLUVJVcG9yWlBjQ3FNU0RZaG5XRWZWTlRSeDlrYV83SzNWNnU3Y3hMRHJyQlV0UXhBcUU5WF91UTgyNnJ4RTdLbHNmdXU4S0RYYWRza21qTEZJTC1rX2s?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
