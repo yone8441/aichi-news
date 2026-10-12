@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-12T19:33:37+09:00",
+    "last_updated": "2026-10-13T02:35:39+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -78,15 +78,15 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-7177ff6c4a4d25622dd06d6bb5272c37",
-            "title": "アジアパラ競技大会を前に豊橋と蒲郡で聖火の採火式",
-            "source": "東愛知新聞",
-            "published_at": "2026-10-12T19:13:06+09:00",
-            "category": "一般ニュース",
+            "id": "news-8afdf143c8984d51cb9c8d40f63b67cc",
+            "title": "愛知県の雨雲レーダー(過去)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-12T18:31:49+09:00",
+            "category": "市政・行政",
             "area": "豊橋",
-            "summary": "アジアパラ競技大会を前に豊橋と蒲郡で聖火の採火式  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93ZlJvUGFGeklYMkgtZ3RVZFZvM2lZZVB4QUV2d0FndDY2b19pTHc1d01aWU1nb0M0SVBZS0xCeF9zTzNqOU5lcTEyWTFJX1N3Yml5MWp2eUtLN1Rs?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "summary": "愛知県の雨雲レーダー(過去)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pbjJxV2FNdFE5akcyUUJqQlhDVEdJVDdNMnBfNGFod2p2MXhJeEJFdUsyU1YybnJzS0Q1ZlRTdjZfWEFFNFNOWnRwMG5DUQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-310140df7d39e17e60a2501f451d59fa",
@@ -100,26 +100,15 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-584897feba4af57bcab50b28eedadf56",
-            "title": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
-            "source": "tenki.jp",
-            "published_at": "2026-10-11T01:34:58+09:00",
-            "category": "観光・イベント",
+            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
+            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
+            "source": "ウォーカープラス",
+            "published_at": "2026-10-12T18:03:41+09:00",
+            "category": "市政・行政",
             "area": "豊橋",
-            "summary": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2d0N5QnhERmtibVBadUUyS21rMEh3Z2VDNnlVQTZPN19LQjZvV2g5Ykw2ZWVkX3ppbXRLdk1CWUFza0oyZlU4NHhJTmNsaEhsOWxJ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8042f4321eddda4b0a231b4568c49013",
-            "title": "AI活用し来園者に動物の情報提供 愛知 豊橋",
-            "source": "NHKニュース",
-            "published_at": "2026-10-12T11:54:29+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "AI活用し来園者に動物の情報提供 愛知 豊橋  NHKニュース",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BcFQ3RGlSNHNuUU42OGJnc2NIZEt3YWFSeDItd1kyaFZncG4zeUdSRU9Qd01kTnhYbkwwX2RwSGdDR2JEbTdGaE50OVE4UFVLcFl6M1VjWWRrdDhQZl80?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-800541af9a2fc8b99363a22f41ebc078",
@@ -133,15 +122,15 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-53069d715d109db1a3b0f6d28508e082",
-            "title": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
-            "source": "ウォーカープラス",
-            "published_at": "2026-10-12T06:12:56+09:00",
-            "category": "ビジネス",
+            "id": "news-8042f4321eddda4b0a231b4568c49013",
+            "title": "AI活用し来園者に動物の情報提供 愛知 豊橋",
+            "source": "NHKニュース",
+            "published_at": "2026-10-12T11:54:00+09:00",
+            "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbmFBMjZVWTdXMENUUVM5X083Y3QySXVoeHdjWlhpaEhId1l0STRZdG1GLVZkbXpjcmVqYlRSSl9HMWtKMnNKTXRIQnROTXNRd0p0M1AwQW1CUnhWcWZ0dWZQcklBdlhmM2ZvUGFn?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+            "summary": "AI活用し来園者に動物の情報提供 愛知 豊橋  NHKニュース",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BcFQ3RGlSNHNuUU42OGJnc2NIZEt3YWFSeDItd1kyaFZncG4zeUdSRU9Qd01kTnhYbkwwX2RwSGdDR2JEbTdGaE50OVE4UFVLcFl6M1VjWWRrdDhQZl80?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-81a7d23edbabeb98548118196a1b3d4f",
@@ -166,17 +155,6 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-655c1a39bfba4877c884b5438d1145f0",
-            "title": "豊橋で自主企画映画「石巻温泉パラダイス」（仮）の撮影開始 石巻山などで 初日は石巻神社で安全祈願も",
-            "source": "東愛知新聞",
-            "published_at": "2026-10-12T18:49:22+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "豊橋で自主企画映画「石巻温泉パラダイス」（仮）の撮影開始 石巻山などで 初日は石巻神社で安全祈願も  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zS3dGdEtxU1d6Z1QxVnE0cVhMQ25MbDE1bVFUUU1yNUE2UG5MME84Smx5YkpCY1hPdVNldzczNDBQM3lnN3d1MXZHUjdiYTJIai1BSW5ROGZtQmth?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-9aed54200320371f4dd0277846f51b0f",
             "title": "素材と鮮度へのこだわり学ぶ",
             "source": "東日新聞",
@@ -186,6 +164,94 @@
             "summary": "素材と鮮度へのこだわり学ぶ  東日新聞",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZ2NENVNqWHMtOGtRLVltbElDZHEyM2hhOTRMWlRsMGdoWEVGR3EwcW85YzRQM0RoX0ViM19UWUJNN2d6NzlDQi1Fb2IzN2tTU2YyUy14dWZRVC0t?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-73bcf0228ca1e9b08a146a8ebb5854a2",
+            "title": "10月の3連休、各地で祭りや催し",
+            "source": "東愛知新聞",
+            "published_at": "2026-10-12T00:00:00+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "10月の3連休、各地で祭りや催し  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aUFZVNUhIVUx0Uk1pTDE3SkJNV19ZaTB1bXpzUS1SVGFyS29LSld3ZGNIWWhxdDFSVWxXOVZTbm1iaHgycmtUSUQwYVJ2UWc2SnFuNGVzLUZ3NURn?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-adf8f731a1c7b91d71aef94ac1fe7b53",
+            "title": "【豊橋市】野積み廃プラ３万２０００トン 住民が刑事告発へ",
+            "source": "YouTube",
+            "published_at": "2026-10-11T08:02:15+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "【豊橋市】野積み廃プラ３万２０００トン 住民が刑事告発へ  YouTube",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mU1hFVGVleFJTWjBOOFpYTHlkRnQtN0xwQ0l3djR1OW9xaFR0MTBaN2xDZmtPTXVUczI4SDROZ0NzSDlsTjFBTGJOSHh4RkduN0tMRlEwaU9kRm5N?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ed96029f5a5606d1dde62924923835d5",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-12T21:31:27+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-a3daf698abed4a121fdeb78db66174db",
+            "title": "速報！2026年度 AIFA 愛知県U-14クラブカップサッカー選手権 1次リーグ 10/10,11,12結果更新！eブロック終了 入力ありがとうございます！次回10/17,18",
+            "source": "Green Card ニュース",
+            "published_at": "2026-10-12T23:12:20+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "速報！2026年度 AIFA 愛知県U-14クラブカップサッカー選手権 1次リーグ 10/10,11,12結果更新！eブロック終了 入力ありがとうございます！次回10/17,18 ...",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FdzRtUFRLRGFINlBNY2s3ZVN1Q1JVNE85YS03V0hXSmJaYzAyRHdaa2VMcHNqRGhDaEs3a0Q2akpBTjJYZEwtVk5vMFlpREZGNWN3Wno4SkpCZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-6d41e553732b91b070b1b311db5b0e7c",
+            "title": "愛知・豊田 1歳女児死亡 祖母宅に帰省中 「意識がない」と通報（朝日新聞）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-12T18:45:00+09:00",
+            "category": "一般ニュース",
+            "area": "三河",
+            "summary": "愛知・豊田 1歳女児死亡 祖母宅に帰省中 「意識がない」と通報（朝日新聞）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BRmNhcDQ1QTcwSnF1Z1JKMXB6Qzd4Z0w5TmtaQ3V2MmE0dWZsbUJDRHJyY2NncjllZDJzTEN3NWNrb3c2SWlwaTFNTFFVNXVsdENQZS14NXVmd0VSbEZ6aHpBVllxMWVaTXdjV2lJRHVfeWVsSE5uUlRJSWY2a0U?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-96f4174077aad0957c7e0873adabc33a",
+            "title": "愛知県あま市で車から男性を振り落とし逃走 交通トラブル発端、津島署は運転していた80代ぐらいの男追う",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-12T20:48:16+09:00",
+            "category": "市政・行政",
+            "area": "尾張",
+            "summary": "愛知県あま市で車から男性を振り落とし逃走 交通トラブル発端、津島署は運転していた80代ぐらいの男追う  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZaDRXTkNFWjRMd2lyM05ISWw0aEtZU3dHNW1tZGlwVU1ZM25TcklrRHZqbzcxcGR2WDlRR1dmd3hnMWliYWFHTXBmdHZUeGlINUY4cQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-6411e3ff7282bb072f2fd057764bfffc",
+            "title": "車のボンネットにしがみついた男性を振り落として逃走　殺人未遂事件として捜査　愛知県あま市",
+            "source": "名古屋テレビ【メ～テレ】",
+            "published_at": "2026-10-12T22:05:00+09:00",
+            "category": "社会",
+            "area": "名古屋",
+            "summary": "車のボンネットにしがみついた男性を振り落として逃走　殺人未遂事件として捜査　愛知県あま市  名古屋テレビ【メ～テレ】",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5UUI4dXJGUXh3ZTBodHJlQzhFNmRaSzRZbEVZNFB0LTRpck9CUXNhSGx5RE5tRTJ0clFNX1NWMmw5TnRZRTctSXA1WFV0NWNmd2fSAWRBVV95cUxQeWVqRXhNN09mQUZKN0hYcDh3V3dLalAtVHhyd29GNDJwUUJ3VV8ybFR6RFU5S0F5empMUEd1NzFzems2WTdGT3JLZm1uUkFIUXZJdnZtOHdodUctbC1zaTJ5RHd1?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-8e946000dbc823a2d45c0781e8bd35a8",
+            "title": "「滑落してけが人がいる」北アルプス前穂高岳 愛知県の56歳女性が下山中に滑落 岐阜県警のヘリコプターが救助 高山市内の病院に搬送 | SBC NEWS | 長野のニュース | SBC信越放送",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-12T18:52:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "「滑落してけが人がいる」北アルプス前穂高岳 愛知県の56歳女性が下山中に滑落 岐阜県警のヘリコプターが救助 高山市内の病院に搬送 | SBC NEWS | 長野のニュース | SB...",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sT1B6SDQzVV9mb2JrQTBibkJjbnJoczE5VGxibXRlUWcydW9NbzV4blZJbVVReFJBTDZzUHFQWklBMjdrc0hGcmtPbDRVaFdqWFE2eXRwWm1WZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-70c936ab0e15922e391d10965e07293e",
@@ -199,6 +265,39 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-d536974992326bbb24466c0a5cdb7d7c",
+            "title": "住宅の台所に女性の遺体 同居の息子を逮捕 顔を殴りけがをさせた疑い 愛知県豊川市（メ〜テレ（名古屋テレビ））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-12T23:48:01+09:00",
+            "category": "社会",
+            "area": "名古屋",
+            "summary": "住宅の台所に女性の遺体 同居の息子を逮捕 顔を殴りけがをさせた疑い 愛知県豊川市（メ〜テレ（名古屋テレビ））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNRDJrOVQtbTlIV1gyRTJtYUxxM0FwUnhaQ3B4NXQ4WU1qMG9aT0VxRTQ5TXVhU1R2U0UxSi1yemptZ3h5bGtBM01HSVN1N1pVZ1ZVVm1Ua3RYQldQOG9Za0NidWd5cThhSGR4MHN3RXFZdzhRLTh6a21Jdm81aTg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
+            "title": "愛知県の今日のアメダスの記録(10月12日)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-12T14:08:08+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の今日のアメダスの記録(10月12日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-94e3309ab8a8f7731617159fed094185",
+            "title": "ツーリング中に事故 大型バイクがガードパイプに衝突 愛知県の56歳男性をドクターヘリで搬送 左下腿開放性骨折で重傷 長野県大桑村の国道19号（NBS長野放送）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-12T14:33:01+09:00",
+            "category": "社会",
+            "area": "愛知",
+            "summary": "ツーリング中に事故 大型バイクがガードパイプに衝突 愛知県の56歳男性をドクターヘリで搬送 左下腿開放性骨折で重傷 長野県大桑村の国道19号（NBS長野放送）  Yahoo!ニュー...",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03djBXU3lqam05ZDB2SWVXQVUwSl9peW1HTUhRX3RhdWpJZmk2dzRqbTJCZ1RnTk13STFzZW1ROFQtZVFkdm5UdlhYaFFtb0dkcVF6UUZGYnNHdVlpZjdncnhBNG5uT20wdW5IRllXRlJnV0xJRjZDcFhHa3FLcWc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-6df9ef7c408921b1e1b980cdd856da9f",
             "title": "熊に襲われ…男性が眼球などに大ケガ 市職員が現場周辺をパトロール 「生ゴミは外に放置しないで」 警戒呼びかける 愛知･豊田市（CBCテレビ）",
             "source": "Yahoo!ニュース",
@@ -210,135 +309,36 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-1ca0a5d7ffb33cc3a90a820fcdda8e30",
-            "title": "愛知・豊田 1歳女児死亡 祖母宅に帰省中 「意識がない」と通報 [愛知県]",
-            "source": "朝日新聞",
-            "published_at": "2026-10-12T18:45:00+09:00",
+            "id": "news-48fd1c427ccf96000817784e8cc26e5b",
+            "title": "【愛知県】10/13の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-12T19:30:47+09:00",
             "category": "市政・行政",
-            "area": "三河",
-            "summary": "愛知・豊田 1歳女児死亡 祖母宅に帰省中 「意識がない」と通報 [愛知県]  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wRWV3UUtTZTE0ZUlybGlYdGNlVEZhT0VoLUkwTEkwZTQ0VmNva2w0bGZNVmNfb2tVRmVhVURjV3VWN1V0dHJJeks4LXpIekdHWkgxaWI0Ym9vWV9MbkE2ZUFyUVRNNlU?oc=5",
+            "area": "愛知",
+            "summary": "【愛知県】10/13の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GNjBYazRpd3cySi1kSVE3Vk1NMXhOUWlERGNwTEV2VzQ0dUVGd2VzVXhPenpjUGJMOVZpT1k0eWVwV2JPeDhMb1RoZElKTmxRQndsQ1plMy1SemdDSU00MVQ0MUxoTkd0OHRUYWZKb3JvTFotMTIzWGpxcWdySHc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-604d27a4827dece6b145ec5954a7e43c",
-            "title": "アジアパラ聖火リレー ～愛知県知立市、犬山市：地域ニュース",
-            "source": "読売新聞",
-            "published_at": "2026-10-12T18:31:29+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "アジアパラ聖火リレー ～愛知県知立市、犬山市：地域ニュース  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORGNlVGQydTNHY2tzMzJBTlNsdGFKdFdHRkNrRW1HaVg1d1JwUWxaNkFxMVNzQmpSMUJ0RzE1bGl3RmVBLVJCQzc1WGhEM3NIMnc3bnVyT0hGTEE4UTV0Qml4dFMxOFd6ZlE5cll1ZG91TnV0MF93LXk5UW0tZmdKX1l3Yw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-5446bbfdc7f4fa82d4d9c96bfc8b72d4",
-            "title": "男性（59）がクマに襲われ大けが 愛知・豊田市の住宅",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-10-12T04:03:25+09:00",
+            "id": "news-19fbaf1abe6f40bddd526a0873db3f62",
+            "title": "1歳女児死亡 「意識がない。呼吸もない」と通報 父親の実家で… 目立った外傷なく死因不明 愛知･豊田市（CBCテレビ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-12T11:51:18+09:00",
             "category": "一般ニュース",
             "area": "三河",
-            "summary": "男性（59）がクマに襲われ大けが 愛知・豊田市の住宅  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHZDNsX3V2UGFoMWtPOHNfMmxudHVrS09UZS1GbEJHS2dWMk96MzV3Z3dYMWMyeG0yMzVLODVUWWVzZXZfeE9pUDhhd2dQbWtLeTZTa0lzWQ?oc=5",
+            "summary": "1歳女児死亡 「意識がない。呼吸もない」と通報 父親の実家で… 目立った外傷なく死因不明 愛知･豊田市（CBCテレビ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrU0wyRVdod205QU9LQ1N1NjVqV3UycWlTSXpYUGwtTEtoLVhZT09BcVBlNGstWUl4dk5iUWdVb2pyek1YUkJoR25IX0E2Vm1wRXNjYUFMQzFZeVRZdzNlV1hhczdLQjhpWTNTWXMzYkJ3NFpVdVk3RlVzQkNrQ2M?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ed96029f5a5606d1dde62924923835d5",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
+            "id": "news-fa1bdddd68555f7d4e0ade360c04c4e2",
+            "title": "伊良湖(愛知県)の過去の天気(実況天気・2026年10月)",
             "source": "tenki.jp",
-            "published_at": "2026-10-12T15:31:27+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-3753d60ec93181da936e2401dc7a51c5",
-            "title": "「パーティのうち1人が滑落」愛知県の56歳女性を岐阜県警のヘリコプターが救助、高山市内の病院に搬送　右手や右足などをけがしている模様　北アルプス前穂高岳で遭難",
-            "source": "ｄメニューニュース",
-            "published_at": "2026-10-12T18:01:00+09:00",
+            "published_at": "2026-10-12T21:31:27+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "「パーティのうち1人が滑落」愛知県の56歳女性を岐阜県警のヘリコプターが救助、高山市内の病院に搬送　右手や右足などをけがしている模様　北アルプス前穂高岳で遭難  ｄメニューニュース",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05X2k0d1JUQnZBbTF0UGF3cG9OTGw0Si03ajNBZ0NGak1jZ25lZ0k3aXM4MUYwdDFiUlZIdV9nWE9LZ09SNkFRc0UzLS1SNzNxNmNtS0d3SlgzRG1uWjZRcmlBZjQxLXNMYmZURjRSNENGUdIBckFVX3lxTE05X2k0d1JUQnZBbTF0UGF3cG9OTGw0Si03ajNBZ0NGak1jZ25lZ0k3aXM4MUYwdDFiUlZIdV9nWE9LZ09SNkFRc0UzLS1SNzNxNmNtS0d3SlgzRG1uWjZRcmlBZjQxLXNMYmZURjRSNENGUQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-06217a7acf9cd3d4dd1fceded0679dcf",
-            "title": "愛知県IR誘致 民間事業者が参加表明書を提出",
-            "source": "NHKニュース",
-            "published_at": "2026-10-12T10:44:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県IR誘致 民間事業者が参加表明書を提出  NHKニュース",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PejdwOE5kelhBQXd6aUZyTDJueXdzQm53NTZmQm52U2dsWVVzQ3ZKWjNvSmFRVWc1NEhpb2R0RVZSdm5QV2I5aDM4VnhHbHhINTNVNlhVX1g4bkxfb0pF?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-7644da048521d3a2609368dd8d1caad8",
-            "title": "男性がクマに襲われ“眼球破裂”の重傷 愛知のツキノワグマ出没情報は去年の約５倍のペース（2026年10月12日掲載）",
-            "source": "日テレNEWS NNN",
-            "published_at": "2026-10-12T17:04:01+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "男性がクマに襲われ“眼球破裂”の重傷 愛知のツキノワグマ出没情報は去年の約５倍のペース（2026年10月12日掲載）  日テレNEWS NNN",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1FILXluYXBfY3ZWRG5jRnJqZl9CSFBkTUlZRFMySDV0M0thXzNyM3lvYklmbllWQ0tCb3FONVZrbzRwVGtocmRZSHptV1E2UlZOcmdfVElNZ3pjZFNxanhSMVFDMG9Sd3VBaDM4VkVBcktmVjNVSTVHeWZjdXE4NVJKQ3JzNjQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-0591bff902ba3fd59caaf90330dea8a4",
-            "title": "愛知・豊田市で1歳女児が死亡 住宅から意識不明で搬送",
-            "source": "テレ朝NEWS",
-            "published_at": "2026-10-12T14:06:12+09:00",
-            "category": "一般ニュース",
-            "area": "三河",
-            "summary": "愛知・豊田市で1歳女児が死亡 住宅から意識不明で搬送  テレ朝NEWS",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wV1dBRS1JQ3VIakZSdjdfdVl0MDdsR01td0tzYnJ6dUp5WTBGOVVfb0JsQmE2LXFPcVY0NDFkbmtvYWRiY05IVFg2MkV5Mjc5czF0V0RDMlJlMWhvRXV4T0lxWTc2TzljbU9wV1VXdkM0dw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-cee89527ca850a1bb4057589171b6b9a",
-            "title": "台所で女性が死亡…介護職員が通報 親族などの関係者から事情を聴く 愛知・豊川市（メ〜テレ（名古屋テレビ））",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-12T18:34:01+09:00",
-            "category": "一般ニュース",
-            "area": "名古屋",
-            "summary": "台所で女性が死亡…介護職員が通報 親族などの関係者から事情を聴く 愛知・豊川市（メ〜テレ（名古屋テレビ））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uVmlnSm5tNnFKQjBNcXdqYnMxMkE3NnN1V3lpNjRDbUwyUkhja1AyUzZ0SnhLM0QzU2EzR2VKZTRVeGM0Ti0ySHpFLTlmMDZwWjg5YWpXNFYwX1N4V2FLbDVSUUJxeDFFbXQzdUlWc2MzaHRiWUVrQWMydFJjUkk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-18624eaa53401ed68bef1d2ef951a20a",
-            "title": "愛知県の過去の天気(雨雲レーダー・2026年10月)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-12T15:31:27+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の過去の天気(雨雲レーダー・2026年10月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGVERWYndHZVR4dzVONWh2d3ExbGNybWJTOEJjYXYyem95b2xvZnpWbzRyVEhZcG96RGFreEdkejl1SWNKck50SFZmRU5BNUcwazlZ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-04dd0b0eb688cd5ab7b26d6eb6e199d4",
-            "title": "【速報】住宅で1歳ぐらいの女児死亡 目立った外傷なく死因不明 愛知・豊田市（中京テレビＮＥＷＳ）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-12T10:56:00+09:00",
-            "category": "一般ニュース",
-            "area": "三河",
-            "summary": "【速報】住宅で1歳ぐらいの女児死亡 目立った外傷なく死因不明 愛知・豊田市（中京テレビＮＥＷＳ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BbUo1NTBwSXZGOXBTNmFZYjEyamRHV0FIbi1semJ0MmxuaU1GZzNxOGp1dllMOXFaVURjcEJIV0ZpZzhydkdqdFlFN1ZPMjFEcFFjZ05ia3ZDbWp0YWtnbnJwWXNNaWxoWTRtRjV0TmlkY01xaVQ4OXJtd19QbW8?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-2f662f7a49d994bb7543062100a2c0f6",
-            "title": "「滑落してけが人がいる」北アルプス前穂高岳 愛知県の56歳女性が下山中に滑落 岐阜県警のヘリコプターが救助 高山市内の病院に搬送（ＳＢＣ信越放送）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-12T18:53:13+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "「滑落してけが人がいる」北アルプス前穂高岳 愛知県の56歳女性が下山中に滑落 岐阜県警のヘリコプターが救助 高山市内の病院に搬送（ＳＢＣ信越放送）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50LTgxVHFRdjJIa3FvMUVkNnFkalJZZmxhMTg0ZGdhZUlTdUJjaGd4bElTM3pNb2ZNcV9sNHJkWkNqaG9oSXFMYkIzUWpLNk5KbkVLeUdEMjM3Z1NUODZ3bHVHV2NRUE9NclZOM29vQ0k1WVVQTWZCME9qR3B0NHM?oc=5",
+            "summary": "伊良湖(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtXzY5ZjE4YXFQVGxqZmJxdDVWeExTcWQ4eHFhNU9lNUFnTXlQUTlsQXY4OFl3cnU1cThNMmdmdmd2ZmNLbWFzckp1aExHQ1FSUHRYVjU0T2ZXQVVWcFE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
