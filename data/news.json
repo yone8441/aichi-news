@@ -1,15 +1,15 @@
 {
-    "last_updated": "2026-10-14T00:44:50+09:00",
-    "update_session": "夕刊便（17:00配信）",
+    "last_updated": "2026-10-14T10:02:42+09:00",
+    "update_session": "朝刊便（07:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "晴れ　夜　くもり",
-        "icon": "☀️",
+        "condition": "くもり　朝　から　昼前　雨　後　晴れ　所により　朝　から　昼前　雷を伴い　激しく　降る",
+        "icon": "🌧️",
         "temp_max": 26,
-        "temp_min": 21,
+        "temp_min": 26,
         "rain_prob": "0%"
     },
-    "total_count": 28,
+    "total_count": 29,
     "articles": [
         {
             "id": "toyohashi-city-802092aaaa0444ce0979c0bb3c489792",
@@ -78,6 +78,17 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-52d2c535f640b341486cdd4377b8b016",
+            "title": "豊橋市と三井住友信託銀行が遺贈寄付の推進に向けた連携協定締結 県内初",
+            "source": "東愛知新聞",
+            "published_at": "2026-10-14T07:59:41+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "豊橋市と三井住友信託銀行が遺贈寄付の推進に向けた連携協定締結 県内初  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEYWlCT0lUQU1lQTJLdnpZQ3VUWGs4NFFINFd4OVR6aEtqRlZpTTJtdVROODZpb0dRY2hsV3dwQkJpM1hMMzZscl9hSUF6Q21ZQ3dwN0g2VklUeHdx?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-a7c0d4424763698fcfb4e4f43b5905eb",
             "title": "愛知県豊橋市の「デイサービス船渡」運営会社に行政処分 2024年12月以降、サービス提供を確認できず",
             "source": "中日新聞Web",
@@ -100,6 +111,39 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-53c5b21b282e01d4e7b03c599c423da1",
+            "title": "【豊橋市】美しい舞と圧倒的なテクニックに酔いしれる！「キーウ・クラシック・バレエ 白鳥の湖 ～全2幕～」がアイプラザ豊橋で開催されます",
+            "source": "地域ニュースサイト号外NET",
+            "published_at": "2026-10-14T07:36:46+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "【豊橋市】美しい舞と圧倒的なテクニックに酔いしれる！「キーウ・クラシック・バレエ 白鳥の湖 ～全2幕～」がアイプラザ豊橋で開催されます  地域ニュースサイト号外NET",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Vbl9sRV9nLXc4LW9EVU01bXRQUHlPUk1FQnJSVDdfWW8yc2ozakdrSHZNTHRUdjZPN2oxQ3ZJOThYQ2pqQ3RtNzIteXBmMDFwTnMzTWJ5N3F1UWtBcTBCRnlhVy1zVlVOQ3c?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-62cdfcd1f9cb660bff25d875714a186a",
+            "title": "きっかけは野菜くず…豊橋などでスーパー展開の「渥美フーズ」、畜産参入から5年 エサも販路も自社にある強み",
+            "source": "47NEWS",
+            "published_at": "2026-10-14T09:15:21+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "きっかけは野菜くず…豊橋などでスーパー展開の「渥美フーズ」、畜産参入から5年 エサも販路も自社にある強み  47NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04S2RHSV91Mm83QWd5WDMxZk5MUGtuR0NoRnZLU2FiMEpKV1JkYjFyY1p5VkZOOTJrclFqSjM0eklmZW5HajRQVHE2SQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-cd5bde43193d5978ead951405ec4c6c8",
+            "title": "歩道橋に感謝と希望を描く！豊橋市で園児と中学生が絵画企画",
+            "source": "Koubo",
+            "published_at": "2026-10-14T00:05:08+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "歩道橋に感謝と希望を描く！豊橋市で園児と中学生が絵画企画  Koubo",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqbUFVZ3JBaGVUYTkzOEY2NEJheUV6NVE5TFVQREJIc0twTkUyWTByYUJZeDlFWXpNMVVSOXIyMG4tdVpoM2c?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-6fb9728b2f8aa8fdb4621620bb231d10",
             "title": "撤去前の歩道橋をキャンパスに保育園児と中学生が「感謝」と「希望」を描く＝豊橋市牟呂中学校と三郷保育園",
             "source": "PR TIMES",
@@ -108,39 +152,6 @@
             "area": "豊橋",
             "summary": "撤去前の歩道橋をキャンパスに保育園児と中学生が「感謝」と「希望」を描く＝豊橋市牟呂中学校と三郷保育園  PR TIMES",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45Y2x3SV9LekNRTXExb0tvZlBSLWdYLUtNWTdYeDkyQ2JWSkFvalhyTFd1UE1iZEJCR2l3ei1qUGhYQTVGMFVkcDZ3bHotOHNfX3YzVWVsNHFzSldRc3FpZ25qcVV4Vkl2ZXc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-83ea117a8431358a159d0423ac6758cd",
-            "title": "【豊橋市】豊橋でアジパラ「ゴールボール」が開幕！「静寂の中の格闘技」を体感しよう",
-            "source": "地域ニュースサイト号外NET",
-            "published_at": "2026-10-13T21:10:05+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "【豊橋市】豊橋でアジパラ「ゴールボール」が開幕！「静寂の中の格闘技」を体感しよう  地域ニュースサイト号外NET",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Od3RvVk9DeDB2cFJUcmJSbmloOGxLNjZFSmhhYVZ0eXR2ZHRmeHF4MU5XUHVPdjctUXRmc3JRRS1TWTNXUXdvbU0zQ2NWcnF1LVFZTWd6VFFRMlBacFlfMTVOS0dGbV9KSjZXYTN6QUZCSXBBZVE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-c95c680b815288277171185662f4b274",
-            "title": "日照不足や酷暑対策も両立 新開発「ハイブリッド植物工場」で作物収量安定へ 豊橋技科大の高山教授ら実証実験",
-            "source": "東愛知新聞",
-            "published_at": "2026-10-14T00:00:00+09:00",
-            "category": "ビジネス",
-            "area": "豊橋",
-            "summary": "日照不足や酷暑対策も両立 新開発「ハイブリッド植物工場」で作物収量安定へ 豊橋技科大の高山教授ら実証実験  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QaVF4U2thNkhDbk5UNWVyd2haaXJlSWRZOElSSWpBaUZBbklEVHktRkxKQUZUWGlHNDRTMzRjN0E4MGpYYzd4NWdKNF8yZk1wZFRYVlMxTTVLRW9X?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-880a62397f7f7484fc60ca4699020dc6",
-            "title": "【豊橋市】10/13 最高28℃、昼間は暑さを感じる場面がありそうな晴れの予想【朝版】",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-13T05:30:04+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "【豊橋市】10/13 最高28℃、昼間は暑さを感じる場面がありそうな晴れの予想【朝版】  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqbDJTT09jdENJU3k3UmFHWVBtb2pOUElWcGVSc0pSSXFLRkZOQXVKTUpiUzliNEZCb1ozbXRiUVFNVjNXYkU2MWU4WnV0dFBIUTd3cG5CbW1KOHFqQ09wbjR3LVUyNG9VVFA3bW0wcVJTLWp5M2lIelpheUlHd3c?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -166,28 +177,6 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-db87f8284e5186e9958a796d37dd11d0",
-            "title": "豊橋で上演される本格的ミュージカル「ALICE」 18歳以下368名を無料招待 無料招待の先着受付は10月17日開始",
-            "source": "アットプレス",
-            "published_at": "2026-10-13T10:30:00+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "豊橋で上演される本格的ミュージカル「ALICE」 18歳以下368名を無料招待 無料招待の先着受付は10月17日開始  アットプレス",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jVlZWa2NlVFJ4V0l3TEZfTF9NcWxSSVdGQkFKNE9tNU5ZSFg5SDh5d1ptU3lOeDVqVTBCSUhrU0ZXZDBrRTJtbVc3U00xZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-310140df7d39e17e60a2501f451d59fa",
-            "title": "タイのガパオライス等のグルメも…『スポーツの日』愛知県豊橋市でボルダリングなど体験できるイベント",
-            "source": "FNNプライムオンライン",
-            "published_at": "2026-10-12T12:02:59+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "タイのガパオライス等のグルメも…『スポーツの日』愛知県豊橋市でボルダリングなど体験できるイベント  FNNプライムオンライン",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ud1ZQaDhPcFFVVVptRWhlb3MwQ3NfZDJZLVJ1TVFKM2FTTUJabGZub3NLeGh6ckQtejVxeHpQZklDUkdUX2V0X3Z0QmRHQQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-88ec096d606601eacf6cdc67c7ac5779",
             "title": "木材利用の促進に関する施策の実施状況について",
             "source": "愛知県公式Webサイト",
@@ -199,69 +188,124 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
-            "title": "愛知県の今日のアメダスの記録(10月13日)",
+            "id": "news-0a0b00630514c988411a8ede91eaf956",
+            "title": "愛知県の過去の天気(実況天気・2026年10月13日)",
             "source": "tenki.jp",
-            "published_at": "2026-10-13T17:48:36+09:00",
+            "published_at": "2026-10-14T00:29:18+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県の今日のアメダスの記録(10月13日)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "summary": "愛知県の過去の天気(実況天気・2026年10月13日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ENFZPS0tTNUxKOFB4R29RWjBiM1BTM2g4MFNyLTk4eE1FX1JNbTA2eG9JdVgtUkt3ZDRoNFpMS0lDcWxQX0xoUVRQdGp1QlFIM2NmUWMySS1Zdw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ad17aedc74c8ebd280ced913723e7adb",
+            "id": "news-32c2798c142f0893429177fd5c3905e3",
             "title": "【愛知県】10/14の天気予報（FNNプライムオンライン（フジテレビ系））",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-13T19:30:51+09:00",
+            "published_at": "2026-10-14T05:10:32+09:00",
             "category": "市政・行政",
             "area": "愛知",
             "summary": "【愛知県】10/14の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDTU5zQzB1RjMyMW5SenNxZGpobzk5SmFxekhkQUh3QnNiZFpsS3Z5TW5zeDZEcUtBR3l2OVhyaVd6NWNYTFhVck4yb21IRnNXNjRfVHJ4Q0dQdi1uUUg3bGJFenE4dzcwSTFRNGw3Z0tZSnBjNmJZdjJZSEl3YjA?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtWDkwRUVSQ2F0YTdMX2o0UzJGcjNPUW5HQk9wZXRBaXZHRTNYcjVha0thbl9qUHhiMzFaeG56cm92ejFZWGpjd3p1VUoySkFNT3h6NHQzVm5CWDhkRlRLV3lmc0tLSWZ4X1JhcjZwdFNSUk1PRFdYSDZLOE5PdkE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-6874c78257e14522e7ee6a7a6ab14817",
-            "title": "女性のスカート内をスマートフォンで撮影した疑い 愛知県の男（47）を逮捕（2026年10月12日掲載）",
-            "source": "日テレNEWS NNN",
-            "published_at": "2026-10-13T15:04:01+09:00",
-            "category": "社会",
+            "id": "news-b8175db139f12e0011ef2a2b5b934bb3",
+            "title": "シュノーケリング後、船に上がり意識失う 愛知県の男性が死亡 石垣市",
+            "source": "沖縄タイムス社",
+            "published_at": "2026-10-14T09:50:00+09:00",
+            "category": "市政・行政",
             "area": "愛知",
-            "summary": "女性のスカート内をスマートフォンで撮影した疑い 愛知県の男（47）を逮捕（2026年10月12日掲載）  日テレNEWS NNN",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbWZwdTVjel90cGFMWlFHamFXdU9vMzFkSS1wNmV5U01GX1l1dEltTU51SjhobUxCQ0NlaFRDT0NGLUgzT1djSHZndHdzY0FVeDE5M1ROSHVJaEFTelk0RElpZGRxZ2tvdU9ObkdaamZuOTNRNUJEQWt1ZktIRmplRmNSbWNDOUE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+            "summary": "シュノーケリング後、船に上がり意識失う 愛知県の男性が死亡 石垣市  沖縄タイムス社",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wcEVVdFVvN0hvbWZQaTB5aUdoX1lzaE4tUVB3RkstNkxTVnd5X2J1ZjExTWtqUVlQTUw4RUY3Q05VajJERW9PUTNWT3k5T0gtdWxCc2xpdm1BWmRQdVE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-8a7a0b658874d1f3c9343979efe6f69d",
-            "title": "【動画】ツキノワグマ、6日連続で養蜂箱を荒らす 愛知県新城市、山あいの民家近くに出没",
-            "source": "47NEWS",
-            "published_at": "2026-10-13T21:15:12+09:00",
+            "id": "news-41ea135b74f61c6c9ce5b80878dcdfdf",
+            "title": "アジアパラ聖火リレー ～愛知県豊田市：地域ニュース",
+            "source": "読売新聞",
+            "published_at": "2026-10-14T04:45:34+09:00",
             "category": "市政・行政",
             "area": "三河",
-            "summary": "【動画】ツキノワグマ、6日連続で養蜂箱を荒らす 愛知県新城市、山あいの民家近くに出没  47NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lcmpCSmg4LUZaOXEtOWJVUFJUOGd1QXFVdkRpRlMwMEhyVEw5OHU1TC1YRTZJRVdxMzU2aDZWc05sN3h5TXRCSHJYMA?oc=5",
+            "summary": "アジアパラ聖火リレー ～愛知県豊田市：地域ニュース  読売新聞",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb29PVnkzMXRmZVphcjlrN08xY2pSUzA0Wms4djVTazVxNFBDcEJHd2w5ZmZpQ0Vvd3YxSXl6SUNjN084X2RGWl94Z3NVemNNNEkzQ3k5eHhaZW9FNG1WS21qLXFJUnZqX3VsUlZ5TWc1bUdFcUNhSXBIRTAtT01YdjNYYw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-9efddf1081244bcd678737285c732fd9",
-            "title": "愛知・豊田市の旧小原村でクマ親子の目撃情報 養蜂箱が荒らされ付近に糞も 旧小原村では２日間にクマ襲撃で男性が重傷を負ったばかり | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
+            "id": "news-48b0e16be08159864cb98266cd9cba89",
+            "title": "【かつ雅のおせち】ブロンコビリーグループで愛知県に13店舗を展開する「かつ雅」がおせちの予約受付を開始！11月30日（月）まではお得な早期割引&200個限定の商品も！…",
+            "source": "フーズチャネル",
+            "published_at": "2026-10-14T05:09:21+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【かつ雅のおせち】ブロンコビリーグループで愛知県に13店舗を展開する「かつ雅」がおせちの予約受付を開始！11月30日（月）まではお得な早期割引&200個限定の商品も！…  フーズチ...",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfQTNOTEZ6bjJ3M080SjJOeWZkdDZabWIwQ0RHczdxYlRWdEJEcmdKeDRKalRDcmh3bWl3Z1FjRmNkY21sd2NRNEktemJWTGRNejRoeEl3?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-7fb9951434fb56d0abea3ebb27821786",
+            "title": "愛知県稲沢市、住民17人のマイナンバーカード無効化 43人分の電子証明書で一部失効、委託業者のミス",
+            "source": "47NEWS",
+            "published_at": "2026-10-14T00:10:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県稲沢市、住民17人のマイナンバーカード無効化 43人分の電子証明書で一部失効、委託業者のミス  47NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NbUdWM0k3NGtnSDB1XzRBd3J3R0NmNE00OC1BQU11QTVrTkFMMG82TEdqYTdyV2ZGV0NMT0tPUUg5SzdZV2V0WjZVUQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-304569987f798c9b50d61e567e931144",
+            "title": "２年後のロス五輪にも意欲 アジア大会で金メダル 水泳・西小野皓大選手が愛知・豊川市長を表敬訪問",
             "source": "TBS NEWS DIG",
-            "published_at": "2026-10-13T23:36:00+09:00",
+            "published_at": "2026-10-14T06:33:00+09:00",
+            "category": "市政・行政",
+            "area": "三河",
+            "summary": "２年後のロス五輪にも意欲 アジア大会で金メダル 水泳・西小野皓大選手が愛知・豊川市長を表敬訪問  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03V1A0aG1pcXFtREhNVG5aQklJQ0lPbW5aSWpPb3MzY3NqamZONVdjX0pkaGI0MDhTOUltRXpMamFnd3d6UktMYk5kOXRBRmF4VWFrNHhfRndfZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-7f3304732b318883a43e9481457e7e0a",
+            "title": "愛知県事業評価監視委員会 大脇住宅の対応方針案を了承",
+            "source": "建通新聞",
+            "published_at": "2026-10-14T08:21:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県事業評価監視委員会 大脇住宅の対応方針案を了承  建通新聞",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMnBKaXZqSjlVdUFQWWs4NTJjUkd6Q1JsbkJYakdtbGw3OXM3dlB5dFZuMlRkdExNR0NLeHJ3Y0NjWmdrV0lmVi1fQjFNZ01NeWNvN0lxUW5SZ0d0Szl6N21oUGJheS0wM2NQS3UtNVIyRGZUZ1ZDRzFMdHhSYnRoUg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-d394820982e63ab57c356c7c5c802e3a",
+            "title": "資さんうどんが東海に初出店！2027年1月に名古屋で開店、10月はキッチンカーも",
+            "source": "いこーよニュース",
+            "published_at": "2026-10-14T09:45:00+09:00",
             "category": "一般ニュース",
             "area": "名古屋",
-            "summary": "愛知・豊田市の旧小原村でクマ親子の目撃情報 養蜂箱が荒らされ付近に糞も 旧小原村では２日間にクマ襲撃で男性が重傷を負ったばかり | 名古屋・愛知・岐阜・三重のニュース【CBC ne...",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EOC0zb1loRFRDTTlXMUc1UXhsNk5uczZDSmRmanh0eTJBWHl0MjF0a2otYVdTTDlQYUdyYmlXU2Vub2M4cmNzNFlYcW5CcDlJMm5PYldMbE1PQQ?oc=5",
+            "summary": "資さんうどんが東海に初出店！2027年1月に名古屋で開店、10月はキッチンカーも  いこーよニュース",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8td0pKNmdLdkdXV0lMVEpxRVZiZ3NfcUxJeXlNUzVBaXdYRjBpRE5rMFE4eF9PeEVnVjFWRTV1RnloMkgxQXprbFpOZ3MzM3pET0E?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-fef9f4b151b4a942c948f30a6710a80a",
-            "title": "大村・愛知県知事の“失言”を河村たかし氏が大批判 アジア大会のタイ代表関係者に「来てほしくなかった」",
-            "source": "AERA DIGITAL",
-            "published_at": "2026-10-13T14:00:00+09:00",
+            "id": "news-6ff56540d48cb098bd3c0ee674afef4d",
+            "title": "【好評につき再開催】猫のための工夫も、インテリアの一部に。木×ステンレスのキッチンが映える、築39年マンションのリノベーション見学会を名古屋市西区で開催",
+            "source": "PR TIMES",
+            "published_at": "2026-10-14T08:20:01+09:00",
+            "category": "観光・イベント",
+            "area": "名古屋",
+            "summary": "【好評につき再開催】猫のための工夫も、インテリアの一部に。木×ステンレスのキッチンが映える、築39年マンションのリノベーション見学会を名古屋市西区で開催  PR TIMES",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yVVhpMTlmVWxpUWVocVVqdUR3akkwNzZaa0xOOHVqYkV6S1V0YlB2c3BqajBqOHdxUFAyY1RNb1cxOWRXU3U5SnFoZ1BGV0hDbTMxVlVzcTlrUkt1alhNeThacFlHeklDSUE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-6cd7c3d54d3791bc323f51cfa043ac1d",
+            "title": "愛知県新城市で今年2例目の熊（東愛知新聞）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-13T18:50:26+09:00",
             "category": "市政・行政",
-            "area": "愛知",
-            "summary": "大村・愛知県知事の“失言”を河村たかし氏が大批判 アジア大会のタイ代表関係者に「来てほしくなかった」  AERA DIGITAL",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yc0J1R2lQUDJYUHpnQzBBS1FmRGRUTmxYSGl1X19DY05IX2VYN3VRc0FJRWNxQTNoTllWSmIyUHcwTmJ1YkY1dUJHUm90ZlowaEFJZnh2d1dKUQ?oc=5",
+            "area": "三河",
+            "summary": "愛知県新城市で今年2例目の熊（東愛知新聞）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OZl9JZnBJOHJ3Z3RuZjduSXBkSUxvOXRfOUdQRW1UaUdRVkg2b3oyMTRMT3huNXZPUVlIdjQ4cDBfN0c3YWZUd0c5SG44QmFHNDRTVmk1R3JzNnRoTGFNXy1rS1V1T0pvNU9yZ2V6MTlka1oxaFRNdzNJYk14Znc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -276,48 +320,15 @@
             "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-cee89527ca850a1bb4057589171b6b9a",
-            "title": "台所で女性が死亡…介護職員が通報 親族などの関係者から事情を聴く 愛知・豊川市（メ〜テレ（名古屋テレビ））",
+            "id": "news-b0a0e89b02060ebc6bb62f543f2a4156",
+            "title": "名古屋市北区のパチンコ店で強盗殺人未遂か 約5時間30分後に逃走した男（60）を逮捕 男は容疑を否認（テレビ愛知）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-13T20:08:00+09:00",
-            "category": "一般ニュース",
+            "published_at": "2026-10-13T22:14:01+09:00",
+            "category": "社会",
             "area": "名古屋",
-            "summary": "台所で女性が死亡…介護職員が通報 親族などの関係者から事情を聴く 愛知・豊川市（メ〜テレ（名古屋テレビ））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uVmlnSm5tNnFKQjBNcXdqYnMxMkE3NnN1V3lpNjRDbUwyUkhja1AyUzZ0SnhLM0QzU2EzR2VKZTRVeGM0Ti0ySHpFLTlmMDZwWjg5YWpXNFYwX1N4V2FLbDVSUUJxeDFFbXQzdUlWc2MzaHRiWUVrQWMydFJjUkk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-6cd7c3d54d3791bc323f51cfa043ac1d",
-            "title": "愛知県新城市で今年2例目の熊（東愛知新聞）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-13T18:50:26+09:00",
-            "category": "市政・行政",
-            "area": "三河",
-            "summary": "愛知県新城市で今年2例目の熊（東愛知新聞）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OZl9JZnBJOHJ3Z3RuZjduSXBkSUxvOXRfOUdQRW1UaUdRVkg2b3oyMTRMT3huNXZPUVlIdjQ4cDBfN0c3YWZUd0c5SG44QmFHNDRTVmk1R3JzNnRoTGFNXy1rS1V1T0pvNU9yZ2V6MTlka1oxaFRNdzNJYk14Znc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-7c6a98b69bf5b451b037674ec0ce69a1",
-            "title": "愛知県稲沢市、住民17人のマイナンバーカード無効化 43人分の電子証明書で一部失効、委託業者のミス",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-14T00:10:20+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県稲沢市、住民17人のマイナンバーカード無効化 43人分の電子証明書で一部失効、委託業者のミス  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YSVliOVR2OWZoQmdxOEREN0lrZ0pISzJZbUphZV85OEZCX3VwRy1KWUV6LUdFem9rNDV4VFVtRlRCUzgtUW1PSkY1dkRiQUdkSWYyMw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-11e2ef82dc04c11b637c520f3d34d5b9",
-            "title": "愛知・名古屋アジアパラ大会、開会式の演出発表 10月18日開幕",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-13T22:05:41+09:00",
-            "category": "一般ニュース",
-            "area": "名古屋",
-            "summary": "愛知・名古屋アジアパラ大会、開会式の演出発表 10月18日開幕  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXWXhORlZlV21WQVhCbnpHclhWSnZLdmlra3RxR0tjTElIQzRlTldBbk4yaVFSQXR1Z0RwUnF4c0N0ZjJlMV9kSHY5ZTBWODlRamU0Vw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "summary": "名古屋市北区のパチンコ店で強盗殺人未遂か 約5時間30分後に逃走した男（60）を逮捕 男は容疑を否認（テレビ愛知）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hN2JDMWo4Qjg2RjlFSEFveDUzaGFoRGJMTGZTWnA3bmViTmFGb0VNS3JLbEFscmdlcmVNRzZPcThPZlZ2Ui0tZHpoREQ2b3lYQTNTeTY3bkN3aExFVUNuYWlVUGt6OVFURW5YUjBMdWczTlhwYk9TOGhTQXlzSkU?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
