@@ -1,15 +1,15 @@
 {
-    "last_updated": "2026-10-16T22:06:20+09:00",
-    "update_session": "夕刊便（17:00配信）",
+    "last_updated": "2026-10-17T09:15:10+09:00",
+    "update_session": "朝刊便（07:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "くもり　夜遅く　晴れ",
+        "condition": "晴れ　時々　くもり",
         "icon": "☀️",
-        "temp_max": 28,
-        "temp_min": 16,
-        "rain_prob": "0%"
+        "temp_max": 27,
+        "temp_min": 27,
+        "rain_prob": "10%"
     },
-    "total_count": 29,
+    "total_count": 30,
     "articles": [
         {
             "id": "toyohashi-city-4230226223748c8bfdc087f8c6440314",
@@ -78,14 +78,14 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ec564dfaaad98bd8136d91397149b407",
-            "title": "愛知県の雨雲レーダー(実況)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-16T19:41:37+09:00",
+            "id": "news-95b5cbcc7837e92877a3289eff1035e3",
+            "title": "豊橋市美術博物館で11月17日から「かがくいひろしの世界展」",
+            "source": "東愛知新聞",
+            "published_at": "2026-10-17T06:54:39+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(実況)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
+            "summary": "豊橋市美術博物館で11月17日から「かがくいひろしの世界展」  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vaTVNUlYxRktmaHp4TGZ0eXhyaWw1WU52akpSYmVLc1l4OU8yVmFJaEJrSHREUEF0dzlDZXFPcDRwdy1oNkgxUDEyMHlKXzBvMjJvSUxjWHRiZ00z?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -100,6 +100,50 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-98ca77504393cc857115c4c518512194",
+            "title": "10年をじっくり振り返る",
+            "source": "東日新聞",
+            "published_at": "2026-10-17T00:00:33+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "10年をじっくり振り返る  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KeTZXQmpwbUp0M3FSSzJwNGtKTFlMcVI3M3BtZEJmSmpCX0ZqZm41ejJTbmVuSGl3MGViR3Yta0JhWkpxeXBEZW1xZWtrU3lPU3k1a2tMejJWbFBW?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ab22882113570a6d06608d1f6c7d3b05",
+            "title": "【豊橋市】夢のコラボが実現！「BAMBOO JOCKEY」×「ベーカリーショパン」限定メニューが11/14(土)・15(日)の2日間限定で登場！",
+            "source": "地域ニュースサイト号外NET",
+            "published_at": "2026-10-17T07:36:04+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "【豊橋市】夢のコラボが実現！「BAMBOO JOCKEY」×「ベーカリーショパン」限定メニューが11/14(土)・15(日)の2日間限定で登場！  地域ニュースサイト号外NET",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KMkxsaTA2SmVSR2EwSGZqaDNpOUNpRFk1S0xUZEIxVzhxSnVodDJwVDk2QWVydURIeEZYdkczNVBtcHdRYmRQZU1FZ2JHWVNYR3dKZWZacFdvRXl3V0tRM0VEMjVfeHRwVHdDVmg1aG1OTkZjRGR4dA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-a81bffe72a87430da06b544fff01b5ff",
+            "title": "外務大臣表彰を受けた書家の浜野龍峰さんが豊橋市の長坂市長に報告",
+            "source": "東愛知新聞",
+            "published_at": "2026-10-17T06:01:56+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "外務大臣表彰を受けた書家の浜野龍峰さんが豊橋市の長坂市長に報告  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmblNkVUZUUVdEV0tWTDhlbHhpWVFFMWtobEZqcGVheWxOTnRIMTU5ZFdqSVN2RFctR2FKNGFsNW9BeUhhVW5QLUxvZk9YWVVhM1MybmpqeS1zYVRw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ec564dfaaad98bd8136d91397149b407",
+            "title": "愛知県の雨雲レーダー(実況)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-16T05:05:27+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "愛知県の雨雲レーダー(実況)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-53069d715d109db1a3b0f6d28508e082",
             "title": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
             "source": "ウォーカープラス",
@@ -109,17 +153,6 @@
             "summary": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbmFBMjZVWTdXMENUUVM5X083Y3QySXVoeHdjWlhpaEhId1l0STRZdG1GLVZkbXpjcmVqYlRSSl9HMWtKMnNKTXRIQnROTXNRd0p0M1AwQW1CUnhWcWZ0dWZQcklBdlhmM2ZvUGFn?oc=5",
             "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ddca53e920a1a1703c93199ce5b680ea",
-            "title": "【豊橋市】10/16 最高27℃、最低14℃、昼間はやや暑さを感じる場面がありそうな晴れの予想【朝版】",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-16T05:29:47+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "【豊橋市】10/16 最高27℃、最低14℃、昼間はやや暑さを感じる場面がありそうな晴れの予想【朝版】  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11U3BuYkZsbWFqbFg1cEtSejFUUDgzb3REUFBfdFlmXzVILXZhRWtyaEhSc1ZnX3RsYWoxT1FvamsxRTI3NGhwOFdmampFQ3FNNWFNX3E3eUpnM2NmeVJPVkRjS3l3bWhQdm0xN2dHRnZ1UVY5UDZ2MXRCZDBUNWM?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-d2b9e037a8a2e322a22535eb86605e34",
@@ -133,6 +166,17 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-ddca53e920a1a1703c93199ce5b680ea",
+            "title": "【豊橋市】10/16 最高27℃、最低14℃、昼間はやや暑さを感じる場面がありそうな晴れの予想【朝版】",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-16T05:29:47+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "【豊橋市】10/16 最高27℃、最低14℃、昼間はやや暑さを感じる場面がありそうな晴れの予想【朝版】  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11U3BuYkZsbWFqbFg1cEtSejFUUDgzb3REUFBfdFlmXzVILXZhRWtyaEhSc1ZnX3RsYWoxT1FvamsxRTI3NGhwOFdmampFQ3FNNWFNX3E3eUpnM2NmeVJPVkRjS3l3bWhQdm0xN2dHRnZ1UVY5UDZ2MXRCZDBUNWM?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-e0956e8b27edb33804a81900ab3d4d85",
             "title": "課外活動団体支援募金（Giving Campaign）が始まりました。",
             "source": "豊橋技術科学大学",
@@ -144,58 +188,25 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-f66cf15b6eddc91279c2ea5ad09991dc",
-            "title": "タイのガパオライス等のグルメも…『スポーツの日』愛知県豊橋市でボルダリングなど体験できるイベント",
-            "source": "locipo.jp",
-            "published_at": "2026-10-16T15:59:48+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "タイのガパオライス等のグルメも…『スポーツの日』愛知県豊橋市でボルダリングなど体験できるイベント  locipo.jp",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhQnc3LXZiQ3Y4OXZRQ1VYa0FfcDg2RGtCb2ZIWG9IVjVjd3hTRVZzMm8yZDJIcTNEVEFJeDdXUXEzVUdRY3phUXQ1NVJDc3JUUnZIbU1PMzRLekdYbkQwZkY4UElraGVLZWxQeE05X18?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-dce2d062d5ea548a7aff3df581e7189a",
-            "title": "新着情報“エスクァイアGi”2015年式ホワイトパールクリスタルシャイン入荷しました！",
-            "source": "中古車のガリバー",
-            "published_at": "2026-10-16T10:18:51+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "新着情報“エスクァイアGi”2015年式ホワイトパールクリスタルシャイン入荷しました！  中古車のガリバー",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zR09YTEd2T1BraDNkV1cwQlMzeWlxb0pheWt6c3hLMjRISGhSbEtxYUZsZWRWcXcwUHJyZmNQUWd5bU5qZTdUMlhvSHlkMlUtVEJiUlpFX1ZnLUdNTFRFa2Vhc0hrVk40UDBSYV9sQjNnamlUa0gyWm4yMXZ1Y1E?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-329100b1b4424a509a05a72dfbeaee3a",
-            "title": "のんほいパーク入園料、大人600円から900円に値上げへ 豊橋市議会で方針示す",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-15T16:51:49+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "のんほいパーク入園料、大人600円から900円に値上げへ 豊橋市議会で方針示す  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GRm9QYXptQ2UzVl85UTRQZ0xUa09TdHoybkwwOGlXUDR3NHRVY3hiSmdEaEZ5LWg2eEM2YlZHbHJvWHEzNVl1TlFpUEhOUE43OTM1Rw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d988e274f855e30fa067eccfc42ea6c5",
-            "title": "天体観測と特別企画展が共に楽しめてさらに宇宙に心惹かれる＝「ポケモン天文台」の関連イベント「星を見る会」を豊橋市自然史博物館で開催",
-            "source": "PR TIMES",
-            "published_at": "2026-10-15T08:37:23+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "天体観測と特別企画展が共に楽しめてさらに宇宙に心惹かれる＝「ポケモン天文台」の関連イベント「星を見る会」を豊橋市自然史博物館で開催  PR TIMES",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaMGhlSVBidEJRR1d0N3FrYThUM2U1ZnVlcVR0VmEyVjJHeXpYR1laV3ZVZ1ZBM2VRTjJVX292WXJVZU9IUHhTN2o2b3UwbV9ONlItRTY2SDktRDFtSm5nWGdaVTV1LXgzZXc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-ed96029f5a5606d1dde62924923835d5",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
             "source": "tenki.jp",
-            "published_at": "2026-10-16T18:31:30+09:00",
+            "published_at": "2026-10-17T06:31:29+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-3dfa2a222fd5ed38f5dab8475a06e359",
+            "title": "「カメムシ」大量発生で秋の味覚も大打撃 愛知県の柿の被害は過去10年で最悪 カメムシに吸われた柿は黒ずんでボコボコに…",
+            "source": "日テレNEWS NNN",
+            "published_at": "2026-10-17T08:00:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "「カメムシ」大量発生で秋の味覚も大打撃 愛知県の柿の被害は過去10年で最悪 カメムシに吸われた柿は黒ずんでボコボコに…  日テレNEWS NNN",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3F6d1dKbmxIaEhuMjJ3ZlN3Q3dEajMySXBtd2FDZDQ5cldoZVZCdU0wVmduQmZnRGgtazJwUG4wRlc4eFNJNC1nM19YUGo3aksybjRFU0xWQm55S2lNNkZFYjdpT0RuMEtiWUZ5aE91bGZ1cHNydU15cXM0LUk1cnBONA?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -210,70 +221,37 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-a4ac60e788b1a28b2b146dd7825982ca",
+            "id": "news-fd1033a350fac71a6600f89a4e4ee130",
             "title": "【愛知県】10/17の天気予報（FNNプライムオンライン（フジテレビ系））",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-16T19:30:56+09:00",
+            "published_at": "2026-10-17T05:10:40+09:00",
             "category": "市政・行政",
             "area": "愛知",
             "summary": "【愛知県】10/17の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84U0E1TEFfS2JaeW53b0p6Sm01azJKay1OMFdHU2h5M1ZHdkxOeFhrU1hBSlluMnNtWDZGaV9FUjVhRnhsaXp3YWpKZUFYOFdvZWptVDUwMTl5UEV6VUNjOFhJb2QzN29JbGRlQ2NqeU5LdHE2RzdNSEViUE5MWWM?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pencyT2ViR0NoWjFhSEoyMGlXRXpJNXBCY093X01TX1pWX0RIREdLRjU0clVCRElVb0VZTXlpRjRlSkxxVUNDaktXSUNTSFdtZ2tLNXptYTRId0ItbzFTSjVrbU1QNG93YUNMbWR0LW5uSHg5U0VZdVdXdDAxSnc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-fa799cfb15bdf5ffac5ca4e9f725ff8d",
-            "title": "愛知県豊明市の国道で2人が車にはねられる、1人死亡、1人意識不明の重体 運転手の男を過失傷害容疑で逮捕",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-16T09:27:47+09:00",
-            "category": "社会",
+            "id": "news-f5d643b91d32ffff24de0c77c4c40c1a",
+            "title": "2026年度 第105回 全国高校サッカー選手権 愛知県大会 いよいよ開幕！1回戦10/17、2回戦10/18 結果速報！",
+            "source": "Green Card ニュース",
+            "published_at": "2026-10-17T00:00:48+09:00",
+            "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県豊明市の国道で2人が車にはねられる、1人死亡、1人意識不明の重体 運転手の男を過失傷害容疑で逮捕  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrbmwzN2wwWjdrQlU5eEpEdXptVnNBOVZTVUEzWU0yZmI4UTlYSDU1UnAtYy0zdHFsbkdEc1dYWE1VUUJLQ2dDc09keGhIRjFzXzNtcw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+            "summary": "2026年度 第105回 全国高校サッカー選手権 愛知県大会 いよいよ開幕！1回戦10/17、2回戦10/18 結果速報！  Green Card ニュース",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiMU1WWnhPWXhzdXRqMGNfMTNwQXNqLVZXZUNrRllweGxIdF9xUDBqSk5sdmZUbmVBb3pkNEd2VHcyOXpNMkNrY0UteU4xNDQtbm9yQklCcjBxUQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-c025afec5f55181405a40ef0d075eb1f",
-            "title": "愛知県田原市でハサミ突きつけ20歳女性の財布を奪おうとした強盗致傷未遂事件 黒づくめの男が逃走中",
-            "source": "愛知のニュース",
-            "published_at": "2026-10-16T15:56:50+09:00",
-            "category": "社会",
-            "area": "三河",
-            "summary": "愛知県田原市でハサミ突きつけ20歳女性の財布を奪おうとした強盗致傷未遂事件 黒づくめの男が逃走中  愛知のニュース",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WUUxqQjVxN29LVXNjZDU3SnFhMjFuWlVuTG1PZFA4V2JmUzNCOEo2TDc0SXk5LUtaSUVOWWo4UTE4Y3dPWGNlN3hadzFfeGVWQkNYb1QyVTRNRUE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-0d277ef605324798ede0686daca2e52f",
-            "title": "世界最大級のサルの動物園｢日本モンキーセンター｣ 10月19日から長期休園 施設の老朽化に伴い3～4年かけて改修工事 愛知･犬山市 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-10-16T19:29:00+09:00",
-            "category": "一般ニュース",
+            "id": "news-41fc665a6ce962fc84482438b26fb800",
+            "title": "mentor 栄(愛知県)の上映映画館・上映スケジュール",
+            "source": "MOVIE WALKER PRESS",
+            "published_at": "2026-10-17T08:21:56+09:00",
+            "category": "市政・行政",
             "area": "名古屋",
-            "summary": "世界最大級のサルの動物園｢日本モンキーセンター｣ 10月19日から長期休園 施設の老朽化に伴い3～4年かけて改修工事 愛知･犬山市 | 名古屋・愛知・岐阜・三重のニュース【CBC ...",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GVm5DdjNkN3g1T3ZKX0YtVEtoVVc4SEQ4MVBlSEZUQ3FkWFdSbmR1ZUVDWG42QW5wQkZkSTBSS3Vpc0pBcDRSY0U0RXFYcWRtN1JSSTVJYUhKQQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-34ce33dab5c70140fb019e47f52df03f",
-            "title": "コメダ／愛知県安城市に「おかげ庵」12月オープン",
-            "source": "流通ニュース",
-            "published_at": "2026-10-16T16:29:00+09:00",
-            "category": "観光・イベント",
-            "area": "三河",
-            "summary": "コメダ／愛知県安城市に「おかげ庵」12月オープン  流通ニュース",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CSkFoT2hENmg0ck9KbUxjcHNPRHJRQW1iMTByUlNkeFhsa3Jpdm11c2QyUXcwdDMzM2hSY2lwZEtnaXpETldfekU0LWNIMmR4bXRIag?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a9c4093045baa5be2488e5dbdd6f1c0b",
-            "title": "【MGC】愛知・名古屋で開催する2027年大会のコースを発表！ゲストを交えたトークセッションも実施／レポート",
-            "source": "日本陸上競技連盟公式サイト",
-            "published_at": "2026-10-16T17:41:49+09:00",
-            "category": "観光・イベント",
-            "area": "名古屋",
-            "summary": "【MGC】愛知・名古屋で開催する2027年大会のコースを発表！ゲストを交えたトークセッションも実施／レポート  日本陸上競技連盟公式サイト",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jNEhjeVpISkE4ei1xMWJqYmJ1UEYyOVl5blNDc21wRENHM0dSYXpFTWplN3hCRVBkdDBBOV96SDBxZ3RtUWR4NmpzWGZxZHpYNGpvSTNYQjRYT3VT?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+            "summary": "mentor 栄(愛知県)の上映映画館・上映スケジュール  MOVIE WALKER PRESS",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84Nk94RThEbHl6YnB6dkZidk94Y1FNR0phM3k5YWN2akhOT3k3T01sMnBpejlxMmR2bE1SVkR5UVd5clpWYnNpZVlVUUxHN2pMenBfSi1UQ0hNZUtUNGNHUg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-d6e2d91ed1f727116881c783ce19bfdb",
@@ -287,14 +265,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-1e018a28b472fbe8d6569bfb4151c46f",
-            "title": "【大感謝SALE】愛知県岡崎市の「魚民 岡崎東口駅前店」で「全品半額セール」を2日間限定で実施！",
-            "source": "PR TIMES",
-            "published_at": "2026-10-16T12:10:01+09:00",
+            "id": "news-05d8fc7d33f4a372315033f69ef36548",
+            "title": "愛知県の過去の雨雲レーダー(2026年10月16日)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-17T00:22:03+09:00",
             "category": "市政・行政",
-            "area": "三河",
-            "summary": "【大感謝SALE】愛知県岡崎市の「魚民 岡崎東口駅前店」で「全品半額セール」を2日間限定で実施！  PR TIMES",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XWEMzcUhEX19KcUZwUTN0MXd5UTM2RDNWU2RmSlJOQk1wSXhBSWlYaUc3b0hNQzh0LXBQOEZULTdEMTJJMExydUtzaFNNV21TeUotTWFxb0hLcERGWWYxTjE1MjNvQnY2VFE?oc=5",
+            "area": "愛知",
+            "summary": "愛知県の過去の雨雲レーダー(2026年10月16日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yYThKZGZjVWdvOURwWk5RaV9QV01GUV96NGQzcHN0MnUzb01JYWVldU51UDRCNl9kR0pMZnFNRXdzeWtLZTU4TzI1MF9pZGVWdWtfaHROdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f67667a83f967d5734416ddab5588643",
+            "title": "あいち産業科学技術総合センター尾張繊維技術センターの1号館敷地における土壌汚染について",
+            "source": "愛知県公式Webサイト",
+            "published_at": "2026-10-16T11:52:19+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "あいち産業科学技術総合センター尾張繊維技術センターの1号館敷地における土壌汚染について  愛知県公式Webサイト",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wd0tuOVZQa1V3c0FMaW5xeHBxQk5aWEQ1LThBNGJrc0lJV0JvRkJKNzBxbG9iUjIxZmhiVmt3YklHaU1rbXBPTExHME9GMmRnYmVDQU1Mc3k3ZWo0V3AyMGhZbjBDUkJHbUJN?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -309,26 +298,48 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-d834fcce01278db8f8c35e51a373fc1f",
-            "title": "西三河のサグラダ・ファミリア？ 工事が続く名鉄知立駅【愛知県知立市栄二丁目60番地】：ニュース",
-            "source": "中日BIZナビ",
-            "published_at": "2026-10-16T18:03:29+09:00",
+            "id": "news-e20550b04c9644c8f9655441e4fc1f41",
+            "title": "いくつになっても選ぶ喜びを 愛知県碧南市の介護施設で衣服や靴が並ぶ「一日デパート」開催（テレビ愛知）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-16T18:57:01+09:00",
+            "category": "観光・イベント",
+            "area": "三河",
+            "summary": "いくつになっても選ぶ喜びを 愛知県碧南市の介護施設で衣服や靴が並ぶ「一日デパート」開催（テレビ愛知）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ycTk5NVo3blJlcHFEd1U3SFhRTHJqN1EydmxGLXhZZHFmRjl2dDRQR3dUajNmWXVMN2htSWoxS21XRTlncU5wcFE0MDhKUnlGeTkycFQtbDctOE9rRm11aTlxUDR4LVV5N0xfWnhUeTIxN0FQTVhCMjlaYmRiQTA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-2c3f94cd1b5436e2abbc612f18bfc9fd",
+            "title": "台風30号(2026年) - 日本気象協会 tenki.jp",
+            "source": "tenki.jp",
+            "published_at": "2026-10-17T06:45:00+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "台風30号(2026年) - 日本気象協会 tenki.jp  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80cG9wR2FMZUVxMVp4aEthd28yT0sxRWstOWpUMUJTemREekFzRWVZa3B5WmlCUzNTODRGTDk2Mm5Md0tjc2ZuNzVOTWl0d9IBU0FVX3lxTE51a2RmdWpBSFhYVWxkeG1zZkstOFhLVVdwYnJrbGhTNXFFSzVuWU9xa2l2dTExVmdKS042ek5kVTg2V0xNeTBldWUxRXA5Um1XSzFj?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-fa1bdddd68555f7d4e0ade360c04c4e2",
+            "title": "伊良湖(愛知県)の過去の天気(実況天気・2026年10月)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-16T21:31:30+09:00",
             "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "西三河のサグラダ・ファミリア？ 工事が続く名鉄知立駅【愛知県知立市栄二丁目60番地】：ニュース  中日BIZナビ",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YUGFRLTJiclQ1Z3dBaldfVFM1dW1DS2JWSHV5SXotaWUxZnlzcjFGX2NaUDNzOGx5dkZnUENwZUl2b250Q2ZrOXhEUzNCQ1NTV2FvemFQVXZxNjVzS1U4?oc=5",
+            "area": "愛知",
+            "summary": "伊良湖(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtXzY5ZjE4YXFQVGxqZmJxdDVWeExTcWQ4eHFhNU9lNUFnTXlQUTlsQXY4OFl3cnU1cThNMmdmdmd2ZmNLbWFzckp1aExHQ1FSUHRYVjU0T2ZXQVVWcFE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-7c9ad698f0f445daee921f8021b66b59",
-            "title": "日本モンキーセンターにある｢標本庫｣ 4000頭以上の骨や剥製を保管 一体なんのため？｢成長や老化･病気の研究に｣ 愛知･犬山市 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-10-16T19:07:00+09:00",
-            "category": "一般ニュース",
-            "area": "名古屋",
-            "summary": "日本モンキーセンターにある｢標本庫｣ 4000頭以上の骨や剥製を保管 一体なんのため？｢成長や老化･病気の研究に｣ 愛知･犬山市 | 名古屋・愛知・岐阜・三重のニュース【CBC n...",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0czdfakRBN0lHT2ZFQlpfZUs5RFdzVmZ2aWhtekdOd05oSTNsMzRUei11RnpNRE9Vd3NJSnN2aWt3NWpZRVZ6N3NIaXR1RndVbXdUUHpXWUw3Zw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "id": "news-c3ebb623cc4e17c25772a744e17d49eb",
+            "title": "南知多(愛知県)の過去のアメダス(2026年10月15日)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-16T15:30:15+09:00",
+            "category": "市政・行政",
+            "area": "尾張",
+            "summary": "南知多(愛知県)の過去のアメダス(2026年10月15日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtMExfZ2pYME83R3dLTzNIbEVkSTVER1lOTGJyQzc4T1BIMU9PeWFCakU2bmF1VlprM3ExaXNKNUZsRXg3cHMtSUx3cnFYb1RkV21iaUFpN0RQV0NKTTdjVTEzX0l4QQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
