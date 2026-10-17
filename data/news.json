@@ -1,15 +1,15 @@
 {
-    "last_updated": "2026-10-17T21:03:00+09:00",
-    "update_session": "夕刊便（17:00配信）",
+    "last_updated": "2026-10-18T08:54:17+09:00",
+    "update_session": "朝刊便（07:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "晴れ　夜遅く　くもり",
+        "condition": "晴れ　夕方　から　くもり",
         "icon": "☀️",
         "temp_max": 26,
-        "temp_min": 17,
-        "rain_prob": "10%"
+        "temp_min": 26,
+        "rain_prob": "60%"
     },
-    "total_count": 28,
+    "total_count": 30,
     "articles": [
         {
             "id": "toyohashi-city-4230226223748c8bfdc087f8c6440314",
@@ -78,6 +78,17 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-584897feba4af57bcab50b28eedadf56",
+            "title": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
+            "source": "tenki.jp",
+            "published_at": "2026-10-18T05:06:05+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2d0N5QnhERmtibVBadUUyS21rMEh3Z2VDNnlVQTZPN19LQjZvV2g5Ykw2ZWVkX3ppbXRLdk1CWUFza0oyZlU4NHhJTmNsaEhsOWxJ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-95b5cbcc7837e92877a3289eff1035e3",
             "title": "豊橋市美術博物館で10月17日から「かがくいひろしの世界展」",
             "source": "東愛知新聞",
@@ -89,14 +100,36 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-8afdf143c8984d51cb9c8d40f63b67cc",
-            "title": "愛知県の雨雲レーダー(過去)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-17T18:55:20+09:00",
+            "id": "news-d1989e8170ad93d777644bdc1626b2de",
+            "title": "ひと足先に豊橋でゴールボール開幕",
+            "source": "東日新聞",
+            "published_at": "2026-10-18T00:02:17+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "ひと足先に豊橋でゴールボール開幕  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hUXlLQlZsM1lSREdsUGwzNVA2eGtDS3ZpT0x6VDZGbFQ1VVYtMTYyRTZoSk9uQlo3OFQxMll5X1Fyc1loVndaTlMzZU9CSjh6bEFZT3NXa3RRRllZ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-e30c841681532f76c80c1174034c3d26",
+            "title": "とよはし共創ラボ、本格協業第1号誕生 IT系ベンチャー×薬局 AIで健康把握：ニュース",
+            "source": "中日BIZナビ",
+            "published_at": "2026-10-18T06:17:19+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "とよはし共創ラボ、本格協業第1号誕生 IT系ベンチャー×薬局 AIで健康把握：ニュース  中日BIZナビ",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HMjZNcEFOV2o5MjBMQjhDVHZsMjJZTEhBOFdnakZmc3EtcUN5YkhzQWZ1dF9iUl9TcmE4RzFaR1lpOW05OHhDZ284YlNvTm5qZ3hqSUJ6TzhzVFRRdng1a1Nn?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-7b58997aecfba5ac65415d02a2d9668e",
+            "title": "日本―カタール 前半、ゴールを守る行弘（右）と鳥居＝豊橋市総合体育館 - ゴールボール、男女で快勝 愛知・名古屋アジアパラ大会 - 写真・画像(1/1)",
+            "source": "西日本新聞me",
+            "published_at": "2026-10-17T20:31:33+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(過去)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pbjJxV2FNdFE5akcyUUJqQlhDVEdJVDdNMnBfNGFod2p2MXhJeEJFdUsyU1YybnJzS0Q1ZlRTdjZfWEFFNFNOWnRwMG5DUQ?oc=5",
+            "summary": "日本―カタール 前半、ゴールを守る行弘（右）と鳥居＝豊橋市総合体育館 - ゴールボール、男女で快勝 愛知・名古屋アジアパラ大会 - 写真・画像(1/1)  西日本新聞me",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55RmxwdW0tMG5TSERpNElHYWxteXFMYk9ncDJva19VNG42Mm9pT1h0bWIxUWpXSG5WU3N5VFJudHE3YnpKa2NPbExTM1ZnYWdmN3k3U3M4aw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -111,70 +144,15 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-7b58997aecfba5ac65415d02a2d9668e",
-            "title": "日本―カタール 前半、ゴールを守る行弘（右）と鳥居＝豊橋市総合体育館 - ゴールボール、男女で快勝 愛知・名古屋アジアパラ大会 - 写真・画像(1/1)",
-            "source": "西日本新聞me",
-            "published_at": "2026-10-17T20:31:33+09:00",
-            "category": "市政・行政",
+            "id": "news-53069d715d109db1a3b0f6d28508e082",
+            "title": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
+            "source": "ウォーカープラス",
+            "published_at": "2026-10-17T22:18:10+09:00",
+            "category": "ビジネス",
             "area": "豊橋",
-            "summary": "日本―カタール 前半、ゴールを守る行弘（右）と鳥居＝豊橋市総合体育館 - ゴールボール、男女で快勝 愛知・名古屋アジアパラ大会 - 写真・画像(1/1)  西日本新聞me",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55RmxwdW0tMG5TSERpNElHYWxteXFMYk9ncDJva19VNG42Mm9pT1h0bWIxUWpXSG5WU3N5VFJudHE3YnpKa2NPbExTM1ZnYWdmN3k3U3M4aw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-50d74a8bc83c92c434755f7b045e45a8",
-            "title": "豊橋市美術博物館で11月17日から「かがくいひろしの世界展」 (東愛知新聞)",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-17T08:03:24+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "豊橋市美術博物館で11月17日から「かがくいひろしの世界展」 (東愛知新聞)  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFhCN21DZ082S0Frc09VRFdKOVJIWWdwcWtoRE1mc3dnUFA3TEZqdHJsSmt0LXU5YWhxdVU2dFF2WGNWbkpKSEhRaGxuNXF1WVFrYU1oWjFDQ0RrQS1MTElOQWFTVzRUSEpYcTVJLVBXcllTLTRaX0EzN1VIYUExLXdSeThENlUtcG9sR2pn?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-2d16464367ab4c0329bb5a9303651104",
-            "title": "「だるまさん」の世界に迫る 豊橋市美術博物館でシリーズ作者「かがくいひろしの世界展」",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-17T05:05:00+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "「だるまさん」の世界に迫る 豊橋市美術博物館でシリーズ作者「かがくいひろしの世界展」  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qckF1MlVnX09iZlZuVEgxWi03V3h2WVBNZE91X3VLUUtFR2w5eklHVGpQMlF5MzlHOTZpaDF6NUVkWk4zQV9jNi01bFBRTTdZU0lyRg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8078681f35788cf30b3e53a03a939fbf",
-            "title": "新着情報“スイフトスポーツベースグレード”2012年式チャンピオンイエロー入荷しました！",
-            "source": "中古車のガリバー",
-            "published_at": "2026-10-17T16:11:48+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "新着情報“スイフトスポーツベースグレード”2012年式チャンピオンイエロー入荷しました！  中古車のガリバー",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWDV1T09obXN6Ry1MdURNN0dyRzc0Y01GODE0azlURVFmNG1oSEZxbzd6ZDZkc0NhaWNBUExWMHZwNjRRQndRQ0ZBNGhiTFhuQWF3UDBrZ2gyYXVneUY3OERGdDEyR0plU09wUXlvcVBWQy0xTU1CbHd0bmt1T3c?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-3214067854db50bb45645516350e5192",
-            "title": "いよいよアジアパラ大会競技開始 豊橋市でゴールボール、豊田市で卓球",
-            "source": "47NEWS",
-            "published_at": "2026-10-17T05:05:00+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "いよいよアジアパラ大会競技開始 豊橋市でゴールボール、豊田市で卓球  47NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UNXEwQkVJWERRVXlURUViVTdIbHZrU0gtWU9RSl82QktfNklFanZsMFREdERNWEtZci13WDFWT1hMTkYyNzQzamdhTQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d2b9e037a8a2e322a22535eb86605e34",
-            "title": "フォルクスワーゲン、豊橋の輸入拠点に再エネ導入",
-            "source": "LOGISTICS TODAY",
-            "published_at": "2026-10-17T07:55:00+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "フォルクスワーゲン、豊橋の輸入拠点に再エネ導入  LOGISTICS TODAY",
-            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YNkYwWTZGTThETkJGSlB4eHBNWEw2a25fdFhxcG9jNTd0X21SdkJSQTVRbEZVbXlxNjduZ3JyUENqR2tZZldUdGFR?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "summary": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbmFBMjZVWTdXMENUUVM5X083Y3QySXVoeHdjWlhpaEhId1l0STRZdG1GLVZkbXpjcmVqYlRSSl9HMWtKMnNKTXRIQnROTXNRd0p0M1AwQW1CUnhWcWZ0dWZQcklBdlhmM2ZvUGFn?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-fce891a127b132c6ea09f861e35e7fb9",
@@ -188,10 +166,32 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-8078681f35788cf30b3e53a03a939fbf",
+            "title": "新着情報“スイフトスポーツベースグレード”2012年式チャンピオンイエロー入荷しました！",
+            "source": "中古車のガリバー",
+            "published_at": "2026-10-17T16:11:48+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "新着情報“スイフトスポーツベースグレード”2012年式チャンピオンイエロー入荷しました！  中古車のガリバー",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWDV1T09obXN6Ry1MdURNN0dyRzc0Y01GODE0azlURVFmNG1oSEZxbzd6ZDZkc0NhaWNBUExWMHZwNjRRQndRQ0ZBNGhiTFhuQWF3UDBrZ2gyYXVneUY3OERGdDEyR0plU09wUXlvcVBWQy0xTU1CbHd0bmt1T3c?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-47fd4eb016af97d85c090602c84d93a2",
+            "title": "ゴールボール開幕 アジアパラ大会開会式は18日",
+            "source": "東愛知新聞",
+            "published_at": "2026-10-18T00:00:00+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "ゴールボール開幕 アジアパラ大会開会式は18日  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kOFlJd0ViTDJVSkV2XzM3b0JrdENJbFNETTdJQnZhOHpJcmM1LUE2Rm5WYkZHMEh3M0hraFNocFc5Ym1sSnVOVjRuVEZudGxSSHVUWnI1NzVFRHR1?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-ed96029f5a5606d1dde62924923835d5",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
             "source": "tenki.jp",
-            "published_at": "2026-10-17T18:31:29+09:00",
+            "published_at": "2026-10-18T03:31:28+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
@@ -199,102 +199,69 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-3857d2c4bd8c1efb4ce0283fbe4c1347",
-            "title": "【愛知県】10/18の天気予報",
-            "source": "FNNプライムオンライン",
-            "published_at": "2026-10-17T19:30:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【愛知県】10/18の天気予報  FNNプライムオンライン",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oVGduTFZXRU5wQkVEMUdXOEJ3TG1TdW1BU1VldFNPbnZXTnA1Wk1NVE5qdkEycE44UXkwVVluQmt2OTZtOWgxTVpPTlE3QQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-3be3a6beddec61110ccea96028d791d7",
-            "title": "愛知県の大村知事「運営に万全期す」 アジアパラ開幕控え（時事通信）",
+            "id": "news-a1f3547d4d4589f71e122bc0f77efc05",
+            "title": "熊捕獲用のおり設置 愛知県新城市（東愛知新聞）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-17T19:55:06+09:00",
+            "published_at": "2026-10-18T07:23:18+09:00",
             "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の大村知事「運営に万全期す」 アジアパラ開幕控え（時事通信）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NQWIta05tSFFqWEdYcGNPUnFDS1lPS0xORXhlVFRhdmVXRm1DQ1dYM01HX2FlYWp0dEYxNFpyX2lnb3BQZGktVGN1VEFkdW9WSkNMYkpya0RvWE9NYUJVcENObkpzN3QwbTB1MVBtLWt0MGlzcjZCVXM5cmgyeTA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-031bd7ba929efe8767050bb26a8989a4",
-            "title": "愛知県蒲郡市で住宅火災 民家2軒が全焼、けが人なし",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-17T18:40:00+09:00",
-            "category": "社会",
             "area": "三河",
-            "summary": "愛知県蒲郡市で住宅火災 民家2軒が全焼、けが人なし  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WaGNPbU1DOGNPNjEzYnhnb19CcVFSbVJMRnFjYlluQTZRYlhaOEZMVG9rNWpSdmptdzBoQ3ZaUnJvdUtJZU9IU0lRaDlVZFZtRlV5Yw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-e9a391728dec99abc3c1d6d3ad69c584",
-            "title": "記者会見する大会組織委会長の大村秀章愛知県知事（右から2人目）ら＝17日、名古屋市 - アジアパラ大会、18日開幕 愛知で、最多45の国・地域 - 写真・画像(1/1)",
-            "source": "西日本新聞me",
-            "published_at": "2026-10-17T20:31:32+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "記者会見する大会組織委会長の大村秀章愛知県知事（右から2人目）ら＝17日、名古屋市 - アジアパラ大会、18日開幕 愛知で、最多45の国・地域 - 写真・画像(1/1)  西日本新...",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2SGtkU3d3dzFZSHljQ2JPS2RFNVdvYWpWeXZjT3dYWFQzWURGN2EzUXU4Y28tSmNnQmlraXM3UFlGOEN5b091SmV0aG5Yc1FISl9JaTdobw?oc=5",
+            "summary": "熊捕獲用のおり設置 愛知県新城市（東愛知新聞）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nNmxXT1BhUVRKY2VWaGFjWEhRTVRsaVZUQ1U5UnVPcXBUVXZ4WlJ3alZUQzVjZEMyVG1wcTA5aDFjX1doM3cwSExVZ2FuYmhxTDA4VzlOano5dU1IeUsybWJ4MUtFR3VDbS1SbjI4LTMwbU1MV0lYQXllSDdTWG8?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-41766469d8375b0329342c515b3052c5",
-            "title": "愛知県犬山市の日本モンキーセンター、10月18日が休園前最終日 17日には慰霊祭",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-17T19:46:04+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "愛知県犬山市の日本モンキーセンター、10月18日が休園前最終日 17日には慰霊祭  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pOFdBVVBQVktmd2JZSGFnV1lPcVV6dE1EbHVuOUpONk55M1Jfak0yVVhIQ1lpZ3FreEJLOFRVb0labFJoNUlWYzkwdVZCcVVlQ2NBeA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-bbcb8866635d9c775d50ef36d1017009",
-            "title": "スタジオジブリの本拠地は東京なのに、ジブリパークが「愛知県」に作られた裏事情（ダイヤモンド・オンライン）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-17T17:30:34+09:00",
+            "id": "news-c2185da63dbc60e0b2a1eae01c2871e4",
+            "title": "最初は「険悪なムード」 アジアパラ新会場が「いい空間」になるまで [愛知県] [アジア大会2026]",
+            "source": "朝日新聞",
+            "published_at": "2026-10-18T06:00:00+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "スタジオジブリの本拠地は東京なのに、ジブリパークが「愛知県」に作られた裏事情（ダイヤモンド・オンライン）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WcGZKSmtEeTdoOFF4YXJ0cXBwamJldmZOSmdkUVcyeFR1OFMtcmhWVHlDeHMzckpWNXVybmIwOEoyUFlHcUN6ZDNHSGFWSDdBSVEtaEMwZExiemlmUDlSbjZwVGk4UEw5T0lZMEtmVVUyb2V2VW5LMnlfUGpEZWs?oc=5",
+            "summary": "最初は「険悪なムード」 アジアパラ新会場が「いい空間」になるまで [愛知県] [アジア大会2026]  朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sOTJnbVlOQ29LNVU1N2Zqd3EtekhfSmt4NUpQbGRmWkRSS2Q2ek85SGN2Y282TS1oWGcyUU9QZ1d4NFFCLWRmbmhwbWRIeWdOY3RJYktUR3NsdVdVR3RXSVhVdFZNZmM?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-966138ca33d0b36fe22bdac7b1f306c1",
+            "title": "運営「万全期す」…大村愛知県知事",
+            "source": "読売新聞",
+            "published_at": "2026-10-18T05:00:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "運営「万全期す」…大村愛知県知事  読売新聞",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Sdi1Qd2dmUGFHbHMtdjZVbk5NQ2NFYlFqSnJJbkRxSGJ1Q3ZqNGtwaTJ2R1VqbHhBQmwxd2c3alBDSEFpMmNScGdSR241RWwtRDBvZFRXeVROMG81ZVVoTkVsMFhvSnNCSkJiQmhUSXNrRjJBaHRyeGpn?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-a3daf698abed4a121fdeb78db66174db",
+            "title": "2026年度 AIFA 愛知県U-14クラブカップサッカー選手権 1次リーグ 10/17結果更新！入力ありがとうございます！10/18結果速報",
+            "source": "Green Card ニュース",
+            "published_at": "2026-10-17T21:56:20+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "2026年度 AIFA 愛知県U-14クラブカップサッカー選手権 1次リーグ 10/17結果更新！入力ありがとうございます！10/18結果速報  Green Card ニュース",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FdzRtUFRLRGFINlBNY2s3ZVN1Q1JVNE85YS03V0hXSmJaYzAyRHdaa2VMcHNqRGhDaEs3a0Q2akpBTjJYZEwtVk5vMFlpREZGNWN3Wno4SkpCZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-dd22b0203b424d3092114e34a81c7c41",
+            "title": "愛知・名古屋アジアパラ大会 きょう開幕 日本初開催",
+            "source": "NHKニュース",
+            "published_at": "2026-10-18T05:12:01+09:00",
+            "category": "観光・イベント",
+            "area": "名古屋",
+            "summary": "愛知・名古屋アジアパラ大会 きょう開幕 日本初開催  NHKニュース",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NNGxIdjMtTXp5QThMNDRJMk9KM1NLczk1a2lUdEZmWld2S2QzU1VrRkw4SGFFYU42Z2JjXzlkbGVEOHdQbkRMa3dkcUFJVDFGUkViQkkybUhINThHdjdn?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-f684bcb3f1848faa98c44ec172cdf678",
             "title": "愛知県の今日のアメダスの記録(10月17日)",
             "source": "tenki.jp",
-            "published_at": "2026-10-17T10:18:07+09:00",
+            "published_at": "2026-10-17T23:24:07+09:00",
             "category": "市政・行政",
             "area": "愛知",
             "summary": "愛知県の今日のアメダスの記録(10月17日)  tenki.jp",
             "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-e81ec0be9cf509d7790f227c63608a40",
-            "title": "「アジアパラ大会を起爆剤として共生社会をつくっていきたい」 愛知県知事らが会見",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-17T20:04:56+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "「アジアパラ大会を起爆剤として共生社会をつくっていきたい」 愛知県知事らが会見  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nM1VzVGlvUlZ2U3NMTjZSbW5xTEdXWFdrY09YVVg2ZHVkdG1KZHZnVHZTZVFHNjZTcE9ocUlpbi1BanVfLWNOeVpldHlHMmRJQzdYSQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-208a585397fe8bbba85ed0c2434741c5",
-            "title": "パトカーから車で逃走し、別の車に衝突 運転手が逃走中、愛知県蟹江町で",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-17T20:09:58+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "パトカーから車で逃走し、別の車に衝突 運転手が逃走中、愛知県蟹江町で  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GUTZUU2htcXljb3hBakNIdllwbjVBSG9ld0VncHhiTVNVMzNnQzVVRDZFaFNfNGpUTVZsMmtBQlhWSFVSbUUwNXZqUVgtdmEzUkxXSA?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -309,14 +276,69 @@
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-d238b6041f671f54a8454361c2167e36",
-            "title": "剣道少年女子 銀メダル あおもり国スポ ７人制ラグビー成年男子3位決定戦 愛知県に敗れ4位入賞（青森放送）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-17T18:23:01+09:00",
+            "id": "news-3857d2c4bd8c1efb4ce0283fbe4c1347",
+            "title": "【愛知県】10/18の天気予報",
+            "source": "FNNプライムオンライン",
+            "published_at": "2026-10-17T19:30:00+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "剣道少年女子 銀メダル あおもり国スポ ７人制ラグビー成年男子3位決定戦 愛知県に敗れ4位入賞（青森放送）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50Z1JEdXF1RDczak1kekhtaFBCQ1dkblRWVlZkWi1senU0YnNHc2ZDcklPS0dtbS1yVlctN00xbGNPMUVqSEc0UzZYdEUxTDRJMGg1WUFDUkUtQ3ZUX0haMnVVdTBsdUFVX2tpLTBQNXNSYVdFT3lZb25wR1R1d3M?oc=5",
+            "summary": "【愛知県】10/18の天気予報  FNNプライムオンライン",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oVGduTFZXRU5wQkVEMUdXOEJ3TG1TdW1BU1VldFNPbnZXTnA1Wk1NVE5qdkEycE44UXkwVVluQmt2OTZtOWgxTVpPTlE3QQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ac6ecd0de3f7abdd2ad07b3092f283d3",
+            "title": "シカと衝突し停車した乗用車に大型トラック突っ込み、社外に降りていた女性死亡 愛知・新城市の新東名高速道路",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-18T07:29:00+09:00",
+            "category": "暮らし・交通",
+            "area": "三河",
+            "summary": "シカと衝突し停車した乗用車に大型トラック突っ込み、社外に降りていた女性死亡 愛知・新城市の新東名高速道路  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRYS1iMjM2MHRoRnlOdzVaQy1RNl84VmUzWTZLazBOQzhrcXhJRlBvdTd4YWJhSXBna3I2dnVNTDVKZTcyZUpIbkFwaklGbC1MTWR6UDU2bmNhdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-95bee59e023ef7d2f4a0f7e117a78aad",
+            "title": "「パラの歴史をつなぐ思いで」聖火がゴール アジアパラ、きょう開幕 [愛知県] [アジア大会2026]",
+            "source": "朝日新聞",
+            "published_at": "2026-10-18T06:58:25+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "「パラの歴史をつなぐ思いで」聖火がゴール アジアパラ、きょう開幕 [愛知県] [アジア大会2026]  朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GWXhEaW5WZWRrWjVWZmVVb2hWR0F4aGtra1FSUVdvVnNheGdNczdqV3lubU9wQk5jblBBZmhfeXhXZ2lXQU5CenUtVE1wenNJY1hnaVU4VkcyMzRSUE5zSHBWaFV1RjQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-621c69c3a7fe06f8ff4abf0ca93fb0ca",
+            "title": "愛知・名古屋アジアパラ大会 きょう開幕",
+            "source": "NHKニュース",
+            "published_at": "2026-10-18T06:14:35+09:00",
+            "category": "一般ニュース",
+            "area": "名古屋",
+            "summary": "愛知・名古屋アジアパラ大会 きょう開幕  NHKニュース",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BX2ZJMG1YRkRyQ3VFaUNnYnc5cjI5ZTE2Y0ZPYzk3RnMyOEJVNzh3STEtejhJYlQ0MHZrTlRYTWNuM2RJUzEtejNCVUxhaGVjNmRBSHJZRmJMcTVQNEdN?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-5c8b38110fc0477aaf65292b6f3b6103",
+            "title": "愛知県の過去の雨雲レーダー(2026年10月17日)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-18T03:22:03+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の過去の雨雲レーダー(2026年10月17日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51cHoxaXI3RkM2RGdpOG1ndHZIQ1IwbUNsVHMydXZFcUVTVjJfZVpYWTVaZnlYaThZVEphcWdueUpCUVRLM3dycG1QYzhUbU1yZFMwcExHTQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-61bb5beda516b990e6d8da3471a460cd",
+            "title": "【愛知県】10/18の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-18T05:10:36+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【愛知県】10/18の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84SXp2Uk9RaGVwUTRUWEl4UUIwYTF4cmJfMzBLaE1oSi1fQmtRMHFTNkppXzBMUV9lWG1iMGxOYmFEM0RGZk9mZEIyR2dWQ0k5ZFlibjdOb005ZXJmU3ZOYzltV2s0MVhQS3FWaU0yam80eGdzeEw2OXYtbGNLdG8?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
