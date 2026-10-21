@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-21T17:26:10+09:00",
+    "last_updated": "2026-10-21T22:35:53+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -78,15 +78,37 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-3e2dd74bc4772026b78bb431adc24d35",
-            "title": "ヤマサちくわ、ブラックサンダー、市電などがキーホルダーに 豊橋のご当地ガチャ誕生",
+            "id": "news-1f36764250faf58986043e19648a1820",
+            "title": "豊橋商業高生が市内全28カ所で交通量調査",
             "source": "東愛知新聞",
-            "published_at": "2026-10-21T14:39:15+09:00",
-            "category": "一般ニュース",
+            "published_at": "2026-10-21T20:48:12+09:00",
+            "category": "暮らし・交通",
             "area": "豊橋",
-            "summary": "ヤマサちくわ、ブラックサンダー、市電などがキーホルダーに 豊橋のご当地ガチャ誕生  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80a3lnRzFGTXN6T01sNnZtUVRGSUtRZXlyX0J6LWFjWHBsTHpodk1oREZFU054VmdXazg5UGpwX1VYRXgyS01xcDlVZ0NfVmptU3VHeXY1WUt4ZXo0?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "summary": "豊橋商業高生が市内全28カ所で交通量調査  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qX2NkS1NEZWVQUE43WEVVRDVtZnpIMkVkeTJDdDAxWTBXY1FfQ2JtSS1UMC1ndWtHRDZ6YTJTMXQ1U2drclQ3aXNHTGJUNUd6UXBMQWpzWXZIclRz?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-975e4c3796c032fd14f3a44f27603c1f",
+            "title": "愛知県豊橋市の採石場でダンプとホイールローダーに挟まれた男性が死亡",
+            "source": "47NEWS",
+            "published_at": "2026-10-21T19:30:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "愛知県豊橋市の採石場でダンプとホイールローダーに挟まれた男性が死亡  47NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2LVpGcWxFSUljQmpFdmN2czhZNnB4b2VlbDgxSXVhNUtFeE4ta2RTc25FRGY5OFBvYUVINERJRW5NVE5QT2h5T2luYw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-8afdf143c8984d51cb9c8d40f63b67cc",
+            "title": "愛知県の雨雲レーダー(過去)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-21T19:15:32+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "愛知県の雨雲レーダー(過去)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pbjJxV2FNdFE5akcyUUJqQlhDVEdJVDdNMnBfNGFod2p2MXhJeEJFdUsyU1YybnJzS0Q1ZlRTdjZfWEFFNFNOWnRwMG5DUQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-d9dc384992388f99af7d86b444e8aec1",
@@ -122,6 +144,17 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-ae1f7b927f33740d1b137788f49b58d3",
+            "title": "輸入誘引剤で鳥獣をわなに 豊橋市・「トムキャット、農作物被害減へ販売注力",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-21T05:05:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "輸入誘引剤で鳥獣をわなに 豊橋市・「トムキャット、農作物被害減へ販売注力  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKalc5aDVoQk1sS3FzWjBsWFhyYzBYby1kYmp4TF93bWYwMFBoVlhCRDFJY3F3NGF6TV9nR1R5YzZsazRlZ0UwQk9yTzByM3p5VVpmbA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-6a139b32a525b93528068ddb7547e8e5",
             "title": "豊橋市内35地点で交通量調査",
             "source": "東日新聞",
@@ -133,25 +166,14 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ed63fe2f3d5d946ef0d31cba7d788c36",
-            "title": "輸入誘引剤で鳥獣をわなに 豊橋市・「トムキャット、農作物被害減へ販売注力",
-            "source": "47NEWS",
-            "published_at": "2026-10-21T05:05:00+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "輸入誘引剤で鳥獣をわなに 豊橋市・「トムキャット、農作物被害減へ販売注力  47NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NGlWaVZUaEN4ajFuS0F2dW83WWVsbEFBdVNXVHZFYmlnbWNlYWw4UU4zLVBtMDNRdWZ2b0g2RDU3SllkYUh2WVFyOA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-53069d715d109db1a3b0f6d28508e082",
-            "title": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
+            "id": "news-d8a1c7e30da8681c5853ad87e7649f57",
+            "title": "画像29 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
             "source": "ウォーカープラス",
-            "published_at": "2026-10-21T08:29:28+09:00",
+            "published_at": "2026-10-21T11:11:26+09:00",
             "category": "ビジネス",
             "area": "豊橋",
-            "summary": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbmFBMjZVWTdXMENUUVM5X083Y3QySXVoeHdjWlhpaEhId1l0STRZdG1GLVZkbXpjcmVqYlRSSl9HMWtKMnNKTXRIQnROTXNRd0p0M1AwQW1CUnhWcWZ0dWZQcklBdlhmM2ZvUGFn?oc=5",
+            "summary": "画像29 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYWGRYS2lwdDFXM1hLSHNvZTR2V01fMUZWUUVZa2NGdExyX0QzNUF4MHRaajkzcU5aTGktLWFNYzdhUEhRVUNnTnd1YzBLa2xNU1NVU2FpUHE2WnhpUDFqUFhOMlY5Y0ZIcXFHaXdR?oc=5",
             "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -166,25 +188,14 @@
             "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-4e1971eaddc8ef6018ac12d9336b42e1",
-            "title": "BOSS／ボス ユナイテッド・シネマ豊橋18(豊橋) の上映時間・上映スケジュール",
-            "source": "MOVIE WALKER PRESS",
-            "published_at": "2026-10-21T16:48:21+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "BOSS／ボス ユナイテッド・シネマ豊橋18(豊橋) の上映時間・上映スケジュール  MOVIE WALKER PRESS",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zdVlTaklzWnFTOWFqYnZGd0Jvd2hfNk9lWmNGTm1MUHpkSGJzQzVsZVBoSlhZc2FLZ3NZV2gzanFKR0s5bDBtTUV5UVBMamY3THp0eTFWMno3eDNMdHc5djNR?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a29c5600a87621951507ac34291c85be",
-            "title": "愛知県の過去の天気(アメダス・降水量・2026年10月)",
+            "id": "news-70c936ab0e15922e391d10965e07293e",
+            "title": "愛知県の雨雲レーダー(予報)",
             "source": "tenki.jp",
-            "published_at": "2026-10-21T15:31:34+09:00",
+            "published_at": "2026-10-21T19:31:35+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県の過去の天気(アメダス・降水量・2026年10月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KV3dxdDdLTHdSZl9oWmlmczFKd2xjSGoxcW9nb1RsRTdLTGFKXzFQLU5EVXEtQTNvaUV3SE8xeTBqbnN3akFhU1owMll1NE51cGk2VXhTcE9kem1NVnc?oc=5",
+            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -199,80 +210,47 @@
             "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-fa9777a11eb514d645b60cf4453b249f",
-            "title": "「困った時は頼って」 愛知県弁護士会がドラゴンボールとコラボ（毎日新聞）",
+            "id": "news-b2996d778a9d4570f105b27e9581f5d5",
+            "title": "【愛知県】10/22の天気予報（FNNプライムオンライン（フジテレビ系））",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-21T15:45:25+09:00",
+            "published_at": "2026-10-21T19:30:54+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "「困った時は頼って」 愛知県弁護士会がドラゴンボールとコラボ（毎日新聞）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BejRsVXZUdEJybXlEbkhvWHBpNlh4T2tBUW1BRUR1LTVhVkYyeFlTNG51U2FxS3VUWE10MDVMMUpKeHhOVURsNDdnMDlfTTNiSjZFblFJR2RPMVc1RlVWaHFYQjg1Q3ByR0RHS2tfTUM2UlB1VkxwbGRzcVZ1UUE?oc=5",
+            "summary": "【愛知県】10/22の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iOGM4UDlyUkoxZ2lpZUVTbXgyZnNwMUgyTGFxUW1QVnd3dVpzcFpzNmhhOXZjTnFMNzA3NHBzbllLREZJNWpVekdBOUFBNzBkRWh4V2hBbFNDaW8zVnlPZDg3WnpRaG5lYnpRS3Q2S3hieGl0LVV4TGVjajF2dXc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-8fcc3a5dc6746e30655118efa5b4401a",
-            "title": "アジアパラでも国歌取り違え3件 テコンドーなど表彰式と試合前に",
-            "source": "朝日新聞",
-            "published_at": "2026-10-21T15:50:12+09:00",
-            "category": "スポーツ",
-            "area": "愛知",
-            "summary": "アジアパラでも国歌取り違え3件 テコンドーなど表彰式と試合前に  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRMmxQSThvTDZlWmQ3N05kYllnQjEtN1dxYkZ5bXIwd2hjWDNRMDFlZnBwRGFhaEZNY0xKQXpVbDNMZVcyNzFJcmhSRDdfQS1rZTRwVWVKWm9Hdng1eTF6LUl3YlZxVUE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ab9095aec2c12dc7030477a9f9c66f66",
-            "title": "100歳以上の人口は？都道府県ランキング＆これまでの推移",
-            "source": "ハートページナビ",
-            "published_at": "2026-10-21T12:06:01+09:00",
+            "id": "news-87fd1ee0f0795687fe362e3d79f1a0dc",
+            "title": "2000年 東海豪雨から25年 “内水氾濫”対策はどこまで？",
+            "source": "NHK",
+            "published_at": "2026-10-21T21:11:51+09:00",
             "category": "一般ニュース",
             "area": "愛知",
-            "summary": "100歳以上の人口は？都道府県ランキング＆これまでの推移  ハートページナビ",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsM2VHdk5jWWxGNjFkbVg3T1FTN211OC1hR1ZhYlN0SlpsNUt5QUhpTkphaDNWdWVxVzVmTFBCWTdqc3VaMVo5bEZfeFpub2VvX0lTNWJIRVFLVk9Bc2J0eQ?oc=5",
+            "summary": "2000年 東海豪雨から25年 “内水氾濫”対策はどこまで？  NHK",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xellFbDhNZWlxS1lfZW5TdVo0U1h6U0hXaERMQTJLRDR3OGVzZXg4bE5yTklWV1hYREdxRFVwdTdQNzQtOFNWa09fMnd4bVNtNElKejZzbkhEbGF0R093bTl3MWNwbG1ybEM1WQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-087f532b364cbff05e2c7afaa9090830",
-            "title": "CBRE・APT/ 愛知「HUB YATOMI」で倉庫自動化および物流不動産マーケットセミナー＆内覧会を11月6日開催",
-            "source": "物流ニュースのLNEWS",
-            "published_at": "2026-10-21T13:34:38+09:00",
-            "category": "観光・イベント",
-            "area": "愛知",
-            "summary": "CBRE・APT/ 愛知「HUB YATOMI」で倉庫自動化および物流不動産マーケットセミナー＆内覧会を11月6日開催  物流ニュースのLNEWS",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpRTNXZzZCTFZGSVBxNUdJblNLY2YtWnBDaE1KTGtjMXFPQ3lsUHUtdjVScVY5REE4R2h4LVZNeUR5SWdBYk10Sndud1JDcW9ZZTF6ag?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ed96029f5a5606d1dde62924923835d5",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
+            "id": "news-ec564dfaaad98bd8136d91397149b407",
+            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
             "source": "tenki.jp",
-            "published_at": "2026-10-21T12:31:31+09:00",
+            "published_at": "2026-10-21T18:25:32+09:00",
             "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
+            "area": "愛知",
+            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-20ece14714d6f7a871cece135e6e1f12",
-            "title": "愛知・名古屋2026アジアパラ競技大会＜10月20日＞",
-            "source": "パラサポWEB",
-            "published_at": "2026-10-21T16:16:35+09:00",
-            "category": "一般ニュース",
-            "area": "名古屋",
-            "summary": "愛知・名古屋2026アジアパラ競技大会＜10月20日＞  パラサポWEB",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BTE4ybEZuZWEzS25qUGkwcWhrTzhLb19aYXpOdFU3cU1WRG5IOUFvXzlFelNZQm5tZXZDWFgyRi1lMEZnOWJra2hJUHQ1QmtpVUlYdQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-53542723c256bf874e63b2898aceca0a",
-            "title": "画像2 / 13＞名古屋の“夏の風物詩”!?愛知県・大村知事、名古屋市・河村市長が今年もコスプレ姿を披露!!",
-            "source": "ウォーカープラス",
-            "published_at": "2026-10-21T15:23:34+09:00",
+            "id": "news-8fae7b7a53bd59b6baf732a1f5072223",
+            "title": "《PR案件で紹介》うなぎ店 中国産を愛知県産と産地偽装容疑…とばっちり受けた「超人気食通芸人」",
+            "source": "女性自身",
+            "published_at": "2026-10-21T20:10:00+09:00",
             "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "画像2 / 13＞名古屋の“夏の風物詩”!?愛知県・大村知事、名古屋市・河村市長が今年もコスプレ姿を披露!!  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92TFFUakRRWTFIN2c2cEljXzQ5M3dBa2RHS01raGVVYXFNM2cxOFVacjdESmJCQlB3RHplVHZobjN6NVpwQlE1YUFxYWR1QTZ3YVlDU2R6UjZ3NWlYbnU0ZFRKbWNiRXNEcVphMDVYLVdpUFlKanppZGZGOA?oc=5",
+            "area": "愛知",
+            "summary": "《PR案件で紹介》うなぎ店 中国産を愛知県産と産地偽装容疑…とばっちり受けた「超人気食通芸人」  女性自身",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2RHB2OGZKdE9Jd2EyMlJFZGw4RVk2R3NrSnRLNUg0VkFKbEpfQWhOeGlYZ0hlSnpTd3p5SGNSb1RoWXpuX25kaVJB?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -287,6 +265,50 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-fa9777a11eb514d645b60cf4453b249f",
+            "title": "「困った時は頼って」 愛知県弁護士会がドラゴンボールとコラボ（毎日新聞）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-21T15:45:25+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "「困った時は頼って」 愛知県弁護士会がドラゴンボールとコラボ（毎日新聞）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BejRsVXZUdEJybXlEbkhvWHBpNlh4T2tBUW1BRUR1LTVhVkYyeFlTNG51U2FxS3VUWE10MDVMMUpKeHhOVURsNDdnMDlfTTNiSjZFblFJR2RPMVc1RlVWaHFYQjg1Q3ByR0RHS2tfTUM2UlB1VkxwbGRzcVZ1UUE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-a29c5600a87621951507ac34291c85be",
+            "title": "愛知県の過去の天気(アメダス・降水量・2026年10月)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-21T15:31:34+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の過去の天気(アメダス・降水量・2026年10月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KV3dxdDdLTHdSZl9oWmlmczFKd2xjSGoxcW9nb1RsRTdLTGFKXzFQLU5EVXEtQTNvaUV3SE8xeTBqbnN3akFhU1owMll1NE51cGk2VXhTcE9kem1NVnc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ed96029f5a5606d1dde62924923835d5",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-21T15:31:34+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ec8713a36ce078cf795cc33db4e14a64",
+            "title": "東海地方の雨雲レーダー(予報)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-21T17:47:25+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "東海地方の雨雲レーダー(予報)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vMWZFcWVOajRwV3lncks2c3JrTkl4N1J5VllxRlo4NWhWVkdrajNnUjhUNzBxSzVKeGlKMDJSa05XX1dGTGIwQlp5Xy1ESFU?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-fa1bdddd68555f7d4e0ade360c04c4e2",
             "title": "伊良湖(愛知県)の過去の天気(実況天気・2026年10月)",
             "source": "tenki.jp",
@@ -298,48 +320,26 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-6333fba446ff38e07d09a2ca6a640537",
-            "title": "高価格帯のペットフードの価格を不当に拘束した疑い、公取委が愛知県の企業に立ち入り検査…ポイントも制限か",
+            "id": "news-0311c2c052b9e918880a8f7cf04f0fc1",
+            "title": "愛知･豊田市の住宅街に「ツキノワグマ」の子ども…“藪などには近づかないで” 市が注意を呼びかけ（CBCテレビ）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-21T11:05:00+09:00",
-            "category": "ビジネス",
-            "area": "愛知",
-            "summary": "高価格帯のペットフードの価格を不当に拘束した疑い、公取委が愛知県の企業に立ち入り検査…ポイントも制限か  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pYXB1SV9oRDVoRVpyeG8xbnI0V0tjUUl2a1JBbFFyY1RFWFZoRW9OMGpqSzFheWU5OTB4ZFJ5ODBJcXJYcjRJZDJwM0drR2dJSjBsUVRBazJrUUhBSE1lZ3AyMHF5NEQ4OW5xU01mTVl6ZWJua0Ixa2dHX2VzY2s?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+            "published_at": "2026-10-21T18:45:29+09:00",
+            "category": "一般ニュース",
+            "area": "三河",
+            "summary": "愛知･豊田市の住宅街に「ツキノワグマ」の子ども…“藪などには近づかないで” 市が注意を呼びかけ（CBCテレビ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOSVZ3YzBhWWNoZWNYcDIxcnZWeXJid2Mzdjd1VnpieUhfZWJ3T01NNVdxSjk5eHBadmZnMl82TjBhS1ZiTVBWRXE2d3M5VkRzSmQxQ1ZMVF9sR2d1ZEI5MUxuRjU4T2RvRHdSQ0Y3a3Y0aEdTWmx5OXFQRU5oNE0?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-c5aabe240de006233300a716f9a15e32",
             "title": "ツキノワグマの子どもが住宅街に… 目撃情報を受け市職員がパトロール 愛知･豊田市の猿投地区（CBCテレビ）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-21T15:05:24+09:00",
+            "published_at": "2026-10-21T12:02:14+09:00",
             "category": "一般ニュース",
             "area": "三河",
             "summary": "ツキノワグマの子どもが住宅街に… 目撃情報を受け市職員がパトロール 愛知･豊田市の猿投地区（CBCテレビ）  Yahoo!ニュース",
             "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZQTN4TWp0VWhOazdDTkoyZVpyTkZYUEtycUlLRk5xQXNtVWZPZzhMZ2R3b3R3YTFabjA3M1hLUXJibVVzejcwMW1IUzlTa2c4VC1DNGRWd0pYbnV1QU0xNy1tU3VzRUhtbkhvSXlqYnBicEp1ZjZKSGUza3RIZGs?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-75df8b2e1806258ec079df43d75dcfee",
-            "title": "東名阪道、伊勢道 道路の気象影響リスク予測・天気予報",
-            "source": "tenki.jp",
-            "published_at": "2026-10-21T14:46:29+09:00",
-            "category": "暮らし・交通",
-            "area": "愛知",
-            "summary": "東名阪道、伊勢道 道路の気象影響リスク予測・天気予報  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBPTUhlbXdyY2o5NnNJMHp4LVB1M29RRDllUHh6djhSUHNGNTl0aVU2dnhNRkRpMFpQV3pkLXluNHE3TEhKeFE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-668c75aba3b981349938c1fcc3c2834f",
-            "title": "【愛知県】10/21の天気予報（FNNプライムオンライン（フジテレビ系））",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-21T05:10:40+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【愛知県】10/21の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZcllBVjZCQTlUOFFhUTk3cHVuaW5mSzZ3Z3FoYUhTRGNhM0pReGVNaThZeDN5R0s3SE1NeExlY2ZNRDVyUVJnbi1Rc1MzeVZra3lOMldMMW9abjBTWFotaFFka2RHSkJ0ZmJoTGpXd1M2bHZZSTh5b0xvSTg5YUU?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
