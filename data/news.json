@@ -1,15 +1,15 @@
 {
-    "last_updated": "2026-10-20T22:26:34+09:00",
-    "update_session": "夕刊便（17:00配信）",
+    "last_updated": "2026-10-21T09:28:51+09:00",
+    "update_session": "朝刊便（07:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "くもり　所により　雨　で　雷を伴う",
+        "condition": "くもり　時々　晴れ　夜のはじめ頃　一時　雨　所により　昼前　から　夜のはじめ頃　雷　を伴う",
         "icon": "🌧️",
         "temp_max": 30,
-        "temp_min": 22,
-        "rain_prob": "50%"
+        "temp_min": 30,
+        "rain_prob": "0%"
     },
-    "total_count": 29,
+    "total_count": 28,
     "articles": [
         {
             "id": "toyohashi-city-4230226223748c8bfdc087f8c6440314",
@@ -81,7 +81,7 @@
             "id": "news-3e2dd74bc4772026b78bb431adc24d35",
             "title": "ヤマサちくわ、ブラックサンダー、市電などがキーホルダーに 豊橋のご当地ガチャ誕生",
             "source": "東愛知新聞",
-            "published_at": "2026-10-20T20:25:53+09:00",
+            "published_at": "2026-10-21T08:34:26+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
             "summary": "ヤマサちくわ、ブラックサンダー、市電などがキーホルダーに 豊橋のご当地ガチャ誕生  東愛知新聞",
@@ -89,25 +89,36 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-d9dc384992388f99af7d86b444e8aec1",
-            "title": "卓球男子シングルス 愛知･豊橋市出身の八木克勝選手が奮闘 銀メダル獲得【アジアパラ大会】",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-10-20T19:05:34+09:00",
+            "id": "news-14c723c4a3dc3500dfe9cae62e22d701",
+            "title": "【豊橋市】10/21 最高30℃、やや暑さがありそう、昼間は風がややある予想【朝版】",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-21T05:35:58+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "卓球男子シングルス 愛知･豊橋市出身の八木克勝選手が奮闘 銀メダル獲得【アジアパラ大会】  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NZDNIM2Racmtjc1gwVTcxWmVGY0VMdWlQb3RYWUZsY1l5X011eFVMZWdmOFpoN2lvYlc5RGZFMnFzWjIzQjlPYVVGb2Z4YWxwUHNqQmNETG5zNW9sdW9R?oc=5",
+            "summary": "【豊橋市】10/21 最高30℃、やや暑さがありそう、昼間は風がややある予想【朝版】  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56WEd0X3VVTjBCREp2Y3duemR5aG05ZHJQcDI4d09DOU9ZZlJqblE4MzhnVExTRWZzV1VnRWlINXVrSS14RXppZm1zU3hfS1lPalV0NTBzcVE3YkhVZnBIcE1PRVUyUW9RdUFBV2FPblRjdjZoNE5WUUIxRFZSc3M?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ec564dfaaad98bd8136d91397149b407",
-            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
-            "source": "tenki.jp",
-            "published_at": "2026-10-20T18:32:24+09:00",
+            "id": "news-6a139b32a525b93528068ddb7547e8e5",
+            "title": "豊橋市内35地点で交通量調査",
+            "source": "東日新聞",
+            "published_at": "2026-10-21T00:03:38+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
+            "summary": "豊橋市内35地点で交通量調査  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BSUhTTVo4UmNKVE9HNVRDTkRHdE1xNlhvTmNqZVlUTjlKaHNoTFNlRW1XQlJlTlQwSzZ3eDRTY2twSktVSWhlN2lONzlzd2thZlYtSXNpU2phLWVq?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-86c867a1d4a71e4aa74fe2f5d4bad26c",
+            "title": "卓球男子シングルス 愛知･豊橋市出身の八木克勝選手が奮闘 銀メダル獲得【アジアパラ大会】",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-20T18:25:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "卓球男子シングルス 愛知･豊橋市出身の八木克勝選手が奮闘 銀メダル獲得【アジアパラ大会】  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93YVQ2azE3N2ZYcU1FTEpweXRDREswZWZNT0lsMzhkclFJZWFuY2xkSFdwWGJaR2FiMmdDZDRlWnYwT05FY3ZtbkVNZGFNLWhXckNBYlNmSXM3dw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -122,15 +133,15 @@
             "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-74c6dcc06268648e20dbd94c8ba36464",
-            "title": "室町時代から続く「バイオテクノロジー産業」 愛知県豊橋市の糀屋三左衛門、29代目当主にインタビュー",
+            "id": "news-d465884470e3e2a23c2e9d7e9d86218b",
+            "title": "「豊橋と言えば…」全部まとめてガチャガチャに アクリルキーホルダー全10種、市内など10カ所に販売機",
             "source": "中日新聞Web",
-            "published_at": "2026-10-20T10:35:00+09:00",
-            "category": "市政・行政",
+            "published_at": "2026-10-20T16:49:27+09:00",
+            "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "室町時代から続く「バイオテクノロジー産業」 愛知県豊橋市の糀屋三左衛門、29代目当主にインタビュー  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GSmNacHdXZ0ExNmN1TkdnS05NYVZWM2FNYVhMd2tBRFJ2cHBfczRIWm1rMXluSnVkOE9XWlZhT3phcDFFSW10TTRNQ1RvNmh5Yk40ag?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "「豊橋と言えば…」全部まとめてガチャガチャに アクリルキーホルダー全10種、市内など10カ所に販売機  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NOUNJX2FpQUs2LXJFV0tVWEJSalFKSThuUHZfVERZZDBDbjAwWWQ2endZZzRPYXZmVV90ZndRc291NHB4UjJuMWNnTDNrSTFBeXpPWg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-4583f88f6c521ee8ed15012fa60a51cf",
@@ -144,6 +155,17 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-00719c75e78d795502d87d336193e040",
+            "title": "【豊橋市】待望のスイーツ店！行列の絶えない生ドーナツ専門店「MILK DO dore iku?（ミルクドドレイク）MEGAドン・キホーテ豊橋店」がオープン予定！",
+            "source": "地域ニュースサイト号外NET",
+            "published_at": "2026-10-20T22:20:26+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "【豊橋市】待望のスイーツ店！行列の絶えない生ドーナツ専門店「MILK DO dore iku?（ミルクドドレイク）MEGAドン・キホーテ豊橋店」がオープン予定！  地域ニュースサイ...",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EeVNKLUIzdEpTMUF3czhWMUROT2ROR2pzclZkYmR4X0hnbGg4RVo1X3NmX2dvQ25UbmZ2cFVXQUEzZWZhVlFDRDlQNnNXXzhET1gyMENLSENTZUsxSU5SSGtWTHJHeVF5MVJrNEN5WkxVLUE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-10727299487ca766570b86ccebafaccd",
             "title": "ごみがエネルギーに!? デロリアン展示や自転車抽選会も楽しめる豊橋市の環境フェスタ",
             "source": "いこーよニュース",
@@ -155,32 +177,21 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-076465c90aad98d756f499b3d99f6966",
-            "title": "「豊橋と言えば…」全部まとめてガチャガチャに アクリルキーホルダー全10種、市内など10カ所に販売機",
-            "source": "47NEWS",
-            "published_at": "2026-10-20T18:46:14+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "「豊橋と言えば…」全部まとめてガチャガチャに アクリルキーホルダー全10種、市内など10カ所に販売機  47NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oN0N3YlpPYzNXbG9iVkIyV2FoWEhKODRCY09hSzJiMHpCNGR3ZnQzOEVBV05sSjRuc1RaQ0dmMi05dUtfOWpRdVU0RQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-812ec807531376811de8371f99f7d82b",
-            "title": "アジアパラ競技大会の卓球・男子シングルス　愛知県豊橋市出身の八木克勝選手が銀メダル獲得",
-            "source": "ｄメニューニュース",
-            "published_at": "2026-10-20T18:57:00+09:00",
+            "id": "news-ec564dfaaad98bd8136d91397149b407",
+            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
+            "source": "tenki.jp",
+            "published_at": "2026-10-20T06:41:41+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "アジアパラ競技大会の卓球・男子シングルス　愛知県豊橋市出身の八木克勝選手が銀メダル獲得  ｄメニューニュース",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcnV4VnE0ZjI1cGpCbjZ1bXlWMDBGZzVkMlduNDd5MS1nYlZ6TDhkRnJPZVJDSkhJTlROWWlwMGRxYnlNUXFTX0FFd0pUNVlZT0dDOTBSQ1BjWWU4Z004NEMzQVVaRFdIV01FTjJhaHJERm1McHBJRWF2X2hlTTFfWkdvOHd2MVFKNXhwRTExUdIBjwFBVV95cUxQcnV4VnE0ZjI1cGpCbjZ1bXlWMDBGZzVkMlduNDd5MS1nYlZ6TDhkRnJPZVJDSkhJTlROWWlwMGRxYnlNUXFTX0FFd0pUNVlZT0dDOTBSQ1BjWWU4Z004NEMzQVVaRFdIV01FTjJhaHJERm1McHBJRWF2X2hlTTFfWkdvOHd2MVFKNXhwRTExUQ?oc=5",
+            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-ed96029f5a5606d1dde62924923835d5",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
             "source": "tenki.jp",
-            "published_at": "2026-10-20T18:31:31+09:00",
+            "published_at": "2026-10-21T03:31:29+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
@@ -188,26 +199,48 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-f5d874e1155848710f4580d36bd82110",
-            "title": "中国産ウナギを愛知県三河産と偽り客に提供 容疑でウナギ料理店経営の50代男を逮捕 京都",
-            "source": "京都新聞デジタル",
-            "published_at": "2026-10-20T21:03:15+09:00",
-            "category": "社会",
+            "id": "news-a6cad353105ae91a2ea17e53ddf455ef",
+            "title": "ツキノワグマの子どもが住宅街に出没 愛知県豊田市猿投地区で新たにクマの目撃情報 市内の小原地区で10月11日に59歳男性がツキノワグマに襲われ重傷 市が注意を呼び掛け",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-21T07:55:00+09:00",
+            "category": "市政・行政",
             "area": "三河",
-            "summary": "中国産ウナギを愛知県三河産と偽り客に提供 容疑でウナギ料理店経営の50代男を逮捕 京都  京都新聞デジタル",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yOFZtQjRiUEFKdTRxcHMycUlqcWZ6RmVDWlo0OUg2VUFKX2ZERTlaNERRN2dwR0JORUJmTHhTZnVYbWlFZG9iZTJQbDFGSVhOdExVbE1XWUE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+            "summary": "ツキノワグマの子どもが住宅街に出没 愛知県豊田市猿投地区で新たにクマの目撃情報 市内の小原地区で10月11日に59歳男性がツキノワグマに襲われ重傷 市が注意を呼び掛け  TBS N...",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iMlRGZS0zYVhGenJRQ0VPc09wNV8zUXNTLUY1VjBhVm1GcU00RWR2WkFSV3ZKdnREQkZBYTMzLU1NRmE3dGtPU0I1VExjb0RqNzh4RHJqQQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-b125c771f9474d09c31c12cc5f4f191c",
-            "title": "中国産ウナギなのに店内メニューに「愛知県一色町から仕入れ」などと国産と誤認させるような表示をした疑い 京都のウナギ料理店の社長逮捕",
+            "id": "news-673b9e90545f55998167dc13802a0671",
+            "title": "愛知・豊田市の住宅街に子グマが出没 付近には小中学校や幼稚園も（中京テレビＮＥＷＳ）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-20T20:55:54+09:00",
-            "category": "社会",
+            "published_at": "2026-10-21T06:11:28+09:00",
+            "category": "一般ニュース",
+            "area": "三河",
+            "summary": "愛知・豊田市の住宅街に子グマが出没 付近には小中学校や幼稚園も（中京テレビＮＥＷＳ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZEpiYkszLTBzOWZwalJrU1FmbGYtb0ZKdmZjWlpDMnU0R2NjemJGRU1DaDdnZjBlNnNXTTNpd1pFUks5ZHRDRnduRUp1RTVIY3FMTE0tSDFqLXZtb2R0OUsyZUt0a3ExV3JwUVJKQ2FGbmFwakhqRk9DYUx6OGM?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-a22aed38a1456821cf46d065128e79c4",
+            "title": "愛知県弥富市長選挙、市議の佐藤仁志さんが立候補の意向固める「市役所組織のシステムを刷新する」",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-21T05:10:00+09:00",
+            "category": "市政・行政",
             "area": "愛知",
-            "summary": "中国産ウナギなのに店内メニューに「愛知県一色町から仕入れ」などと国産と誤認させるような表示をした疑い 京都のウナギ料理店の社長逮捕  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pVXNrWUcyWFZFRV9qUXZmZFg1WjFHR2N3OGdTV2tLRURrWllQX2dVcWFSZXB0Ry10bGg0b2ZqSlZWdjZJQmtkSVg0U2hiZDNDQkFnamwtY1p2eXpnVTJldkVzeGQtRmRfLVlsRmtrTlk2TldsNjRETWJrRHc1alk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+            "summary": "愛知県弥富市長選挙、市議の佐藤仁志さんが立候補の意向固める「市役所組織のシステムを刷新する」  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Gd3ZRNVFXdzBNcTFNc2MwSmJxb3g2SGh2NGVtQnZMVTgwb0dncmwyNTY1ZWRyMFRpeU9zV1hZN2Nyb0Q5OWt1QzljeWdsbTQwa1YzQg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-e08cad77d138f05d35b1b9a0d6191f69",
+            "title": "愛知県、デジタルハリウッド大と連携し教職員の生成AI活用やSTEAM教育を強化",
+            "source": "教育家庭新聞",
+            "published_at": "2026-10-21T07:05:06+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県、デジタルハリウッド大と連携し教職員の生成AI活用やSTEAM教育を強化  教育家庭新聞",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xRTJubzN2bDFIMWNWeDFXNmM4VDhScEJyVjJ4V1JkdXd1dFJ4R0VpYjdseGNLZjVXbEItZFV0ZmJCZGMzMHQyRktxTVNUWF9QMGl3?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-be3338a0420516b9adbc499da56745fa",
@@ -221,114 +254,70 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-2eafacf35786587b44ff93938fef9327",
-            "title": "中国産ウナギを「愛知県一色町から厳選仕入れ」、偽装販売の疑いで販売会社社長を逮捕…９９％以上中国産か",
-            "source": "読売新聞",
-            "published_at": "2026-10-20T19:06:00+09:00",
-            "category": "社会",
-            "area": "愛知",
-            "summary": "中国産ウナギを「愛知県一色町から厳選仕入れ」、偽装販売の疑いで販売会社社長を逮捕…９９％以上中国産か  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyS3J0WFJtOFF0OXVaVEdmS29SRUppU3hDUkNkN3loLWthOVJIaS1DNlEyT1pmUVUtQ2JjeXdhaUgwbmVLSlN1eDV0WmRHNXZDMVlLaDlyRFA3MzNIOXZvVGJCX3Zkdw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-4bd8cceae3a28f140329cd123d182c90",
-            "title": "【速報】｢愛知県一色町から厳選して仕入れ｣ 中国産のうなぎを“国産”と誤認させ販売した疑い 京都市のうなぎ料理店代表の男を逮捕 京都府警",
-            "source": "日テレNEWS NNN",
-            "published_at": "2026-10-20T14:25:00+09:00",
-            "category": "社会",
-            "area": "愛知",
-            "summary": "【速報】｢愛知県一色町から厳選して仕入れ｣ 中国産のうなぎを“国産”と誤認させ販売した疑い 京都市のうなぎ料理店代表の男を逮捕 京都府警  日テレNEWS NNN",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWHNFRHFvQTJMWlpLSVFLRXd2V214cmNJbk1lal94LTlKbnNaVTBMRERLVExNajJFdFpXNmVlb0RDbWk4YU9mY3VSYk9VV3kzNTZqSlJNRmN1SGtEWWdJZ0VsLTNNVTQyX2lUSFhaRVVuc2JGOTdfMGw0elEyczVNSk5lLVI4ZUk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-fea9cf6033d620d20ed22deae10e16b5",
-            "title": "中国産ウナギを愛知県産と偽り販売の疑い 社長逮捕",
-            "source": "SmartNews",
-            "published_at": "2026-10-20T21:24:00+09:00",
-            "category": "社会",
-            "area": "愛知",
-            "summary": "中国産ウナギを愛知県産と偽り販売の疑い 社長逮捕  SmartNews",
-            "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPYXRXVElxNlhxeUl6bHFEVUpwVHdTRlpEYWZFVHpVQzh5MjU3di1JTW5xcDMxOUdBNjUxa1R3WFhRVy1CeV9lNjBkNHpzSWFHbUZmNjlBQ0hrTVdQb0JfQmFFZXpoanJ2NDEtWHJ5NWxhVUQ0eVozUzF2MEx2TWd2SV9PWjVOTnBTSUJfRy11WU9nTGphc1E4b2xueXY2MTgzTGVrQW9jdFB5Zk9kNnlIYk9xQnFyeDJrZDJseTVyU3JLaEE5LTc2SEpITWYwZ0s3a3hMcVMtRHVNZDE0Z25hLVNkNWEyRXFzdHoxWHRKaXBIV1hjYUVlaGJXNHJuUmZvSFRNdUFyMGN5VzJ6NWRxWHZPcWNYc2otSU5pLTEwR2ZzRHdOU2xfZG5iR1c4NjdZOHU2SFhRcFFvMEJBdFFYckNNdm1WSHhLcjhDQU5TRHlsNlUwNk9Dazc0YmNXQXNyZzlsb3NsSGl6NE9KZm5rNGlOd1hHcU9iSWNlR0xSbkxZRE0?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-b04d57a5cf7277ef7fb1485a64fcfac0",
-            "title": "愛知県教委とデジハリ大が教育連携、人材育成や学校DX推進",
-            "source": "リセマム",
-            "published_at": "2026-10-20T10:15:03+09:00",
+            "id": "news-fa85527b6b33b68fd86cc083fbc25a38",
+            "title": "愛知県の過去の天気(実況天気・2026年10月)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-21T03:31:29+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県教委とデジハリ大が教育連携、人材育成や学校DX推進  リセマム",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTejJZcmZQZ09ZRDBqajhITUYwcDlXNDJSZDV4NV9BYk9MYy0wc1AtV1VQdDBPNkVPcDlLYVFUeURNMWxXdWNkVGJlanh6Y0xyblpxX3dnWlZzd2dwcUxMeGh1amFpUQ?oc=5",
+            "summary": "愛知県の過去の天気(実況天気・2026年10月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKMEthU1JuQndkeHJIXy05MkhiTDhBdWEzOW5RQzhCVW5GSHItVTdjbVZBdUY1OHVicERoVDY3N2ZSN2V2d3BiNEo1YkRibW5XbUkxSHNn?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-5342d677804b5b1e9273375d9f0234ec",
-            "title": "愛知県発の人気焼肉チェーン「あみやき亭」が京都府初出店 11月オープン、近江牛カルビが期間限定500円",
-            "source": "福井新聞社",
-            "published_at": "2026-10-20T10:30:00+09:00",
-            "category": "観光・イベント",
-            "area": "愛知",
-            "summary": "愛知県発の人気焼肉チェーン「あみやき亭」が京都府初出店 11月オープン、近江牛カルビが期間限定500円  福井新聞社",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSTGVQRmFDOUZGc1VCNHJiQ0llOU0tbXQyT3pWdlZqdXVFNW5LNGRwTi12SnNBd1lEZzNFZ0s5NFg1LVlJM1c0M1lyRUZPNmVGQUctZ3RkVUkzemtYZVE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-819a8112004927104573c6b332754065",
-            "title": "当選11回のベテラン県議　今期限りで議員を引退する意向を固める「俺がいたら後進が育たない」　愛知",
-            "source": "名古屋テレビ【メ～テレ】",
-            "published_at": "2026-10-20T19:44:00+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "当選11回のベテラン県議　今期限りで議員を引退する意向を固める「俺がいたら後進が育たない」　愛知  名古屋テレビ【メ～テレ】",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WLUhEXy1CSC1nVVEtdkpZbXdfRV94YUhBMDJlWXpwc09CYmlyUnFCdGFycGk0UzIzZHVMYk1YQ0ZodTNKWHBEeUluekdjODZaLUHSAWRBVV95cUxQaW5tZjBpNU5IYnhlVzlWRGJyLWFmdlBOUnVtNjVHUmhyTUdxT2dXcEp1M2NrRTJVZjVRQzZUTDcyZUFBdnBWY3dTSThhd2FPQ083MTBBVlE0MWxxd0NsT3VFaU5Q?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-1c24c7fd4363c10ea4b9d9f9bbea7962",
-            "title": "愛知県弁護士会「ドラゴンボール」 コラボポスター",
-            "source": "スポニチ Sponichi Annex",
-            "published_at": "2026-10-20T20:04:19+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県弁護士会「ドラゴンボール」 コラボポスター  スポニチ Sponichi Annex",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcWZMRkNrVWRFNmxKNktad2g5bjlRZzVaQTAxWVhMeHI5RjdHdkpFMUlmcHgweFppMF9URlFuVkYtYXBpWm8xNFJZUldKWXhpcjdlMVl3cjRYRDN1TV94VTd4c2FoVVhZdEZlX0txSHVMOEVBU3B0U0FoVklVbEk5T2RXMHgxUzNubGgzVkNn?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-1693a3468e2a06aaee5329060c3516bd",
-            "title": "ウーパールーパーは指をかじられても元通り 愛知県の竹島水族館で生き物の「再生」テーマにした展示",
-            "source": "愛知のニュース",
-            "published_at": "2026-10-20T19:04:08+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "ウーパールーパーは指をかじられても元通り 愛知県の竹島水族館で生き物の「再生」テーマにした展示  愛知のニュース",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OSzZIbFl4X01Mc3p2NjRrMl9mQ1BLUEcwZXNtY3RiQVZtdFBURVZubFlmVXVYRTRUQTF5UEdodGE5OE5hRS1xUEJlR0VtOG5DQTRLX0Fyb3Iyb0E?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-1f8d01dbdef4adcddb9240f22cc076bb",
+            "id": "news-668c75aba3b981349938c1fcc3c2834f",
             "title": "【愛知県】10/21の天気予報（FNNプライムオンライン（フジテレビ系））",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-20T19:31:01+09:00",
+            "published_at": "2026-10-21T05:10:40+09:00",
             "category": "市政・行政",
             "area": "愛知",
             "summary": "【愛知県】10/21の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3LUZMbkt3Q1BoVUlRYUE0TmpKbzFIelU1UlpGV3JYcTNpYzNNZno2UjNXNEZQNW9WckdpbTN6cVdrRGZ6OS04M1VFVm16U3VYc3lKaU14XzBma3dRU1pDWU9saVlNMlFoajg2dGhSOUZrLVlrVVhObkUtUVZOZ00?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZcllBVjZCQTlUOFFhUTk3cHVuaW5mSzZ3Z3FoYUhTRGNhM0pReGVNaThZeDN5R0s3SE1NeExlY2ZNRDVyUVJnbi1Rc1MzeVZra3lOMldMMW9abjBTWFotaFFka2RHSkJ0ZmJoTGpXd1M2bHZZSTh5b0xvSTg5YUU?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-1d051f0d319b3b38b1980c43d191b752",
-            "title": "交差点で車2台が衝突 軽乗用車運転の女性が意識不明の重体 愛知・瀬戸市（2026年10月19日掲載）",
-            "source": "日テレNEWS NNN",
-            "published_at": "2026-10-20T12:01:00+09:00",
-            "category": "一般ニュース",
+            "id": "news-56aeb14c9d1ab652d5573f90b388c28b",
+            "title": "愛知県の過去の雨雲レーダー(2026年10月20日)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-21T00:22:04+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の過去の雨雲レーダー(2026年10月20日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xeUZCY1loM1F4T3cxTE5UNGZNMEJfLVJuVV9JR1VtLUlWZ3JsVHhQN0NOa3lWM0t6ZEhYeWJaREp3N0syNHE0N0paeXpaQTVMaGFjZkpMdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-9bedc6d7ac731b028e6717e64df8b8ec",
+            "title": "熱戦続くアジアパラ大会 「大きなトラブルは把握しておらず大会は非常に盛り上がっている」と大村愛知県知事 チケット販売率は全18競技のうち10競技で80％以上 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-21T02:10:00+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "熱戦続くアジアパラ大会 「大きなトラブルは把握しておらず大会は非常に盛り上がっている」と大村愛知県知事 チケット販売率は全18競技のうち10競技で80％以上 | 名古屋・愛知・岐阜...",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ycWVSUUstSE12LVVKVEVuNjJrbUIxd2dlMVE3NW56bFhjajhBN1owY1ZXT2tSNVdGZGZGbllrME1xZnBPTkpDMFEzOERWWWFoOXRsVERYemM2QQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-a32e12c35a77dc782da96b7bba2e3052",
+            "title": "ツキノワグマの子どもが出没 愛知県豊田市猿投地区で新たにクマの目撃情報 市内の小原地区で10月11日に59歳男性がツキノワグマに襲われ重傷 市が注意を呼び掛け (CBCテレビ)",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-21T04:09:39+09:00",
+            "category": "市政・行政",
+            "area": "三河",
+            "summary": "ツキノワグマの子どもが出没 愛知県豊田市猿投地区で新たにクマの目撃情報 市内の小原地区で10月11日に59歳男性がツキノワグマに襲われ重傷 市が注意を呼び掛け (CBCテレビ)  ...",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeVo0MlBLRGR0U05Ec1c1MG1SdHdiSTRzeEhIVEhLRExFc2I0c043ekZkSGFkLWZwQnJyQjlhSFBlZGRCQXBvTXZfTEF0Y2N2VW11aFNxY3VPalJaNGhacG5xWDk1WXBZd2JTLWw0eG5fYi0wZ0M0bTlzZ0dlQTZscVR5Q0theG5iWGpUczFR?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-4d7d9c4967860cf7795cbc2e0dc05d09",
+            "title": "マッサージ店で強盗事件 女性従業員を木刀などで脅しスマホ３台奪って逃げた53歳男を逮捕 愛知県警小牧署",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-21T04:03:00+09:00",
+            "category": "社会",
             "area": "尾張",
-            "summary": "交差点で車2台が衝突 軽乗用車運転の女性が意識不明の重体 愛知・瀬戸市（2026年10月19日掲載）  日テレNEWS NNN",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVHVWU29NdTNJcE1hUmFYaFFXdnZRMndvaTV2NzNyVnY5WDZldHBYdHJBNFZGRWtYTVJlSVZRTF9ITkZ0ZkVqY1RORHZtUmYwQnlJWWlCcS1LS0pLRTFWbkc1bnU0eEtYVzVBWWVlN3RBS0RJVVpQdVNLemY3OE5BTmxUOTdPcEU?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "summary": "マッサージ店で強盗事件 女性従業員を木刀などで脅しスマホ３台奪って逃げた53歳男を逮捕 愛知県警小牧署  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wend3SC1BcnU3Qkk1ZVJpZjRfN2QzbEdNdVRybFdzbmNkR0pueTBReTQ4TTgtcTZBbWNOSUtack9CUHk0SFpqNlNxWjk3UDlEUkZvNzB1ZEI1Zw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
