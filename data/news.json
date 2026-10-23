@@ -1,16 +1,38 @@
 {
-    "last_updated": "2026-10-23T09:29:47+09:00",
-    "update_session": "朝刊便（07:00配信）",
+    "last_updated": "2026-10-23T17:25:07+09:00",
+    "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "くもり　昼過ぎ　まで　時々　晴れ　所により　夜遅く　雨",
+        "condition": "くもり　所により　夜遅く　雨",
         "icon": "🌧️",
-        "temp_max": 23,
-        "temp_min": 23,
+        "temp_max": 21,
+        "temp_min": 18,
         "rain_prob": "30%"
     },
-    "total_count": 29,
+    "total_count": 30,
     "articles": [
+        {
+            "id": "toyohashi-city-59c3353a8c32c0141f37d116abc8adcf",
+            "title": "ひきこもり講演会のお知らせ",
+            "source": "豊橋市役所",
+            "published_at": "2026-10-23T10:00:00+09:00",
+            "category": "市政・くらし",
+            "area": "豊橋",
+            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
+            "url": "https://www.city.toyohashi.lg.jp/item/125675.htm#itemid125675",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "toyohashi-city-417a007d0c4f8f6ec644327ac1e99194",
+            "title": "豊橋市民病院ホームページの復旧について",
+            "source": "豊橋市役所",
+            "published_at": "2026-10-23T09:56:00+09:00",
+            "category": "市政・くらし",
+            "area": "豊橋",
+            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
+            "url": "https://www.city.toyohashi.lg.jp/item/126380.htm#itemid126380",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
         {
             "id": "toyohashi-city-6be74a997144c0c4858d85a6868321c4",
             "title": "PHPの脆弱性に伴う一部サービスの停止について",
@@ -20,17 +42,6 @@
             "area": "豊橋",
             "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
             "url": "https://www.city.toyohashi.lg.jp/item/126382.htm#itemid126382",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "toyohashi-city-417a007d0c4f8f6ec644327ac1e99194",
-            "title": "豊橋市民病院ホームページの閲覧停止について",
-            "source": "豊橋市役所",
-            "published_at": "2026-10-22T09:56:00+09:00",
-            "category": "市政・くらし",
-            "area": "豊橋",
-            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
-            "url": "https://www.city.toyohashi.lg.jp/item/126380.htm#itemid126380",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -67,17 +78,6 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "toyohashi-city-7bc55270b7bcd50ed042666cea36d773",
-            "title": "豊橋ほっとメールの運営会社に対する不正アクセスについて",
-            "source": "豊橋市役所",
-            "published_at": "2026-10-14T15:17:00+09:00",
-            "category": "市政・くらし",
-            "area": "豊橋",
-            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
-            "url": "https://www.city.toyohashi.lg.jp/item/126266.htm#itemid126266",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-24b59637f2dfe8707f581c98ab51b9d5",
             "title": "【豊橋市】10/23 最高24℃、最低16℃、夜は雲が広がる予想【朝版】",
             "source": "Yahoo!ニュース",
@@ -89,15 +89,48 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-bedee59b822d3f324986d0259c972f25",
-            "title": "【連載】エンジョイサッカー〈121〉県内外の強豪も多数参加 FCGラッシュ豊橋主催「穂の国杯」",
-            "source": "東愛知新聞",
-            "published_at": "2026-10-23T02:11:30+09:00",
-            "category": "スポーツ",
+            "id": "news-53069d715d109db1a3b0f6d28508e082",
+            "title": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
+            "source": "ウォーカープラス",
+            "published_at": "2026-10-23T14:28:44+09:00",
+            "category": "ビジネス",
             "area": "豊橋",
-            "summary": "【連載】エンジョイサッカー〈121〉県内外の強豪も多数参加 FCGラッシュ豊橋主催「穂の国杯」  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SMXJlaXJiZUZnUHdSLTZ5V19iWXM0dk4yOXI1VlV3NDhWa3Zhamc3cjdsZDEzanVVSnV0OVk2d1V2bllLXzJ0azl3YVFrMXp2X2g2ZkVVcG1kZUJC?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
+            "summary": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbmFBMjZVWTdXMENUUVM5X083Y3QySXVoeHdjWlhpaEhId1l0STRZdG1GLVZkbXpjcmVqYlRSSl9HMWtKMnNKTXRIQnROTXNRd0p0M1AwQW1CUnhWcWZ0dWZQcklBdlhmM2ZvUGFn?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-9c1c3812c1711ac5c32d4bdc2f569502",
+            "title": "企業の課題解決へ試行錯誤 豊橋技科大「ものすた」で学生ら現場視察 イノチオでは収穫の効率化模索",
+            "source": "東愛知新聞",
+            "published_at": "2026-10-23T14:10:19+09:00",
+            "category": "ビジネス",
+            "area": "豊橋",
+            "summary": "企業の課題解決へ試行錯誤 豊橋技科大「ものすた」で学生ら現場視察 イノチオでは収穫の効率化模索  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50UHhPYmo0RGtaNEZoR2Zlb1lJbENGb1VxRnBTOGU1NVhhWGM0R29IT3gtUDlERXRXeVcxcEJQX2pMZHJBTFMtamY4RnNZUWt1ODhYMjZYd1puVllM?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-d4ac318b3b85f81afe028e3a4f789c88",
+            "title": "新着情報“プリウスU”2023年式アッシュ入荷しました！",
+            "source": "中古車のガリバー",
+            "published_at": "2026-10-23T10:07:06+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "新着情報“プリウスU”2023年式アッシュ入荷しました！  中古車のガリバー",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rUUFXak1McFhyRjBqSUVjMzBWYzg0M2xDTDdYMWFqdDFfN2VsLXpjTmlieXVXcEtsY09tMktJU3JZSWNxTVd5OU9PWGZHTUR2bm9vSFhqa1dBbUg1aTlzZlpwZGZNTWtlcGFZNjFLUjdIQ0hkOHlQaWIyUi1BUlE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ec564dfaaad98bd8136d91397149b407",
+            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
+            "source": "tenki.jp",
+            "published_at": "2026-10-22T13:59:16+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-20dfd3e7ddcf98b59079e306781c1323",
@@ -122,17 +155,6 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-e27430cd8a905d638928812a817979d4",
-            "title": "「全国ランニング大会100撰」初選出！ 路面電車と並走する「鈴木亜由子杯 穂の国・豊橋ハーフマラソン」は3月21日開催",
-            "source": "RUNNET",
-            "published_at": "2026-10-22T17:46:04+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "「全国ランニング大会100撰」初選出！ 路面電車と並走する「鈴木亜由子杯 穂の国・豊橋ハーフマラソン」は3月21日開催  RUNNET",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OOFJhV19iRVJIbVFaRzRsZXNxX1ZNcXRGWDVYYmQ3ZklaOGRJZVdDejhfYXZTQjV2aXF4VE85ZFBxMVlmTWtjM0V2OGNaSW56UnJSRw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-ff733668268d9d228ce538a99b7b80cd",
             "title": "豊橋鉄道 秋冬の風物詩〝おでんしゃ〟 きょうから予約受付 20年目、５万人が宴会楽しむ",
             "source": "中部経済新聞",
@@ -144,48 +166,125 @@
             "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ec564dfaaad98bd8136d91397149b407",
-            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
-            "source": "tenki.jp",
-            "published_at": "2026-10-22T05:49:03+09:00",
-            "category": "市政・行政",
+            "id": "news-8681fa19db8e5ea02e3d80cad4eadbe5",
+            "title": "「全国ランニング大会100撰」初選出！ 路面電車と並走する「鈴木亜由子杯 穂の国・豊橋ハーフマラソン」は3月21日開催",
+            "source": "RUNNET",
+            "published_at": "2026-10-22T18:11:05+09:00",
+            "category": "観光・イベント",
             "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
+            "summary": "「全国ランニング大会100撰」初選出！ 路面電車と並走する「鈴木亜由子杯 穂の国・豊橋ハーフマラソン」は3月21日開催  RUNNET",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvUWc0ZHhIVHJaZmpoRW1OQUo2cWJoUGdfVm5kRWpFTXNtc0RRaEZvVmoydHBKMHBPcXdhN3lidi1YVDdWWjZNUS1wVzRiZTRtQkRoV0RNZ1Z5Zw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-39ad04d58c94c0925865d154dc1eee37",
+            "title": "【フォルクスワーゲン】豊橋拠点の再エネ比率100％を実現 年間2053トンのCO₂削減へ",
+            "source": "Auto Prove",
+            "published_at": "2026-10-23T09:32:12+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "【フォルクスワーゲン】豊橋拠点の再エネ比率100％を実現 年間2053トンのCO₂削減へ  Auto Prove",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IQ0JqbHp4b01DS0V5QW9haGx6eTNWbG0yUXgxWGJnTGlmUDI1R1pSTXBsMFhXSmlUZ1UtSU9KX3NBY01yZnRPZzh4ODZqeGNRNUxhQUlQYmI?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ed96029f5a5606d1dde62924923835d5",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-23T12:31:31+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-53069d715d109db1a3b0f6d28508e082",
-            "title": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
-            "source": "ウォーカープラス",
-            "published_at": "2026-10-22T14:16:03+09:00",
-            "category": "ビジネス",
-            "area": "豊橋",
-            "summary": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbmFBMjZVWTdXMENUUVM5X083Y3QySXVoeHdjWlhpaEhId1l0STRZdG1GLVZkbXpjcmVqYlRSSl9HMWtKMnNKTXRIQnROTXNRd0p0M1AwQW1CUnhWcWZ0dWZQcklBdlhmM2ZvUGFn?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+            "id": "news-28b39a51db94fd93d1af113ff143c92d",
+            "title": "愛知県弁護士会のポスターに孫悟空登場 正義のかめはめ波で平穏な暮らしと人権守る",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-23T12:00:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県弁護士会のポスターに孫悟空登場 正義のかめはめ波で平穏な暮らしと人権守る  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DLTlpbjBGUkJvMUhmRVN0Yjl1UmNPcUxoX3hOOENOUm5EVUxnOFdIQTlNWVA1TVdOdnR4eEdqbjBqLUc3cjFVX3J1N3FfdjNVbllORw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-6a8126052d9c48d8b65da97abc6c1834",
-            "title": "「共創ラボ」で導入第1号、AI活用し地域住民の健康管理を 愛知県豊橋市、地元企業とスタートアップをマッチング：ニュース",
-            "source": "中日BIZナビ",
-            "published_at": "2026-10-22T17:41:51+09:00",
-            "category": "ビジネス",
-            "area": "豊橋",
-            "summary": "「共創ラボ」で導入第1号、AI活用し地域住民の健康管理を 愛知県豊橋市、地元企業とスタートアップをマッチング：ニュース  中日BIZナビ",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OQ01qRmJueXZocXNjNW8weHFjZVh2N0paa3d1bHJGNVUzOWFRdXoyRUpjQU1zc0NHbllxbzJVZHFVUzh3WF9yM0R6Y0pQUVVOZHBjWjlSNktleVZpN05B?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+            "id": "news-0c47dc4878082b9e65b500acd903f197",
+            "title": "【競輪】「同じ愛知県だし名古屋も気持ちは入りますね」富永益生は追加参戦にも気合十分／名古屋",
+            "source": "日刊スポーツ",
+            "published_at": "2026-10-23T16:33:54+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "【競輪】「同じ愛知県だし名古屋も気持ちは入りますね」富永益生は追加参戦にも気合十分／名古屋  日刊スポーツ",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90UUtuLU96amU3alJfMW1WZ1pVTldMa01lNW10Y3NabFRQZE5hejY2MU5aOFNoem04S1ZIa0F3YTBpNmpqbVowb0J4WlpJdVMwb0F2dFBReW0tWlFFcFR2WGd0R1RYOU5tcDc3ckJaTWttV0NIUU1YMWtn0gF8QVVfeXFMUDRZTFN3WnR4bmpGaExONlpTUXE3V3dhVDJqekRfVUJacW1Xb2ZuRnpweVNURkJnWGVTZkxCeWVKR1RfTkRTazFDSHZuTnJSOFBmQWpTa1RhczF3amFkOEVGMDM3MjZ6SU4zcnQ0WTJDTjJXa3d4djhBN3ZIWA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-6684ce371bccb0a3a2b83a3db15eb5a7",
-            "title": "時習館高校付属中で県埋蔵文化財調査センター出前講座 土器の歴史や特徴を紹介",
-            "source": "東愛知新聞",
-            "published_at": "2026-10-23T06:51:01+09:00",
+            "id": "news-0483e599cb73e4fc72031f0868d8a14a",
+            "title": "東海地方 明日から台風などの影響で雨や曇りに 水曜日には日差し回復 愛知･名古屋･岐阜･三重の天気予報（10/23 昼）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-23T12:33:16+09:00",
+            "category": "暮らし・交通",
+            "area": "名古屋",
+            "summary": "東海地方 明日から台風などの影響で雨や曇りに 水曜日には日差し回復 愛知･名古屋･岐阜･三重の天気予報（10/23 昼）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93djhUV3FiRGVLd3k5RjBFQ1lzXzJkZHdtcmV5clhfOGQ2aXlXbEFteUtiT2R3V250RGtoT3hkRWg2WUQxR2hiWThrdGxHdGJ2ckdsMjA5YmhvWnVFUC1CSjN4MVdqMUs4bmlYVUpKNnRZbmZCMzdKcDRfWEx5QTg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-a994b6619b208fa2c218d4553e19055b",
+            "title": "名鉄，愛知県の「県民の日学校ホリデー」にあわせて，「県民の日 電車バス乗り放題きっぷ」を発売",
+            "source": "鉄道ファン・railf.jp",
+            "published_at": "2026-10-23T13:33:55+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "名鉄，愛知県の「県民の日学校ホリデー」にあわせて，「県民の日 電車バス乗り放題きっぷ」を発売  鉄道ファン・railf.jp",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YbHlQV0ZyNDF2emtCS283dWhZSENud1hOVFBxYkl1TzBpekVZeFdTT01DWVhkZERsaHJ4dDJfSW10cFRCWThBVHUyMndOd2tMMFhfWlNUTQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-11ed00ba4e26cac38788e42a7d6b46a7",
+            "title": "【行政視察２日目愛知県尾張旭市】２日目は安中市議会「議会改革推進特別委員会」として、愛知県尾張...",
+            "source": "選挙ドットコム",
+            "published_at": "2026-10-23T14:01:47+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【行政視察２日目愛知県尾張旭市】２日目は安中市議会「議会改革推進特別委員会」として、愛知県尾張...  選挙ドットコム",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qa0Y4MXNZMnYzVWdxNDRvSWN6WGlqY3NjSTJ6ZXBIdU0tcHUwckdybWttSG1EQkNtS3FNY2dYeWUtcC1JU25yYk8yaU8yM2lsSzJfQXo1eElFMXBoY0cw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-b310aad214533f11c704582dcf875443",
+            "title": "【現況満室】南区大同町【メゾン・プルミエール大同町】",
+            "source": "www.rakumachi.jp",
+            "published_at": "2026-10-23T15:25:06+09:00",
             "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "時習館高校付属中で県埋蔵文化財調査センター出前講座 土器の歴史や特徴を紹介  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmQkNwR1dZNVp6RFVqVUpUY1czZlN2b200OF9NTjFLYkVwbmU1NFRlLXpRVDE2MVVxQ0RlQnR4N2xhQlZXanpGUjAzODVVWXdQVU5ESlEzYXp1RE45?oc=5",
+            "area": "愛知",
+            "summary": "【現況満室】南区大同町【メゾン・プルミエール大同町】  www.rakumachi.jp",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalVVNTNMbEpMckxFdGk3MjNTYnpRQnpBaWZVYmFmcUIyZ19vajdyWGZpV0Y0V3I5bkZTRkRMNmxSajNzVFU2RURteTZXUWRNY0tULXVzVGJsRlQ0WDBxRHBFZHhqaVpSVXFIaWFoVE53OTVET3ZqclZrcm5XMXFUTlRn?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-df0501be6ef7d3cfacbe677e840eb968",
+            "title": "愛知県常滑市 急須・盆栽鉢職人訪ねる訪日向けツアーを造成 事前予約制で催行",
+            "source": "観光経済新聞",
+            "published_at": "2026-10-23T15:01:30+09:00",
+            "category": "観光・イベント",
+            "area": "尾張",
+            "summary": "愛知県常滑市 急須・盆栽鉢職人訪ねる訪日向けツアーを造成 事前予約制で催行  観光経済新聞",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uenJGdkhhdzBDWUxLWjBHRFZBeEhJcS1BMlJqZE41Qmh6dHljVy1UT2RKZXk3LWQzeWdiMTZrNlRqd1Y3aFdkQU91U0hKMzltMVhjSg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-bc091b2cb85d75e503c37d7191a4a426",
+            "title": "「すごい事故…」 愛知県の「事故った走り屋大学生」を逮捕！ 「スポーツカー」で\"制限50kmオーバー\"し衝突、相手にケガ… 「重大な交通犯罪」で本人は\"超・厳罰\"に どんな事故なのか",
+            "source": "くるまのニュース",
+            "published_at": "2026-10-23T15:50:00+09:00",
+            "category": "社会",
+            "area": "愛知",
+            "summary": "「すごい事故…」 愛知県の「事故った走り屋大学生」を逮捕！ 「スポーツカー」で\"制限50kmオーバー\"し衝突、相手にケガ… 「重大な交通犯罪」で本人は\"超・厳罰\"に どんな事故なの...",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96N3I3NE5aSDZETVdlTFBFYzlYQ0paSmtwQTM1d0hyLU5TU2F6bkdUTG1DS0RqY043WkZMNDQwa1I4X0lJbXZJZ01DRQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-fa85527b6b33b68fd86cc083fbc25a38",
@@ -199,113 +298,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-8a9967de81dc73ac155a28a24da70de8",
-            "title": "自動車盗難ワースト1位は愛知県、被害ダントツは「ランクル」…なぜトヨタ車ばかり狙われる？窃盗犯の傾向をジャーナリストが解説（ABEMA TIMES）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-23T07:37:11+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "自動車盗難ワースト1位は愛知県、被害ダントツは「ランクル」…なぜトヨタ車ばかり狙われる？窃盗犯の傾向をジャーナリストが解説（ABEMA TIMES）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uUFBsZUhySE1YbFNKRTh4UUdfS250SVhqR1ZFNldKMTFIcFZBT192SHpTNjdOTnkwWkNOUXFZTzBBZzVwX3M4d2JsN3lCQ254SHJPSVBJX3BMdHdCaDRxX0NXaUM4Qm05azJLRWRzampJLWlkV3pWUVlnakpMOVE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-0bb6cd6e694793510b9f107c48847eb7",
-            "title": "愛知県がアンダーパスの事前通行規制を導入",
-            "source": "NHKニュース",
-            "published_at": "2026-10-22T18:36:53+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県がアンダーパスの事前通行規制を導入  NHKニュース",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbEJXbzhIc1AzWG9JLWRWNkNYN196N2poTXhndzBWYUJORXVFeVZqVU1QQWdlanFlS0tyNnJQT2tmMksxU3dBMFJvM3pzdndKS0xNZEViTE9MRE51RXM0?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-46828d2b90cfabe130ace49da4ce40d7",
-            "title": "愛知県安城市で民家火災 けが人はなし、同じ敷地には動物病院も",
+            "id": "news-b10fdca0bee079fb23d5f9e04492afd8",
+            "title": "津具総合支所閉所へ、愛知県設楽町 一部行政事務を郵便局に委託",
             "source": "中日新聞Web",
-            "published_at": "2026-10-23T02:08:18+09:00",
-            "category": "社会",
-            "area": "三河",
-            "summary": "愛知県安城市で民家火災 けが人はなし、同じ敷地には動物病院も  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Xbm1Ec3NpOTVuRHNyUThrV0NYS3I3YkdBZllmbVNpSHlONjJEMktEa2w1OHcxYkZic3JuS0RXdlpxTUpVNU52NGtFcW5PTEtWOXdKbA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f8724f9a6cb99830e8856f019a4c3a64",
-            "title": "愛知県蒲郡市、LINE活用予約サービスを導入[ニュース]",
-            "source": "デジタル行政",
-            "published_at": "2026-10-23T08:03:00+09:00",
+            "published_at": "2026-10-23T12:00:00+09:00",
             "category": "市政・行政",
             "area": "三河",
-            "summary": "愛知県蒲郡市、LINE活用予約サービスを導入[ニュース]  デジタル行政",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHbjFOOTRpOXNhNVBTRDA4eU1BMmt3R01nNTdqVUc5NHNYb1J6WFZHNDBWYWVnWXdDNV9NMDhKZkVPNDRVemZBQTFkSHFlNG1nUUN4cWU4UjNPNmFFSEo0VGZIT3hvZ2o0MTNrWE9hMERuUzQy?oc=5",
+            "summary": "津具総合支所閉所へ、愛知県設楽町 一部行政事務を郵便局に委託  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tZl92S3JDbTh6SWwxZzFRdm9LVndIdzdRUHRKelc5YWZCX2dpcWw4enZOTzM3WUsycmluTTJocVYya2c1UTNQNFNiZFVIMHZiVHBSSQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-94fb0b1b695b90252898332fec9ac392",
-            "title": "【愛知県】10/23の天気予報",
-            "source": "FNNプライムオンライン",
-            "published_at": "2026-10-23T05:10:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【愛知県】10/23の天気予報  FNNプライムオンライン",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0enUxdzJJZHEzdXhfbWgxTXJkajZQRXhoaFZGVjVzZzJqUDU3emJ2XzFPSjVzSnhhZDU4TU9ad3YySUZ3dUlXX1pIam5pZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ed96029f5a5606d1dde62924923835d5",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-23T03:31:30+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8ceca9222bbc2beb3ad050af8ac162d9",
-            "title": "PHP欠陥、愛知の自治体も対応 名古屋市は44のサイトが全面停止",
-            "source": "日本経済新聞",
-            "published_at": "2026-10-22T17:58:43+09:00",
-            "category": "ビジネス",
-            "area": "名古屋",
-            "summary": "PHP欠陥、愛知の自治体も対応 名古屋市は44のサイトが全面停止  日本経済新聞",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVkpUSzZtSjMxRURNMVNwb3k0WVJ2OFhjUXp3aGhFM2NhT2pndXV1WTd2U1hfSUpBMEVHNE5QaUFFWnRNbC12b3J5TVdUQWFlODBjQkE2UXBfSk1fT2FvTzZQYkxHaHJJMmt1YQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-c15a9f4e50ebd8b00d60dbd4297e6162",
-            "title": "中日1位の近大・宮原、愛知に縁 156キロ右腕「先発にこだわる」",
-            "source": "朝日新聞",
-            "published_at": "2026-10-22T22:35:00+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "中日1位の近大・宮原、愛知に縁 156キロ右腕「先発にこだわる」  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYTGlrZ0VaWWJvd0NmTGtyTGNaem1hUm9Lc1NSYnNBbWNHS0NCYUhGT3g4TU51THZiQ081eWZZaXYzSlpaZmw5eTJMRHM2cFhBQ1FnZjhldWF4VDRVcWpHemg0b2ZLbG8?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-239b8174a43ebe91253a5eaac8525fcc",
-            "title": "ドラフト、愛知県ゆかりの選手も歓喜 樋口新、有馬伽久、中川大雅選手ら",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-23T00:44:05+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "ドラフト、愛知県ゆかりの選手も歓喜 樋口新、有馬伽久、中川大雅選手ら  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PWWR4c0sybUZtU0hjS0FGSXRkaFJlTGROaVNONWg4TnFTX3NDT1hycnJRU2xDQnhrcXVuU3dlenB5cVZNd3VoSnBzdURfME5UVEdjSQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-38f847a3fe1bc6b89c3f8213c307e434",
-            "title": "愛知県一宮市出身・小田凱人選手がアジアパラ車いすテニス準決勝も圧勝 2大会連続で決勝進出を果たす（テレビ愛知）",
+            "id": "news-96c915588eeb36d99ed6f043282351b7",
+            "title": "【愛知県】10/23の天気予報（FNNプライムオンライン（フジテレビ系））",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-22T18:57:02+09:00",
+            "published_at": "2026-10-23T05:10:40+09:00",
             "category": "市政・行政",
-            "area": "尾張",
-            "summary": "愛知県一宮市出身・小田凱人選手がアジアパラ車いすテニス準決勝も圧勝 2大会連続で決勝進出を果たす（テレビ愛知）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYTkhiOVNSSmE3SE1rUEZuc3ZucEpmMFNNal9YNXExODFaR0ktajNFWlE5T2V6TERHVGxWeV9iQjBxYVZoSnRONzBUcHhwWDNnbGcwbnRFcEU1Mko3TFNOblU2bXhpXzV5NzFrWkR6T0UzQjYtUjVWTmtnOGVESjA?oc=5",
+            "area": "愛知",
+            "summary": "【愛知県】10/23の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlbkxsM2dqd19uc0VZMlFtcjRlQkRwY0JfN0hQY05EODlQYWx2RVRheVVTX3M0N2JPZlJrS01qSldQb25lUHNRVlhuNVJEbU1tckVCd2p2LVlNYUxRcURodEFLRzV4YlA4b2w4SE03QWs4T2RjbE9PNF9JNDJJTDQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -320,14 +331,14 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ef225061cdc180948e965d6c5eb7455e",
-            "title": "20日と同一個体か…愛知県豊田市でまたツキノワグマの子どもの目撃情報 体長60cm程でフェンスよじ登る（東海テレビ）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-22T19:10:50+09:00",
+            "id": "news-b35b474ef1b3a180fa36158dbdbcbeb4",
+            "title": "資さんうどん 愛知県1号店は名古屋・熱田に：ニュース",
+            "source": "中日BIZナビ",
+            "published_at": "2026-10-23T12:14:00+09:00",
             "category": "市政・行政",
-            "area": "三河",
-            "summary": "20日と同一個体か…愛知県豊田市でまたツキノワグマの子どもの目撃情報 体長60cm程でフェンスよじ登る（東海テレビ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QQXplclRpQ1VWRVJXMFMxeGlGVTFSNDYySzd2OEl2dTUzdEc0c05FZTItWk9vdDJaeEtrUEFNLTFTQ1pSamp4RmxGd01LOG1fcHRPZVhmdlZaQ2hQNnZ0WFRnaVA0Um40VGVPUnFJenh1NnMySnNTdUpkSi1HNjg?oc=5",
+            "area": "名古屋",
+            "summary": "資さんうどん 愛知県1号店は名古屋・熱田に：ニュース  中日BIZナビ",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81LXVHaFNHRi1kREdCZWJ2ejVjYjY4Z0R5ZmxEZ3NFanlRbTJIaUNxWW1GQ0dQdXE5ejZ4eHJaMERqQ05Tb2ZTeDRwZ0xSOFgyY0xieVMtTHVrcWNMSmdB?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
