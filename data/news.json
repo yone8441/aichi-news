@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-25T17:16:59+09:00",
+    "last_updated": "2026-10-25T22:04:30+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,7 +9,7 @@
         "temp_min": 19,
         "rain_prob": "80%"
     },
-    "total_count": 30,
+    "total_count": 29,
     "articles": [
         {
             "id": "toyohashi-city-1a4d63e9d1242f8b5f034cfcedd650f8",
@@ -78,15 +78,26 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-3f901bf6dce2d3b9218b22a0e5696da1",
-            "title": "【豊橋】かわいファミリークリニック開院 低線量CTを活用した肺がん検診で体への負担軽減",
-            "source": "東愛知新聞社",
-            "published_at": "2026-10-25T00:00:00+09:00",
-            "category": "一般ニュース",
+            "id": "news-ec564dfaaad98bd8136d91397149b407",
+            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
+            "source": "tenki.jp",
+            "published_at": "2026-10-25T17:33:36+09:00",
+            "category": "市政・行政",
             "area": "豊橋",
-            "summary": "【豊橋】かわいファミリークリニック開院 低線量CTを活用した肺がん検診で体への負担軽減  東愛知新聞社",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zODVMd04xeUQ1eG8zd3FlRzJTSVFXVi1jMGhleFNKVnhZWHllNUhrYmg5c2tJSVQtWElDWTVQaWhsN3Bsa25KRGVmZl9YamxHVllsRjRxN0t5UE54?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-cdd2e947dff3c524a02b1f994b1bcd1e",
+            "title": "【豊橋市】テレビでおなじみの二人が豊橋に！「特撰落語会 春風亭昇太・林家たい平 二人会」開催",
+            "source": "地域ニュースサイト号外NET",
+            "published_at": "2026-10-25T19:00:06+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "【豊橋市】テレビでおなじみの二人が豊橋に！「特撰落語会 春風亭昇太・林家たい平 二人会」開催  地域ニュースサイト号外NET",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4LV94M28yckdYRE1CaDBmU1RnZjBhVHdraXZDa0FtOHlfNF84MHJ5dFFqWHpNRlctZHdOVDVWbHZ5ZWVnaVJVT0laemlyazlYN3drUUtmOU5RZFRsZTdKSWZJRW00cjMwNWxNX3dZVTRqT0FvbnI0?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
@@ -97,17 +108,6 @@
             "area": "豊橋",
             "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
             "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ec564dfaaad98bd8136d91397149b407",
-            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
-            "source": "tenki.jp",
-            "published_at": "2026-10-24T14:50:58+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -122,6 +122,17 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-3f901bf6dce2d3b9218b22a0e5696da1",
+            "title": "【豊橋】かわいファミリークリニック開院 低線量CTを活用した肺がん検診で体への負担軽減",
+            "source": "東愛知新聞社",
+            "published_at": "2026-10-25T00:00:00+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "【豊橋】かわいファミリークリニック開院 低線量CTを活用した肺がん検診で体への負担軽減  東愛知新聞社",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zODVMd04xeUQ1eG8zd3FlRzJTSVFXVi1jMGhleFNKVnhZWHllNUhrYmg5c2tJSVQtWElDWTVQaWhsN3Bsa25KRGVmZl9YamxHVllsRjRxN0t5UE54?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-6a8126052d9c48d8b65da97abc6c1834",
             "title": "「とよはし共創ラボ」で本格協業の第1号誕生 東京のIT企業と地元薬局がマッチング：ニュース",
             "source": "中日BIZナビ",
@@ -133,15 +144,15 @@
             "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-35ec061fa6e0259246e80dd52549d0bd",
-            "title": "【豊橋市】注目の新店！サムギョプサルと本格韓国料理「ブブギョプサル」が新吉町にオープン！",
-            "source": "地域ニュースサイト号外NET",
-            "published_at": "2026-10-24T08:30:00+09:00",
-            "category": "観光・イベント",
+            "id": "news-ba7aff958df94ba43245d548b45b0548",
+            "title": "撤去予定の歩道橋 カラフルな絵でお別れを… 老朽化や利用者の減少で 愛知･豊橋市の｢三郷南歩道橋｣",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-24T22:16:51+09:00",
+            "category": "市政・行政",
             "area": "豊橋",
-            "summary": "【豊橋市】注目の新店！サムギョプサルと本格韓国料理「ブブギョプサル」が新吉町にオープン！  地域ニュースサイト号外NET",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53S29WcmZ6Wi1pR2V0NExtbE11N3Z2WkV5dDJMOEo2UDZlLTVBTUVYX002N0lkWGQ3NnpNdkpyME5BRDZzdFMybV9qZ1p4ZDEydDB4eHY0MlZqd1JKX2RTTUtueUxGbGx3NGd0cWMwOA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+            "summary": "撤去予定の歩道橋 カラフルな絵でお別れを… 老朽化や利用者の減少で 愛知･豊橋市の｢三郷南歩道橋｣  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CcG03WU1wamhiRkJLUktBUlVhRXRpYUJWSFVyLUkwRE9BQS02SUpkU1oteHpmNVBGM3QySmtFZ1dVQWFDY0xxQUYwdEg3bDZCM00xOS1OU3I0QlJjY3Ew?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-79117fecaa83c735bebfa0c166f975cf",
@@ -177,21 +188,21 @@
             "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-c170490a6e8c47ad71b3c7a3815d692b",
-            "title": "新着情報“ＧＲヤリスRZ ハイパフォーマンス”2025年式プレシャスブラックパール入荷しました！",
-            "source": "中古車のガリバー",
-            "published_at": "2026-10-24T10:04:11+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "新着情報“ＧＲヤリスRZ ハイパフォーマンス”2025年式プレシャスブラックパール入荷しました！  中古車のガリバー",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vQTBBSXFadGlHRTVhMWpvQzU4Sk13OWU5R0R1U2NXUDVPeUxwdVdWay1fSi1ER2hTRTI3TGk4R1dIdHRkOFNKSnJTdmlOOHhwOU1EcnJ3SUkzdjBDS3RGRVRKek0tTkY0UFRHdlNNenZGRDBVOEJ5bURyWXBKZnM?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "id": "news-70c936ab0e15922e391d10965e07293e",
+            "title": "愛知県の雨雲レーダー(予報)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-25T18:23:43+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-3b6679139a821bc23dcf4386e1c072b6",
             "title": "【台風30号影響】愛知県は26日昼前から激しい雨 夜遅くまで警報級大雨のおそれ",
             "source": "福井新聞社",
-            "published_at": "2026-10-25T17:02:41+09:00",
+            "published_at": "2026-10-25T07:16:00+09:00",
             "category": "市政・行政",
             "area": "愛知",
             "summary": "【台風30号影響】愛知県は26日昼前から激しい雨 夜遅くまで警報級大雨のおそれ  福井新聞社",
@@ -199,14 +210,36 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-a29c5600a87621951507ac34291c85be",
-            "title": "愛知県の過去の天気(アメダス・降水量・2026年10月)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-25T12:31:31+09:00",
+            "id": "news-369196184ea703bec8fedd2f011aab8a",
+            "title": "愛知県西尾市の一色漁港に成人男性の遺体 死因、身元は調査中",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-25T17:53:11+09:00",
+            "category": "市政・行政",
+            "area": "三河",
+            "summary": "愛知県西尾市の一色漁港に成人男性の遺体 死因、身元は調査中  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TNVpLSWdwN0pvYnZ6QTY2eG9NTUIxZDd0ZXVRa3JPaUFRNDhzd2FFNjltOXlCX2JTQnVQOUVvb25CTEl1OXFWMXVOenVoUExqeU9wSw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-aec2365890a5dcec98dc92d6647c534d",
+            "title": "台風30号は26日にも温帯低気圧に 東海地方は大雨のおそれ",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-25T12:32:00+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "台風30号は26日にも温帯低気圧に 東海地方は大雨のおそれ  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BNzBWMmxBSUZPWWVTd1lHdTh1c3ZMY09lNTBrcC1rVTBKMno3VmlGS0tOTDlMR0xVUWFpVWlKVXkxaFhXY3lvU2xMVlh2S1BJNmY0aklSYUhwblhtMkFGaWd3ZnpqRWc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-8a2babd0e8629dd732f143e99e448535",
+            "title": "【愛知県】10/26の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-25T19:30:51+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県の過去の天気(アメダス・降水量・2026年10月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KV3dxdDdLTHdSZl9oWmlmczFKd2xjSGoxcW9nb1RsRTdLTGFKXzFQLU5EVXEtQTNvaUV3SE8xeTBqbnN3akFhU1owMll1NE51cGk2VXhTcE9kem1NVnc?oc=5",
+            "summary": "【愛知県】10/26の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xSG9tVWtGSGQwOE83RUM1Mng2eHIwUjBGazFKcWVXNTNiaGx0YldxajF6WXg3WnhzeUU0R3Y4OXVtWGdWd1JGTkY2TXhhZmttaV9ib0tiOHNJOGlWeDhUTFNIMU90YlRfQzNTcmZCaWxLRFZyM3FLTHFNRmkxd00?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -221,81 +254,37 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-578e8809930c3278b798a69b9fb7c17e",
-            "title": "子育て支援自動販売機設置について",
-            "source": "愛知県美浜町",
-            "published_at": "2026-10-25T10:02:27+09:00",
+            "id": "news-27c0456ab7db1ea5abee8993ba37acf1",
+            "title": "サーフィンをしていた愛知県の58歳男性が死亡 若狭和田ビーチの沖合20ｍで知人が発見",
+            "source": "FNNプライムオンライン",
+            "published_at": "2026-10-25T20:05:00+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "子育て支援自動販売機設置について  愛知県美浜町",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNmM2Sl9sSXVibmUwaTEyN0NXeS1URzlNdjFObVhNVURheFE1SDBHZm5DYnpLWkNiQmVMeUctOWgxY3pVZk92RW5wanFxbzNaSU94OUxfSVVtYnhJVk1xZTNLVUREdFlPb1BLVkJPWUhXeGhkTmY2eU5MbnJMUWcyTjBVS1RkQQ?oc=5",
+            "summary": "サーフィンをしていた愛知県の58歳男性が死亡 若狭和田ビーチの沖合20ｍで知人が発見  FNNプライムオンライン",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wSWlSV1NBTkxYQ21NLVIwbGYyckJuNG95d2VyMU9hLXA2TkxqcnkyX1BmblJSMHZ5VG85WXdxeE84dWJSUnZrNDBnYWRqUQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-95adf28dd08d69edf2e59a367025849e",
-            "title": "目指すは長編映画の監督、愛知県一宮市出身の八代さん 手応え感じた短編、静岡で上映",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-25T05:10:00+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "目指すは長編映画の監督、愛知県一宮市出身の八代さん 手応え感じた短編、静岡で上映  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZMTNuZTJpckI5amhWRm9nTVFCSWV0dGFYNFpEZ01Dek95X1J4RkdLVmNlMm5FaXVleks5YlRQaXhucm1nZTgxY3BXaDdMaVd2dllHOQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-7efa1343945b3fce4a0b3d93118f2ec1",
-            "title": "【愛知県】10/25の天気予報（FNNプライムオンライン（フジテレビ系））",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-25T05:10:40+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【愛知県】10/25の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKUVRaZ3pSWWtFdkZxNDBXWWIxVm9raTN2d0NNV0JJMVpXTnBlYmFkTGJpQ1kxOEs4Um9RS21LLW1KVXNRWXc1T1lpeU9IOVZhbS1CWmcwU3I1S2VSWml5YVBKYmUzR1JzVmZ2V2lzSFFIMU1yLXBPendQYVFIOWs?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d20c330e7708b7c03779f07848ba51b9",
-            "title": "アジパラ閉幕 “国歌”取り違え相次ぐ、愛知・大村知事はトラブル触れず",
-            "source": "テレ朝NEWS",
-            "published_at": "2026-10-25T09:22:16+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "アジパラ閉幕 “国歌”取り違え相次ぐ、愛知・大村知事はトラブル触れず  テレ朝NEWS",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMNDg1T3RyQVRMQWlzVmdPb3dEVFRRQ0JLblBxUDRUU095b1NKNE44eHNPdHU1RDFGQzBpUFRERlJRbXY5SUdKS2lYcDJwNUhSUjBmandvWElPM1VYTE5sRk9BN21sWTlPb2FkbF9XZlU?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d889deab5138906e78887e7da56472eb",
-            "title": "大アサリの稚貝が大量に… 画期的な養殖技術 漁師と大手ゼネコンがタッグ ｢最強のパターン｣ 愛知･篠島",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-10-25T13:00:00+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "大アサリの稚貝が大量に… 画期的な養殖技術 漁師と大手ゼネコンがタッグ ｢最強のパターン｣ 愛知･篠島  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzcFZxNlV2WkQtYXRmbmVmQUo1aExSeUlKQlkzUDZ2RVlPRlhyeFhEUmVPSzdQYVRBQVlCbHFNTjJWVXNnZGxPWUZtYlNUajhqZjI1czRBbktGWHJXWmszcFh1blBrQ0E?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a91751a15b7a2689c1e562b367077b58",
-            "title": "【台風30号影響】愛知県、きょう昼前から激しい雨 西部は警報級大雨の可能性、26日は東部も",
+            "id": "news-2440ec113844edd63b12263bd6943fb7",
+            "title": "愛知県稲沢市の中学2年、日本三百名山の登頂達成 元バックパッカーの父と共に、3歳から",
             "source": "47NEWS",
-            "published_at": "2026-10-25T07:16:00+09:00",
+            "published_at": "2026-10-25T18:00:00+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "【台風30号影響】愛知県、きょう昼前から激しい雨 西部は警報級大雨の可能性、26日は東部も  47NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FSW8zMTljdkVZWC1BR05OcEQxSl9POFJTOFlvaF9LRndLenY4dTdVNkxUOGdsSU1PQXpoN0dZM0d6UERFX29XY2hrcw?oc=5",
+            "summary": "愛知県稲沢市の中学2年、日本三百名山の登頂達成 元バックパッカーの父と共に、3歳から  47NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBveUMwMUthNm0ySzRLdWlMRlRLeXY0UlhNQVZEcmJROUxSb2pPdnhieHo3S2h4bjR2Vy1aVmJycy1xdEJtRE5iNkcwUQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-36d0ce7d65745d9a11a57afb6ca902a4",
-            "title": "【中止】江南市民花火大会2026、予備日も含め中止に",
-            "source": "夜景FAN",
-            "published_at": "2026-10-25T14:46:21+09:00",
-            "category": "一般ニュース",
-            "area": "尾張",
-            "summary": "【中止】江南市民花火大会2026、予備日も含め中止に  夜景FAN",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1WFZSVW5iRXM1VzBVYlhsUDVEd1A2ZkQ0MV9YcE1nRGNxQjYySWlRMjJPa0w1bndNb0JsUEV4N3QyY25RX2VySDM0bHJJa3ZaTjhsZlA3bXpkbVdtUDNKWkQyWENXV0lHbE42eFdRZUgydFBLUmZKU1BVSnRsblE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "id": "news-f851786b2a6790529a04be93331365fc",
+            "title": "愛知県天然記念物の金魚「四尾の地金」の審査会、岡崎市で開催 結果は…？",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-25T18:10:00+09:00",
+            "category": "観光・イベント",
+            "area": "三河",
+            "summary": "愛知県天然記念物の金魚「四尾の地金」の審査会、岡崎市で開催 結果は…？  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mUE9UdFNnaDRHaFI4bVA4N0x2cGFmTjdHMkhiNTd0UDdVNzBpeDZaaDFLUEp2M2ZZdGlidGVZdU9PMjdiaHRVSHlBOENvamdiT3NCNA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-ed42bd22439895f9fc6663f3bddd3c86",
@@ -309,36 +298,36 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ed96029f5a5606d1dde62924923835d5",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-25T09:31:30+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "id": "news-953313bb0b427bd152dc55730517fdaa",
+            "title": "小牧では11年ぶりパレード…ディズニーの仲間たちが愛知県の「小牧市民まつり」に登場 ミッキーもレインコート姿（東海テレビ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-25T18:25:42+09:00",
+            "category": "観光・イベント",
+            "area": "尾張",
+            "summary": "小牧では11年ぶりパレード…ディズニーの仲間たちが愛知県の「小牧市民まつり」に登場 ミッキーもレインコート姿（東海テレビ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2aTEzMXBoMXJybndjWE5QLTlnaWNOTjUwUXAtNEljVXdma2NxWkFrX2U5U2Q0UzJKQXJ2MURlcVB6dzdaUEhxTmFwYW1lOFU3VF9FOHRUaWRJVGotMkpZY184dTNrWFp2TTR2bmEtU3pZbWpPTjM4Z3BjbFFsNXM?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-0756b67da07417837753dee83928afd5",
-            "title": "愛知県の過去のアメダス実況(2026年10月24日)(風向・風速)",
+            "id": "news-fa9c7018967ecd8b39043997b36f7efa",
+            "title": "【気象情報】東海地方 ２７日にかけて断続的に雷を伴った激しい雨が降り大雨となる所も…警報級の大雨となる可能性【雨と風のシミュレーション】",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-25T17:02:00+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "【気象情報】東海地方 ２７日にかけて断続的に雷を伴った激しい雨が降り大雨となる所も…警報級の大雨となる可能性【雨と風のシミュレーション】  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JNVFiSV9hRnVyb2VzZ1dveWFJVXY1TXJ3M0otaG5oTEdZMWdiOWlkRnF1SFJqMWUyRFV0Tm1MZ2ZzeDgwMThXcTN0M3JTdDktRThZbG90YmliQ3JqdnZBank1NA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-a29c5600a87621951507ac34291c85be",
+            "title": "愛知県の過去の天気(アメダス・降水量・2026年10月)",
             "source": "tenki.jp",
-            "published_at": "2026-10-25T00:30:12+09:00",
+            "published_at": "2026-10-25T15:31:30+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県の過去のアメダス実況(2026年10月24日)(風向・風速)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmVEFXdkhkbXppMk9ZV2NjemVycGdReVROdEtVUkZuT1IxU0pnVUxQZHB5ckxTUVBCNlZobmEtdnRaN0pBYnpoUE4yb1BEWGhKdkg2ZWNCQURneElya0lBdm9IVms?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-05b73a3250ecdabfe27547500ce392a2",
-            "title": "台風31号(2026年)の愛知県西三河北東部の暴風域に入る確率",
-            "source": "tenki.jp",
-            "published_at": "2026-10-25T09:00:00+09:00",
-            "category": "市政・行政",
-            "area": "三河",
-            "summary": "台風31号(2026年)の愛知県西三河北東部の暴風域に入る確率  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiM3lQNmlKb010QkVYSUdQUHJ2QnU0X1VkTlVmMjFnZWFOMW9sRTU2bURjSzNPNjhrc2U0U1R4RnNrOExuVGx4SURhdWVRekZwRU5oVVFzX09SOVlRRlNCd3otXy1UWEhKeF94NkFhM0k?oc=5",
+            "summary": "愛知県の過去の天気(アメダス・降水量・2026年10月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KV3dxdDdLTHdSZl9oWmlmczFKd2xjSGoxcW9nb1RsRTdLTGFKXzFQLU5EVXEtQTNvaUV3SE8xeTBqbnN3akFhU1owMll1NE51cGk2VXhTcE9kem1NVnc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
