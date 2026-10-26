@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-26T17:44:26+09:00",
+    "last_updated": "2026-10-26T23:59:45+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,7 +9,7 @@
         "temp_min": 18,
         "rain_prob": "0%"
     },
-    "total_count": 30,
+    "total_count": 28,
     "articles": [
         {
             "id": "toyohashi-city-1a4d63e9d1242f8b5f034cfcedd650f8",
@@ -78,6 +78,17 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-cd34046d9b21fdec1f46e8dca5b871d0",
+            "title": "ホッキョクグマ「うみ」、愛知県豊橋市ののんほいパークに来園！ 11月25日、仙台市から",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-26T21:45:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "ホッキョクグマ「うみ」、愛知県豊橋市ののんほいパークに来園！ 11月25日、仙台市から  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sdXJ3YXJVOF9oWjZrUVVzT2d5QzZvZHJiV01ZdUpVbGZiSEhZTnZPbk00U3pXMjBnSEVYMXR6ZHNtM3U0Y0VTVEwwNmpaWmJMQ1ZHMw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-5d2b93459b83007f443c993b1cbed3da",
             "title": "「五角」と「合格」の語呂合わせ　合格次郎柿を受験生に配布　愛知・豊橋市",
             "source": "名古屋テレビ【メ～テレ】",
@@ -87,6 +98,28 @@
             "summary": "「五角」と「合格」の語呂合わせ　合格次郎柿を受験生に配布　愛知・豊橋市  名古屋テレビ【メ～テレ】",
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lZUV6elRYOW9velktdS03VF9EalNBUHgzTy1OX3lhR0pRRUpRRUpMUC1GZkZzLWJyc0VQLXRqc1N3c2VycHVnS1BPaWZGeXA0N2fSAWRBVV95cUxPNHRZOU1LUFg3NUk5WFZOQkdCNXU3UWkzZW55YTJVUDllaGlqejdmcVhDMy1ocmoycTZZODdhaXZCd2U1Rjd5Ml9ZaW1Rc2lFTnJTbDlKY1JMSHlvaXlUdzU0ZWpk?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
+            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
+            "source": "ウォーカープラス",
+            "published_at": "2026-10-26T20:31:53+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-02098f3817a121c0a3b2920a11a6633f",
+            "title": "課外活動団体支援募金（Giving Campaign）終了のお知らせ",
+            "source": "豊橋技術科学大学",
+            "published_at": "2026-10-26T16:28:13+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "課外活動団体支援募金（Giving Campaign）終了のお知らせ  豊橋技術科学大学",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zUWotWktRR0lwNXJ1akIzNFhLZElnQV9aT245S1Z4UVpzMVZMakJ6T2FaTmtkc2g2WUotSUpnbFlZUWR2aEQ4UnhsYTF2QlZpTUpoaXAzZW9hWkVlczdkSUJaSWRLN2tRcDM3WWRkYm9fOG8xN1E?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-875e8b1be0f71c6d4af8f60c004e373c",
@@ -100,6 +133,39 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-2a1ea35b5850d1cc67c53f23d3ccd42f",
+            "title": "【豊橋市】MEGAドン・キホーテ豊橋店の「スパゲッ亭チャオJr.」が11月23日(月)をもって閉店。",
+            "source": "地域ニュースサイト号外NET",
+            "published_at": "2026-10-26T07:36:31+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "【豊橋市】MEGAドン・キホーテ豊橋店の「スパゲッ亭チャオJr.」が11月23日(月)をもって閉店。  地域ニュースサイト号外NET",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tenBLdENINUV1UjY4bUtMRUpYSVhYZHdfYTRNUktZdXladDZHbHljNjk0VUp3XzVmNjlidUdqbWFJYnBjSWlUVDlwNGoxOGdBV0FUUDk4WmFRQVdWTE9EeG5SeFNNZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-e1e2234df7ceca173b41c5170bae188d",
+            "title": "豊橋技科大レゴ部など8大学が巨大都市モニュメントづくりへ",
+            "source": "東愛知新聞",
+            "published_at": "2026-10-26T23:29:42+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "豊橋技科大レゴ部など8大学が巨大都市モニュメントづくりへ  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xWkhrX2d2aXpZRDc0ZTljTGRjWWQ1cnlKbjczaEc3UTdZcFF0RVRjeTdBNlhXMXhjVnVfTXM4NF8zN1VlZE9XYzlPeW9LdXpVTDcwdnJNQm1wcUFW?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-d739277a07b3645322a60103268f52a4",
+            "title": "仙台・八木山動物公園の双子ホッキョクグマ「うみ」と「そら」が県外へ引っ越し 豊橋と鹿児島へ別々の旅立ち",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-26T15:50:00+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "仙台・八木山動物公園の双子ホッキョクグマ「うみ」と「そら」が県外へ引っ越し 豊橋と鹿児島へ別々の旅立ち  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBZElKRl9ockREN29RN2lObzltY3FRV0h2Sl8zQ0xHS18zQzRVOU5KZ0NXNm55N3VEU1JlcjI4aDVzMmxQeEUtQzVHbXlsZDJEZWR2ejNETkJnVE5PWjJqRXlDV0FCdUk?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-c476c606410cda2cbbec5eb982c86165",
             "title": "豊橋アグリテック交流会に48名参加、昨年比1.5倍増",
             "source": "Koubo",
@@ -111,80 +177,58 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-2a1ea35b5850d1cc67c53f23d3ccd42f",
-            "title": "【豊橋市】MEGAドン・キホーテ豊橋店の「スパゲッティチャオJr.」が11月23日(月)をもって閉店。",
-            "source": "地域ニュースサイト号外NET",
-            "published_at": "2026-10-26T07:36:31+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "【豊橋市】MEGAドン・キホーテ豊橋店の「スパゲッティチャオJr.」が11月23日(月)をもって閉店。  地域ニュースサイト号外NET",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tenBLdENINUV1UjY4bUtMRUpYSVhYZHdfYTRNUktZdXladDZHbHljNjk0VUp3XzVmNjlidUdqbWFJYnBjSWlUVDlwNGoxOGdBV0FUUDk4WmFRQVdWTE9EeG5SeFNNZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-36e0ed477b155748dc32383989cc63f8",
-            "title": "豊橋駅周辺をまち歩き",
-            "source": "hicbc.com",
-            "published_at": "2026-10-26T10:01:55+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "豊橋駅周辺をまち歩き  hicbc.com",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FY09nY3F5eFZqS1FJQ2xXV2FaMHg2YU9KWm4yeDFWam5oLXUzbV9qWHpOR0JmSWl4cVVCejBsei1WXzVsd2xUTmZycVg2cGNDZEM4YjVuQzB6M3dONFhfZWFRV3Y?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-0c458144b945e90cd3003287deeab05d",
-            "title": "路面電車で特製おでんや生ビール、「走る屋台おでんしゃ」が１１月から愛知・豊橋市で運行…ノンアルコール便も",
-            "source": "ｄメニューニュース",
-            "published_at": "2026-10-26T10:07:00+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "路面電車で特製おでんや生ビール、「走る屋台おでんしゃ」が１１月から愛知・豊橋市で運行…ノンアルコール便も  ｄメニューニュース",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzVkdU9WVTVzSmdFOVhCeVlDMUdDbkVTRDI3S0xJQk0xby10bEZUU3plekRaVThFamZjVUNxMGZkUy1GUDEzRWdxS1Nza1ZJNFF1ejItXzNkSDlzZTJGWExCY0txaGN2RC1tVXlzXzlEN25jU2FNdlh0RnBOXzEzRWIyMHVVb0NhV25nWtIBjAFBVV95cUxPbzVkdU9WVTVzSmdFOVhCeVlDMUdDbkVTRDI3S0xJQk0xby10bEZUU3plekRaVThFamZjVUNxMGZkUy1GUDEzRWdxS1Nza1ZJNFF1ejItXzNkSDlzZTJGWExCY0txaGN2RC1tVXlzXzlEN25jU2FNdlh0RnBOXzEzRWIyMHVVb0NhV25nWg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-53069d715d109db1a3b0f6d28508e082",
-            "title": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
-            "source": "ウォーカープラス",
-            "published_at": "2026-10-26T03:19:20+09:00",
-            "category": "ビジネス",
-            "area": "豊橋",
-            "summary": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbmFBMjZVWTdXMENUUVM5X083Y3QySXVoeHdjWlhpaEhId1l0STRZdG1GLVZkbXpjcmVqYlRSSl9HMWtKMnNKTXRIQnROTXNRd0p0M1AwQW1CUnhWcWZ0dWZQcklBdlhmM2ZvUGFn?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-e1e2234df7ceca173b41c5170bae188d",
-            "title": "豊橋技科大レゴ部など8大学が巨大都市モニュメントづくりへ",
-            "source": "東愛知新聞社",
-            "published_at": "2026-10-26T11:47:32+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "豊橋技科大レゴ部など8大学が巨大都市モニュメントづくりへ  東愛知新聞社",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xWkhrX2d2aXpZRDc0ZTljTGRjWWQ1cnlKbjczaEc3UTdZcFF0RVRjeTdBNlhXMXhjVnVfTXM4NF8zN1VlZE9XYzlPeW9LdXpVTDcwdnJNQm1wcUFW?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ec564dfaaad98bd8136d91397149b407",
-            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
+            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
+            "title": "愛知県の今日のアメダスの記録(10月26日)",
             "source": "tenki.jp",
-            "published_at": "2026-10-25T14:45:45+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-70c936ab0e15922e391d10965e07293e",
-            "title": "愛知県の雨雲レーダー(予報)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-26T16:32:09+09:00",
+            "published_at": "2026-10-26T20:06:46+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
+            "summary": "愛知県の今日のアメダスの記録(10月26日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-792c455d0e6d669333ea2ddebb85cf61",
+            "title": "デジタル化・地方創生調査特別委員会審査状況（令和8年7月22日）",
+            "source": "愛知県公式Webサイト",
+            "published_at": "2026-10-26T17:43:59+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "デジタル化・地方創生調査特別委員会審査状況（令和8年7月22日）  愛知県公式Webサイト",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Vem5OcnpiMW1QSzFpbXhkWDdyWUIxbElKMnF0c1Q4QktILW9mYTVTMkFNNGpYUGNqeVdGOEVTc1BMVWlMdFM2d0pHWDA4QkhaclRpOGpRRF9DUTVvT18xRm1pWVdiLU9aYnhPanVDY0Vrdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-a0fd191ec01dc85287e4c4a184450f5a",
+            "title": "【愛知県】アンダーパスの冠水事故を未然に防ぐ対策強化 「レベル4大雨危険警報」発令で冠水リスク高い20か所を事前通行止め",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-26T21:30:50+09:00",
+            "category": "社会",
+            "area": "愛知",
+            "summary": "【愛知県】アンダーパスの冠水事故を未然に防ぐ対策強化 「レベル4大雨危険警報」発令で冠水リスク高い20か所を事前通行止め  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVk0yQXZlWkV6akM5OHZ4NmNqN1RvelYtZDBCYWtqbkVHbnVIUGdjUEZhU28yaEk3YW9STmtMWGRmWFhaakx4NmFKQ2x4Mmd3alRNeGtqaDZVRU1hZUJZWmtRWVVWNnRzV0VDeGZFNEZ1REJoODJRTXc1anFBN2I3WXI5MFl5dkl0VUxIaGFR?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-3555d2ce659c56503111cdd0bded1a03",
+            "title": "愛知県一宮市の「萩の里特別養護老人ホーム」が市に不正請求 市委託の認知症予防プログラム実施で",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-26T22:00:00+09:00",
+            "category": "市政・行政",
+            "area": "尾張",
+            "summary": "愛知県一宮市の「萩の里特別養護老人ホーム」が市に不正請求 市委託の認知症予防プログラム実施で  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaYW5ETlB0UGJMZFg3bHNQV2h4b0s1N3ZDYzBQSnY4VEd6eTIxSHRWaGlWTzk3MHBYVGNyU01wTVU5S3NtelRPa284a292WkllNnpjbQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ed96029f5a5606d1dde62924923835d5",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-26T18:31:32+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -199,69 +243,14 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-1bfa6201028ea89906886e32007651fe",
-            "title": "【愛知県】アンダーパスの冠水事故を未然に防ぐ対策強化 「レベル4大雨危険警報」発令で冠水リスク高い20か所を事前通行止め",
-            "source": "日テレNEWS NNN",
-            "published_at": "2026-10-26T16:00:00+09:00",
-            "category": "社会",
-            "area": "愛知",
-            "summary": "【愛知県】アンダーパスの冠水事故を未然に防ぐ対策強化 「レベル4大雨危険警報」発令で冠水リスク高い20か所を事前通行止め  日テレNEWS NNN",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMmU5bTdUdUZWU2NRZFdpRTd4T2JOR016R1huSTRZeXQ3OGF5MGxydklyWWFrTUVwZFE3WHdSSzdPeHRxQWpyY0RZa1dMMWN0Y09Cd2R0YmhZNEs5dHRSMlljNjNWVVEzaEN5M2JaczFyV2wwWjFqSFcwSkJScV9wMUVncw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a11e73d85f083ca9e26fd56e6b0a58d1",
-            "title": "第20回アジア競技大会（2026／愛知・名古屋）にご臨場、併せて地方事情をご視察（愛知県）",
-            "source": "宮内庁",
-            "published_at": "2026-10-26T09:05:14+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "第20回アジア競技大会（2026／愛知・名古屋）にご臨場、併せて地方事情をご視察（愛知県）  宮内庁",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbl94STVVS2JfbGlrdjZKeWVaVzVSTUl4UjVkNHd2ZE5RRFdvLTlhMzQ1TjhmWVZRcVBKSkJ2VnNfMjd2eGlBN2FrNW5tZUp6TFJCczhmZTFXVVdKdXBPV0d2Y25ER1Q3aXpwdXRkX0g1Uzhya0hEWnJfbjBNVWowU2I2Y0daSzdjb0RvRDUtRXFPdw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a3daf698abed4a121fdeb78db66174db",
-            "title": "2026年度 AIFA 愛知県U-14クラブカップサッカー選手権 1次リーグ 10/24.25判明分結果更新！入力ありがとうございます！延期分10/31.11/1開催 残り6試合 ２次トーナメント11/3",
-            "source": "Green Card ニュース",
-            "published_at": "2026-10-26T14:48:20+09:00",
-            "category": "観光・イベント",
-            "area": "愛知",
-            "summary": "2026年度 AIFA 愛知県U-14クラブカップサッカー選手権 1次リーグ 10/24.25判明分結果更新！入力ありがとうございます！延期分10/31.11/1開催 残り6試合 ...",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FdzRtUFRLRGFINlBNY2s3ZVN1Q1JVNE85YS03V0hXSmJaYzAyRHdaa2VMcHNqRGhDaEs3a0Q2akpBTjJYZEwtVk5vMFlpREZGNWN3Wno4SkpCZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-6001ad61944039d8976f52c020d3f3e6",
-            "title": "“副首都”専任チームなど設置 愛知県と名古屋市の両トップが合同で会見（中京テレビＮＥＷＳ）",
+            "id": "news-91f430609b4d0119cb704cc84b65ec6d",
+            "title": "【愛知県】10/27の天気予報（FNNプライムオンライン（フジテレビ系））",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-26T16:34:00+09:00",
+            "published_at": "2026-10-26T19:30:49+09:00",
             "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "“副首都”専任チームなど設置 愛知県と名古屋市の両トップが合同で会見（中京テレビＮＥＷＳ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yY3ZDbE4zMmRIS2ZqSHBjSVdRNU5veHc2RkhwR0VDMDJuVzlpdERvU2Vqb3RjVTN4NW5KMkJ4bmlBN3pqb0tzeERvU0hHTjNVMkVpdU9xRDY2VzZQbjZCTmFUbmNhb1FXZERKVDBNSWNHeG5zbHhva1BxamEyRUE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d5385c74915a789af1a1ad320f1b2cb2",
-            "title": "「副首都」指定に向け愛知県と名古屋市が連携強化",
-            "source": "NHKニュース",
-            "published_at": "2026-10-26T16:31:36+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "「副首都」指定に向け愛知県と名古屋市が連携強化  NHKニュース",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IR1hTTnBhdzMxVF9rTUVEM0tRSXJ5OGR6WHJWcHJnVWd4eVdHeEFKcWJvRzlxX3o4Z0xsdnYxbTZCRW80NnR3WEpFY29HSnRHUU9rMl95VzVrU1MyYjhB?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8a45d9eb81e49220b4e51c7b302d7f73",
-            "title": "愛知県小牧市の市民病院の窃盗、看護補助者を不起訴 理由は明かさず。名古屋地検",
-            "source": "中日新聞Web",
-            "published_at": "2026-10-26T17:20:00+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "愛知県小牧市の市民病院の窃盗、看護補助者を不起訴 理由は明かさず。名古屋地検  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtblBIeERWVG9OZnBHNHE3dUtWOEpuVzhBQ251Q2pkSzhpRFhudG4xdjlneHk5d2YzTjF4cGJtYUgwV0V1UmV6azE1MDFBY24xSERUYg?oc=5",
+            "area": "愛知",
+            "summary": "【愛知県】10/27の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83ME50aFJfaWN2VFhhNHhtWExSeFQ0MXBLeVZsQm53T0ozb0dQb3R5OFg1ME55ckNpby1Sd3owQXNpdlAzR250aGhCbThPNGk3SDU3N0U5SkE1MTlZeEhvemZhZUpKSl80SDd6TUUxNTIwbnM4UnBkZ3djcDBLcTg?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -276,37 +265,37 @@
             "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ed96029f5a5606d1dde62924923835d5",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
+            "id": "news-ec8713a36ce078cf795cc33db4e14a64",
+            "title": "東海地方の雨雲レーダー(予報)",
             "source": "tenki.jp",
-            "published_at": "2026-10-26T15:31:31+09:00",
+            "published_at": "2026-10-26T18:30:49+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "東海地方の雨雲レーダー(予報)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vMWZFcWVOajRwV3lncks2c3JrTkl4N1J5VllxRlo4NWhWVkdrajNnUjhUNzBxSzVKeGlKMDJSa05XX1dGTGIwQlp5Xy1ESFU?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-a95dc1eb05675da4db0a0cd991307bc9",
+            "title": "全国有数の養殖ウナギ産地、愛知県西尾市を味わうお供に！ 「三河一色うなぎガイドブック」できました",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-26T21:30:00+09:00",
             "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
+            "area": "三河",
+            "summary": "全国有数の養殖ウナギ産地、愛知県西尾市を味わうお供に！ 「三河一色うなぎガイドブック」できました  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFbGlJalR5TUROVVpNQWg5ZjRwZ0k2dEhjZFN4ZmZHVG1SZktBWHU0ck5zek1uUVFERGM0cWZxVFhZWGZFeHJPNmEwWnh3TF9qcjRJMg?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-bc9136c508421c7763afc9701f8aa3b1",
-            "title": "パスコ、愛知県豊田市と廃棄物の不法投棄現場等の発見に関する実証実験を実施",
-            "source": "日本経済新聞",
-            "published_at": "2026-10-26T11:40:59+09:00",
-            "category": "ビジネス",
-            "area": "三河",
-            "summary": "パスコ、愛知県豊田市と廃棄物の不法投棄現場等の発見に関する実証実験を実施  日本経済新聞",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XY2tUSFV0SFRVdUFSSVpOeGFkSDVndUgwMUNpdXotNHR5aWVndi02LUkxRG1DV1d0R0NVYXY0YlA3aFlYbDVfdjhYeDJxcnp1b3N3WTlGX3dBWE56b0Z4aHh3dnJHN1M2YkZoTQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ef52737642d23141fb750211323c2130",
-            "title": "東海地方 夕方から大雨に注意･警戒を 24時間予想雨量 愛知60ミリ 岐阜50ミリ 三重80ミリ 台風30号は温帯低気圧に",
+            "id": "news-5f8697d2d2fc75c2c3f1fe97ae2aad01",
+            "title": "副首都指定に向け愛知県と名古屋市が体制強化 県は2026年11月に専任チーム設置（テレビ愛知）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-26T12:21:18+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "東海地方 夕方から大雨に注意･警戒を 24時間予想雨量 愛知60ミリ 岐阜50ミリ 三重80ミリ 台風30号は温帯低気圧に  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxWWQwb3FiQTh1UEdYSGlkdXVybzBkNXNyRXdyb3Z4Y2JoWTFtbC1WZjd3WUt4VWFqcVBFTUs3bGlPVkF0LVRTYXlndTRGdzhnTmhpazBLdktVY1o3UWZRX2pXTXY5MzFEUVVkVmtJc1J4MU4tbGxPbmJrSlNqd1U?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "published_at": "2026-10-26T18:57:01+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "副首都指定に向け愛知県と名古屋市が体制強化 県は2026年11月に専任チーム設置（テレビ愛知）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpV2dCRWpjdUpPSlFwWUltTFAxTzVZaVdfb1RoSEZxYkpCVFp3U1hEVG5SVGFkVFphS05zVFNtTFlfaXc1TTh0eDBFTi1iakdJa2M5RHdBSzR6WTRSelhXNHE2d1kzaUtna3pkMDR6UFFRdGtzZWpxczdrLWJTMFE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-b3322312454c2e9ebe852faea879c906",
@@ -320,25 +309,14 @@
             "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-335fe19e07b6e1c2729ec759fbb7fd18",
-            "title": "愛知県の過去のアメダス実況(2026年10月25日)(積雪深)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-26T02:22:08+09:00",
+            "id": "news-8b0dc349123c25ca5b3b0fd2f912b59d",
+            "title": "愛知県長久手市に分園型小規模グループホーム「リアン」整備へ 児童養護施設運営の「名古屋文化福祉会」",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-26T19:45:00+09:00",
             "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の過去のアメダス実況(2026年10月25日)(積雪深)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9haHQ5V3FaQXZ5dFpFYjZRdUtoa3VNNHlKSDNwaHNTRTV6bW5yTjBrdHc3Q1I4MDgxRmVnZzlfbFlEMFFTRkNYcW12Yy1VSTlnN05xeWJNbFpXM2VMa0NST09LelM?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-5f0f9a597eecfd852c4e44a76548df57",
-            "title": "「もりの学舎」秋の年特別企画「ナゾトキの森」を実施します！",
-            "source": "愛知県公式Webサイト",
-            "published_at": "2026-10-26T11:22:12+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "「もりの学舎」秋の年特別企画「ナゾトキの森」を実施します！  愛知県公式Webサイト",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fQ0ltV0V6V2E0eUNyRnRjVUNjaXkxRlRhOHhNMnR6NTdQOHc3dGM5Uzl4TjN0d0pkY3VGRjJ4dU5LUmVFYVJEUThtbjBESHAtejBGZHVTQm9tVkcxSzBBVDk4Zw?oc=5",
+            "area": "名古屋",
+            "summary": "愛知県長久手市に分園型小規模グループホーム「リアン」整備へ 児童養護施設運営の「名古屋文化福祉会」  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Z24yWDRvWk05d29HcEdZSEdwRWVxRnlyNEZYZ3ZaNGNtWEtGTUw0YWFuUjdVd1gxdGUtaUpqYlZFaTJxdk9XVWlEUFFoek1OV054Uw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
