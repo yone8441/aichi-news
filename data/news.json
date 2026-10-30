@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-30T18:50:08+09:00",
+    "last_updated": "2026-10-30T23:55:57+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -78,26 +78,15 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-1f70497073ed9a0e8226e478078cd04a",
-            "title": "豊橋の廃プラ野積み問題 長坂市長「法にのっとり対応」 求めに応じるか明言避ける",
+            "id": "news-8c0819f727e574b5ec7e55aec32e595f",
+            "title": "自治会アンバサダー準備万端 豊橋まつり控え 45人が最後の練習終える",
             "source": "東愛知新聞社",
-            "published_at": "2026-10-30T18:20:41+09:00",
-            "category": "市政・行政",
+            "published_at": "2026-10-30T23:52:55+09:00",
+            "category": "観光・イベント",
             "area": "豊橋",
-            "summary": "豊橋の廃プラ野積み問題 長坂市長「法にのっとり対応」 求めに応じるか明言避ける  東愛知新聞社",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxNUcyblhBOVhxeVI4VlhsUU5LNVNtX3M2VFk5TUZLT0tHc0JQWjJ4QnNDQWhVUVhUbEpWbmp2V2xCQjZYSGQxTVJKU05mSEhpTnk4LVc2bHRucW14?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ec564dfaaad98bd8136d91397149b407",
-            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
-            "source": "tenki.jp",
-            "published_at": "2026-10-30T17:44:16+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "自治会アンバサダー準備万端 豊橋まつり控え 45人が最後の練習終える  東愛知新聞社",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UZnVqVk4wY1huSzZHMjZrN0owQzAzbTdLMXpDcVdYV2h3elBmT3RSeHpvSWpFQWsxUV9jY1JIaHdLTEtDWFhqbFZOMmFLSklSRVdoV3FHSmN1VzM2?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-61c5604615831d5ec0b82e467cf087f9",
@@ -111,6 +100,17 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-584897feba4af57bcab50b28eedadf56",
+            "title": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
+            "source": "tenki.jp",
+            "published_at": "2026-10-29T17:37:53+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2d0N5QnhERmtibVBadUUyS21rMEh3Z2VDNnlVQTZPN19LQjZvV2g5Ykw2ZWVkX3ppbXRLdk1CWUFza0oyZlU4NHhJTmNsaEhsOWxJ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-541badd96d42636ce25d3eb09f070275",
             "title": "豊橋市【豊橋の未来を変える、その一歩を西駅から！】先週、そして今週と、私が事務局長を務める「豊...",
             "source": "選挙ドットコム",
@@ -120,17 +120,6 @@
             "summary": "豊橋市【豊橋の未来を変える、その一歩を西駅から！】先週、そして今週と、私が事務局長を務める「豊...  選挙ドットコム",
             "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YaWgwR1BMZXVRek90M2RwdjF3NENHYUdtRWVIRUdGTXFoaldBN0VoR29ERENwVjdoWG03WXlib1FydF9LRG1YWUVESjVTV25SRjVfZlpnc010djRZb1Y4?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8d4f8971bcafb74b9eaa3fa5ad23d100",
-            "title": "「亜種アカモズ」産卵確認 絶滅危惧種、飼育下で初…「のんほいパーク」などの研究グループ ：地域ニュース",
-            "source": "読売新聞",
-            "published_at": "2026-10-30T11:20:00+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "「亜種アカモズ」産卵確認 絶滅危惧種、飼育下で初…「のんほいパーク」などの研究グループ ：地域ニュース  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12aWhES1dmZmJ4QUJRelotWElVQkVmUU12OUplWmctQUUtU2V3dTFCaGNBcktvSDZHMnprWjdPOHkydlJBSFl6bzlGaGRUaFREZy04UzN5NlhUQkNFTzFmTmNSbERaVWoza094bjNEdlg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-c5a5d3526185490a4508161b0de7672a",
@@ -144,15 +133,15 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-924b956ddbce6f6065187e644122572e",
-            "title": "【愛知】2026年10月31日・11月1日週末開催の無料イベント10選 秋祭り＆ハロウィン満喫",
-            "source": "いこーよニュース",
-            "published_at": "2026-10-30T06:20:44+09:00",
-            "category": "観光・イベント",
+            "id": "news-53069d715d109db1a3b0f6d28508e082",
+            "title": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
+            "source": "ウォーカープラス",
+            "published_at": "2026-10-30T06:27:25+09:00",
+            "category": "ビジネス",
             "area": "豊橋",
-            "summary": "【愛知】2026年10月31日・11月1日週末開催の無料イベント10選 秋祭り＆ハロウィン満喫  いこーよニュース",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuenBIUUt6ZDAzMVZzR3NkNTdMMS15WXg0TTlxQ0hvMWdEYng4YjJ6WkFTRnFLNU9VTmJoTzNFVjlfbGQxVnBrWC1BS2JoUzM5NXc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+            "summary": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbmFBMjZVWTdXMENUUVM5X083Y3QySXVoeHdjWlhpaEhId1l0STRZdG1GLVZkbXpjcmVqYlRSSl9HMWtKMnNKTXRIQnROTXNRd0p0M1AwQW1CUnhWcWZ0dWZQcklBdlhmM2ZvUGFn?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-d9dc384992388f99af7d86b444e8aec1",
@@ -166,36 +155,58 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-8c0819f727e574b5ec7e55aec32e595f",
-            "title": "自治会アンバサダー準備万端 豊橋まつり控え 45人が最後の練習終える",
-            "source": "東愛知新聞社",
-            "published_at": "2026-10-30T17:53:49+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "自治会アンバサダー準備万端 豊橋まつり控え 45人が最後の練習終える  東愛知新聞社",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UZnVqVk4wY1huSzZHMjZrN0owQzAzbTdLMXpDcVdYV2h3elBmT3RSeHpvSWpFQWsxUV9jY1JIaHdLTEtDWFhqbFZOMmFLSklSRVdoV3FHSmN1VzM2?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-19522e00a1a15e72d9e6a09592b07e07",
+            "id": "news-43e311f03d0c28c31ae0220dea9a9ade",
             "title": "「人間味あふれる」人材を送り出す 豊橋創造大創立30周年、伊藤学長に聞く",
-            "source": "47NEWS",
+            "source": "中日新聞Web",
             "published_at": "2026-10-30T05:05:00+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "「人間味あふれる」人材を送り出す 豊橋創造大創立30周年、伊藤学長に聞く  47NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xcDRaeVh0WG9nV2JyTFZZdjcxVVZLVkNucUhHR29QaWd2c1VubTNzTDcwQnJrLUZybnhHNV9Ca0o5aENhMk4yXzI3cw?oc=5",
+            "summary": "「人間味あふれる」人材を送り出す 豊橋創造大創立30周年、伊藤学長に聞く  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzcWxJcWNNOE12eVRGaEVNVmJvRlEydmQ3eVlZNC1SN283bVRBclZZb2dOdnd0Ym8xMW82VE9hZkgwUkoza0F1dG1ubV9JTlNvZU5lYw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-70c936ab0e15922e391d10965e07293e",
-            "title": "愛知県の雨雲レーダー(予報)",
+            "id": "news-924b956ddbce6f6065187e644122572e",
+            "title": "【愛知】2026年10月31日・11月1日週末開催の無料イベント10選 秋祭り＆ハロウィン満喫",
+            "source": "いこーよニュース",
+            "published_at": "2026-10-30T06:20:44+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "【愛知】2026年10月31日・11月1日週末開催の無料イベント10選 秋祭り＆ハロウィン満喫  いこーよニュース",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuenBIUUt6ZDAzMVZzR3NkNTdMMS15WXg0TTlxQ0hvMWdEYng4YjJ6WkFTRnFLNU9VTmJoTzNFVjlfbGQxVnBrWC1BS2JoUzM5NXc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-6782445a73e4fa42bb8eca6936992ca3",
+            "title": "＼＼消防車や救急車が大集合☆推しマッチョ消防士バトルも／／体験づくしの１日が楽しめる「豊橋消防フェスタ」を開催します【秋の火災予防週間】",
+            "source": "PR TIMES",
+            "published_at": "2026-10-30T17:21:57+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "＼＼消防車や救急車が大集合☆推しマッチョ消防士バトルも／／体験づくしの１日が楽しめる「豊橋消防フェスタ」を開催します【秋の火災予防週間】  PR TIMES",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlS283ME96UC1NQldNOWJ5eTdBZkFOZzdrNEFFRmM2anpTTTRDZllhdTJiV2dVUWlnLXQwaXExYXJ3Q2xQTlRTcnk5ZlpjRGkwODhLX0tCSU1mU055b0lTU0NfaE5Uak9tSEE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
+            "title": "愛知県の今日のアメダスの記録(10月30日)",
             "source": "tenki.jp",
-            "published_at": "2026-10-30T16:59:22+09:00",
+            "published_at": "2026-10-30T18:46:41+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
+            "summary": "愛知県の今日のアメダスの記録(10月30日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-8a9967de81dc73ac155a28a24da70de8",
+            "title": "自動車盗難ワースト1位は愛知県、被害ダントツは「ランクル」…なぜトヨタ車ばかり狙われる？窃盗犯の傾向をジャーナリストが解説（ABEMA TIMES）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-30T21:33:16+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "自動車盗難ワースト1位は愛知県、被害ダントツは「ランクル」…なぜトヨタ車ばかり狙われる？窃盗犯の傾向をジャーナリストが解説（ABEMA TIMES）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uUFBsZUhySE1YbFNKRTh4UUdfS250SVhqR1ZFNldKMTFIcFZBT192SHpTNjdOTnkwWkNOUXFZTzBBZzVwX3M4d2JsN3lCQ254SHJPSVBJX3BMdHdCaDRxX0NXaUM4Qm05azJLRWRzampJLWlkV3pWUVlnakpMOVE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -210,28 +221,6 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-70e4a3a36976c6d19b13f64d563aa2e7",
-            "title": "工事中に土砂に埋もれ2人死亡 重機で誤って水道管を破損し水止めようと地中に入ったか 愛知・安城市",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-10-30T11:58:52+09:00",
-            "category": "一般ニュース",
-            "area": "三河",
-            "summary": "工事中に土砂に埋もれ2人死亡 重機で誤って水道管を破損し水止めようと地中に入ったか 愛知・安城市  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rODg5SjRGZHd2SzVPR0ZKdEQ2WHZfdE5rZFh6U3Nua0hXX2NfaHVkWHRIZDB0NDZpVU5NNThtV3NvQWIyZmFseHhHOWxGdXY2N1BKWDgzWQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-7590f782c13a1b98fb90cd25af33870c",
-            "title": "死亡の２人は親子 工場現場で作業員が土砂に生き埋め 愛知・安城市（中京テレビＮＥＷＳ）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-30T06:48:00+09:00",
-            "category": "ビジネス",
-            "area": "三河",
-            "summary": "死亡の２人は親子 工場現場で作業員が土砂に生き埋め 愛知・安城市（中京テレビＮＥＷＳ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IdlB2aVgzcEhjRTJUTFBIY2hDaUdpSzlrYUtqXzkzOUxLUG5qd1dBYm9kSi1VZi01MWhyWUd1UUxyMUlVTWZiQU41LTJhRkNxRHlkbzltNVFzXzhKQ3J0cVJJaWFzUGZBdXRPQjZfaHllRG5FM2Zzc3VsMDFDRW8?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-a7bfd05bd16cb0f837e39b4033b315fb",
             "title": "愛知県安城市の水道管工事現場事故、死亡した2人は親子 身元判明",
             "source": "中日新聞Web",
@@ -243,26 +232,26 @@
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-2b4210b8a565749e6617d16aa71e74c0",
-            "title": "愛知県一宮市 市職員が勤務中に公用車で自宅や商業施設へ「暑さなどもあり休憩していた」…計９７１時間、懲戒免職処分",
-            "source": "読売新聞",
-            "published_at": "2026-10-30T16:10:00+09:00",
+            "id": "news-1c637ad21e8959e8d44f5f6c36b74ce9",
+            "title": "「副首都」関連法 30日施行 愛知県態勢強化し検討",
+            "source": "NHKニュース",
+            "published_at": "2026-10-30T20:18:33+09:00",
             "category": "市政・行政",
-            "area": "尾張",
-            "summary": "愛知県一宮市 市職員が勤務中に公用車で自宅や商業施設へ「暑さなどもあり休憩していた」…計９７１時間、懲戒免職処分  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaNk01TEFhR2ZhXzNpUU56RGI2TjFWSEJBOG1IOUR1bXVDX3puVHE5Y2steENiLTF5aDZKWTl6dHlFSzBmaVAwOU5UUHdMS28xNlA5MEhodGRkR3N1bTdrVG56dldqQQ?oc=5",
+            "area": "愛知",
+            "summary": "「副首都」関連法 30日施行 愛知県態勢強化し検討  NHKニュース",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55OHgxOHV0enMxZHpfSk1VWElNc0tqMF9oWkVTYzRON3RJdjFOdWRaMlBrT2N4VWxoeEwxeWQ4cXNXbXBEdHZ1eUYwWmxFeHI0cEJ4eXBmaFFhejNkNmhZ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-59790505b372c17d36b4c555752472cc",
-            "title": "水道管工事現場で2人死亡 水と土砂に埋もれたか 愛知 安城",
-            "source": "NHKニュース",
-            "published_at": "2026-10-30T15:09:07+09:00",
-            "category": "一般ニュース",
-            "area": "三河",
-            "summary": "水道管工事現場で2人死亡 水と土砂に埋もれたか 愛知 安城  NHKニュース",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1adGx2eWJWU3hoLWJzd1pzRmpiTEF2SGNxNHlLVEl2UGRxb3FVMndBejBwN0hKQ1ZoOUVUUWxRdlIzZFBYNkZvTG1JWHRjSThEbHZmZWNBZzY0UGtod2Rv?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "id": "news-b6109398fd95b55a3812db5669c66985",
+            "title": "【2027年度・愛知県私立中学校入試】各学校の募集要項を発表 「椙山」80人増、「金城」40人減、募集人員は全体で62人増の3432人に（2026年10月30日掲載）",
+            "source": "日テレNEWS NNN",
+            "published_at": "2026-10-30T19:03:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【2027年度・愛知県私立中学校入試】各学校の募集要項を発表 「椙山」80人増、「金城」40人減、募集人員は全体で62人増の3432人に（2026年10月30日掲載）  日テレNE...",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rU3g3XzBScFRSemh2aUlsOGEzeGtjV1EzazhzaElhMjJaR1AwcVJISkVnUW96TkZYM1dJVS1POHFXWTVxUE9ubEl5MjRIQUcwLUVmeEtOb2p3cS1LZWFzTzNUTDBVS0dFRXA1OHdkUWF2X3RqQTFNUEV3YzhhdjQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-d627c4f35682a6a2d734cfb68a3e0751",
@@ -276,25 +265,14 @@
             "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-7590a3d28dcbea49420b73db3d1d62f3",
-            "title": "朝鮮学校、利用実態ない校舎で年間70万円の補助金受給 交付の愛知県瀬戸市「想定せず」",
-            "source": "産経ニュース",
-            "published_at": "2026-10-30T06:30:00+09:00",
+            "id": "news-ed96029f5a5606d1dde62924923835d5",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-30T21:31:35+09:00",
             "category": "市政・行政",
-            "area": "尾張",
-            "summary": "朝鮮学校、利用実態ない校舎で年間70万円の補助金受給 交付の愛知県瀬戸市「想定せず」  産経ニュース",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Ba2ZQOTRlT01nanFzbmFwTTZra0NyM1kwZFFkVTR3d0N0X3BMWHpnUXZfamJ2NllWOUJDeXV2MDRpZTNLMTl3VHA2YXNVMGxUb3NpVzFsb2dWZVdON01hT2REMzIybG9Ocm1oVGgtOWJUSVl2cEE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-463b58348ea7aa6f2cfd404a45c7ea20",
-            "title": "アジア初「METZELERギャラリー」開設 ピレリジャパン 愛知県しゃぼん玉本店に",
-            "source": "オートバイ流通新聞",
-            "published_at": "2026-10-30T17:44:10+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "アジア初「METZELERギャラリー」開設 ピレリジャパン 愛知県しゃぼん玉本店に  オートバイ流通新聞",
-            "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQc2cxckpueDVHY20tTUdtaF9NVjU2cTZBSkV1ZHFVR0FGTTNDSUdnYUsxMDRjcDBUSzdXMFB2VUdDZV9TVjJDNm5jUVNhaEhMX3NrV1NlTW9sUFpYYzRmMk0yVW0zWGJpWEJ6TlM5dUVRZkU1TEwzS2pNeDlLbGZLVC1sQ1p5SDlpLVAzN1FqSTlic0lJZ09rS3dxSnlRTGFZbUNjYjJkc0t4REpFTHVaRmtxRHN1dEdXU3hwclJ3VG9TX20zVFhUUlNUQXVlZFpNcDVMQ2JBdHJxcHN4NER1dDhQQzFvTDdRUW4teWpzZm9CaFlUa21XaUplRC1DNEN2b3RDdGJ6MmRZN1k3NTFJZHlSdHczdDVGMHRaak5hZ0ZZcktpcDZQeDk1VXRQbDY2b2lxTGdRWUlMcElJN3pUaHJENFk0b00?oc=5",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -309,37 +287,59 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-e7116200f7fd3f6eab01fd46250d3b41",
-            "title": "土砂に埋もれ親子死亡 直前に誤って水道管破損させ…水を止めようと地中に入ったか 愛知･安城市の工事現場（CBCテレビ）",
+            "id": "news-91bfb886a1686779019aa5841d328c02",
+            "title": "【愛知県】10/31の天気予報（FNNプライムオンライン（フジテレビ系））",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-10-30T11:32:12+09:00",
-            "category": "一般ニュース",
-            "area": "三河",
-            "summary": "土砂に埋もれ親子死亡 直前に誤って水道管破損させ…水を止めようと地中に入ったか 愛知･安城市の工事現場（CBCテレビ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yMjZnUExtaHFKd2xLVGtKa1RIaXlubDByNW5udVYzYk9GSjItOUpjak0zcjgxaGNiSS1WUXBXUlBRellaQWlmbWY1MExic3VEc0swRWRMRW9iQkNSWG0tcEhPd3FqNkdRTlB4eXlJMC02ajVKdXNCdHBoVlkzMkE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ed96029f5a5606d1dde62924923835d5",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-30T15:31:33+09:00",
+            "published_at": "2026-10-30T19:31:03+09:00",
             "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYWxyRlBQRTNxaDNFT1doMm1OVmRBSEpEdklpOHFFWHk0Zi1iTWkxc0ZoZ080OUYtbktLamcxSkxWbVpRRWVnWUpfNTZKNGh0eDUxd3dFNlVId0V0S0E?oc=5",
+            "area": "愛知",
+            "summary": "【愛知県】10/31の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wNmlQYmxfUkIxNHdsRmNUQ2IwV1RkZVpEaHpSUUEtMGw3MzZrc3VyeTBPNnRQS0NFdXhLV0xTZHloTklreVUzSEFDUzJiUlZwOW9sOGpTRDl5Wktrb1dTbGF3M2VjeEo0bkt4ZXZXZHdnbF9zbmI3dnR3MVlleWM?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-621a1512368f55c8d8fea1fbd207d4b3",
-            "title": "「同僚が工事現場で生き埋めに」 51歳と23歳親子が死亡 愛知",
-            "source": "産経ニュース",
-            "published_at": "2026-10-30T11:24:28+09:00",
-            "category": "一般ニュース",
+            "id": "news-9b6de4cf83cb424ac139f7923b7c1b23",
+            "title": "大腸がん治療の服薬に新手法、従来より副作用少なく 愛知県がんセンターの研究グループが英医学誌に発表",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-30T18:57:05+09:00",
+            "category": "市政・行政",
             "area": "愛知",
-            "summary": "「同僚が工事現場で生き埋めに」 51歳と23歳親子が死亡 愛知  産経ニュース",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tdDVPYUo4XzkweEExVGszdlJaUFRoc0VRMktKOG5YTTlrZGRNZnpMS3JJenpDN0FjV0tIeGlXYVpEdk1QZ2FodnJTT3BvS0NRTDhjZFdnRlI4eC1xLWlEUjE3WW1VWWVQdXpHZUNYd2ZkdUJJSUE?oc=5",
+            "summary": "大腸がん治療の服薬に新手法、従来より副作用少なく 愛知県がんセンターの研究グループが英医学誌に発表  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aQ3lFb240XzU2bm1EZnZ6THVWN18wdnFXWWQyRFI3YjRnR3p4eWMtZXFVQkY4c0RlSzJPVFoxV2VFNWJxV05ReEJtSkdPUUR6dHBXT2VUc1RYS0dYWi1md3pR?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-c2650d3853d2e1eb0a2a622d906cbdce",
+            "title": "深さ3ｍの穴の中で“生き埋め” 水道管が破損か 作業員の親子死亡 愛知・安城市",
+            "source": "日テレNEWS NNN",
+            "published_at": "2026-10-30T19:01:00+09:00",
+            "category": "一般ニュース",
+            "area": "三河",
+            "summary": "深さ3ｍの穴の中で“生き埋め” 水道管が破損か 作業員の親子死亡 愛知・安城市  日テレNEWS NNN",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOakRxOUlTM1VsQWJ3U3JVY095eV9rODJSNXd4UE5hYzlFUEIzbmlwb3g1Q1Z6b2pUeVg0ZnRXdk02MlZkcEl4c2U2RjI3Y0RFbWI5d0NRT0dEY1Q1RWJ1aXJNVjI4eG9yeG1JUmdRbUc3NGJOMnM2cmtfNlkzM1VFaTVJNFd1UnM?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f59510f53196e9b8c908d2966e023805",
+            "title": "「笑顔が地域を元気にする」実証実験を行います 株式会社R-pro×名古屋ダイヤモンドドルフィンズ ～Smile Economy PROJECT",
+            "source": "愛知県",
+            "published_at": "2026-10-30T11:26:28+09:00",
+            "category": "ビジネス",
+            "area": "名古屋",
+            "summary": "「笑顔が地域を元気にする」実証実験を行います 株式会社R-pro×名古屋ダイヤモンドドルフィンズ ～Smile Economy PROJECT  愛知県",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFZILVVET1BkX0ZTQVphQ2xndmU0UjBHeW4tTVM3NEVfRmtvZzBFa0FLQVdqRFdIeXJtZkc5bFlsTVNOTFpib3RZMVhGcWQxTm9hQ3VGc0lQdUxPRElkdmdWTU85N2FUWDU4UnRRZDltTUo1ajA4dzlpbjd6RFNGVg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ca64c8c060a87a8cc94e48f1b86f4b4f",
+            "title": "愛知県の過去の天気(アメダス・気温・2026年10月)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-30T15:31:32+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の過去の天気(アメダス・気温・2026年10月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yM2pac3JsQmdjcXotazh5TXRiY0RYelRMMGF3eGFIbEVnVlVBM1RCdUhiWUlRMkJPakQxVFpBZm9vUnRJWGNEdVV4SmtNbzVwbGozWg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
