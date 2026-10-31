@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-31T18:28:55+09:00",
+    "last_updated": "2026-10-31T23:24:55+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,7 +9,7 @@
         "temp_min": 12,
         "rain_prob": "10%"
     },
-    "total_count": 30,
+    "total_count": 29,
     "articles": [
         {
             "id": "toyohashi-city-5b3a04a364fe7a7e690240591191714b",
@@ -78,6 +78,17 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-a28100d16b58facde15067f6a09f8bb4",
+            "title": "愛知で交通事故相次ぎ2人死亡 豊橋市・豊田市（中京テレビＮＥＷＳ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-31T17:51:00+09:00",
+            "category": "社会",
+            "area": "豊橋",
+            "summary": "愛知で交通事故相次ぎ2人死亡 豊橋市・豊田市（中京テレビＮＥＷＳ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwYUtpWjFwWVMwRG1TYUFielJRcXNzU0RLX2hVNkNXaEN2a0xYcnFYUXpCSUh0Vy03NjFkNFJINDRBM2hlbDZxNkFfa01JNF9iRzdpa0R3TFA2LTAtZjNwemNiSjRPb0dMZXFwQjhOZGgxaTUtYmZWMlcxU0tjZHc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-584897feba4af57bcab50b28eedadf56",
             "title": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
             "source": "tenki.jp",
@@ -86,17 +97,6 @@
             "area": "豊橋",
             "summary": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】  tenki.jp",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2d0N5QnhERmtibVBadUUyS21rMEh3Z2VDNnlVQTZPN19LQjZvV2g5Ykw2ZWVkX3ppbXRLdk1CWUFza0oyZlU4NHhJTmNsaEhsOWxJ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8c0819f727e574b5ec7e55aec32e595f",
-            "title": "自治会アンバサダー準備万端 豊橋まつり控え 45人が最後の練習終える",
-            "source": "東愛知新聞",
-            "published_at": "2026-10-31T18:04:46+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "自治会アンバサダー準備万端 豊橋まつり控え 45人が最後の練習終える  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UZnVqVk4wY1huSzZHMjZrN0owQzAzbTdLMXpDcVdYV2h3elBmT3RSeHpvSWpFQWsxUV9jY1JIaHdLTEtDWFhqbFZOMmFLSklSRVdoV3FHSmN1VzM2?oc=5",
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -109,6 +109,17 @@
             "summary": "【豊橋市】国民的キャラクターとして長年愛されている「しまじろう」。実は、生みの親は豊橋市出身でした。  地域ニュースサイト号外NET",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WdFNBZ1pxMDlwcG9CbXdpMTFWR3ZzUDFIazNWVkFDVllRcEhKV3RwVjN4LXhUYjhZQmpuRndkdWlFMmJRMG54eDBaN2FlZ25EQWRfQ0N5dFhnZkdDTDVfaVVxbk14R1B0U1E?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ad1e8f472e53d1cdf212820627e31381",
+            "title": "とよはしワイナリー・チロル岩瀬代表が講演 佐野妙さんイラストのラベル「次郎柿ワイン」来春発売へ",
+            "source": "東愛知新聞",
+            "published_at": "2026-10-31T20:11:11+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "とよはしワイナリー・チロル岩瀬代表が講演 佐野妙さんイラストのラベル「次郎柿ワイン」来春発売へ  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aQm1OMmVHM25OZW92M2w1bzV4SWRIaERTYnJqYjNLbWFOU1FLczByc242Z3ZlcUViZVV4TXRIV2lwZ3M3c0VoM0hMMzZCWGNMNUpiMjJtd0VqVTlV?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-fbea234290325675cd91fbf90aaa02a9",
@@ -133,39 +144,6 @@
             "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-572ded1d58e16f468539e2a0d43f9866",
-            "title": "豊橋技科大開学50周年記念式典（東愛知新聞）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-31T08:03:51+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "豊橋技科大開学50周年記念式典（東愛知新聞）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZYjdlUTJtblhRQ3hPblpqeWNMSzlqSlJoZGdqam1FNEl4WGpjSzRtdzdWdmZQRUVaeDBRMW1wVkpMdnVONy15NV9vWWpqbFctZ2FLRGxvcm82UWptd0JIX3NKalQ1WjEyQWk0SjBIUng4eFJiZWxneFROZ3FKbUE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-96e9d34341710b3168376334b7009cad",
-            "title": "愛知で交通事故相次ぎ2人死亡 豊橋市・豊田市",
-            "source": "au Webポータル",
-            "published_at": "2026-10-31T17:52:39+09:00",
-            "category": "社会",
-            "area": "豊橋",
-            "summary": "愛知で交通事故相次ぎ2人死亡 豊橋市・豊田市  au Webポータル",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13dnIxaUxnY01Xa3FNWGpsNWRPUUVwYmJmMGh6cEVFYlJWSnBITk1JaUFqX0ZTcHVvSmJTR3ptRmxrS2QwbDZHa2taM3owX0NWeHBnY2NkRGtjNWJwb1ZJZGhGaVJ4OFBVUjNlakFB?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d9dc384992388f99af7d86b444e8aec1",
-            "title": "卓球男子シングルス 愛知･豊橋市出身の八木克勝選手が奮闘 銀メダル獲得【アジアパラ大会】",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-10-29T19:13:00+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "卓球男子シングルス 愛知･豊橋市出身の八木克勝選手が奮闘 銀メダル獲得【アジアパラ大会】  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NZDNIM2Racmtjc1gwVTcxWmVGY0VMdWlQb3RYWUZsY1l5X011eFVMZWdmOFpoN2lvYlc5RGZFMnFzWjIzQjlPYVVGb2Z4YWxwUHNqQmNETG5zNW9sdW9R?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-541badd96d42636ce25d3eb09f070275",
             "title": "豊橋市【豊橋の未来を変える、その一歩を西駅から！】先週、そして今週と、私が事務局長を務める「豊...",
             "source": "選挙ドットコム",
@@ -177,14 +155,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ad1e8f472e53d1cdf212820627e31381",
-            "title": "とよはしワイナリー・チロル岩瀬代表が講演 佐野妙さんイラストのラベル「次郎柿ワイン」来春発売へ",
-            "source": "東愛知新聞",
-            "published_at": "2026-10-31T14:11:11+09:00",
+            "id": "news-9c4750b618072deb4fb0fddf9a2cbcd1",
+            "title": "豊橋市に初出店！男性延べ来店者数は約５倍※4に増加 アデランスが全国に展開する眉毛専門店 「ビューステージ アイブロウサロン 豊橋」 10月29日（木）オープン",
+            "source": "美ST ONLINE",
+            "published_at": "2026-10-30T21:58:04+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "豊橋市に初出店！男性延べ来店者数は約５倍※4に増加 アデランスが全国に展開する眉毛専門店 「ビューステージ アイブロウサロン 豊橋」 10月29日（木）オープン  美ST ONLI...",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlVTFkVXRveHQwb0FoZ3o5MFFnblpFMzNRb1ZiVlp4Qk4teXZobXVVU3FTelVINzJpOGxEaTlDSzNmWTE5Y3M0bmFzaw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-572ded1d58e16f468539e2a0d43f9866",
+            "title": "豊橋技科大開学50周年記念式典（東愛知新聞）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-31T08:03:51+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "とよはしワイナリー・チロル岩瀬代表が講演 佐野妙さんイラストのラベル「次郎柿ワイン」来春発売へ  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aQm1OMmVHM25OZW92M2w1bzV4SWRIaERTYnJqYjNLbWFOU1FLczByc242Z3ZlcUViZVV4TXRIV2lwZ3M3c0VoM0hMMzZCWGNMNUpiMjJtd0VqVTlV?oc=5",
+            "summary": "豊橋技科大開学50周年記念式典（東愛知新聞）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZYjdlUTJtblhRQ3hPblpqeWNMSzlqSlJoZGdqam1FNEl4WGpjSzRtdzdWdmZQRUVaeDBRMW1wVkpMdnVONy15NV9vWWpqbFctZ2FLRGxvcm82UWptd0JIX3NKalQ1WjEyQWk0SjBIUng4eFJiZWxneFROZ3FKbUE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -199,10 +188,98 @@
             "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
+            "title": "愛知県の今日のアメダスの記録(10月31日)",
+            "source": "tenki.jp",
+            "published_at": "2026-10-31T17:31:47+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の今日のアメダスの記録(10月31日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-5a7bcf3307208a89ff0f31bd14aaaef7",
+            "title": "来年の愛知県知事選 減税日本から野口昌一路さん(44)が正式に出馬表明 「稼げる愛知」を目指す",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-31T22:17:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "来年の愛知県知事選 減税日本から野口昌一路さん(44)が正式に出馬表明 「稼げる愛知」を目指す  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqU1lDN09HbGw1N2VFb3pXdFFwaUYxY2szeWJwUWVrNkNfeEh3RWpRUnFIQWE0WXJtclp4cEJkb2E1cVZBWkNBb0E4SWJKOXd2Y3RZbllmNy00QQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-3c3f75f5c5f5c8be9111c988dcfca35d",
+            "title": "愛知知事選、減税日本から野口氏が出馬 「県民税5%ダウンを実行」",
+            "source": "日本経済新聞",
+            "published_at": "2026-10-31T18:22:56+09:00",
+            "category": "ビジネス",
+            "area": "愛知",
+            "summary": "愛知知事選、減税日本から野口氏が出馬 「県民税5%ダウンを実行」  日本経済新聞",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wVk5FWVgxeVRlNmIwS0lPWlB2Vmhac0tlUTVpX3hrLUlmSDNqUXdBS2E0LVpnem1nb2NvUjk5REMtemp4a3JsbVNDdVJjTGhfVlN4ZGFqUUlFcjZOOUFfY1A0ak53Y3FoeDNpWA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-327e6f54fe6d9106bcdd41453ae3babf",
+            "title": "【全国高校ラグビー愛知県大会】3回戦 中部大春日丘や名古屋など順当に勝ち上がる “県内屈指の進学校”旭丘も勝利しベスト8進出（CBCテレビ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-31T21:00:33+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "【全国高校ラグビー愛知県大会】3回戦 中部大春日丘や名古屋など順当に勝ち上がる “県内屈指の進学校”旭丘も勝利しベスト8進出（CBCテレビ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zaWFna0RraFM1bVFZbWNvcHhTUjl3aW9ad1hYQzlXZHdsZ3ZYekZaM3Y1WS00VXpsUmVXWEluZkZZSHNnY3hfbG5SeXFheTlfWlQ1N2Fwc3I2ZzV1MndXUVVQdjZveC1CRV9SNHRHSk00bVBpWEl5WFJHMEUtUGM?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-32701ba2eb5480464aa8bb5977b9c68a",
+            "title": "愛知県の大学生が鯖江のクマ対策に協力 福井",
+            "source": "NHKニュース",
+            "published_at": "2026-10-31T18:53:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の大学生が鯖江のクマ対策に協力 福井  NHKニュース",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05VkpURkZjVmljV3BZeXJYR3lMZWdvQmRVYXJNcmhwdWhMcDhJZHFMNGtmbUIxdGljQUU3c3dfZE9kczJfTHotaUpackFOSjJBMzlrdkNsQlpDR3lqOFg4?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-89380176bc21723d8ea288d476ad8cc4",
+            "title": "【動画】愛知県知事選挙 減税日本の野口昌一路さんが出馬正式表明",
+            "source": "中日新聞Web",
+            "published_at": "2026-10-31T17:47:41+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【動画】愛知県知事選挙 減税日本の野口昌一路さんが出馬正式表明  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5b3d0UFdZaV9zLWRVUmFUMkZJbVRVb1JsNUVOaWNfcmprRXE4cG5TQzAxSG40QW9Nc3RUajdjeE1IZE5kVGZtT2FRX3BvdTZVWWMyNA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-fc66a99fb995f683d741d578ee6d5f7f",
+            "title": "名古屋市東区の殺人未遂事件、逃げていた男を逮捕 姉を刺した疑い [愛知県]",
+            "source": "朝日新聞",
+            "published_at": "2026-10-31T13:15:00+09:00",
+            "category": "社会",
+            "area": "名古屋",
+            "summary": "名古屋市東区の殺人未遂事件、逃げていた男を逮捕 姉を刺した疑い [愛知県]  朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBERU42eDZhM3J2NWxIdnR6SzJNUjd3MVFmd2RWMDZWZHhOLVN3MVR2NFhwc2JoQUxsZm85eVVqcFhuVVNtcTFwZVc5Nnp3NFhrY3IzMjN0ZHZlRU9DcEZTV255UFpmOVk?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-75c7519d85cfa27388f0a915d649fb06",
+            "title": "「多文化共生」の認知度39.7% 愛知県調査",
+            "source": "東愛知新聞",
+            "published_at": "2026-10-31T12:03:59+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "「多文化共生」の認知度39.7% 愛知県調査  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EVVR4cnlISzhRN0RmX2ZRWnpEVXk2MUZZTU94TFkybjcxaEpPdXZ3eXQxeGJVOFE5NXhqLTBwNXBBVXV1RzBFUFZOS0pQLWJhZU5lcU82eFJUT20t?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-ed96029f5a5606d1dde62924923835d5",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)",
             "source": "tenki.jp",
-            "published_at": "2026-10-31T15:31:30+09:00",
+            "published_at": "2026-10-31T18:31:31+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
@@ -221,28 +298,6 @@
             "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-75c7519d85cfa27388f0a915d649fb06",
-            "title": "「多文化共生」の認知度39.7% 愛知県調査",
-            "source": "東愛知新聞",
-            "published_at": "2026-10-31T12:03:59+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "「多文化共生」の認知度39.7% 愛知県調査  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EVVR4cnlISzhRN0RmX2ZRWnpEVXk2MUZZTU94TFkybjcxaEpPdXZ3eXQxeGJVOFE5NXhqLTBwNXBBVXV1RzBFUFZOS0pQLWJhZU5lcU82eFJUT20t?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-fc66a99fb995f683d741d578ee6d5f7f",
-            "title": "名古屋市東区の殺人未遂事件、逃げていた男を逮捕 姉を刺した疑い [愛知県]",
-            "source": "朝日新聞",
-            "published_at": "2026-10-31T13:15:00+09:00",
-            "category": "社会",
-            "area": "名古屋",
-            "summary": "名古屋市東区の殺人未遂事件、逃げていた男を逮捕 姉を刺した疑い [愛知県]  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBERU42eDZhM3J2NWxIdnR6SzJNUjd3MVFmd2RWMDZWZHhOLVN3MVR2NFhwc2JoQUxsZm85eVVqcFhuVVNtcTFwZVc5Nnp3NFhrY3IzMjN0ZHZlRU9DcEZTV255UFpmOVk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-a51dfe346ead298190f88439c1c54583",
             "title": "愛知県知事選に減税日本から野口氏が立候補を表明",
             "source": "NHKニュース",
@@ -254,91 +309,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-63af820542e12c072ad8aea311649525",
-            "title": "「１０月から３月はお休み」だった三河湾の小さな島、名物「ふぐ」３０年で利用者６倍に…名鉄が冬のにぎわい演出",
-            "source": "読売新聞",
-            "published_at": "2026-10-31T13:56:00+09:00",
-            "category": "暮らし・交通",
-            "area": "三河",
-            "summary": "「１０月から３月はお休み」だった三河湾の小さな島、名物「ふぐ」３０年で利用者６倍に…名鉄が冬のにぎわい演出  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZWDV4SXFBcUo4M3d3dE5ZQnUxd1k2aXhCNGhlQVpJNmdqdWh0NEEyLXpzY0xiTWN3cFJJdEo5M1N6T2lNRWlLQ2prSHpjN3Rja1BOMFJYUExpZ2l0NHNGdnZReGU?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-9fba4acb799595610b9cf1ff150f03d3",
-            "title": "子ども棋士が集まる将棋大会 愛知・常滑市（2026年10月31日掲載）｜中京テレビNEWS NNN",
-            "source": "日テレNEWS NNN",
-            "published_at": "2026-10-31T17:45:00+09:00",
-            "category": "一般ニュース",
-            "area": "尾張",
-            "summary": "子ども棋士が集まる将棋大会 愛知・常滑市（2026年10月31日掲載）｜中京テレビNEWS NNN  日テレNEWS NNN",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVHEwSl95aVdsV1NrTkl3X3h4X3ZYcFNiLTZIdmhzbHJ4aWl6LUF3M2VMVFRPTjFQVS0tazRqR25XQjFXSnNma0xickNQd3d0cUlvUTlpMWhtU1hFQmQ3N0VqcUtVc3RoV1pMRHRuSjUxZVZRODg3NGRRYmNqWlNqVUdURQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-fa85527b6b33b68fd86cc083fbc25a38",
-            "title": "愛知県の過去の天気(実況天気・2026年10月)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-31T15:31:30+09:00",
+            "id": "news-0d8c2fbd695ae73ba03f2a57264861bb",
+            "title": "【愛知県】11/1の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-10-31T19:30:51+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県の過去の天気(実況天気・2026年10月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKMEthU1JuQndkeHJIXy05MkhiTDhBdWEzOW5RQzhCVW5GSHItVTdjbVZBdUY1OHVicERoVDY3N2ZSN2V2d3BiNEo1YkRibW5XbUkxSHNn?oc=5",
+            "summary": "【愛知県】11/1の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zblZVR1ZzLXJjNk11d1ZyQUo5dloyRFBsckpxVm9hREtRNC1hR3M2R244R285UVJuSzhXQ25vREw0ZHA5b0xpaXpPc0duaDJyTHlQVWhtR2F5NGJjWVdzc1BVM1hGMkliR0FFcEp2b1MwOFBSa0pBVHM5dzB4NzQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-4e21c05c393d2317d1100eec64296131",
-            "title": "センバツ高校野球 ２１世紀枠 県推薦校 三好が初選出 ／愛知（センバツLIVE！）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-31T05:01:56+09:00",
-            "category": "スポーツ",
-            "area": "愛知",
-            "summary": "センバツ高校野球 ２１世紀枠 県推薦校 三好が初選出 ／愛知（センバツLIVE！）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TNTJtRzlQSGowOGJoUWVZdXdXWWVHTmpsd1lZcTVDVnVxQzVlOVd0SVFHRnNta3BtOFRHeE1MM1hGYUdoLUhQVjFyc2JwUC1wTHdfSEZ5YjY5X0hqRjU4RU9aOWRkLXp4dWtfQVZpMldEa0JhZUZldksyWEx0Z1E?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-14bca403d0b73ace8cfe7b7531cf49f8",
-            "title": "【愛知県】10/31の天気予報（FNNプライムオンライン（フジテレビ系））",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-31T05:10:31+09:00",
+            "id": "news-7ce1ef90a9ddf98071cc001a735cd6d6",
+            "title": "【全国高校ラグビー愛知県大会】３回戦 中部大春日丘や名古屋など順当に勝ち上がる “県内屈指の進学校”旭丘も勝利しベスト8進出",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-10-31T21:00:00+09:00",
             "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【愛知県】10/31の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HWjdXZW55LThod1ludnRTREhSbjBaSkFxYkxTMGpIQVF2SUpIRWxJUm93MGcxLUdtbXc1WmJBbEZ4ZDFLRGFKOUhSZHZ5dkhHZnVrQldkbldHOGNHcTFvMzA5TkJsdlY5M2Mycm9pcjQ2QnpXS2UydWJvVThuXzg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-792738da1e6118882bf41e067a995fb5",
-            "title": "愛知県の過去のアメダス実況(2026年10月30日)(気温)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-31T06:30:11+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の過去のアメダス実況(2026年10月30日)(気温)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LR2dWajNhVkJoVGhELUhiZkdNLURpRndXaUdpdk9rZ196UnBFdHNzWXVCSkVMXzRDS25jNzBTNTctYkZ0LVBJbkFDZW1YbElqcWtVMGUxNjM?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-141ed901a3f1bf3d768cf520d0f3a66f",
-            "title": "愛知・全尾張選手権の4強出揃う！愛知黎明、大府、誉が進出！【26年秋高校野球】（高校野球ドットコム）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-10-31T17:52:53+09:00",
-            "category": "スポーツ",
-            "area": "尾張",
-            "summary": "愛知・全尾張選手権の4強出揃う！愛知黎明、大府、誉が進出！【26年秋高校野球】（高校野球ドットコム）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92Rnh4ZnlqdEwxY25TdUt0ZWxNQzJoTkpTS2xKUHA0T1ZoVnduWVFLNFZpSTFVUXRWUkRwd0pUUGczV2dxcFRZYThhMmtRWThpdnNmWEt2Um1HSTJzaFZJOTBtOXhxV0FTTS14UDhSSlBmLTJpanV0NHcwT3lQVlU?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-fa1bdddd68555f7d4e0ade360c04c4e2",
-            "title": "伊良湖(愛知県)の過去の天気(実況天気・2026年10月)",
-            "source": "tenki.jp",
-            "published_at": "2026-10-31T06:31:34+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "伊良湖(愛知県)の過去の天気(実況天気・2026年10月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtXzY5ZjE4YXFQVGxqZmJxdDVWeExTcWQ4eHFhNU9lNUFnTXlQUTlsQXY4OFl3cnU1cThNMmdmdmd2ZmNLbWFzckp1aExHQ1FSUHRYVjU0T2ZXQVVWcFE?oc=5",
+            "area": "名古屋",
+            "summary": "【全国高校ラグビー愛知県大会】３回戦 中部大春日丘や名古屋など順当に勝ち上がる “県内屈指の進学校”旭丘も勝利しベスト8進出  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Fam1NMVl5TEFDdF9ZNExFM05id3R3OTczR250bUpDbHB5Q0oyZ1VQMkIxZlBZZ2ZnZ3BCanZnS3BNaXdMNjVwSUU1bXBOek9HMU9iS2c3WUQ4SzludWY5N0xJa1U?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
