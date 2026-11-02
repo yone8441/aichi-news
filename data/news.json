@@ -1,16 +1,71 @@
 {
-    "last_updated": "2026-11-01T23:51:18+09:00",
-    "update_session": "夕刊便（17:00配信）",
+    "last_updated": "2026-11-02T10:25:00+09:00",
+    "update_session": "朝刊便（07:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "くもり",
-        "icon": "☀️",
-        "temp_max": 19,
-        "temp_min": 14,
-        "rain_prob": "10%"
+        "condition": "くもり　朝　から　昼過ぎ　雨　後　晴れ　所により　朝　から　夕方　雷　を伴う",
+        "icon": "🌧️",
+        "temp_max": 17,
+        "temp_min": 17,
+        "rain_prob": "0%"
     },
-    "total_count": 23,
+    "total_count": 29,
     "articles": [
+        {
+            "id": "toyohashi-city-737d03076f255820c4d7ff2e5c5b8516",
+            "title": "令和８年度豊橋市任期付職員採用候補者試験【事務職（11月募集）】",
+            "source": "豊橋市役所",
+            "published_at": "2026-11-02T23:59:00+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
+            "url": "https://www.city.toyohashi.lg.jp/item/126367.htm#itemid126367",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "toyohashi-city-91dd244067c7220157dcace9926cf4eb",
+            "title": "令和8年度会計年度任用職員採用試験",
+            "source": "豊橋市役所",
+            "published_at": "2026-11-02T23:59:00+09:00",
+            "category": "市政・くらし",
+            "area": "豊橋",
+            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
+            "url": "https://www.city.toyohashi.lg.jp/item/126334.htm#itemid126334",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "toyohashi-city-80c9ad123f5e576c39f5ae3507e95578",
+            "title": "令和８年度豊橋市職員採用候補者試験【冬実施（技術職・専門職）】",
+            "source": "豊橋市役所",
+            "published_at": "2026-11-02T23:59:00+09:00",
+            "category": "市政・くらし",
+            "area": "豊橋",
+            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
+            "url": "https://www.city.toyohashi.lg.jp/item/126193.htm#itemid126193",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "toyohashi-city-2363c640337117df48713b9c8dd19787",
+            "title": "令和8年度豊橋市職員採用候補者試験【労務職】",
+            "source": "豊橋市役所",
+            "published_at": "2026-11-02T23:59:00+09:00",
+            "category": "市政・くらし",
+            "area": "豊橋",
+            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
+            "url": "https://www.city.toyohashi.lg.jp/item/125587.htm#itemid125587",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "toyohashi-city-9bad5698dc9c80192ec03a924adf5dd2",
+            "title": "１１月２８日（土曜日）・２９日（日曜日）は市役所が全館停電となります",
+            "source": "豊橋市役所",
+            "published_at": "2026-11-02T08:00:00+09:00",
+            "category": "市政・くらし",
+            "area": "豊橋",
+            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
+            "url": "https://www.city.toyohashi.lg.jp/item/61298.htm#itemid61298",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
         {
             "id": "toyohashi-city-54b4087a0f438c8495c2cb9f240ab913",
             "title": "「子どもの権利」に関するアンケートにご協力ください",
@@ -23,58 +78,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "toyohashi-city-5b3a04a364fe7a7e690240591191714b",
-            "title": "第７回　石巻古墳ウォーク！を開催します",
-            "source": "豊橋市役所",
-            "published_at": "2026-10-29T13:04:00+09:00",
-            "category": "市政・くらし",
+            "id": "news-68281c8106cccf84f3bbc2df457966f0",
+            "title": "旧東海道で「大名行列」 豊橋で二川宿本陣まつり",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-02T09:42:17+09:00",
+            "category": "観光・イベント",
             "area": "豊橋",
-            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
-            "url": "https://www.city.toyohashi.lg.jp/item/126474.htm#itemid126474",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "旧東海道で「大名行列」 豊橋で二川宿本陣まつり  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1peEY3S3Y3NXB0V3RrMndjaEEybEhzQkRLMUFMcGQ4bnlSU1V0NnlNYUZ4MDExNXpsRi12RnVyT2huTkVBVWVQUURjeUo2T3dsV21iWjltTzZuTDF2?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "toyohashi-city-1d8ea32e9ee6f90b2c82d5dfe47365f3",
-            "title": "令和８年度市民意識調査報告書を掲載しました",
-            "source": "豊橋市役所",
-            "published_at": "2026-10-29T10:00:00+09:00",
-            "category": "市政・くらし",
+            "id": "news-f1ec9e28dcf5476587a99e466d9b6c95",
+            "title": "【豊橋市】11/2 最高21℃、ひんやりする場面も、昼間は雨の予想【朝版】",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-02T05:29:38+09:00",
+            "category": "市政・行政",
             "area": "豊橋",
-            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
-            "url": "https://www.city.toyohashi.lg.jp/item/126351.htm#itemid126351",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "toyohashi-city-f1dc35e850b24031f3bf11ab79136db2",
-            "title": "パラリンピアン八木克勝選手卓球講習会",
-            "source": "豊橋市役所",
-            "published_at": "2026-10-28T15:00:00+09:00",
-            "category": "市政・くらし",
-            "area": "豊橋",
-            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
-            "url": "https://www.city.toyohashi.lg.jp/item/125879.htm#itemid125879",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "toyohashi-city-e8e63a01c3c7294b45125cf5b3042228",
-            "title": "電車やバスで絵本が読める！「絵本の駅」を実施します",
-            "source": "豊橋市役所",
-            "published_at": "2026-10-28T10:00:00+09:00",
-            "category": "市政・くらし",
-            "area": "豊橋",
-            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
-            "url": "https://www.city.toyohashi.lg.jp/item/115490.htm#itemid115490",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "toyohashi-city-10148eca3e56d0d4d6e26971486b022e",
-            "title": "令和8年度豊橋市司文庫基金運営委員会を開催します",
-            "source": "豊橋市役所",
-            "published_at": "2026-10-27T09:50:00+09:00",
-            "category": "市政・くらし",
-            "area": "豊橋",
-            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
-            "url": "https://www.city.toyohashi.lg.jp/item/126425.htm#itemid126425",
+            "summary": "【豊橋市】11/2 最高21℃、ひんやりする場面も、昼間は雨の予想【朝版】  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPWUFhWkRMeVBzOU1DZlNKOG54MmswcXhXZkhaUUsxZFB3NnFpYzdlTzFJZ005OWFYMTh0bEFXMDBMNEhSZml4NFYxcFk5WWMxam1LUjBiSEJ6YnBKczdqbjdOdFVqTmFmMGVBMzhrcU5QNVJ6bktrLTRqcHNkc2s?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -89,15 +111,26 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-933715532024b33fdb8b67dbc81909c6",
-            "title": "豊橋商業で文化祭前夜祭の「灯商祭」 市と並ぶ120周年を記念し間瀬校長らが手筒花火放揚",
-            "source": "東愛知新聞",
-            "published_at": "2026-11-01T22:37:02+09:00",
-            "category": "一般ニュース",
+            "id": "news-075d866c9c2d36fb53b47c06513ee505",
+            "title": "水路の溢水防止へごみを取り除く 愛知・豊橋市 2026.11.1付",
+            "source": "公明新聞電子版プラス",
+            "published_at": "2026-11-02T05:27:05+09:00",
+            "category": "市政・行政",
             "area": "豊橋",
-            "summary": "豊橋商業で文化祭前夜祭の「灯商祭」 市と並ぶ120周年を記念し間瀬校長らが手筒花火放揚  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13UFdENENkNG9qUlhMWFJDLVJFWlQza1k5MURaUEZRUnBCSkU2OWY2Wkt4anFEV01Rb0Z3Qml1VXRiaUtFYUoydmRYV1pEcG95NU5DdmViS2hSX1BE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "summary": "水路の溢水防止へごみを取り除く 愛知・豊橋市 2026.11.1付  公明新聞電子版プラス",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SVUdUNFVyMGlhMmVlYW1RTjJ3NGdTMGVFUEFzV0RfLWhLdjUtbmhZTVhORDc3NUwtbnk0YjdjZjFkWlRwR1ZRdlZTb3lvZTFxOVVGN2tMMkxKUjE3Y3JKRFIzNGhodEpHU0xoX3Bn?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
+            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
+            "source": "ウォーカープラス",
+            "published_at": "2026-11-02T07:18:41+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-77f45e46825f30e19ba1ba480d2879ed",
@@ -111,6 +144,17 @@
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-c3cbb1616df32ea281e72b3a041c3bb7",
+            "title": "未来起点教育へ進化 豊橋技科大、開学50周年式典開く",
+            "source": "日刊工業新聞",
+            "published_at": "2026-11-02T05:00:00+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "未来起点教育へ進化 豊橋技科大、開学50周年式典開く  日刊工業新聞",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJLWNiWjNFRy1Ka19jOGt1MTQ1SDVUMXFfN19DUmdhLUNUT1pKR3dIaE1aSmVsT2xGaWZNMXJyUmtNVWZLbC1VcTljRHphZEdYeVBTTUVpMzE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-0aadd2ee147c046e2ef1ceae0c140730",
             "title": "【豊橋市】国民的キャラクターとして長年愛されている「しまじろう」。実は、生みの親は豊橋市出身でした。",
             "source": "地域ニュースサイト号外NET",
@@ -122,81 +166,103 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-1404612b7bb1408e187058207f243371",
-            "title": "新着情報“Ａ４アバント2．0TFSIスポーツ”2018年式白入荷しました！",
-            "source": "中古車のガリバー",
-            "published_at": "2026-11-01T09:35:04+09:00",
+            "id": "news-933715532024b33fdb8b67dbc81909c6",
+            "title": "豊橋商業で文化祭前夜祭の「灯商祭」 市と並ぶ120周年を記念し間瀬校長らが手筒花火放揚",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-02T07:45:36+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "新着情報“Ａ４アバント2．0TFSIスポーツ”2018年式白入荷しました！  中古車のガリバー",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80YWpiQkNSdGIzdWoxanlvZjBwZWV3bzU3TkZrQm1GTHoxTC1ELWw3cVFMSExrMUJNNmZ0UGR3RGVjbDNrb0R5ZnhDU3lPUjV3MldYcGdzV3A3akVzbUpNS0xvb3M1LUJHbHR0eUdqc0ZlRTNUdVU0MFh1WEdxN1k?oc=5",
+            "summary": "豊橋商業で文化祭前夜祭の「灯商祭」 市と並ぶ120周年を記念し間瀬校長らが手筒花火放揚  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13UFdENENkNG9qUlhMWFJDLVJFWlQza1k5MURaUEZRUnBCSkU2OWY2Wkt4anFEV01Rb0Z3Qml1VXRiaUtFYUoydmRYV1pEcG95NU5DdmViS2hSX1BE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-53069d715d109db1a3b0f6d28508e082",
-            "title": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
-            "source": "ウォーカープラス",
-            "published_at": "2026-11-01T14:11:25+09:00",
-            "category": "ビジネス",
-            "area": "豊橋",
-            "summary": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbmFBMjZVWTdXMENUUVM5X083Y3QySXVoeHdjWlhpaEhId1l0STRZdG1GLVZkbXpjcmVqYlRSSl9HMWtKMnNKTXRIQnROTXNRd0p0M1AwQW1CUnhWcWZ0dWZQcklBdlhmM2ZvUGFn?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ae38c4796781354ceed2a6be937258cc",
-            "title": "豊橋市【月並祭】今朝は、地元神社⛩️からスタートです😊今朝は肌寒いです😊もう11月ですもんね、...",
-            "source": "選挙ドットコム",
-            "published_at": "2026-11-01T11:13:00+09:00",
+            "id": "news-865192131983823ae0a9fe084336fa31",
+            "title": "日本管財が「豊橋市学校施設包括管理業務委託」を開始",
+            "source": "PR TIMES",
+            "published_at": "2026-11-02T10:00:02+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "豊橋市【月並祭】今朝は、地元神社⛩️からスタートです😊今朝は肌寒いです😊もう11月ですもんね、...  選挙ドットコム",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iVEE2UEpMWnpIVVBIbFI0T1AzY0hMaTdIZUlMSGN1V0UtVVBVTVN5eXRwWlh1eUM0NUNFRDI1VHVfVS12LTZUSVppcHJudjZsRTVRajR1WjlDU05Cb1Fz?oc=5",
+            "summary": "日本管財が「豊橋市学校施設包括管理業務委託」を開始  PR TIMES",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBdGFVUzlfWVc4VXdycTZ5a0hZb0s1cmRtazE5RUlmdERLZXFZT2J5ajhKMUxJVXE5VEFmNGRidTYzbTVYRFRJQTYyNWZkZVlhZ3prUjBBbzl2UmN3MmdiT3hMdlprc1JHcmc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-8972d26d3e1f1677980e43a78bfa0a37",
-            "title": "ええじゃないか豊橋まつり開幕 約1万2000人が総おどり",
-            "source": "東愛知新聞",
-            "published_at": "2026-11-01T22:03:49+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "ええじゃないか豊橋まつり開幕 約1万2000人が総おどり  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rY0NLMDlLNVdSSVpmeUJhVTluNkdVUXJsTTRmU0tsSXVxUDZiaHhlaTZjVVhTOXE5eEcwUGVaNWJqdkYtUF9YVWg5YkY1RVEwZ1ozUjd2MVA5Nzgt?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-013b199aa38140d986634d6fdd90d236",
-            "title": "圧巻の1万2000人の総踊り 豊橋まつり開幕 (東愛知新聞)",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-01T07:30:45+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "圧巻の1万2000人の総踊り 豊橋まつり開幕 (東愛知新聞)  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1FHZXQzc2JPNEtOMm5jWE1za3VNME1Yd1FTNFQxcUwwbDhHbkJIZkdnSHZYb2UtcW9idGNrRzBGOXZERUdDNkhZaG4ybHh4SXBUcVlzYVdEVkwtbFhhbkNhTlozNmVFVVR6YW9hWF9zV2pmMnZkelY1YXk1dGxOeDU0WC1aaVRXQ0JLTkdB?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8afdf143c8984d51cb9c8d40f63b67cc",
-            "title": "愛知県の雨雲レーダー(過去)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-01T18:26:31+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(過去)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pbjJxV2FNdFE5akcyUUJqQlhDVEdJVDdNMnBfNGFod2p2MXhJeEJFdUsyU1YybnJzS0Q1ZlRTdjZfWEFFNFNOWnRwMG5DUQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
-            "title": "愛知県の今日のアメダスの記録(11月01日)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-01T17:04:26+09:00",
+            "id": "news-eb902dca2294d6122c89c0365f0b28f5",
+            "title": "2027年版「愛知の魚50選」カレンダーを配布します",
+            "source": "愛知県公式Webサイト",
+            "published_at": "2026-11-02T09:29:26+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県の今日のアメダスの記録(11月01日)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "summary": "2027年版「愛知の魚50選」カレンダーを配布します  愛知県公式Webサイト",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13MHFNb2ZfVlhKdjdQU00zRnVUQ2NMZzJIRmo3blhkLTJVNG9sQ0FYMVJzTUJIYXlRRHY0eGk0aU41Q0xEdlFNaGd6cndzd2ZmSVNTZHZoeDdoTnc3dS1KZ0Uzcmk4eFFiaVVkMkxmQQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-154e38b69e315eb30b5404c74f2edd01",
+            "title": "【速報】刃物を持った男が住宅に立てこもり 中には別の男性が1人いるとみられる 愛知･東海市",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-02T09:42:00+09:00",
+            "category": "一般ニュース",
+            "area": "尾張",
+            "summary": "【速報】刃物を持った男が住宅に立てこもり 中には別の男性が1人いるとみられる 愛知･東海市  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wWXRyYzhOYjIybjRvWHNtb3JjMWdfcVAwbzE2NVZQYnp1ckk5SVNTMlFOYTF4ZjdmZEpRSllPZG80dkFtbEFpaG9ac2ZPMzMzRVl3TWEwNlZzQQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-bdc4578c1b4e4fcadcb0a79ee71f1354",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月01日)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-02T06:29:21+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月01日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tN0ozdzJWTVZpNlNxcnZ6M2JGM3NEZ2hhbWFnRkhqWXB3SmZkazBxM1R1bC1Hd0IyMjhVYkNwN0pFZ0Z5REdDc1poWDM3WC13TGx1bzFfbFhDNVpscjMzV253?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-041476df5365f4c89b2011e9e50f1d0a",
+            "title": "愛知県東海市で男が立てこもりとの情報、刃物所持か 住宅内には別の男性も",
+            "source": "47NEWS",
+            "published_at": "2026-11-02T10:11:00+09:00",
+            "category": "市政・行政",
+            "area": "尾張",
+            "summary": "愛知県東海市で男が立てこもりとの情報、刃物所持か 住宅内には別の男性も  47NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13UjQzaEZvNUpxVEdhQjV0QVdwVXBYeVhaTVVNRV9TNGV6UllJZnFuMmRZV3B0RGc3VTlaaGdUcUJzdEFZQ1Bib2htZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-dd1c492b34fc663fdad377fbb837e033",
+            "title": "【速報】刃物を持った男が住宅内に立てこもり 中には別の男性が1人いるとみられる 愛知･東海市",
+            "source": "ｄメニューニュース",
+            "published_at": "2026-11-02T09:42:00+09:00",
+            "category": "一般ニュース",
+            "area": "尾張",
+            "summary": "【速報】刃物を持った男が住宅内に立てこもり 中には別の男性が1人いるとみられる 愛知･東海市  ｄメニューニュース",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95SVo1SUh2ZHgxYTljRXhlb1RRZXl4a19zYm1VUk5ualU0U0IxRHNIWGdZSXZRQ1Jpd3NTM3NuMk5xTm91WkFlaS14Q3dkaldWLVdaVUNYWnBLTWRIWjdzYnMwRVUzak9ldGZDdTlwcDRrQUZO0gF6QVVfeXFMTkQwaTc3MTg3eEJFaUxxS2ttYW1FZ3VuX1BPeW14SEVEdVJqcXl1ZzNsWDUzUE5aYTUwdmhyaEEzN19NNjBrQjBHMTZVMUZaUGM2YzFQbzlieUJmcTlaWm1GVndSTmgzNWt2N0pZdE01RHZIeV9oZ2xhWWc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-30e895f47a320cd17213c3870f8c185e",
+            "title": "【愛知県】11/2の天気予報",
+            "source": "FNNプライムオンライン",
+            "published_at": "2026-11-02T05:10:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【愛知県】11/2の天気予報  FNNプライムオンライン",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBORERDSEJJQ0FqekVwdFI1VTNsT0hiQkpCd2JOc0UteElIUU9pbkRNMU90RXBEZHlBN2hOTVhPZVh5RkVLazZRWnJJeTFkZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-68ab8ee784ab8227e508f67c82f75e15",
+            "title": "愛知の秋の味覚「祖父江ぎんなん」「次郎柿」など販売中 ＪＡタウン",
+            "source": "JAcom 農業協同組合新聞",
+            "published_at": "2026-11-02T09:21:48+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "愛知の秋の味覚「祖父江ぎんなん」「次郎柿」など販売中 ＪＡタウン  JAcom 農業協同組合新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaZjRjWTFUTjV4WUI1ZFBiZTViWUo3VWs5X2lPQjVmWGFmMjVyQW5OZzZwaUg2bDZwdVRBbjZ3WHcybER2SFhtQmx6T3RNZ2ZTMHJCVmlOVzN6VHdZOHhKcXhLdWE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-b465593242f5278056e15fa603ea740e",
@@ -207,6 +273,28 @@
             "area": "愛知",
             "summary": "震度2 愛知県西部 2026年11月01日13:39ごろ 地震詳細  TBS NEWS DIG",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYl9MM0YxVy1lem5YQmxEcVUtaEpDb2xtRjFJeWxhUEljT2dDUUFRaDZrdkxRaEJBUzM4cWpRWUxmSVlacjJrM184S2dTSjByR083dlQyUFYtU3d5ZkYxak9WVGUtTWhzVFlyMkNzM1pVc3Ewd0VTbTM1OVpfZ1pWOFBR?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-b63fe2431ef9bbbce28ef607b3ba8083",
+            "title": "愛知県内の交通取り締まり情報11月2日(月)【発表:愛知県警】（中京テレビＮＥＷＳ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-02T06:00:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県内の交通取り締まり情報11月2日(月)【発表:愛知県警】（中京テレビＮＥＷＳ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mdVBMU3BYd0prcWNoTlNzRHNQQ3MyeFdwZWRScEVkbUJNSkZJcVROZ2RBS1VXUkQyUUZaNU0ySU9yQVl6NVpxcWdCT2Vjck9oTFpyX3RDZFNVSHZSVUMzeHV1N2R1NkhJMEh5bXczbXBMb1hQR2g3S3NhMnZjeVE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ae08bf1e9657f3ff4d6679e40517c065",
+            "title": "愛知県の過去の天気(雨雲レーダー・2026年11月)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-02T00:31:25+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の過去の天気(雨雲レーダー・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92UHYyamJpOWZGRm9FWVRYVDU1a1dVN3paZXl2R292WnRFUlhCbGUwaFA0MndBcC1tZUFDblEya1Y0azJhdWpTQmVfWW40ZGlzUkdZ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -221,48 +309,26 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-acb30c9bc1a00d19387f5a7f4b85ff0d",
-            "title": "【公明党愛知県本部大会】10月31日（土）、公明党愛知県本部大会が名古屋市内で開催され、里見り...",
-            "source": "選挙ドットコム",
-            "published_at": "2026-11-01T19:18:06+09:00",
-            "category": "観光・イベント",
-            "area": "名古屋",
-            "summary": "【公明党愛知県本部大会】10月31日（土）、公明党愛知県本部大会が名古屋市内で開催され、里見り...  選挙ドットコム",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnbHlRVXJBLUdrNlpEeWlPSXRsUWtWNDl5VmpSbjFSRUxBS2tNaWVrUVRVd1pZTVVuMG4ySGs1YUZkemsxOVNGRWgxWDh1R0EwUFdaX1pKUDB3Mm9fbDNj?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-de7366c6ff5f44530c5dcdfc1d592a60",
-            "title": "【愛知県】11/2の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "id": "news-8af09a19afdaab78acb5763cd2bab39a",
+            "title": "【地震】静岡県内で震度1 愛知県西部を震源とする最大震度2の地震が発生 津波の心配なし（テレビ静岡NEWS）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-11-01T19:30:48+09:00",
+            "published_at": "2026-11-01T13:44:02+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "【愛知県】11/2の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kbmZibzVhLUlqb3pqQWhUXzFZdkQ2d2hVME4zV1Y0SFVvd0M5cXFwOUJJdmI0Z0toYm5vUXBzNjhoaFZPR01qVEV3VlRYa1V5NGx2cjRVSXVUN19YRkpxR3g4Rks2dFNsZDBQenVHX2YtTkJ5SzROaGxQZFpXWk0?oc=5",
+            "summary": "【地震】静岡県内で震度1 愛知県西部を震源とする最大震度2の地震が発生 津波の心配なし（テレビ静岡NEWS）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FSnQxM3FWZ0V0ZTVHZkV6Y2xiTGxxejhiSVJrUkVKRFVtZUZNbUwxZTNZV3hwMjlSM2tUMzlfT3BnSzNteUdPeDZGT1U2aG84WXlIbE50Z2lILXVfR1pzRURaaTNNQUJ1d2k3RjBfa2N3SUdQVTZwZzVFMVlIOGc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-bb7402e29d8324f4b424666b496ad69b",
-            "title": "長野県、岐阜県、愛知県で最大震度2の地震 長野県・根羽村、売木村、岐阜県・八百津町、愛知県・豊田市",
+            "id": "news-a4ce4990ead8e163199726b2b08d2f39",
+            "title": "菰野町の釈迦ケ岳で滑落負傷 愛知・江南市の70歳女性 病院搬送 三重（伊勢新聞）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-11-01T13:44:13+09:00",
-            "category": "市政・行政",
-            "area": "三河",
-            "summary": "長野県、岐阜県、愛知県で最大震度2の地震 長野県・根羽村、売木村、岐阜県・八百津町、愛知県・豊田市  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqeTAyanpBNzdkU2Ewdjc1Zmg1R0pwSFR5LWstQ2JCOW1RMlFhTF82LXd6cEo4VWJkRFhESDlZWmRuVFZPS3NTa0RZcVRBcGJBb0FQTGx4emlzeHVGSk5aQ0pFNURkRTZ3WExER2VhbFNaUFZvNWxLZmt0LUIwSDg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-7846141b35dd9faeded5f0d3aaafd9ba",
-            "title": "【男子ゴルフ】桂川有人、悲願の地元初V！ 18番10mスネークラインねじ込み感情爆発 愛知県出身選手で初めてのバンテリン東海クラシック制覇（中日スポーツ）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-01T19:36:53+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【男子ゴルフ】桂川有人、悲願の地元初V！ 18番10mスネークラインねじ込み感情爆発 愛知県出身選手で初めてのバンテリン東海クラシック制覇（中日スポーツ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40YmhqQ0hFaVN2Ry1uR1AwTjQ0U2RhT2s0TTUxd3o1QTRFTFZab05hOVRRbTh4Q2xlNUJlNW9hWExXWVhTMFRjVE9uc0x4WWlHS0trdG4tQ0VfcnYtWGZqaW5sUWZQU3BwM0NKUjJwN1NzVnhxNjFLR001UERWUkE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "published_at": "2026-11-02T08:00:54+09:00",
+            "category": "一般ニュース",
+            "area": "尾張",
+            "summary": "菰野町の釈迦ケ岳で滑落負傷 愛知・江南市の70歳女性 病院搬送 三重（伊勢新聞）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SUHRiQmJxWm84SUZZQ19WbFFybzBqTVYzWTZ1RG9ONDFfbW5EN2xSOE1ELUROZ2tmREZlcWJPU0REbnp2Z2xWZlMwd21xMmVfSlh0bDRSUU50a2VoMm00NVZjNVU5blV4UHFSQ0N6OU92OHIzLUdVX1IyeWlZcEU?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
