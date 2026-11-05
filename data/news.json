@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-05T19:39:43+09:00",
+    "last_updated": "2026-11-06T01:18:34+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,8 +9,19 @@
         "temp_min": 16,
         "rain_prob": "0%"
     },
-    "total_count": 30,
+    "total_count": 29,
     "articles": [
+        {
+            "id": "toyohashi-city-da3013a97823078f6b74a8835f347057",
+            "title": "市役所の電話が復旧しました。ご迷惑をおかけしました。",
+            "source": "豊橋市役所",
+            "published_at": "2026-11-05T17:06:00+09:00",
+            "category": "市政・くらし",
+            "area": "豊橋",
+            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
+            "url": "https://www.city.toyohashi.lg.jp/item/126553.htm#itemid126553",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
         {
             "id": "toyohashi-city-1444dbb6a7feb62ccbd07efc372d570b",
             "title": "現在、市役所の電話は発信も着信も繋がりにくくなっております。原因は調査中です。",
@@ -67,39 +78,6 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "toyohashi-city-2363c640337117df48713b9c8dd19787",
-            "title": "令和8年度豊橋市職員採用候補者試験【労務職】",
-            "source": "豊橋市役所",
-            "published_at": "2026-11-02T23:59:00+09:00",
-            "category": "市政・くらし",
-            "area": "豊橋",
-            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
-            "url": "https://www.city.toyohashi.lg.jp/item/125587.htm#itemid125587",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ec564dfaaad98bd8136d91397149b407",
-            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
-            "source": "tenki.jp",
-            "published_at": "2026-11-05T17:23:41+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a4b53aa915f046af25809a47c62456b4",
-            "title": "ごみ収集車にはねられ作業員死亡 車の後方で作業中に事故 愛知・豊橋市のごみ処理施設（中京テレビＮＥＷＳ）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-05T00:50:00+09:00",
-            "category": "社会",
-            "area": "豊橋",
-            "summary": "ごみ収集車にはねられ作業員死亡 車の後方で作業中に事故 愛知・豊橋市のごみ処理施設（中京テレビＮＥＷＳ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41TEpBUnJBN3pXUUxTQjJlY3B4RDdCNTE3d3VNdU9kM3dIOVdlMkNpOEpsazJYaW1Bc1VCWVcxSlFpSnR4ZXlTZ2NGbnlkZnJ6MHpEd21XOEJsajlSYTY1NzVkQjhva1hzZk83S2UwN3FTMi1UR0hjdmxteG5VNjg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-a37b05b9b8b5cfd71b2b86bd41a79a9e",
             "title": "愛知県豊橋市に「東横INN豊橋駅前大通り」を11月6日開業 全215室でビジネスや訪日旅行客の需要に対応",
             "source": "AMP[アンプ]",
@@ -122,6 +100,39 @@
             "image_url": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-8fe5b873ccad6299f6227bcc050e9c05",
+            "title": "【豊橋市】保育の魅力とリアルの裏側を体感！11月7日(土)「こども未来お仕事フェア」が豊橋創造大学アリーナで開催！",
+            "source": "地域ニュースサイト号外NET",
+            "published_at": "2026-11-05T23:40:12+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "【豊橋市】保育の魅力とリアルの裏側を体感！11月7日(土)「こども未来お仕事フェア」が豊橋創造大学アリーナで開催！  地域ニュースサイト号外NET",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12QW1ZLW1FczVkVk9rOTdER0x6OVBlVEFYM3hJT3BhbGJYWWk5MDVHUGVnWHhXdjVNbVk3VzlUdElSZVNma1I5QW05c0pIYWR1VlhqelNwS0M0NjNyRGVxZ2o4alZLc19ubmhFM1NYQQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f82b3bf77056091163730b0e8e480165",
+            "title": "バックしてきたごみ収集車に衝突　作業員の男性が死亡　愛知県豊橋市のリサイクル施設",
+            "source": "名古屋テレビ【メ～テレ】",
+            "published_at": "2026-11-04T19:19:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "バックしてきたごみ収集車に衝突　作業員の男性が死亡　愛知県豊橋市のリサイクル施設  名古屋テレビ【メ～テレ】",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uX3UzMEFpNlBoazA2bHlqWnVDNm1Rd0loZDV3dm5pRjg0SWphTmNEYmZ2eWc5VVd5VGVSbVdzYW9PbXE2UTQ0TVJsaVBuZUQxYnfSAWRBVV95cUxPdWJPSXRGVk1CVDJFOUZPYURWcUdhSVRvLWl1R1k0SHFrUkplMGUxQUdsRWVBb0FBNkNMeDRfYWhhTTJJb1Y2Z3pLWnRrN0JmenJPek45WEoxWjBUVU5wMktPNTdG?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-d76c13508b9d878cf11dce7ea86f42e4",
+            "title": "ごみ収集車にひかれ作業員（69）が死亡 収集作業を終えてリサイクルセンターに到着後… 愛知･豊橋市（CBCテレビ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-04T17:39:17+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "ごみ収集車にひかれ作業員（69）が死亡 収集作業を終えてリサイクルセンターに到着後… 愛知･豊橋市（CBCテレビ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QTmNLU0FmTGJLY1p2bjNEUGIwYUM3dE1WSVk1UHA1czktREpXMXhfWXBqNDItblc5dmRNUVVYN0JMQnQ5LTBKVi0zSm0xVnFrQ1NkbnF4LXNrTUlVc3JGTmhGM2hUQVhxSGhmUlByOGJuQVRuUTJpUWU0N0IzOWM?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-e2657ab5d16846cdd0455241804cb58b",
             "title": "【連載】エンジョイサッカー〈122〉女子サッカークラブの「カンフォーラ豊橋LFC」 チーム設立1年目に悲願の東海大会出場果たす",
             "source": "東愛知新聞",
@@ -133,14 +144,14 @@
             "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-f8d32a4e014d077ca6a15a7746ce07f9",
-            "title": "3年連続1位の豊橋が6位に転落 名古屋市以外がトップ3独占 愛知県の注目の街ランキング",
-            "source": "静岡ライフ",
-            "published_at": "2026-11-05T18:03:19+09:00",
+            "id": "news-ec564dfaaad98bd8136d91397149b407",
+            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
+            "source": "tenki.jp",
+            "published_at": "2026-11-04T23:24:48+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "3年連続1位の豊橋が6位に転落 名古屋市以外がトップ3独占 愛知県の注目の街ランキング  静岡ライフ",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQM1U2RVhFV09jYk1ENDZDVUdPVU9rbE5Ddm9GbFhBVVV1SDZ1THNIOEVQT0dfdk9GZElaOHVTS3FpZXFiZVNka01nUUMwdFBVTHc?oc=5",
+            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -155,15 +166,15 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-f82b3bf77056091163730b0e8e480165",
-            "title": "バックしてきたごみ収集車に衝突　作業員の男性が死亡　愛知県豊橋市のリサイクル施設",
-            "source": "名古屋テレビ【メ～テレ】",
-            "published_at": "2026-11-04T19:19:00+09:00",
-            "category": "市政・行政",
+            "id": "news-3cace946cbef035758618abe6c589381",
+            "title": "新店「東横INN豊橋駅前大通り」 11月6日オープン！",
+            "source": "Infoseek",
+            "published_at": "2026-11-05T23:10:02+09:00",
+            "category": "観光・イベント",
             "area": "豊橋",
-            "summary": "バックしてきたごみ収集車に衝突　作業員の男性が死亡　愛知県豊橋市のリサイクル施設  名古屋テレビ【メ～テレ】",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uX3UzMEFpNlBoazA2bHlqWnVDNm1Rd0loZDV3dm5pRjg0SWphTmNEYmZ2eWc5VVd5VGVSbVdzYW9PbXE2UTQ0TVJsaVBuZUQxYnfSAWRBVV95cUxPdWJPSXRGVk1CVDJFOUZPYURWcUdhSVRvLWl1R1k0SHFrUkplMGUxQUdsRWVBb0FBNkNMeDRfYWhhTTJJb1Y2Z3pLWnRrN0JmenJPek45WEoxWjBUVU5wMktPNTdG?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "新店「東横INN豊橋駅前大通り」 11月6日オープン！  Infoseek",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YZWNwWFlCdE9TUXNsU0pwZWRHV0FNcnY4dEFRRUw2YmxjUlBOQkc3Q1RyVDJLbVFRVVJmQ21RTWpiR0JlekdWVGVuUkkyeTVFYnVydERzSThUMUQxaDNodVZpSWFvczAxZWxybzA4RjRpZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-7b24ab3dc696954485198f900753bc96",
@@ -177,36 +188,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-367faeda9520b6e7b2f4fed4468b5aee",
-            "title": "新店「東横INN豊橋駅前大通り」 11月6日オープン！",
-            "source": "時事ドットコム",
-            "published_at": "2026-11-05T13:16:00+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "新店「東横INN豊橋駅前大通り」 11月6日オープン！  時事ドットコム",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xQzdCSk1rZEtpR0J4R3I2UHRUSTJReTlLTGhTZDVMU3F4VEFQZDhnVjh0UFJMT2puZUdYYnh6Tm40a0dHcGNNWEowVlZDd3NkWDctUHRvbmV2MWZnaUh4OGFmVmd4cUNfYTdn?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-70c936ab0e15922e391d10965e07293e",
-            "title": "愛知県の雨雲レーダー(予報)",
+            "id": "news-efb222642469b57fee3a3163237412b3",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
             "source": "tenki.jp",
-            "published_at": "2026-11-05T17:33:43+09:00",
+            "published_at": "2026-11-05T21:31:24+09:00",
             "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-12a40964236af5566955e88afae7e382",
-            "title": "ポンポン咲きギクの新品種「ポンポン愛知秋1号」を開発しました～新品種で産地の更なる発展を目指します",
+            "id": "news-5b09cce2502c56af937a0752c7db36bd",
+            "title": "「知の拠点あいち重点研究プロジェクトV期」 全固体電池材料の開発を加速する 人協働型メカノケミカル自動実験システムを開発 ～粉体秤量から遊星ボールミル処理、試料保管までを一貫自動化",
             "source": "愛知県",
-            "published_at": "2026-11-05T14:14:12+09:00",
+            "published_at": "2026-11-05T10:44:19+09:00",
             "category": "ビジネス",
             "area": "愛知",
-            "summary": "ポンポン咲きギクの新品種「ポンポン愛知秋1号」を開発しました～新品種で産地の更なる発展を目指します  愛知県",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54QWx1U1hFMjh4eEM0R2Y5a3lTWXFTZURieGlOS0dhT3BNbDV5QlUyRmlOajdLVGZxWER5Z3V3TjVYY2c2UUV1Tmtndkk0WmlTVmJzMUNGdFNTT3RXX1NINWpB?oc=5",
+            "summary": "「知の拠点あいち重点研究プロジェクトV期」 全固体電池材料の開発を加速する 人協働型メカノケミカル自動実験システムを開発 ～粉体秤量から遊星ボールミル処理、試料保管までを一貫自動化...",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrazVubzZLWVZPRDBHdFQ2MlQwM2hYOWF5azFHTXFBbHgwRGZtSDM3bFp5eERUTmNvSWg0QVdPSVhKTXgxcWZwdXFhcnNXT3hidkhoM09CZzFiZ2hmdVdnbkFkdFhoUQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -221,6 +221,39 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
+            "title": "愛知県の今日のアメダスの記録(11月05日)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-05T18:34:40+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の今日のアメダスの記録(11月05日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-1890005a816622aa318d348a618d43bd",
+            "title": "小学校の給食に金属片や木片が混入 健康被害の報告はなし 愛知県あま市",
+            "source": "名古屋テレビ",
+            "published_at": "2026-11-05T19:22:00+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "小学校の給食に金属片や木片が混入 健康被害の報告はなし 愛知県あま市  名古屋テレビ",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wdFhmdHo0SUhhbG5MeW5RT09jRDJsaWgzRi1CSVRCa19WV2gySEZBM0ZGSVBkMkc4R24yb1c3TmNGSWE2VzV2WmF0OTlrTjl1dkE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-efd8b2e522be9b29253f9991590f4b95",
+            "title": "愛知・東海市の立てこもり事件 容疑者は当日に違法薬物を使用していたか",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-06T00:12:00+09:00",
+            "category": "社会",
+            "area": "尾張",
+            "summary": "愛知・東海市の立てこもり事件 容疑者は当日に違法薬物を使用していたか  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tN2J6RENGa0drMl9qSmo0TFpkVWFJYmdQS2czdkg2eXVrVUxrNFNHV29Nal9jLWRyelZpczZEZUdKVXRUeFRXZk1Hb3BPRFVXeGhaNzJFTHZmdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-33d7fe79c295dae031a65b2cc903f774",
             "title": "セブン－イレブン、愛知・岐阜・三重限定の6品を11月10日発売 小学生考案の「大葉味噌おむすび」も",
             "source": "福井新聞社",
@@ -230,6 +263,17 @@
             "summary": "セブン－イレブン、愛知・岐阜・三重限定の6品を11月10日発売 小学生考案の「大葉味噌おむすび」も  福井新聞社",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BakV3RVAzbDZiZktQNUpVcC1FTEhjX2E4UmJfN3pQTHVjd1c1TVZLN1VrWFFZMTJ4UEJtQXUybUlRN0lqaHYwYU5BaVJ5SENsUHIxTWNMVWZGYzM4cUE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ea496c4886beeaf744387c1cdf146afd",
+            "title": "愛知県内35市町の医療機関などに診療報酬「不当」指摘 会計検査院、総額1645万円",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-05T22:07:25+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県内35市町の医療機関などに診療報酬「不当」指摘 会計検査院、総額1645万円  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iNzBjX1IzRTAyLXFpMklKYkEwYmhRNDByRmprTHQ2RzZyemVNbUNZX21hU0JjVFZTdGJySzVoUkM1OXFIRXE2ZmRNVzltZFk3aHNpTA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-aade6a36ad882f5ab3c9c99ea8e2cb33",
@@ -243,6 +287,17 @@
             "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-12a40964236af5566955e88afae7e382",
+            "title": "ポンポン咲きギクの新品種「ポンポン愛知秋1号」を開発しました～新品種で産地の更なる発展を目指します",
+            "source": "愛知県",
+            "published_at": "2026-11-05T14:14:12+09:00",
+            "category": "ビジネス",
+            "area": "愛知",
+            "summary": "ポンポン咲きギクの新品種「ポンポン愛知秋1号」を開発しました～新品種で産地の更なる発展を目指します  愛知県",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54QWx1U1hFMjh4eEM0R2Y5a3lTWXFTZURieGlOS0dhT3BNbDV5QlUyRmlOajdLVGZxWER5Z3V3TjVYY2c2UUV1Tmtndkk0WmlTVmJzMUNGdFNTT3RXX1NINWpB?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-f0adf252783d7d35515077eed9bb168e",
             "title": "航空宇宙産業 世界拠点に…「地域産業クラスター計画」 愛知県提案初の選定、成長期待 ：地域ニュース",
             "source": "読売新聞",
@@ -254,92 +309,26 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-e211744ed0a0679f5558f9a2bcef2998",
-            "title": "愛知県のグランピング施設「ウッドデザインパーク岡崎」に、新ボタニカルワークショップ登場！サウナステイ再販も",
-            "source": "STRAIGHT PRESS",
-            "published_at": "2026-11-05T16:07:42+09:00",
-            "category": "市政・行政",
-            "area": "三河",
-            "summary": "愛知県のグランピング施設「ウッドデザインパーク岡崎」に、新ボタニカルワークショップ登場！サウナステイ再販も  STRAIGHT PRESS",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBSFBuSnJ6c2x4b0NxTmtjcTdnSDd5VFpHOTNaZTlzdGhGSnlfbF9EVTBhZVlHSEFyWXBjRmt6eUd6aEdUS1J6U3BvUzF2MDZFSEI4?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ea7f98e69c2396cd9346105f09725c02",
-            "title": "アメリカの中間選挙 東海地方の企業への影響は？ “トランプ関税”で新事業中断… ｢しろたまり｣輸出する愛知のメーカー｢早く先を見通したい｣ | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web (1ページ)",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-11-05T19:27:00+09:00",
-            "category": "ビジネス",
-            "area": "名古屋",
-            "summary": "アメリカの中間選挙 東海地方の企業への影響は？ “トランプ関税”で新事業中断… ｢しろたまり｣輸出する愛知のメーカー｢早く先を見通したい｣ | 名古屋・愛知・岐阜・三重のニュース【...",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UTDYxelFuTkMwei1wb0c0U1RHMk5sb0I4ZFNKYVcxMHlSc1Zxb1UzOVgwMmZ6T01PRHRLd0pZVTFMcU9Mb1VHMkRLaWNjajladTlpZUZRTTdnbzhRenNFVFhDZk5fUWM?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-56a87258d044aff05a1391c1b05b69c7",
-            "title": "愛知県森林公園 12月のイベントの御案内",
-            "source": "愛知県",
-            "published_at": "2026-11-05T10:44:19+09:00",
-            "category": "観光・イベント",
-            "area": "愛知",
-            "summary": "愛知県森林公園 12月のイベントの御案内  愛知県",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hektEV3pfbWJoTHdnMW5SdG4wNVVzQ1ZFV2FqMXI2NnpqTXNHei1yaVV4RzhBT1lwS213ODR4dmc0UVRLUjlfcElvREVWbm9fbFBOdHVkaXQ4ZHZKeDl0WnhOZGg4ZHFp?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-efb222642469b57fee3a3163237412b3",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-05T12:31:24+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-305f1ff02f0ce2e9a5cdeb617c19fe3c",
-            "title": "環境イノベーションの採択プロジェクト決定 愛知県（中部経済新聞）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-05T09:45:29+09:00",
-            "category": "ビジネス",
-            "area": "愛知",
-            "summary": "環境イノベーションの採択プロジェクト決定 愛知県（中部経済新聞）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBybjc5cXY2V3BEWF84NWtDTmcwLTNKWDE2aXBwSFhlVmF4VGlsWXAwUTV4SjlodkJUSl8xR1djLUZFSXdtM0kxZVZna0RJaEJHOHZqaUhxYUF1Skc1TWNSRE1pUE13WkExR2JtUGd5YUN1RmRiUHNmdVNBNi1Lenc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a2eb4feaad6062ab041bc1844c77219d",
-            "title": "トヨタ最終利益、前回予想より３２００億円多い３兆５７００億円の見通し…来年３月期連結決算",
-            "source": "読売新聞",
-            "published_at": "2026-11-05T14:37:00+09:00",
+            "id": "news-80992979a9d41d3e1a7d7ee19ace7a57",
+            "title": "郵便局で特殊詐欺被害防止の訓練　愛知・日進市",
+            "source": "名古屋テレビ【メ～テレ】",
+            "published_at": "2026-11-05T23:43:00+09:00",
             "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "トヨタ最終利益、前回予想より３２００億円多い３兆５７００億円の見通し…来年３月期連結決算  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fbG4yanYyczhaN1lrbVM3d0xPdGkxMzNSOG53Uk1jVzBMLW1vaXpjako1M1FOWWp6bldyd3hLRl9MY0Y4dXUyNGhJRHF5c0s3VlJZdU5GdU5KUTR5NGlMcWh6YXc?oc=5",
+            "area": "名古屋",
+            "summary": "郵便局で特殊詐欺被害防止の訓練　愛知・日進市  名古屋テレビ【メ～テレ】",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MdFF0emVTVmZ1LTlSRWNwYml3QU9fb1kyblpjRzRmUXR1YVZud254VVNEWU05ajhnUExYU0FsbWROYXVJbEdjeGFCMVdTVURGSVFvdDFDMnR6Y0prc29J0gFkQVVfeXFMTkxNZXgySXBXbzM2S1I1LXNMVTF0VEhXaW5tQ1lOTGJMRVY5QlY5M3EweWZkc2VNaUNWdHZ4eFRLcnh0dl84LTVyLUFRV0hXa0taQzNKUDNtRFJnWlNfdHB1aTVtQg?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-d6f2bcbc8d0d9db58f09e5487809344c",
-            "title": "愛知県民の森 12月及び年末年始のイベントの御案内",
-            "source": "愛知県",
-            "published_at": "2026-11-05T10:44:19+09:00",
-            "category": "観光・イベント",
-            "area": "愛知",
-            "summary": "愛知県民の森 12月及び年末年始のイベントの御案内  愛知県",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GX2tuX3YtTDQ4UTZLdjhiMVoxUF9pS0g4RlRpTDgwaFluZjNiZTVFTEtHMllMYnYxUzlyLTNyZVBVc1lrdjBBRG84d1VmcUtXUmhZbFNfRE1ucUUwTF9RMEh2UmVEWjQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-92fd1cdf7d0828e731de2f1225a0e2bc",
-            "title": "私学王国・愛知に現れた“異端の公立校”三好の正体とは!? 今秋、中京大中京、豊川を撃破して一躍注目（高校野球ドットコム）",
+            "id": "news-52eb9bb9a2d2ebee6f61f5883d06efe5",
+            "title": "教員が異変を感じて吐き出すと… 給食に金属片混入 児童の料理からは木片のようなものが 愛知・あま市（CBCテレビ）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-11-05T15:10:08+09:00",
-            "category": "スポーツ",
-            "area": "三河",
-            "summary": "私学王国・愛知に現れた“異端の公立校”三好の正体とは!? 今秋、中京大中京、豊川を撃破して一躍注目（高校野球ドットコム）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lR2VkVm1ueWQzZ0JyS0d3b25UeFFqbTcyN09WX2ZERHhEUTRWNTd1blhmYmQ5TGJ4Y2tQRC1mQV9temZ6UjRvb05TeG9ZWG13ZGFpU0szMG1ENHd3RzhWTzQ2YW51RVo4NHF4OHItTnIzVlh5dmd3SFl6N0p5NGM?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
+            "published_at": "2026-11-05T18:18:17+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "教員が異変を感じて吐き出すと… 給食に金属片混入 児童の料理からは木片のようなものが 愛知・あま市（CBCテレビ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85VlVQS29GRmNJb1Iyc3RQRF9aMzdjVDFUME5YYXdyT2hqdDd1TVc3VmdEczBLMzVCZG5FOXFNNXIyWWtjSlpJQlVtbjEwcDRpeVpUUTExcWNfZzAzbEJWWUVlTW50dExSbmtYYm9nNUdPcnUwTG1yaHF4M0J5Mjg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
