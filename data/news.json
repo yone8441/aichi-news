@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-07T18:51:34+09:00",
+    "last_updated": "2026-11-07T23:47:40+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,7 +9,7 @@
         "temp_min": 8,
         "rain_prob": "10%"
     },
-    "total_count": 28,
+    "total_count": 26,
     "articles": [
         {
             "id": "toyohashi-city-4ee040361938703ed9a7665eaa52c319",
@@ -81,7 +81,7 @@
             "id": "news-c6b79483b07fc151108e29ba6df43f1c",
             "title": "豊橋市が生活道路での車速度を独自調査 改正道路交通法施行令の施行を受け",
             "source": "東愛知新聞",
-            "published_at": "2026-11-07T16:50:10+09:00",
+            "published_at": "2026-11-07T22:56:13+09:00",
             "category": "市政・行政",
             "area": "豊橋",
             "summary": "豊橋市が生活道路での車速度を独自調査 改正道路交通法施行令の施行を受け  東愛知新聞",
@@ -89,10 +89,54 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-2eb62d46ba29c251af1d19b3ef9fc640",
+            "title": "迫力の手筒花火同時揚げ 愛知県豊橋市で「豊橋 炎の祭典」",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-07T21:45:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "迫力の手筒花火同時揚げ 愛知県豊橋市で「豊橋 炎の祭典」  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03MXROODBWLWVZWENfOEplaTZ5U2JDR3ZnMTNBOG1DMVF6ODJnZEVjSk1UdG9rUDRyLWN5Q0tYNWk5X1FkVFpnTkUwZ1h6S0hBWXVncQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-e8e88ebc75703de807e3117d569df4ca",
+            "title": "「生活道路は30㌔以下」 施行前後の変化を豊橋市が独自調査 (東愛知新聞)",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-07T08:03:16+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "「生活道路は30㌔以下」 施行前後の変化を豊橋市が独自調査 (東愛知新聞)  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3dPd0lNeUVfVDNYSU1KTWZSUS1XZjBycWhleUVUWGtpVHpfV3FmcVh0Ulp5QnduTGE1UEJNeUluTmx1c2hPeVpqS2VWRDJJS0RkakNiVEdVaTktSEpaSWpWSGhCNkt6U0hOYUphNm1NbUVmdldzWFBnU0ZocG5vTFI0ajdEYi1HWktGbm93?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-05a540f3401ccfad1edf2db6bb8c6ac2",
+            "title": "豊橋市の給付金【2026年11月最新】3万円の給付は？就業者負担軽減支援金と物価高対策",
+            "source": "イクハク",
+            "published_at": "2026-11-07T12:32:50+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "豊橋市の給付金【2026年11月最新】3万円の給付は？就業者負担軽減支援金と物価高対策  イクハク",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGNyOHhMTVRzdzJWUFJCS1Nsa3NqQUJsTHh5c0Nxd25nR2VYUkFrblZ5X3REYnQ5Y2E3N3dGcHlrNDRMZjRBTnFZYUhMZ2NWcDBjc2o0dzh6SHJpQzFVX1habXhUcjlZeTRIYllOaHB4T1RWSjNBNHRkVm1CZUFEcmVFVjJRTk40VkhHaWJB?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
+            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
+            "source": "ウォーカープラス",
+            "published_at": "2026-11-07T17:09:40+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-ec564dfaaad98bd8136d91397149b407",
             "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
             "source": "tenki.jp",
-            "published_at": "2026-11-07T17:30:24+09:00",
+            "published_at": "2026-11-06T22:24:28+09:00",
             "category": "市政・行政",
             "area": "豊橋",
             "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
@@ -111,80 +155,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-05a540f3401ccfad1edf2db6bb8c6ac2",
-            "title": "豊橋市の給付金【2026年11月最新】3万円の給付は？就業者負担軽減支援金と物価高対策",
-            "source": "イクハク",
-            "published_at": "2026-11-07T12:32:50+09:00",
-            "category": "市政・行政",
+            "id": "news-b6393ef171fa57b55ee887f10232fae0",
+            "title": "コーヒー豆は、愛知県豊橋市の焙煎所「ソーグッドコーヒー」から仕入れる",
+            "source": "浜松経済新聞",
+            "published_at": "2026-11-06T21:55:02+09:00",
+            "category": "ビジネス",
             "area": "豊橋",
-            "summary": "豊橋市の給付金【2026年11月最新】3万円の給付は？就業者負担軽減支援金と物価高対策  イクハク",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGNyOHhMTVRzdzJWUFJCS1Nsa3NqQUJsTHh5c0Nxd25nR2VYUkFrblZ5X3REYnQ5Y2E3N3dGcHlrNDRMZjRBTnFZYUhMZ2NWcDBjc2o0dzh6SHJpQzFVX1habXhUcjlZeTRIYllOaHB4T1RWSjNBNHRkVm1CZUFEcmVFVjJRTk40VkhHaWJB?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "コーヒー豆は、愛知県豊橋市の焙煎所「ソーグッドコーヒー」から仕入れる  浜松経済新聞",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pcU1wbW9IdFVmYjVzbTI4THBtbDBuNUVCWlYwY2N3MS1HRjhWcnMyLUQwemUxZ29xTlZEbVhoaW9rTzRzTC1QblFnbkFTa2ZtUVZGX25hZkw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-e8e88ebc75703de807e3117d569df4ca",
-            "title": "「生活道路は30㌔以下」 施行前後の変化を豊橋市が独自調査 (東愛知新聞)",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-07T08:03:16+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "「生活道路は30㌔以下」 施行前後の変化を豊橋市が独自調査 (東愛知新聞)  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3dPd0lNeUVfVDNYSU1KTWZSUS1XZjBycWhleUVUWGtpVHpfV3FmcVh0Ulp5QnduTGE1UEJNeUluTmx1c2hPeVpqS2VWRDJJS0RkakNiVEdVaTktSEpaSWpWSGhCNkt6U0hOYUphNm1NbUVmdldzWFBnU0ZocG5vTFI0ajdEYi1HWktGbm93?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-083aedd4aa87aa6c9a90cfff1eaa29de",
-            "title": "新着情報“ゴルフTSIコンフォートライン マイスター”2020年式タングステンシルバーメタリック入荷しました！",
-            "source": "中古車のガリバー",
-            "published_at": "2026-11-07T09:22:05+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "新着情報“ゴルフTSIコンフォートライン マイスター”2020年式タングステンシルバーメタリック入荷しました！  中古車のガリバー",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tNmJlOXRMNHUwaEYySktVcFVxUk92eG1CQlRnVzNqVDRheEVkSGE5Ukg0dFpjOXktZ21ZQ2tQekpILUx3dFVJZkJpVlozWUZaR2kydWNHVFVLYUFhX1IwbVF6YTBkbkdFOEY1NGVuUFdmcGN3bF9RNHhTQ2Zib1E?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
-            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
-            "source": "ウォーカープラス",
-            "published_at": "2026-11-07T17:09:40+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8afdf143c8984d51cb9c8d40f63b67cc",
-            "title": "愛知県の雨雲レーダー(過去)",
+            "id": "news-efb222642469b57fee3a3163237412b3",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
             "source": "tenki.jp",
-            "published_at": "2026-11-07T17:16:11+09:00",
+            "published_at": "2026-11-07T18:31:25+09:00",
             "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(過去)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pbjJxV2FNdFE5akcyUUJqQlhDVEdJVDdNMnBfNGFod2p2MXhJeEJFdUsyU1YybnJzS0Q1ZlRTdjZfWEFFNFNOWnRwMG5DUQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-e91262aa14fb30b21651ec5eaf309cf3",
-            "title": "視察：豊橋市動物愛護センター「あいくる」",
-            "source": "公明党",
-            "published_at": "2026-11-05T23:37:10+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "視察：豊橋市動物愛護センター「あいくる」  公明党",
-            "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOMjBlU3VpamJPa1VxQ2Q2VlhEN2ZxZVk0eW5VN2FpbE1RbVN1TVp6ZDdMWmdINFJQOGxJMGNPQTJXOWRlVG10RElTX19ocTJIMHlmczFYc1dfazM4V0MtakFUTWxPVXEtYi02bUFmOHlLNlo3MVlFN0hsc2hOb3JzMzJ1RlNIclVtb0d5VXZDUm9hRDJfQ2JjOGJvT3JEc1ZwQ29aUk5ac0FudXBCYk12SUtCWUYycFNnaUY1RmN3ODdxVTdENXBtUVVZbmExelFXLU5RMWVfTEpKR29pZnFMQlQzYkZwcXY5QWpkMjFlRVBiSjFJa1lPeDcxb0FyZVJKQk9aTWZkRC1CeS1jSWxNTGtELXpXb1ZVSHlXWXpEM3dWaXNWenE3Z3lqNWFwMldSTThEY1dWWkctWDM5TGlIY0RnMnhseXFuWXpWd0ppZ2ZMSUVBUXE5Wk8wUnAtQUMw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
-            "title": "愛知県の今日のアメダスの記録(11月07日)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-07T15:29:04+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の今日のアメダスの記録(11月07日)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -199,6 +188,28 @@
             "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-eefbc884936d4ac05f34c9d760d0ac2a",
+            "title": "【全国高校ラグビー愛知県大会】準々決勝は強豪校が勝順当に勝ち上がる “県立進学校”の旭丘・千種はベスト８敗退",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-07T20:02:00+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "【全国高校ラグビー愛知県大会】準々決勝は強豪校が勝順当に勝ち上がる “県立進学校”の旭丘・千種はベスト８敗退  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pQlprUW5jNGJUeGxhLU5HalUwTVh2WGxNejBwbEY2LTAzclBNNDVyWXVlUHVKdkl3UFF1SE42WllTTFg5XzBoc21jRTVyOFRmZkl4dnUtWjZYQQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-029ff0f29927dc449182a496e233c58b",
+            "title": "愛知女子は名城大附が初V 序盤から首位走り悲願の都大路へ 男子・豊川は2時間5分57秒で2連覇／高校駅伝都道府県大会",
+            "source": "月刊陸上競技",
+            "published_at": "2026-11-07T18:19:38+09:00",
+            "category": "一般ニュース",
+            "area": "三河",
+            "summary": "愛知女子は名城大附が初V 序盤から首位走り悲願の都大路へ 男子・豊川は2時間5分57秒で2連覇／高校駅伝都道府県大会  月刊陸上競技",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56RXNGSU1kX19sU0hMbDJkYzhFbGZxMkN0eGhWN0I5VXR3bEItZ05JRTFvTTEzRHBjY00tMXR0UzlVOUdVR2hHcnNrUGRNRG1qbG1ndkJlT1g4Zw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-42fc4fa6b014f6d063ff29985a240f78",
             "title": "名城大付が初優勝 都大路出場へ 高校駅伝・愛知女子",
             "source": "毎日新聞",
@@ -210,58 +221,69 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-5206b6feff50463ca95c6891203e1399",
-            "title": "愛知県美浜町の砂浜、女性が倒れているのが見つかる 病院搬送後に死亡確認",
-            "source": "中日新聞Web",
-            "published_at": "2026-11-07T18:40:00+09:00",
+            "id": "news-aa8aa03645edec5e6115901c811fc14a",
+            "title": "愛知県豊川市、佐奈川堤の桜保全再生のためクラウドファンディング 11月18日まで",
+            "source": "47NEWS",
+            "published_at": "2026-11-07T22:16:59+09:00",
             "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県美浜町の砂浜、女性が倒れているのが見つかる 病院搬送後に死亡確認  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzVERaTEFmWTZtWWF6cDlSYndoeUFZOGUxb0dZTlQtOTFYbGhpN1VHWUxxeG5MU19tbmJZOGJLYm5lY1BZMURxbVRvWXJBS1g5aDVZZw?oc=5",
+            "area": "三河",
+            "summary": "愛知県豊川市、佐奈川堤の桜保全再生のためクラウドファンディング 11月18日まで  47NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GX3lUZ2ItQ1gyd1BEOUlrRjlYdER1XzliV25qcTIybkVLdFFYcE9XM0FoTHk4OWdaeFdOckdzOElia0o1dFJTM2JHdw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-79f0e8107abbf834cfa9f7520687a97f",
-            "title": "社会人までずっと一緒 注目の兄弟ランナーが挑む中部実業団駅伝 ｢昔から足が速くて真面目でいい子｣ 地元の思い出は…行きつけ焼肉店の“てんこ盛りサラダ” 愛知･田原市 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-11-07T17:00:00+09:00",
+            "id": "news-d8e0fae2e1261fd19c33a116d0f43c83",
+            "title": "愛知県、Ａｉｃｈｉ Ｓｋｙ Ｅｘｐｏで自然観光の魅力発信 11月にＰＲイベント",
+            "source": "観光経済新聞",
+            "published_at": "2026-11-07T19:02:03+09:00",
+            "category": "観光・イベント",
+            "area": "愛知",
+            "summary": "愛知県、Ａｉｃｈｉ Ｓｋｙ Ｅｘｐｏで自然観光の魅力発信 11月にＰＲイベント  観光経済新聞",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94cGVqd3JjY3otNHI2OV9GY21ENUM5RFpubzh0QWpGc0xJQWMtOTRrLTlRMV9RbG5zX3RtNWZRa1BxRkRQZDhFR28tTUlBWmZWaXpxXw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ec8713a36ce078cf795cc33db4e14a64",
+            "title": "東海地方の雨雲レーダー(予報)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-07T18:08:32+09:00",
             "category": "一般ニュース",
-            "area": "名古屋",
-            "summary": "社会人までずっと一緒 注目の兄弟ランナーが挑む中部実業団駅伝 ｢昔から足が速くて真面目でいい子｣ 地元の思い出は…行きつけ焼肉店の“てんこ盛りサラダ” 愛知･田原市 | 名古屋・愛...",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pWmxzT1ZkeEZaYnE1UmlEN05Na05fTlBwZ2RwalZjZ2VzNzlrOW4xQ2kwSTVpVW9jeU5zUHRGME5oWmtRdWJpWWd5YVAxc3BYejJaakRPNTE5dw?oc=5",
+            "area": "愛知",
+            "summary": "東海地方の雨雲レーダー(予報)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vMWZFcWVOajRwV3lncks2c3JrTkl4N1J5VllxRlo4NWhWVkdrajNnUjhUNzBxSzVKeGlKMDJSa05XX1dGTGIwQlp5Xy1ESFU?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-2295da06e51fd0dfad780461cefabc97",
-            "title": "産業廃棄物を使ったペンダント作りも…持続可能な社会について子供達が楽しく学ぶイベント 愛知県国際展示場で8日まで",
-            "source": "FNNプライムオンライン",
-            "published_at": "2026-11-07T18:13:48+09:00",
-            "category": "観光・イベント",
-            "area": "愛知",
-            "summary": "産業廃棄物を使ったペンダント作りも…持続可能な社会について子供達が楽しく学ぶイベント 愛知県国際展示場で8日まで  FNNプライムオンライン",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82MWtZUllDT0daVVNTaExxekhQakxJY25KMW5TNWo4dnhySmRkb3ZHUzNoNlgwTTFGSnNuSG5zekt4ZmNrRkxtdy14OHFEUQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-c0ebe1f1464bb21d9dc1a17d168330a3",
-            "title": "【2026】「第10回大府東浦花火大会」本日開催（愛知県大府市森岡町）",
-            "source": "夜景FAN",
-            "published_at": "2026-11-07T13:19:10+09:00",
-            "category": "観光・イベント",
-            "area": "尾張",
-            "summary": "【2026】「第10回大府東浦花火大会」本日開催（愛知県大府市森岡町）  夜景FAN",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTEhkZ18ydUhpUlJtMmdZUHpwalZBUlhGQnBXd2Zpd1ZNVmhNSVFUUERrcEMxYldPeHRrSkNuOTBDVHItOE5hQjZSQURBOWw0dnlXQXU3Nk9GdUtlNGlyWEUwb1pQNFZCc3Y0XzUxaHRkbWJweTlQeW1ET2pMbU9vYnFR?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-60275d4666767f5b388d1c6d402ddab7",
-            "title": "愛知・蒲郡中で各プロが特別授業 「夢を持つことは中学生の特権」 [愛知県]",
-            "source": "朝日新聞",
-            "published_at": "2026-11-07T11:00:00+09:00",
+            "id": "news-d9ddb096aab7d671385df7466a861591",
+            "title": "専門学校生によるファッションショー、愛知県西尾市の西尾高等家政専門学校の学園祭で",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-07T20:55:00+09:00",
             "category": "市政・行政",
             "area": "三河",
-            "summary": "愛知・蒲郡中で各プロが特別授業 「夢を持つことは中学生の特権」 [愛知県]  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iRXFkaU56cGJlQ2taTVZHTGMtaDhqOTBacTRxYkNtTXM4aTJFUm1BY0VOaGtZcXRwUGExZDUxNU9PdllEeXVpdjBHeG1DTEtiOEJvbndmbkRPU1NfNVNDNkRHYVdsX1E?oc=5",
+            "summary": "専門学校生によるファッションショー、愛知県西尾市の西尾高等家政専門学校の学園祭で  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iYVNKbWdvMnp3U2ItekpxR19Pay1xSEVrRFJCWV9KdnIta1pFY0tQcHVheUY1R3VJdGNrRG4yQWZSOGlUQzRFNlZZUHBwdEo4V2hjZQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-c070e3222afe12b2d8cf357b663042a9",
+            "title": "子どもたちがSDGsを楽しく学べる「SDGs子ども・ユースフェア」 リサイクル素材を使ったオリジナルのアクセサリー作りなども楽しめる 愛知・常滑市の「愛知県国際展示場」 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-07T21:22:00+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "子どもたちがSDGsを楽しく学べる「SDGs子ども・ユースフェア」 リサイクル素材を使ったオリジナルのアクセサリー作りなども楽しめる 愛知・常滑市の「愛知県国際展示場」 | 名古屋...",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaLXZhNGt1LTlqQXlGYl93dV8tUjhKSG5VdmhrYktkSEkyaVk0RmdCdjA1N0tEWUhFeTRDRnBIY1Fnd1FXX1pUTUlPWEF3bGNVVE9YWXl4dThYdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-30dae45d84f9815acab674c1f45d848a",
+            "title": "週末は愛知県豊川市の豊川稲荷に「夜詣で」がおすすめ！ 本殿ライトアップ、金土日の午後5～9時",
+            "source": "47NEWS",
+            "published_at": "2026-11-07T22:16:59+09:00",
+            "category": "市政・行政",
+            "area": "三河",
+            "summary": "週末は愛知県豊川市の豊川稲荷に「夜詣で」がおすすめ！ 本殿ライトアップ、金土日の午後5～9時  47NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pdFpKd1VxSTFITlcwZXVLNWRBanUxbTdoc1BQaUs3clhOS3FpTWFCSm9RZG43dFY5X2RaS1BkRlFJZ2t6Q1I1d21KUQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -274,50 +296,6 @@
             "summary": "豊川が11回目の優勝 都大路出場へ 高校駅伝・愛知男子  毎日新聞",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PcXk4NmpnTXVZTU04MVM2aE51ZzVidFJxd3N2c3h2ZG16cHhQOUVlbE5HYVJJU2dsVlZHc0J4cEZ3RzJrMmlpRVBRVXk5Nl9jS3djX3YwSGJIakdPbml5NV9SeFRQR0U0?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-593bd4a4350489a9662c789c9cd9345b",
-            "title": "愛知県岡崎市で住宅2軒が全焼、けが人なし",
-            "source": "中日新聞Web",
-            "published_at": "2026-11-07T18:30:00+09:00",
-            "category": "市政・行政",
-            "area": "三河",
-            "summary": "愛知県岡崎市で住宅2軒が全焼、けが人なし  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEMlNiMm0yektJeGVHQWV5cFdyY243OVFYNkRvYnlZdzJlaHoyMTRCWXJYZXk0UWhfOGRaNms2SVM1WmNiUllJZUotdVdHLXhzUmJ5bQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-bfb9c744c36e34b990c118ec9e09c834",
-            "title": "【速報】SAGAダイワアクト、決勝へ トヨタ（愛知県）に1ー0 ソフトボール・日本男子リーグ決勝トーナメント（佐賀新聞）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-07T15:00:38+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【速報】SAGAダイワアクト、決勝へ トヨタ（愛知県）に1ー0 ソフトボール・日本男子リーグ決勝トーナメント（佐賀新聞）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5halA5dDhUUXBrUzJYcklsM2NRVDlYRTlNQ2pXSlJ4QVJHNldLRlI5VHEyWC1JVl9QVlJBdUpUeWlaallzZ0k5eGU2ZTRZQVRXN3ROTzBMdDlNa1N1b2paZ2ZIbklPaW9LVUp1cFp4S3RiSVRoZ0M5ZktwSDA1TEE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-1bb67d1c9bb2effb68a224a8bcbbd15e",
-            "title": "再選から1年、愛知県新城市と設楽町の首長に聞く 公約の進ちょくや目指す将来像",
-            "source": "中日新聞Web",
-            "published_at": "2026-11-07T12:00:00+09:00",
-            "category": "市政・行政",
-            "area": "三河",
-            "summary": "再選から1年、愛知県新城市と設楽町の首長に聞く 公約の進ちょくや目指す将来像  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mc2VtNjIyYTV4bU1feFVZUGtnTDVyZ0dZSXYzRnE4ZkhUM3p5ZldEVC1mVVhhUFBOQnN1amRPU0V2UmktS25ySjd0UzJ2WHF4cUVrbw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-efb222642469b57fee3a3163237412b3",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-07T12:31:25+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
