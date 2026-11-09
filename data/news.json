@@ -1,16 +1,27 @@
 {
-    "last_updated": "2026-11-08T23:54:04+09:00",
-    "update_session": "夕刊便（17:00配信）",
+    "last_updated": "2026-11-09T10:34:01+09:00",
+    "update_session": "朝刊便（07:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "くもり",
-        "icon": "☀️",
+        "condition": "くもり　所により　昼過ぎ　から　雨",
+        "icon": "🌧️",
         "temp_max": 18,
-        "temp_min": 12,
-        "rain_prob": "20%"
+        "temp_min": 18,
+        "rain_prob": "0%"
     },
-    "total_count": 26,
+    "total_count": 28,
     "articles": [
+        {
+            "id": "toyohashi-city-0d47ae31780587e88440d8f2db21bcf5",
+            "title": "夜間・休日HIV検査のお知らせ",
+            "source": "豊橋市役所",
+            "published_at": "2026-11-09T09:00:00+09:00",
+            "category": "市政・くらし",
+            "area": "豊橋",
+            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
+            "url": "https://www.city.toyohashi.lg.jp/item/107071.htm#itemid107071",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
         {
             "id": "toyohashi-city-4ee040361938703ed9a7665eaa52c319",
             "title": "豊橋市議会議員政治倫理審査会の設置について",
@@ -67,14 +78,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "toyohashi-city-91dd244067c7220157dcace9926cf4eb",
-            "title": "令和8年度会計年度任用職員採用試験",
-            "source": "豊橋市役所",
-            "published_at": "2026-11-02T23:59:00+09:00",
-            "category": "市政・くらし",
+            "id": "news-22736f3ce34383d5b0793874f51ad453",
+            "title": "豊橋市幸校区と小学校の創立50周年記念式典 児童らで記念イベントにぎわう",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-09T06:18:41+09:00",
+            "category": "観光・イベント",
             "area": "豊橋",
-            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
-            "url": "https://www.city.toyohashi.lg.jp/item/126334.htm#itemid126334",
+            "summary": "豊橋市幸校区と小学校の創立50周年記念式典 児童らで記念イベントにぎわう  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ycGRBTVNuUEdwTEdPZ1JLTm50dGNBM19kQkNhdEJmU19IV3l5QVhaVHZhMDc1c2E5NEZBUFg5eW9Za1hwVGVFcEJjVno5T1FVM28wMTZXdGt4Ulp0?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-380f98514677a6b9f6a57e77799e9d29",
+            "title": "【豊橋市】11/9 最高18℃、くもり空が続く予想【朝版】",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-09T05:29:17+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "【豊橋市】11/9 最高18℃、くもり空が続く予想【朝版】  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nNk1tT3ZxRGc3TTZrYXJkNFZDZlhxbGtYWkVIVW5oYzg4Y3lkeDVSbE5DZmtWMHc1UjB2bTd3bVBZWUxZZzFpZDlUZUpwQlBvVTBRbmtkVV9jNW1icHFIQnZEQTV0Q2wxeTBwU1VHaTR4bnhmNFhqUk1NWmdUQ2c?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -89,37 +111,15 @@
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-22736f3ce34383d5b0793874f51ad453",
-            "title": "豊橋市幸校区と小学校の創立50周年記念式典 児童らで記念イベントにぎわう",
-            "source": "東愛知新聞",
-            "published_at": "2026-11-08T12:05:21+09:00",
-            "category": "観光・イベント",
+            "id": "news-63fef02384cf8a033d6acd50aebaed87",
+            "title": "【豊橋市】「アウディ豊橋」が地震被害のため当面臨時休業に。新栄町にて仮営業を実施へ",
+            "source": "地域ニュースサイト号外NET",
+            "published_at": "2026-11-08T23:30:23+09:00",
+            "category": "市政・行政",
             "area": "豊橋",
-            "summary": "豊橋市幸校区と小学校の創立50周年記念式典 児童らで記念イベントにぎわう  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ycGRBTVNuUEdwTEdPZ1JLTm50dGNBM19kQkNhdEJmU19IV3l5QVhaVHZhMDc1c2E5NEZBUFg5eW9Za1hwVGVFcEJjVno5T1FVM28wMTZXdGt4Ulp0?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-2de0e8ac0edc50b081efe14a8f337af3",
-            "title": "愛知 未明に最大震度5強 県内で少なくとも19人けが 体育館の天井一部はがれ落ちる 鳥居の上部2つに割れるなど15棟に被害 「余震などに備えて最大限の警戒を」（TBS NEWS DIG Powered by JNN）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-08T17:41:02+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "愛知 未明に最大震度5強 県内で少なくとも19人けが 体育館の天井一部はがれ落ちる 鳥居の上部2つに割れるなど15棟に被害 「余震などに備えて最大限の警戒を」（TBS NEWS D...",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SOGJSQTR4emw5Z1R6TmswUTIyVk1qZmE0MUFJU2MySDRMejVDZ2hFSkRkNWlpWld5RUV5azRLQ2k2M3RBNWhvWk9kbVBFdWhzbGZLMEVzclNrbkFUd2ZGS1lURGY1ZExuV2JzZEFpS1RfQkx4eDNUQlNqRkh6MTA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-6415d5843bae4c59ddc4394b804b8cc6",
-            "title": "愛知 豊橋 車の販売店でショーウィンドウのガラス大きく割れる",
-            "source": "NHKニュース",
-            "published_at": "2026-11-08T03:12:04+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "愛知 豊橋 車の販売店でショーウィンドウのガラス大きく割れる  NHKニュース",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlQjFaX1hPMzhYc3dkUmFJaTh6RThLM0xGY0ZhZFZfSVRiZnd2blJhZVlPTVQ1SUhxNnpOa1h3cmc1OEFkcVpaS3NvLWxuN0hhSUdZcUtuN3BIeHhuTkMw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "summary": "【豊橋市】「アウディ豊橋」が地震被害のため当面臨時休業に。新栄町にて仮営業を実施へ  地域ニュースサイト号外NET",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zR3FwTFhwOVEtck1QaC0wb2xBQ3VfeWFKVlFBZXlXVU9HeWZ6SmFjeXZZa285RXBUaXdNVWZPam5EREk4SXZuMHY3UVBydWxReTRaUWJJUUhLeDB2eUxfbXFCTnNiUE9xV3VqZ2Jrdmw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-0941b18ae08f8479adc90a5ad030543b",
@@ -133,14 +133,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-0c9321071f516e23f16eaa5d6fc83fff",
-            "title": "【豊橋市】長年愛された「スターバックス コーヒー ホリデイ・スクエア豊橋店」が11月21日(土)をもって閉店へ",
-            "source": "地域ニュースサイト号外NET",
-            "published_at": "2026-11-08T11:30:39+09:00",
+            "id": "news-6415d5843bae4c59ddc4394b804b8cc6",
+            "title": "愛知 豊橋 車の販売店でショーウィンドウのガラス大きく割れる | NHKニュース | 愛知県、地震",
+            "source": "NHKニュース",
+            "published_at": "2026-11-08T03:12:04+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "【豊橋市】長年愛された「スターバックス コーヒー ホリデイ・スクエア豊橋店」が11月21日(土)をもって閉店へ  地域ニュースサイト号外NET",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mcFU3dFQtZkwzZS13ZmhGNE8td2lvUUlRajZUeG14Q0x6cjlwckxsaW5tSTZEVmJURDBLSGJnSXZnYzN2WVgxLUNHNHBkXzBUa3h2T1ZmbEZQcWk5dXhBM1hHQnJfdG5MclVuU2UwdHFQUQ?oc=5",
+            "summary": "愛知 豊橋 車の販売店でショーウィンドウのガラス大きく割れる | NHKニュース | 愛知県、地震  NHKニュース",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlQjFaX1hPMzhYc3dkUmFJaTh6RThLM0xGY0ZhZFZfSVRiZnd2blJhZVlPTVQ1SUhxNnpOa1h3cmc1OEFkcVpaS3NvLWxuN0hhSUdZcUtuN3BIeHhuTkMw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-85610eeb6273562f387325c39249fe1e",
+            "title": "愛知で29年ぶり震度5強、19人けが ショールームのガラス粉々に [愛知県]",
+            "source": "朝日新聞",
+            "published_at": "2026-11-08T03:52:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "愛知で29年ぶり震度5強、19人けが ショールームのガラス粉々に [愛知県]  朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6ZVI1OVBoWnRFXzVwc1ZuRGcybElFMWxzd3UyYmo4eXNMWjRmOFRfaWhkTDhOSEpEZ1RXLXhhcmd2ckIxM01JREdHOHBmb084WHBTcVpIZFVZZW11bjZFY3o2U3BNaXM?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -166,17 +177,6 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-85610eeb6273562f387325c39249fe1e",
-            "title": "愛知で29年ぶり震度5強、19人けが ショールームのガラス粉々に [愛知県]",
-            "source": "朝日新聞",
-            "published_at": "2026-11-08T03:52:00+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知で29年ぶり震度5強、19人けが ショールームのガラス粉々に [愛知県]  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6ZVI1OVBoWnRFXzVwc1ZuRGcybElFMWxzd3UyYmo4eXNMWjRmOFRfaWhkTDhOSEpEZ1RXLXhhcmd2ckIxM01JREdHOHBmb084WHBTcVpIZFVZZW11bjZFY3o2U3BNaXM?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-1b1c57f15add35100376fc40934f98c3",
             "title": "愛知で震度５強 ３０年ぶり、２２人重軽傷―気象庁「南海トラフと違う」",
             "source": "時事ドットコム",
@@ -188,10 +188,21 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-6df60f3791729abc94253dd6bbcbf783",
+            "title": "愛知県・知多市で最大震度5強の地震 愛知県内で震度5強以上はおよそ30年ぶり 今後1週間程度は強い揺れを伴う地震に注意 気象庁",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-09T09:21:27+09:00",
+            "category": "市政・行政",
+            "area": "尾張",
+            "summary": "愛知県・知多市で最大震度5強の地震 愛知県内で震度5強以上はおよそ30年ぶり 今後1週間程度は強い揺れを伴う地震に注意 気象庁  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoZnVHemF2MTNrZThwTmVxVzkySDFGTkZmQ1hVME1RZ1lMQlBJaE5VU1NqcEZEeVJvVlJVWmxyNFNDTVZ5R2tXNldMWnVYQ0d2d2ZzWTZ4ZXdyY3g4MS0w?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-efb222642469b57fee3a3163237412b3",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
             "source": "tenki.jp",
-            "published_at": "2026-11-08T18:31:24+09:00",
+            "published_at": "2026-11-09T06:31:26+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
@@ -199,14 +210,36 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-34fabfd979ce7b711de72bdfe68b3983",
-            "title": "愛知県「余震などに備えて最大限の警戒を」少なくとも19人けが 住宅や公共建物等少なくとも15棟が損壊",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-11-08T18:35:00+09:00",
+            "id": "news-3a4e29376721901299472e1cfdf63fef",
+            "title": "愛知県で震度5強 気象庁「1週間程度 揺れに注意を」",
+            "source": "NHKニュース",
+            "published_at": "2026-11-08T21:56:49+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県「余震などに備えて最大限の警戒を」少なくとも19人けが 住宅や公共建物等少なくとも15棟が損壊  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lMmJMbGtSM3hyZkdhbDVNcm9Fc3k4QUVNdzI2S3FnRTFwb0hHN2JKQ0IxblB0aTRjdzVWVUg3a3BuZ3FYTC1kZmppbmZXMWpHdkhjcllncTZqZw?oc=5",
+            "summary": "愛知県で震度5強 気象庁「1週間程度 揺れに注意を」  NHKニュース",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1eUZVYUltMjNfMlY5Mkl3N0MzU3FMSjRCYzFvUGdfcG1oTkhYdW4tR2hCVEtqbXNGMmhCNjR1SUFPOTBxb2lNLTd0Q0gwSTFUYm1XRmdRdmJuZ2NWUG5V?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-18fbcac1b6c13777c44261f4f20ce91e",
+            "title": "愛知県「余震などに備えて最大限の警戒を」少なくとも19人けが 住宅や公共建物等少なくとも15棟が損壊（CBCテレビ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-08T18:55:25+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県「余震などに備えて最大限の警戒を」少なくとも19人けが 住宅や公共建物等少なくとも15棟が損壊（CBCテレビ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90NWs4RFVsWGlMM2NJS0ZSY0gtamtWdVpZVXdUb3VsdElTZHUzZlNxbTRvV3ZzX1haSG1BcFdBQ3hLRXdsZGdYOGRXUG56Y1A5TW5vaVZ4MnNyX2U0RWluWnQtVHAtUXJUT0JUa0xlZGo0Q0NwZzczd0prVm5NbFE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-bf6ad3eab603074ee07a01a0af8cf353",
+            "title": "【愛知県高校駅伝】豊川男子が2年連続11回目優勝 都大路への切符つかむ 女子は5連覇逃す",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-09T08:40:32+09:00",
+            "category": "市政・行政",
+            "area": "三河",
+            "summary": "【愛知県高校駅伝】豊川男子が2年連続11回目優勝 都大路への切符つかむ 女子は5連覇逃す  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56RzhEcUFCOG9BLUV2S1FYWlhyM1hfeHMxQVU0a2xLdndFSFJhS0JWZjJvbTU3TjU2RC1PdGRQX2ZKTS03WVFXZkc2ZVNQdGNwampwbVQxTGpOREoz?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -221,25 +254,36 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ade8febb3efafa763adea97fcba95050",
-            "title": "最大震度5強 愛知県と静岡県で計22人がケガ（2026年11月8日掲載）｜日テレNEWS NNN",
-            "source": "日テレNEWS NNN",
-            "published_at": "2026-11-08T20:26:01+09:00",
+            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
+            "title": "愛知県の今日のアメダスの記録(11月08日)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-08T23:45:22+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "最大震度5強 愛知県と静岡県で計22人がケガ（2026年11月8日掲載）｜日テレNEWS NNN  日テレNEWS NNN",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CR2l2a2h2cWhJREwydTFaUTFta3V2WGtVV3ZNTWxmSGlSQUZ1VHkweXhqUTRrTEN6OTE2TzFHdzY0bWJIWUlWamZ2NWVoRHc2ZHMzTUI4eEt0UXZDck1GeEkzYlN5WkdDcmRLa2l1N2xvNEc1RFRCbW9YU3M?oc=5",
+            "summary": "愛知県の今日のアメダスの記録(11月08日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-e76e2c022f6151e48d05a42ca22bd7da",
-            "title": "1週間の地震回数 8日未明に愛知県で震度5強 緊急地震速報発表時にとるべき行動(気象予報士 日直主任)",
+            "id": "news-0eb62857005ce696234acbbad82c8047",
+            "title": "住民が思う「街の幸福度」1位は愛知県南知多町 民間の東海4県調査（朝日新聞）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-09T07:06:19+09:00",
+            "category": "市政・行政",
+            "area": "尾張",
+            "summary": "住民が思う「街の幸福度」1位は愛知県南知多町 民間の東海4県調査（朝日新聞）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GVENIY3pKVFgxQVpwaFloRkpJTC1IM2UxY2R0eG1fdEFfdFl1UEtPeTQyMVFGbTdOYjBIb2twZFdRWWJWejJSdFE1djVYRXYtU2FFZ3pQNVI2TTlBdVRxQ2xkLVdmVEhoSHJ1M0lBNjN6TXZibTZZUnhwSzFRY2s?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-7e8e013a917a14c697783a94f72e1b2d",
+            "title": "愛知県の過去の雨雲レーダー(2026年11月08日)",
             "source": "tenki.jp",
-            "published_at": "2026-11-08T11:28:27+09:00",
+            "published_at": "2026-11-09T00:22:03+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "1週間の地震回数 8日未明に愛知県で震度5強 緊急地震速報発表時にとるべき行動(気象予報士 日直主任)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5manh1TV9GNTdJMmNPYjlsNFA4Y242dGh4TTMtRmJiVzhTZW05Nm9FcDZUMlA2ZlRLVHJ3LU5PbXFwMnNxQW56blFybnNoc050MGJrT3V2TktkTWZYWkg0eGg1dWNfMFZmMkE?oc=5",
+            "summary": "愛知県の過去の雨雲レーダー(2026年11月08日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TOWpVX3E0cTlka3VycjJzYWhaTW0zRUNpVlRIUmpUdVljOHZDX2xjbmNnNHFOLTRCOEkzZUhBeXFkNzlKZWRxaUtOZnVwOFN3TGtSTzZiaw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -254,48 +298,26 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-5bdc2a8e71ee970af9f2cc7bc09da1ba",
-            "title": "愛知県で最大震度5強 未明に大きな揺れ 25人以上けが 通行止めも",
-            "source": "テレ朝NEWS",
-            "published_at": "2026-11-08T12:10:09+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県で最大震度5強 未明に大きな揺れ 25人以上けが 通行止めも  テレ朝NEWS",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFRlpGLXlJaDVYWndWZ1V0NUhmdjZnVGZjdVhlbHlkOXlvOE5RUUN1aWt0NmNYNE52Zkxyak1sYWdwMmNTdmZnU2g2LXlnMllhWW1HZFRSVHlmTldKWVEtcU16RVJIRUhBTEV6bGNwY2M5UQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-505a2a26533114b640bfd51210e7dd31",
-            "title": "【地震情報まとめ・随時更新】愛知県で最大震度5強の強い地震 けが人も 被害･交通情報の詳細",
+            "id": "news-480a8714174fd9a1e3dd6a4bc35cc1bc",
+            "title": "震度3 宮城県沖 2026年11月09日05:16ごろ 地震詳細 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
             "source": "TBS NEWS DIG",
-            "published_at": "2026-11-08T10:40:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【地震情報まとめ・随時更新】愛知県で最大震度5強の強い地震 けが人も 被害･交通情報の詳細  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1cFdIX19aWWNLVnZuNG9DT0VhU090NU5ZYkVuMkhFdFREM0REQ0FkRk9pdVRIZlNiZlRBSmxpT2tXcVdqMFk0SjBuMTJUMWNVeC04RmFmMA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-43868a500b3b40487baff483c8711de0",
-            "title": "愛知県で未明に震度5強 南海トラフ想定域も気象庁「プレート特段変化なし」",
-            "source": "テレ朝NEWS",
-            "published_at": "2026-11-08T11:14:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県で未明に震度5強 南海トラフ想定域も気象庁「プレート特段変化なし」  テレ朝NEWS",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83VzdUZzVHbWFYTXdPMmQ5cDAzdmZEN2x5M1ZlelRRRUgxZTlvT1JoT2tvWDZlLW5IZUJIOWxLZVVsX1BnaXplSE0wVVFtM3I0QzdLek5HcnIzdFVMWWF3eDdoR3MwRGE4MlFsUXlEQkxnQQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-608d6c9167cd1af930d20d687eb7b7cc",
-            "title": "2階の家庭科室の壁が1階に落ちた小学校も…愛知で最大震度5強を観測した地震 少なくとも県内で19人がケガ（東海テレビ）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-08T18:33:01+09:00",
+            "published_at": "2026-11-09T05:26:31+09:00",
             "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "2階の家庭科室の壁が1階に落ちた小学校も…愛知で最大震度5強を観測した地震 少なくとも県内で19人がケガ（東海テレビ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFV1QtbnRwVTBwOVlVeFJLYk5FT2hCclQ5cEoyc0QxYlVsdV9heGdiVWpIX3FwWE4xZEZ4Qmk5elhZOFU2bjNHUFNuZl8tbFdJU2wtRjVOcTdQUGRLNzJHRWc2ajB0T1pFcmRmZ3RlZEhSNUdNSk9NTjV5VmtuRDA?oc=5",
+            "area": "名古屋",
+            "summary": "震度3 宮城県沖 2026年11月09日05:16ごろ 地震詳細 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMUFmdG5neGthRlhnNXI4N0ZTQVR2OEFfc0wxenlMc3JZNEt6Y1lLbV8tdnVUQW9CSU5pY3piTklSdDVqcjJCU0I2MWVTWTVMeF9ibjQ2SFR0QVBQRDZ6RVl0OUFuZ3hMZmdWeXRMcWlxQnFKOEd5X3hvamlNQUNSSFRXVG9rME0?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-8a2e349e4ee2343934398cfaddaa476d",
+            "title": "伊良湖(愛知県)の過去の天気(実況天気・2026年11月)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-09T03:31:24+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "伊良湖(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yZDR4YzZTMlh6WnJ5VVVOcThRaUxvR0hyNTNKZ0ZnejNqREZwVnU3ZERSd3pSUF9GbXA3bnR0VlVac1Q5QTdqVmw5dzZVSGlENlJqVzFLeWFLX1FEbHc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
