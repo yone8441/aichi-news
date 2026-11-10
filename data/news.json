@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-10T19:56:09+09:00",
+    "last_updated": "2026-11-11T01:16:12+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,7 +9,7 @@
         "temp_min": 7,
         "rain_prob": "0%"
     },
-    "total_count": 28,
+    "total_count": 29,
     "articles": [
         {
             "id": "toyohashi-city-c95b5fda0ca9f67d85252882e552a55d",
@@ -78,37 +78,26 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-4211136f360e939d93db4fe23725a31a",
-            "title": "愛知県内では29年ぶりの震度5強 11月8日未明の地震、各地で被害",
-            "source": "東愛知新聞",
-            "published_at": "2026-11-10T19:38:22+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県内では29年ぶりの震度5強 11月8日未明の地震、各地で被害  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qUllIQkhEWngyQ01XLTZVODZVU2dvT0lqTERVRXcxcEFqWFlDMEgxNTc5bDFkdXlnUGFPS2dXZS1ZXzlDV2FESUhEaU05a2MyV0NDYndNSXBhczZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-70c936ab0e15922e391d10965e07293e",
-            "title": "愛知県の雨雲レーダー(予報)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-10T17:35:39+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-354d8334f55ba34739f150ad81239d05",
-            "title": "店舗のガラスが割れるなど被害 散乱し片付け続く 愛知・豊橋市（テレビ朝日系（ANN））",
+            "id": "news-aefe9249eb0100c6876515efcf640f84",
+            "title": "【愛知県】最大震度5強の地震から2日 県が被害状況を発表 重傷1人、軽傷19人、住宅一部損壊3棟（11月10日 午前8時現在）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-11-09T20:58:00+09:00",
+            "published_at": "2026-11-10T18:00:00+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "店舗のガラスが割れるなど被害 散乱し片付け続く 愛知・豊橋市（テレビ朝日系（ANN））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Iekc5UmdCVmZPcldRbERsRW9iUkN2MFlDdWVYeXpqcURncEdRdG1KSGFJcTBJQWJJb3hXRERCQnl6ZXJsTkM1Uml3bDZLMHRTakdpdmpZNVNXN1VJYnZ5bS1RSVk2aWFmLTc1b1d0TzdnSEdJcTdRU0t5Q1lybGc?oc=5",
+            "summary": "【愛知県】最大震度5強の地震から2日 県が被害状況を発表 重傷1人、軽傷19人、住宅一部損壊3棟（11月10日 午前8時現在）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DWVlxQktJVmxWOTZxMG1QM19ueXRpMDJQd1ZhcXBFSFdQTHFEQVA3MWk3Qk9UdE1JSmNud185SjRGSjVydW54cWk5S2JWU1ljQWJScXJQb1VSQWtYNk16WThZc2o1S0djUWx2dHRNSUw5ZHBQb3YzTzRsWW54Vlk?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-33b548df8f2deb322cda14a0fb262522",
+            "title": "外国人就労者交流イベント「Eat＆Meet!! 多文化交流キッチン」 学生と料理を味わいながら歓談",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-10T13:27:26+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "外国人就労者交流イベント「Eat＆Meet!! 多文化交流キッチン」 学生と料理を味わいながら歓談  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aWWJaOTRBQWlSYzg3Z3ZHTmtVSGNwc255M0hONnhlaEwycXZHaFJqY3JsSWsyRE45d2tyQXNZSHhSdFZEN3JzY1V1LVJCQXVZWFFsbHBYTGdyRkFW?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-0941b18ae08f8479adc90a5ad030543b",
@@ -144,39 +133,6 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-33b548df8f2deb322cda14a0fb262522",
-            "title": "外国人就労者交流イベント「Eat＆Meet!! 多文化交流キッチン」 学生と料理を味わいながら歓談",
-            "source": "東愛知新聞",
-            "published_at": "2026-11-10T13:27:26+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "外国人就労者交流イベント「Eat＆Meet!! 多文化交流キッチン」 学生と料理を味わいながら歓談  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aWWJaOTRBQWlSYzg3Z3ZHTmtVSGNwc255M0hONnhlaEwycXZHaFJqY3JsSWsyRE45d2tyQXNZSHhSdFZEN3JzY1V1LVJCQXVZWFFsbHBYTGdyRkFW?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-e3d8d695549ff5ac1c83d9c5faeb9b26",
-            "title": "【愛知県】最大震度5強の地震から2日 県が被害状況を発表 重傷1人、軽傷19人、住宅一部損壊3棟（11月10日 午前8時現在）",
-            "source": "au Webポータル",
-            "published_at": "2026-11-10T18:01:22+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "【愛知県】最大震度5強の地震から2日 県が被害状況を発表 重傷1人、軽傷19人、住宅一部損壊3棟（11月10日 午前8時現在）  au Webポータル",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLaHJYcmRzV0ZlQUtBTlR2dWdXOHltUWVMNGhtTF9aWEJDMlEwSHdjWE9FRTQ4WFduOTFfbjBkRF9qMjdUdzA5bUlOUE9mU0M2QmgwdG9OR3RSamVjQnp1Qi1XT0dlbmJWRU1LMzlB?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-63fef02384cf8a033d6acd50aebaed87",
-            "title": "【豊橋市】「アウディ豊橋」が地震被害のため当面臨時休業に。新栄町にて仮営業を実施へ",
-            "source": "地域ニュースサイト号外NET",
-            "published_at": "2026-11-08T23:30:23+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "【豊橋市】「アウディ豊橋」が地震被害のため当面臨時休業に。新栄町にて仮営業を実施へ  地域ニュースサイト号外NET",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zR3FwTFhwOVEtck1QaC0wb2xBQ3VfeWFKVlFBZXlXVU9HeWZ6SmFjeXZZa285RXBUaXdNVWZPam5EREk4SXZuMHY3UVBydWxReTRaUWJJUUhLeDB2eUxfbXFCTnNiUE9xV3VqZ2Jrdmw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-95002c5e341b2de5454b3386c4764759",
             "title": "約３０年ぶりだった愛知震度５強、南海トラフ「過度に恐れる必要はない」と気象庁…計２２人が重軽傷",
             "source": "読売新聞",
@@ -188,6 +144,94 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-907da7e34d0c23a8e3abc148f2073a4c",
+            "title": "12/4（金）北海道戦 追加座席販売のお知らせ",
+            "source": "三遠ネオフェニックス",
+            "published_at": "2026-11-09T12:27:48+09:00",
+            "category": "スポーツ",
+            "area": "豊橋",
+            "summary": "12/4（金）北海道戦 追加座席販売のお知らせ  三遠ネオフェニックス",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJSkhjVEMxX2M0U0xVSEF4RmhXR2h2dVhPam5PMWpjMUo5eVo0NS04NzlGYUFFNFpYQm5VQ1B2bjhYaTVVaFd6dVo0NFltN1llX05aTk9HZ0puZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ef3951ce2ba41aa46ef697c575dd0ac7",
+            "title": "【和菓子屋の限界突破】豊橋駅みやげNo.1『ブラックサンダーあん巻き』も対象。お亀堂カルミア店で「秋の大増量セール」を",
+            "source": "ニコニコニュース",
+            "published_at": "2026-11-10T17:15:34+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "【和菓子屋の限界突破】豊橋駅みやげNo.1『ブラックサンダーあん巻き』も対象。お亀堂カルミア店で「秋の大増量セール」を  ニコニコニュース",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTSFRXZ0hDblMxcmd5T0x1dFJZdldoamNBaDlPa3dDSHoxUUxIeGllaEhGUjJOT1l2TlFlLWhiaktWTFZmMW9mTVh5R1N5MzZxOER3dy1yU09WX2pyZ1IyWGtWOFVLVlVwREJhQ1JXUGRKR0JTczZIRF9HQQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-354d8334f55ba34739f150ad81239d05",
+            "title": "店舗のガラスが割れるなど被害 散乱し片付け続く 愛知・豊橋市（テレビ朝日系（ANN））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-09T20:58:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "店舗のガラスが割れるなど被害 散乱し片付け続く 愛知・豊橋市（テレビ朝日系（ANN））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Iekc5UmdCVmZPcldRbERsRW9iUkN2MFlDdWVYeXpqcURncEdRdG1KSGFJcTBJQWJJb3hXRERCQnl6ZXJsTkM1Uml3bDZLMHRTakdpdmpZNVNXN1VJYnZ5bS1RSVk2aWFmLTc1b1d0TzdnSEdJcTdRU0t5Q1lybGc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-d63eca27c21a82fb0d496d322ef63bad",
+            "title": "愛知で最大震度5強 被災店舗などで復旧作業　震度5強観測の知多市の中学校は校舎被害なく生徒登校",
+            "source": "名古屋テレビ【メ～テレ】",
+            "published_at": "2026-11-09T13:01:00+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "愛知で最大震度5強 被災店舗などで復旧作業　震度5強観測の知多市の中学校は校舎被害なく生徒登校  名古屋テレビ【メ～テレ】",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DNnUwM2sxcGViZ1JqUGVFOEY3QjdaS0hpMWxXdktDdmxncEFfNFhNVkljZmVwX3R2UkFkMGFob0E3YzNKZXFOczN3LW5NWXZOQVHSAWRBVV95cUxPNnVCckJISmIwMm9YbktHYktiM2NoSVdObTlPbVV6S0Q1bE1lUnhRTG9nWUJZNWhqVE9kQVUwekRSek5JeWhXNzQ2VnhJblktazFhTkwwREVmNE40WENsbkY1SExk?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-efb222642469b57fee3a3163237412b3",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-10T21:31:25+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-da344689f32b4797bce751bc5d3d5c72",
+            "title": "交番だより(11月号)の紹介",
+            "source": "愛知県",
+            "published_at": "2026-11-10T20:45:09+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "交番だより(11月号)の紹介  愛知県",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbjJzTGRsZHNOWkNZZVRscUlfSldIUWc5dnVGYXZ4OWY0bEtYZEJ0TUhJdm5YQlltTGRfWWZmYTNBSFBoUVZrdjZPMmJIaDAzTVQxS0Q5bE9SVWd0R1pmbkdFNFB1bXpfUTkwRWw3Ynh1VVhDQ3lvUXFEUG1lSVpNWnhwMklJalh0SkE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-1dcbb33bedd9d91afd9b14caed2d0cf3",
+            "title": "盗難車で“上京窃盗”4人逮捕 愛知県内の窃盗グループか 渋谷区の高級マンションで加熱式たばこなど盗んだ疑い",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-10T16:53:19+09:00",
+            "category": "社会",
+            "area": "愛知",
+            "summary": "盗難車で“上京窃盗”4人逮捕 愛知県内の窃盗グループか 渋谷区の高級マンションで加熱式たばこなど盗んだ疑い  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzREpaZHYwOENva1BWLU82eHdFbXVyN2NUa1lCb3Y1TVp2ZndaOXlpbmNRbUh2cVl0MG1udFBBT1R3bnFiVnhGVmF6Q0QxOFQ1OXdiNmxJMk9WM1hFeWR5ZUpfQkk3UnlfZmVVbS1JaGlTSERQbDBFY281MXdtSjQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-1df90d9dd1548e3c0b9dc66c7618634c",
+            "title": "愛知県のインフル感染者、再び増加の兆し 10月26日～11月1日の週、県が注意呼びかけ",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-10T21:39:07+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県のインフル感染者、再び増加の兆し 10月26日～11月1日の週、県が注意呼びかけ  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBdG9MTnJNXy1HZGxhMHlXZi1Hb0NpdDZRNTdEWWk3bllQa0ttV0VCM1FEQ1QyMktJeWdvS21hRHZUakNrbkhyVkFxRi16UThKanBPNQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-2a28c9a841f34407fba987a36996b177",
             "title": "愛知県知事選挙は来年2月7日投開票 地域政党｢減税日本｣からは野口昌一路さんが立候補表明 現在4期目の大村秀章知事は態度明らかにせず",
             "source": "TBS NEWS DIG",
@@ -196,28 +240,6 @@
             "area": "愛知",
             "summary": "愛知県知事選挙は来年2月7日投開票 地域政党｢減税日本｣からは野口昌一路さんが立候補表明 現在4期目の大村秀章知事は態度明らかにせず  TBS NEWS DIG",
             "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14ZlNrc0M4UzMzQjFHR0Qwb2hqYWMwR3BqZmh0U2p6d2RLaUFIZW5XRU9KV2h3a2FwUHBxN01PM0NUSmlaVThmWm4xUnp2MFVmR2paRHdTdUQzUGU5bjVj?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-0c41348ea145ce55b91f46bf265ca636",
-            "title": "【倒産】愛知で焼肉店経営の会社が破産 きっかけは新型コロナ… 外出需要の低迷などで集客落ち込み業績悪化（CBCテレビ）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-10T15:53:14+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "【倒産】愛知で焼肉店経営の会社が破産 きっかけは新型コロナ… 外出需要の低迷などで集客落ち込み業績悪化（CBCテレビ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GaURvei1sckJETjJaQ3VjcUpYbDBZbXJmbHZoRXFMZGNiMnBQZlR2V1diRnpMNGtSUEMxa3dZVFd2U3RTeDhaNVhOaWpCYWVfRlI0Rm93bHMwN1FPVThLWS1wUUhqRmlfeGN1bi1mRXVibVJxaTFpMy1RdnhWUFU?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-c033d6a29c5948bd36bd43d0397fad2e",
-            "title": "これまでに新人1人が立候補の意向…愛知県知事選挙は1/21告示・2/7投開票に 4期目の大村知事は態度明らかにせず",
-            "source": "FNNプライムオンライン",
-            "published_at": "2026-11-10T18:09:04+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "これまでに新人1人が立候補の意向…愛知県知事選挙は1/21告示・2/7投開票に 4期目の大村知事は態度明らかにせず  FNNプライムオンライン",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JaW9GcVJXOEQ3R255NHFrUnhhQ2tNcDBxQ2tUdVlfQWZQcUxDR2RiZlV6Q21zNnR6N2lZVXhlR0c5LVBrZ1N5eUl5NG1NUQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -232,47 +254,36 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-efb222642469b57fee3a3163237412b3",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
+            "id": "news-a6b3aadbe3431b566f4c5e39c8bdbbfc",
+            "title": "愛知県の過去の天気(アメダス・風向・風速・2026年11月)",
             "source": "tenki.jp",
-            "published_at": "2026-11-10T15:31:24+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-87e33534c0d10356302545ece23abaac",
-            "title": "プレスリリース：［愛知県西尾市］11月22日は「三河一色うなぎの日」！お得な限定メニューや抽選でプレゼントがあたる消費拡大キャンペーンを開催。あわせて「三河一色うなぎガイドブック」で産地の魅力を発信（PR TIMES）",
-            "source": "毎日新聞",
-            "published_at": "2026-11-10T17:23:19+09:00",
-            "category": "観光・イベント",
-            "area": "三河",
-            "summary": "プレスリリース：［愛知県西尾市］11月22日は「三河一色うなぎの日」！お得な限定メニューや抽選でプレゼントがあたる消費拡大キャンペーンを開催。あわせて「三河一色うなぎガイドブック」...",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFenZJUERSc3JOQmRTNTZOWGQ3WVZvNzA5Nkt0cjI1eGh4TW40RGI1STJrVkRWODdHY1pQaFhMREI1Rjg3SnI5RW9WSVlja1hyc3d6WHNrbDYzaG9yZk5Yd1hEOXl5RXdW?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ca3c29de678c3fa7c36ca4f21ea32e29",
-            "title": "技能五輪全国大会・全国障害者技能競技大会愛知県選手団結団式。",
-            "source": "選挙ドットコム",
-            "published_at": "2026-11-10T19:06:46+09:00",
+            "published_at": "2026-11-10T18:31:25+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "技能五輪全国大会・全国障害者技能競技大会愛知県選手団結団式。  選挙ドットコム",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lU0wxWEdpaE91NzlZOVZUMnJSNFpQOC1UWHZ1ZFhfNTZ6SFpaUU5Pd2thenRYMWNkaXNUNnZMUXppZnlTMkpfNFpnU0RKcUpWX2stNkJROHJWSExXVnc?oc=5",
+            "summary": "愛知県の過去の天気(アメダス・風向・風速・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NZmt4eTY3SHV4MTJ2RGIyOGpBSVo0OEIwelZQR2VGVG1QWFJrTXdkS1dFXzZteWwwb1lqOWJrQkFoVnVwdzBRVVJXX3gySXYzODB2dXZGbGpiekk?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-6079790e8a34fd049159c64578256c89",
             "title": "愛知県知事選挙は来年1月21日告示 2月7日投票",
             "source": "NHKニュース",
-            "published_at": "2026-11-10T16:27:42+09:00",
+            "published_at": "2026-11-10T16:27:00+09:00",
             "category": "市政・行政",
             "area": "愛知",
             "summary": "愛知県知事選挙は来年1月21日告示 2月7日投票  NHKニュース",
             "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04TllqUFBKRUlXMFlpRnktdFVUcE0wX1JhZW4yd3B0RWwzR3FYSlF6TWRndmk3QTlfSmVGWWpfZjFtMmtMRDRYQXZsY0xxMGNOcFJtNnR4MFFHb1ZsWmFR?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-6c03eb3b81eeed0a6d854fb22e706387",
+            "title": "藤凌駕が豊昇龍破り初金星 愛知県出身では琴光喜が武蔵丸に勝って以来",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-10T20:32:25+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "藤凌駕が豊昇龍破り初金星 愛知県出身では琴光喜が武蔵丸に勝って以来  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KSGxwQkhWNnh5TGVGbUFxMWQ2a091OE0tN2pnSnlMVkV3QW1RNzV5Z20teERlOGlTdGFIYktGV1ozVFZZX21kZFZaU1JmZVFyeEp0Zw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -287,6 +298,17 @@
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-4165aed9806a39875aad7113fbda3608",
+            "title": "愛知県で最大震度5強 学校施設が壊れる被害で小学校2校が臨時休校に トヨタ自動車は点検・確認の上でけさから全工場が稼働",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-10T16:31:00+09:00",
+            "category": "ビジネス",
+            "area": "愛知",
+            "summary": "愛知県で最大震度5強 学校施設が壊れる被害で小学校2校が臨時休校に トヨタ自動車は点検・確認の上でけさから全工場が稼働  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EMVFLQlpfOE9aVG5MVVBSdWNmQXdQcHpwa2lRclJRUGJ2T2VGT0tTc3BWemhOREZycVU5RHpVVnVfRnhwZ3BZVHRSbzdrd1Y1ZWpJTlVuMWdJbG1YLXZr?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-340622bf9b687f4f59da3ed20d037dd7",
             "title": "愛知県知事選挙 2027年1月21日告示、2月7日投開票と決定（2026年11月9日掲載）｜中京テレビNEWS NNN",
             "source": "日テレNEWS NNN",
@@ -298,26 +320,15 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-3fa7333643308e27a4456092fb0e2370",
-            "title": "災害時の断水にどう備える… 隣接する町から｢緊急連絡管｣で送水訓練 操作手順や水質を確認 愛知･大府市",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-11-10T18:28:00+09:00",
+            "id": "news-0c41348ea145ce55b91f46bf265ca636",
+            "title": "【倒産】愛知で焼肉店経営の会社が破産 きっかけは新型コロナ… 外出需要の低迷などで集客落ち込み業績悪化（CBCテレビ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-10T15:53:14+09:00",
             "category": "一般ニュース",
-            "area": "尾張",
-            "summary": "災害時の断水にどう備える… 隣接する町から｢緊急連絡管｣で送水訓練 操作手順や水質を確認 愛知･大府市  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YTVFwd0xiMXkwZ21HSENKSUlSNEJNZnhwdlBwMm9HLW56YWVLUVZvbUVsTW5MbFhLcDZvYl9sYm11NU8zWHI5NVhrbFBBd3BXQ09oUXJzQUtnUQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-9c5a65669c5f76316b03b5fa9f430459",
-            "title": "愛知県の過去の天気(アメダス・降水量・2026年11月)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-10T03:31:25+09:00",
-            "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県の過去の天気(アメダス・降水量・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11bG5iSHVwQXlacml3M3VOa1FsRjVNcjVWTFVqeWFZYkcxbWc1RXJZb29xVTdkLWZLLU1fbmphclhKdF9iMHV0SGdqOExUNUp2c1lZTHdZbFhVNFB6RFE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "【倒産】愛知で焼肉店経営の会社が破産 きっかけは新型コロナ… 外出需要の低迷などで集客落ち込み業績悪化（CBCテレビ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GaURvei1sckJETjJaQ3VjcUpYbDBZbXJmbHZoRXFMZGNiMnBQZlR2V1diRnpMNGtSUEMxa3dZVFd2U3RTeDhaNVhOaWpCYWVfRlI0Rm93bHMwN1FPVThLWS1wUUhqRmlfeGN1bi1mRXVibVJxaTFpMy1RdnhWUFU?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
