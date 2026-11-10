@@ -1,16 +1,27 @@
 {
-    "last_updated": "2026-11-10T03:32:24+09:00",
-    "update_session": "夕刊便（17:00配信）",
+    "last_updated": "2026-11-10T13:00:22+09:00",
+    "update_session": "昼刊便（12:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "くもり　所により　夜　雨",
-        "icon": "🌧️",
-        "temp_max": 18,
-        "temp_min": 11,
+        "condition": "くもり　夕方　から　晴れ",
+        "icon": "☀️",
+        "temp_max": 17,
+        "temp_min": 17,
         "rain_prob": "0%"
     },
-    "total_count": 29,
+    "total_count": 30,
     "articles": [
+        {
+            "id": "toyohashi-city-e3693baef137a86686333bf4d94d44c1",
+            "title": "システム障害によりコンビニ交付サービスが利用できません",
+            "source": "豊橋市役所",
+            "published_at": "2026-11-10T09:00:00+09:00",
+            "category": "市政・くらし",
+            "area": "豊橋",
+            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
+            "url": "https://www.city.toyohashi.lg.jp/item/110121.htm#itemid110121",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
         {
             "id": "toyohashi-city-0d47ae31780587e88440d8f2db21bcf5",
             "title": "夜間・休日HIV検査のお知らせ",
@@ -67,14 +78,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "toyohashi-city-737d03076f255820c4d7ff2e5c5b8516",
-            "title": "令和８年度豊橋市任期付職員採用候補者試験【事務職（11月募集）】",
-            "source": "豊橋市役所",
-            "published_at": "2026-11-02T23:59:00+09:00",
+            "id": "news-33b548df8f2deb322cda14a0fb262522",
+            "title": "外国人就労者交流イベント「Eat＆Meet!! 多文化交流キッチン」 学生と料理を味わいながら歓談",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-10T12:24:40+09:00",
             "category": "観光・イベント",
             "area": "豊橋",
-            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
-            "url": "https://www.city.toyohashi.lg.jp/item/126367.htm#itemid126367",
+            "summary": "外国人就労者交流イベント「Eat＆Meet!! 多文化交流キッチン」 学生と料理を味わいながら歓談  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aWWJaOTRBQWlSYzg3Z3ZHTmtVSGNwc255M0hONnhlaEwycXZHaFJqY3JsSWsyRE45d2tyQXNZSHhSdFZEN3JzY1V1LVJCQXVZWFFsbHBYTGdyRkFW?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-354d8334f55ba34739f150ad81239d05",
+            "title": "店舗のガラスが割れるなど被害 散乱し片付け続く 愛知・豊橋市（テレビ朝日系（ANN））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-09T20:58:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "店舗のガラスが割れるなど被害 散乱し片付け続く 愛知・豊橋市（テレビ朝日系（ANN））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Iekc5UmdCVmZPcldRbERsRW9iUkN2MFlDdWVYeXpqcURncEdRdG1KSGFJcTBJQWJJb3hXRERCQnl6ZXJsTkM1Uml3bDZLMHRTakdpdmpZNVNXN1VJYnZ5bS1RSVk2aWFmLTc1b1d0TzdnSEdJcTdRU0t5Q1lybGc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -89,39 +111,6 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-33b548df8f2deb322cda14a0fb262522",
-            "title": "外国人就労者交流イベント「Eat＆Meet!! 多文化交流キッチン」 学生と料理を味わいながら歓談",
-            "source": "東愛知新聞",
-            "published_at": "2026-11-10T00:00:00+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "外国人就労者交流イベント「Eat＆Meet!! 多文化交流キッチン」 学生と料理を味わいながら歓談  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aWWJaOTRBQWlSYzg3Z3ZHTmtVSGNwc255M0hONnhlaEwycXZHaFJqY3JsSWsyRE45d2tyQXNZSHhSdFZEN3JzY1V1LVJCQXVZWFFsbHBYTGdyRkFW?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-95002c5e341b2de5454b3386c4764759",
-            "title": "約３０年ぶりだった愛知震度５強、南海トラフ「過度に恐れる必要はない」と気象庁…計２２人が重軽傷",
-            "source": "読売新聞",
-            "published_at": "2026-11-09T13:30:00+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "約３０年ぶりだった愛知震度５強、南海トラフ「過度に恐れる必要はない」と気象庁…計２２人が重軽傷  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxLU5MMDJ6eVFobUZiQXBLV3RHdGZ6UnM0MmhlaHJZMDZzcGV3c3d2UVFlSXlCYzRoNWtLZ0pVMDQtMzNlY2pFdUdNRmtTMlpybkxmZ1VjX1gxbzFoTm9JT2h4SUxmQQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-907da7e34d0c23a8e3abc148f2073a4c",
-            "title": "12/4（金）北海道戦 追加座席販売のお知らせ",
-            "source": "三遠ネオフェニックス",
-            "published_at": "2026-11-09T12:27:48+09:00",
-            "category": "スポーツ",
-            "area": "豊橋",
-            "summary": "12/4（金）北海道戦 追加座席販売のお知らせ  三遠ネオフェニックス",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJSkhjVEMxX2M0U0xVSEF4RmhXR2h2dVhPam5PMWpjMUo5eVo0NS04NzlGYUFFNFpYQm5VQ1B2bjhYaTVVaFd6dVo0NFltN1llX05aTk9HZ0puZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-5f72d98022d762cc57797157d4c4bca2",
             "title": "車同士が正面衝突する事故 男性が意識不明の重体 愛知・豊橋市（2026年11月7日掲載）｜中京テレビNEWS NNN",
             "source": "日テレNEWS NNN",
@@ -131,17 +120,6 @@
             "summary": "車同士が正面衝突する事故 男性が意識不明の重体 愛知・豊橋市（2026年11月7日掲載）｜中京テレビNEWS NNN  日テレNEWS NNN",
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVm9JeEg3akljWC1XbXVWVEpKc0FyNmEzZnNURFNXN0xqc294Q3RuUUdrMlVfNFBkU25Uc0hCOTMwaHczSG5RYUtxRTdtaDlpcElZclFib3JIQ3FNbkRyUE5XVHpKSkFldGF2MWluaEtHc1lMNlVDckVQbGVHWHdIQ3FZaG5keDQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-510e654008ed826c0e42acf4df80a427",
-            "title": "店舗のガラスが割れるなど被害 散乱し片付け続く 愛知・豊橋市",
-            "source": "テレ朝NEWS",
-            "published_at": "2026-11-08T12:08:08+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "店舗のガラスが割れるなど被害 散乱し片付け続く 愛知・豊橋市  テレ朝NEWS",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YcHJBZlNhVU1qdlVwaE55VjlpMDgtM2hVa01FbmpEUERSZ0VlZFRVRlROZkFoOVRnb1F4X0ZVOHE0TGdqd3ZjZGs4ZmpHallUWWpzbHVsWUpEckl5MjZYZUJQWUNhYjloUWdCdktrc2lyQQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-584897feba4af57bcab50b28eedadf56",
@@ -155,17 +133,6 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-85c8f7a30aeecf4b1d16d4b47e850b31",
-            "title": "愛知で29年ぶり震度5強、19人けが ショールームのガラス粉々に（朝日新聞）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-08T03:52:12+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "愛知で29年ぶり震度5強、19人けが ショールームのガラス粉々に（朝日新聞）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfekRRanU2cXVSZnA4Z3RqVG5ubVl4MTNSZFBaczRfTVVDcVlnS3VScDc1X2Rzb19TWVVjbS1qMDcwT2lFcGFmb2drdnN2Y0hJMGRZd3Qya0RoenhidXJNSV9NMjA0ZTJtOWdLdDd5ODJHTUFub18xakczRVNfc1U?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-63fef02384cf8a033d6acd50aebaed87",
             "title": "【豊橋市】「アウディ豊橋」が地震被害のため当面臨時休業に。新栄町にて仮営業を実施へ",
             "source": "地域ニュースサイト号外NET",
@@ -177,36 +144,58 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-c4204044ea2c1938010bb3b5bf7d8fc5",
-            "title": "地震でガラス割れたショールーム 当面臨時休業 愛知 豊橋",
-            "source": "NHKニュース",
-            "published_at": "2026-11-09T17:53:00+09:00",
+            "id": "news-95002c5e341b2de5454b3386c4764759",
+            "title": "約３０年ぶりだった愛知震度５強、南海トラフ「過度に恐れる必要はない」と気象庁…計２２人が重軽傷",
+            "source": "読売新聞",
+            "published_at": "2026-11-09T13:30:00+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "地震でガラス割れたショールーム 当面臨時休業 愛知 豊橋  NHKニュース",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UN20tN2dQUlBMMlFxdHh3MmhHVkxhVDJKS1JRbi1hV19XdHpYN3RvaWJkdURGMC1pYUloc3hwZy03aENKamFCMi1UTm9Qa2NFMlVpMXc1UF9YSm96cHFF?oc=5",
+            "summary": "約３０年ぶりだった愛知震度５強、南海トラフ「過度に恐れる必要はない」と気象庁…計２２人が重軽傷  読売新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxLU5MMDJ6eVFobUZiQXBLV3RHdGZ6UnM0MmhlaHJZMDZzcGV3c3d2UVFlSXlCYzRoNWtLZ0pVMDQtMzNlY2pFdUdNRmtTMlpybkxmZ1VjX1gxbzFoTm9JT2h4SUxmQQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-4211136f360e939d93db4fe23725a31a",
+            "title": "愛知県内では29年ぶりの震度5強 11月8日未明の地震、各地で被害",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-10T12:14:30+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "愛知県内では29年ぶりの震度5強 11月8日未明の地震、各地で被害  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qUllIQkhEWngyQ01XLTZVODZVU2dvT0lqTERVRXcxcEFqWFlDMEgxNTc5bDFkdXlnUGFPS2dXZS1ZXzlDV2FESUhEaU05a2MyV0NDYndNSXBhczZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
+            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
+            "source": "ウォーカープラス",
+            "published_at": "2026-11-10T01:19:26+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-dde3a41d3fd0289cac1c5cee94f4c37b",
+            "title": "豊橋市【廃プラスチックの判断は、契約書だけでは決まりません】私は、野積み廃プラから町民を守る会...",
+            "source": "選挙ドットコム",
+            "published_at": "2026-11-09T20:41:25+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "豊橋市【廃プラスチックの判断は、契約書だけでは決まりません】私は、野積み廃プラから町民を守る会...  選挙ドットコム",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZMFRrZUpuWDZCRnU1bFdxMEVadlEzWkVhYnpMTXliY2xfR0o3andhNzRqZWhuVlZnQktPcGhvQWF3b0JkQ3VhX0JPVlF2U0NQRkpWUzRkS21lLU1kZEVz?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-efb222642469b57fee3a3163237412b3",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
             "source": "tenki.jp",
-            "published_at": "2026-11-10T00:31:25+09:00",
+            "published_at": "2026-11-10T09:31:25+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f2e91dc1f9a3dc7079a39d974678c381",
-            "title": "愛知県知多市で震度5強、愛知・静岡・長野で計25人けが 震源地は愛知県東部、南海トラフとの関連性「低い」",
-            "source": "中日新聞Web",
-            "published_at": "2026-11-09T21:51:00+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "愛知県知多市で震度5強、愛知・静岡・長野で計25人けが 震源地は愛知県東部、南海トラフとの関連性「低い」  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JY1FyRXRGdkw2VFhGSHp3bVZCYWJCZHNyTDlEdXNWWlEzakJyYUZ6TDByYmViSDZSUWJfck1UUFB4ZzAteHFwM0x4SGtpZjdwekRhQw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -221,6 +210,94 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-f1c08112153564b0936a2995e290b848",
+            "title": "都内の高級マンションに侵入し窃盗か 愛知県から来た男4人を逮捕 県内のグループが都内で繰り返した窃盗事件にも関与か",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-10T12:37:27+09:00",
+            "category": "社会",
+            "area": "愛知",
+            "summary": "都内の高級マンションに侵入し窃盗か 愛知県から来た男4人を逮捕 県内のグループが都内で繰り返した窃盗事件にも関与か  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mSWZpUV9LY3hQT0JReGZYM0VwWjY3ZVFhNHRmT29wVWU1RU84enlTQ3g3MmVhajZwQ3FVa29TV1g4N2xjbEVTMnZBOE9MMDk3aXRFazdEYjZFSGozLUJJVHQ5UjlCTWNTU0ZKY2VtMVZUaGFyY2ZEZFFlZGtlc0E?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f2e91dc1f9a3dc7079a39d974678c381",
+            "title": "愛知県知多市で震度5強、愛知・静岡・長野で計25人けが 震源地は愛知県東部、南海トラフとの関連性「低い」",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-09T21:51:00+09:00",
+            "category": "市政・行政",
+            "area": "尾張",
+            "summary": "愛知県知多市で震度5強、愛知・静岡・長野で計25人けが 震源地は愛知県東部、南海トラフとの関連性「低い」  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JY1FyRXRGdkw2VFhGSHp3bVZCYWJCZHNyTDlEdXNWWlEzakJyYUZ6TDByYmViSDZSUWJfck1UUFB4ZzAteHFwM0x4SGtpZjdwekRhQw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-8f1131bca6cd12aa173e42b02e2ce803",
+            "title": "愛知から車で上京し窃盗か…男4人逮捕 相次ぐ“貸金庫窃盗”関連調べる（2026年11月9日掲載）｜日テレNEWS NNN",
+            "source": "日テレNEWS NNN",
+            "published_at": "2026-11-10T11:59:01+09:00",
+            "category": "社会",
+            "area": "愛知",
+            "summary": "愛知から車で上京し窃盗か…男4人逮捕 相次ぐ“貸金庫窃盗”関連調べる（2026年11月9日掲載）｜日テレNEWS NNN  日テレNEWS NNN",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2RUxJeldSUGtwUDhnN3JVbFdjV2RoeUtmZE9jX0JlNWtyWTk0M05ONS1vVmk5eS1MVmhUamY3cVZMTFFUdjBYSnVkZFp4RUxNZVZGQ1NfQWo3YnREaWxTR0gyZUg0NXJmTFlSWWhGWEU2cTRETFJDaUdZRlg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-9446257d1bb2eae0b4292fddba8fd69d",
+            "title": "きのう愛知県で震度5強観測した地震 気象庁が震源を「愛知県東部」に変更 南海トラフ巨大地震の可能性高める変化は観測されず プレート状態に変化なし",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-09T17:48:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "きのう愛知県で震度5強観測した地震 気象庁が震源を「愛知県東部」に変更 南海トラフ巨大地震の可能性高める変化は観測されず プレート状態に変化なし  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93bTQ1cXJpZnNmaV8tZG9ZbmE3VURUcXIwZi16ekFyQ25lNThhZVFNX0E0ckR4cjRXam1qcnk0aFVQdng2UUNuMVRLZlF3MEdXUUtnUm1PRQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-cd6e409cce0c4253a858f04ff2642da5",
+            "title": "愛知で震度５強 ２９年ぶり観測 ３県２４人重軽傷",
+            "source": "朝日新聞",
+            "published_at": "2026-11-10T05:00:00+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "愛知で震度５強 ２９年ぶり観測 ３県２４人重軽傷  朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83NzNlZVVKUVV0ZER6OGdSektGVHRJZldYbXBUNVhxZ2FveXNZNkl5M1d3WmotUXlTb1k5V2ZLY1VVOWoyOHFFTlQybXdJbFE0TGhCUlF3UDBaZkhS?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-9c5a65669c5f76316b03b5fa9f430459",
+            "title": "愛知県の過去の天気(アメダス・降水量・2026年11月)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-10T03:31:25+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の過去の天気(アメダス・降水量・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11bG5iSHVwQXlacml3M3VOa1FsRjVNcjVWTFVqeWFZYkcxbWc1RXJZb29xVTdkLWZLLU1fbmphclhKdF9iMHV0SGdqOExUNUp2c1lZTHdZbFhVNFB6RFE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-e23eb0ef850fc30fc6510adb6b333862",
+            "title": "「レギュラーガソリンが安い都道府県」ランキング！ 2位は「愛知県（161.6円）」、1位は？【2026年11月8日時点】（ねとらぼ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-10T09:10:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "「レギュラーガソリンが安い都道府県」ランキング！ 2位は「愛知県（161.6円）」、1位は？【2026年11月8日時点】（ねとらぼ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iUzB5NlFBRUs4X0FMZGU5eGZuZmJrSzgxRmRsd3VOc3FFWXFONFpPa0xCSzg2YVdNOWVRUEp3NjVOdWlHaVFUdXIzV0F0bDMzaU9YbkFRdjNOTjVWdlRIamhjYm9XNmRVckJ1U05ObjNVS1NwcjZPcndtdmpXTGc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-66cd3502845fb1cebc2b054bdbcb8273",
+            "title": "愛知県の過去の天気(実況天気・2026年11月09日)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-10T03:29:16+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の過去の天気(実況天気・2026年11月09日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1talJRaUZxZnV2Nkx3UDhjeFdIc243MktBRlEzM0RIcVJ2V2VpVEQ0RS1qRDhxWlh1Q2pQVVBaNlpxZ2NlUWl3THBDQmpqTzVDUzB6QVBJTHhxdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-70a5dca4876581075b95db1662cfad6c",
             "title": "震度5強地震、震源を愛知県東部に更新（共同通信）",
             "source": "Yahoo!ニュース",
@@ -232,102 +309,36 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-68c2ddf78f5e3b6a1623c7cd489f9a92",
-            "title": "愛知県で最大震度5強 学校施設が壊れる被害で小学校2校が臨時休校に トヨタ自動車は点検・確認の上でけさから全工場が稼働",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-11-09T11:53:00+09:00",
-            "category": "ビジネス",
-            "area": "愛知",
-            "summary": "愛知県で最大震度5強 学校施設が壊れる被害で小学校2校が臨時休校に トヨタ自動車は点検・確認の上でけさから全工場が稼働  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xQVdza0VIdEpwT3NFU3dwUHNSY3NtNE05NzNlQlh4NlFvZXBDdFR5bWo2bGJUUWNQTUNqV1pxYzc2UGo3MWtkalROMlFPN0Y3ajN3MXZIdw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-fa895d69cd05c4ff62bc1a4d98c42cff",
-            "title": "あいちの人口（2026年10月1日現在） 愛知県人口動向調査結果 月報",
-            "source": "愛知県",
-            "published_at": "2026-11-09T10:52:21+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "あいちの人口（2026年10月1日現在） 愛知県人口動向調査結果 月報  愛知県",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zd2NnV3l3Sm9RNzk4OXNvNWRpZHlPU0lpbURQbWJRUnZjSzVRaWd0cERpY2VaRzdzanppYko0ZTlMc1FzejBuOFg3UW5pWmt3bVItZFhjNk01b1VUQjJobjA1bGVKN0RaRGpUUWZhSDNLUWd3ZVVR?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-67ddf4768e208c75e61fa1466b8e4758",
-            "title": "気象庁が震源を精査し修正…8日未明に最大震度5強を観測した地震 震源は静岡県西部でなく“愛知県東部”",
-            "source": "FNNプライムオンライン",
-            "published_at": "2026-11-09T20:58:26+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "気象庁が震源を精査し修正…8日未明に最大震度5強を観測した地震 震源は静岡県西部でなく“愛知県東部”  FNNプライムオンライン",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RZWN1OEFDY3ZmVzRfUjNCdEQtUVdZQXlQWmZQQ1hnaTFfNE5wVGNQeGQ4X2g4Rmhqc2hqYVhONGxFV1hOWnhvVDRlWGNYdw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-7444d8f9e9f710ab0d7d1a157c60de6e",
-            "title": "「人生で一番揺れた」愛知で震度5強は約30年ぶり……「震度以上の揺れ」激しい爪痕",
-            "source": "日テレNEWS NNN",
-            "published_at": "2026-11-09T23:42:01+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "「人生で一番揺れた」愛知で震度5強は約30年ぶり……「震度以上の揺れ」激しい爪痕  日テレNEWS NNN",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZUHhnSWFSNkV4MTM1MDdOU3FzSVQ0eVQ4bEROM09qLTVtYVV6U2xHamRyZHNRWk9nZmpadmtvNzI5dlcxbjU1elEybW1reUF6VTNuaGdFNlBidUtpdDZLNDV3OXQ1cUEzRW1STlNUUEVVNDVVX3ZKcndJbUw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-6ed19fc9d2cc46014c983e1e788c14e4",
-            "title": "きのう愛知県で震度5強観測した地震 気象庁が震源を「愛知県東部」に変更 南海トラフ巨大地震の可能性高める変化は観測されず プレート状態に変化なし（TBS NEWS DIG Powered by JNN）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-09T17:46:20+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "きのう愛知県で震度5強観測した地震 気象庁が震源を「愛知県東部」に変更 南海トラフ巨大地震の可能性高める変化は観測されず プレート状態に変化なし（TBS NEWS DIG Powe...",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QY25MUlFxd1piRWxqdzYyT0ZjWGtoWU1lYWNJYTlHTHJJMktvVUVUNU9ITlpROFJoN3o4REpiR1FJcEFDQ1VVOXdhTVV5amhHS21WeFhCT2hkTTJRUlZvR3JUbl94RG1Hc1NfeURKOV9KMnRTRk05RzV0dUxoVkU?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f01eafe30ef5763abb87259bef083b32",
-            "title": "愛知県の過去の雨雲レーダー(2026年11月09日)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-10T00:22:03+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の過去の雨雲レーダー(2026年11月09日)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10SDlRcmNvaWZIeXFtVlRjRGxyWEJUOGk5dXhjZEREWlNXV25YVDNKWWlPaDhBVzVQbXhlZ0RGTWVxc1k3SXJQV0VFejUzcnp0LXRIREhnbw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-84ec6d9ae4624da06ae59acdb7893729",
-            "title": "愛知で震度5強は約30年ぶり 名古屋でも震度4 「ここまでの被害は初めて…」 ガラスが粉々に割れた自動車販売店（CBCテレビ）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-09T17:43:13+09:00",
-            "category": "一般ニュース",
-            "area": "名古屋",
-            "summary": "愛知で震度5強は約30年ぶり 名古屋でも震度4 「ここまでの被害は初めて…」 ガラスが粉々に割れた自動車販売店（CBCテレビ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54Z0NibmF2YTh5bFVoM2ZIQUZEUHQ0Nm1wT0IteFdwOVNLSW54Y1FWZDdseDN4SWlyYVJ6aGx1azd3MzA3NXZoYXVEdjhTZ0VlUWc2VnBIX3BtWVpvb0pnSjlMNGpCdkdFYkFtMzRhM2o1TTlabEQ3cGVCQUc1VkE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-e8625042ace66ef391b6b5d1e0daaa6b",
-            "title": "映画評論家の森卓也さん死去、93歳 愛知県一宮市出身、アニメ研究の先駆者",
-            "source": "中日新聞Web",
-            "published_at": "2026-11-09T23:09:35+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "映画評論家の森卓也さん死去、93歳 愛知県一宮市出身、アニメ研究の先駆者  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tZ2g1R00zU0FCMDN0MG0tWERFcGZvSnpab0dabEdTTHhNc0hKX3VaMzNSNndNLTZxSnY0ZHB5S3kzNExtQy1Nam1obDBROHk2YzRKR2JTcGRqMGtBTGEySGhB?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-ae08bf1e9657f3ff4d6679e40517c065",
             "title": "愛知県の過去の天気(雨雲レーダー・2026年11月)",
             "source": "tenki.jp",
-            "published_at": "2026-11-09T15:31:25+09:00",
+            "published_at": "2026-11-10T03:31:25+09:00",
             "category": "市政・行政",
             "area": "愛知",
             "summary": "愛知県の過去の天気(雨雲レーダー・2026年11月)  tenki.jp",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92UHYyamJpOWZGRm9FWVRYVDU1a1dVN3paZXl2R292WnRFUlhCbGUwaFA0MndBcC1tZUFDblEya1Y0azJhdWpTQmVfWW40ZGlzUkdZ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-1beb9676974d7497f840ba41beb63fba",
+            "title": "「準備体制」で情報収集 愛知の地震で三重県 余震の恐れ、警戒継続（伊勢新聞）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-10T08:03:04+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "「準備体制」で情報収集 愛知の地震で三重県 余震の恐れ、警戒継続（伊勢新聞）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FVXhRM1RYSjBxbUNpbkxHSlV3ZU9BVzBqYjJRZkc1TmYwTGt2bVB4Mm5Jekp2MWdVZ2tfOGZqazEwTldYV1NnZjBvSW5IbHZheEdMU0I5RjFQUzZYbnFqSGV6dmgzRElhTHI3bjBEcVA5dzRlZnd1Z0pxQ19MZFk?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-3daf4df4bc27660b7173bf482bf1d6e8",
+            "title": "愛知で最大震度5強 大村知事が改めて備え呼びかけ 20人ケガ 建物損壊14棟に 県営施設は「異常なし」（CBCテレビ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-10T12:05:23+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知で最大震度5強 大村知事が改めて備え呼びかけ 20人ケガ 建物損壊14棟に 県営施設は「異常なし」（CBCテレビ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tTWFmSThHWHMzV3FhX19UZ3N1Q3BtaVNGYVVSakJ0ZDJtMUowMzRhSXBoYld3a2hodjJpQTN3TnA0dlp0X1BuZHV0b1NxSDdzY0VPX3dmeDIzampNMjczMzdUU200MU9Tc1EzV1VRLTk0aEZZekMxRHBuMmVsdjA?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
