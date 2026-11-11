@@ -1,16 +1,27 @@
 {
-    "last_updated": "2026-11-11T10:47:52+09:00",
-    "update_session": "朝刊便（07:00配信）",
+    "last_updated": "2026-11-11T19:37:38+09:00",
+    "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
         "condition": "晴れ",
         "icon": "☀️",
         "temp_max": 19,
-        "temp_min": 19,
+        "temp_min": 8,
         "rain_prob": "0%"
     },
-    "total_count": 29,
+    "total_count": 27,
     "articles": [
+        {
+            "id": "toyohashi-city-7f1dd24292c8328989198bc0d930d11d",
+            "title": "こども性暴力防止法がスタートします",
+            "source": "豊橋市役所",
+            "published_at": "2026-11-11T16:13:00+09:00",
+            "category": "市政・くらし",
+            "area": "豊橋",
+            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
+            "url": "https://www.city.toyohashi.lg.jp/item/126535.htm#itemid126535",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
         {
             "id": "toyohashi-city-c95b5fda0ca9f67d85252882e552a55d",
             "title": "【復旧しました】システム障害発生によりコンビニ交付サービスが利用できません",
@@ -67,25 +78,36 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "toyohashi-city-1444dbb6a7feb62ccbd07efc372d570b",
-            "title": "現在、市役所の電話は発信も着信も繋がりにくくなっております。原因は調査中です。",
-            "source": "豊橋市役所",
-            "published_at": "2026-11-05T16:36:00+09:00",
-            "category": "市政・くらし",
-            "area": "豊橋",
-            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
-            "url": "https://www.city.toyohashi.lg.jp/item/126549.htm#itemid126549",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-4211136f360e939d93db4fe23725a31a",
             "title": "愛知県内では29年ぶりの震度5強 11月8日未明の地震、各地で被害",
             "source": "東愛知新聞",
-            "published_at": "2026-11-11T08:24:08+09:00",
+            "published_at": "2026-11-11T17:30:12+09:00",
             "category": "市政・行政",
             "area": "豊橋",
             "summary": "愛知県内では29年ぶりの震度5強 11月8日未明の地震、各地で被害  東愛知新聞",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qUllIQkhEWngyQ01XLTZVODZVU2dvT0lqTERVRXcxcEFqWFlDMEgxNTc5bDFkdXlnUGFPS2dXZS1ZXzlDV2FESUhEaU05a2MyV0NDYndNSXBhczZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-c7bc43d130dd10ea8f9d9d5f1e5bd738",
+            "title": "ママがかなえるストーリー、一緒に見てて 豊橋市で「応援起業塾」子どもと参加OK",
+            "source": "47NEWS",
+            "published_at": "2026-11-11T17:45:51+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "ママがかなえるストーリー、一緒に見てて 豊橋市で「応援起業塾」子どもと参加OK  47NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMREhMTFhraEdtUUwxLWtrc0lRT1FJT1ZoZGNiMWJ6ZHdxWmhDU1JuQUpSUUdQbUZxQkl0dFY1b2lVbUZWMV9zckFzYw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-70c936ab0e15922e391d10965e07293e",
+            "title": "愛知県の雨雲レーダー(予報)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-11T17:05:31+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -111,25 +133,14 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-0941b18ae08f8479adc90a5ad030543b",
-            "title": "【震度５強地震・各地の状況は】愛知県豊橋市で自動車販売店の窓ガラス割れる 春日井市では水道管の破裂も",
-            "source": "中日新聞Web",
-            "published_at": "2026-11-09T19:19:00+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "【震度５強地震・各地の状況は】愛知県豊橋市で自動車販売店の窓ガラス割れる 春日井市では水道管の破裂も  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lQXFrTUt6Wk9XNVBNNEJ4aTEyQkJUbUR2RzdTdWpnYkpicnhyUVItTlVQZXFuLTl1dUp3Z3FYeHp1VTZnZlptNmFmZ2NhNUtEMEJNdg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-3440a088c10cfa7bc8b13bc0d0d37471",
-            "title": "【豊橋市】先日、豊橋市の保守派有志・古山よしはるさんと愛知大学豊橋キャンパス内にある帝国陸軍第...",
+            "id": "news-ef7b5430c5852a6668fc76069e4b8f7e",
+            "title": "豊橋市【挨拶運動】おはようございます☀‼️早朝6:00台の駅は寒かったです😊寒い中、一緒に頑張...",
             "source": "選挙ドットコム",
-            "published_at": "2026-11-10T23:36:57+09:00",
+            "published_at": "2026-11-11T12:39:07+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "【豊橋市】先日、豊橋市の保守派有志・古山よしはるさんと愛知大学豊橋キャンパス内にある帝国陸軍第...  選挙ドットコム",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pNmRHaVlsUXRSUDk5V0RBUzZVS2lhM1FvUUhPWWdITUF3elBBaGNsOEVpZlRWeXJzUU9vUnVvYXZielpBalEzV0I1eGV0eFNudWp1d1NEOUhBTnM4ODM0?oc=5",
+            "summary": "豊橋市【挨拶運動】おはようございます☀‼️早朝6:00台の駅は寒かったです😊寒い中、一緒に頑張...  選挙ドットコム",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PYmRwY1g0cVc5aEFlVU0tZEFvVkc0bWoxbVBKWENLellJd2dEU3ZSOGlmRDRtRVdIMTlPS3hMdjRMeC1mMUM5UmZYSDFEWmtQZ0pRRkZzT1FJd1piSm5j?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -147,7 +158,7 @@
             "id": "news-fbc22fbf91ae1c5e72c1f7dd3447a1cb",
             "title": "「通過点から目的地へ」 豊橋でタウンミーティング サーラ神野CEOが基調講演",
             "source": "東愛知新聞",
-            "published_at": "2026-11-11T08:01:42+09:00",
+            "published_at": "2026-11-11T14:01:43+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
             "summary": "「通過点から目的地へ」 豊橋でタウンミーティング サーラ神野CEOが基調講演  東愛知新聞",
@@ -155,43 +166,10 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-95002c5e341b2de5454b3386c4764759",
-            "title": "約３０年ぶりだった愛知震度５強、南海トラフ「過度に恐れる必要はない」と気象庁…計２２人が重軽傷",
-            "source": "読売新聞",
-            "published_at": "2026-11-09T13:30:00+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "約３０年ぶりだった愛知震度５強、南海トラフ「過度に恐れる必要はない」と気象庁…計２２人が重軽傷  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxLU5MMDJ6eVFobUZiQXBLV3RHdGZ6UnM0MmhlaHJZMDZzcGV3c3d2UVFlSXlCYzRoNWtLZ0pVMDQtMzNlY2pFdUdNRmtTMlpybkxmZ1VjX1gxbzFoTm9JT2h4SUxmQQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-70c936ab0e15922e391d10965e07293e",
-            "title": "愛知県の雨雲レーダー(予報)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-10T07:16:07+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-07154fdb390442bfa0ccf58b8b5672af",
-            "title": "岡田建設・東海興業 豊橋工科高校生徒招き見学会",
-            "source": "建通新聞",
-            "published_at": "2026-11-10T18:45:00+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "岡田建設・東海興業 豊橋工科高校生徒招き見学会  建通新聞",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTXowSmMyWGxpcHlRU2lmODM2YVhiZE9oSVhOeTVIN19CZlFWQlNveWVVRW0zSVpzMGNGaDdNUk9NalpBRWFfNW9wMGgxbFhoMmtxcGJuVWRzWkFfbnBxdkw3TnJVQzg2SHFEdHgxU1p6c3dYWGFxQk1FRE1Cd3NMbw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-efb222642469b57fee3a3163237412b3",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
             "source": "tenki.jp",
-            "published_at": "2026-11-11T06:31:27+09:00",
+            "published_at": "2026-11-11T15:31:26+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
@@ -199,14 +177,113 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-f1a2d3564529e3711836336de279363f",
-            "title": "大村愛知県知事が5選出馬へ 挑む背景は？4期の実績は？",
-            "source": "朝日新聞",
-            "published_at": "2026-11-11T07:24:16+09:00",
+            "id": "news-c7a9045d6ee2695def474a479ee445fb",
+            "title": "【高校受験2027】愛知県公立高、特色選抜の定員…春日井東16人など（リセマム）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-11T17:45:03+09:00",
+            "category": "市政・行政",
+            "area": "尾張",
+            "summary": "【高校受験2027】愛知県公立高、特色選抜の定員…春日井東16人など（リセマム）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iUlZPcldDRzdZRUt4QXdKOHZoRzVZRVdfYnBLalhOTjVaRVM5NWlEVmJ3Y0NSeE9DLXhNMXJhNV8tQUxSR1BfYlAzc2hJZVBHQ0ppajhWTFFLN3BfLUNrTWZ1S3VJd2g4UnhneWdXLVNSak1HTk5IWTluTXU4MXc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ead2bc1dd0bca1d1ff5b064203cd4522",
+            "title": "愛知･大村知事が5期目に向け出馬へ かつての“盟友”河村たかし氏｢多選だでやめないかん｣ 県民の反応は？2月7日投開票の愛知県知事選挙 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-11T17:40:00+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "愛知･大村知事が5期目に向け出馬へ かつての“盟友”河村たかし氏｢多選だでやめないかん｣ 県民の反応は？2月7日投開票の愛知県知事選挙 | 名古屋・愛知・岐阜・三重のニュース【CB...",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FVnNXd1gzcmpGaEZvOTYxdF9GSmJLOEtDaElGblFGRkYzLWQ4X19YYzlCTXBJS1VwSXNxVWhTYTJGSDFuZDFPOFZsMXM0c2NwVU9uMHlMa1p1UQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-e4e0f43db3b5f3b8db1508d51542e566",
+            "title": "愛知県の大村秀章知事、５選目指し出馬の意向固める…副首都指定・ＩＲ誘致など取り組み継続で判断か",
+            "source": "読売新聞",
+            "published_at": "2026-11-11T14:08:00+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "大村愛知県知事が5選出馬へ 挑む背景は？4期の実績は？  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HOGlKNkJrMXZocFJReVd6NzUxZkhMb05yOEZOYnhKdmJ2WGlzVjFNZU9vazVkNG9pWnFWMElsQzNYaEVneWtXNEdXUXV6SS10ek9OZkhta2phbS1oaDQxUEM4MEdINUU?oc=5",
+            "summary": "愛知県の大村秀章知事、５選目指し出馬の意向固める…副首都指定・ＩＲ誘致など取り組み継続で判断か  読売新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyaUE2TlFIWEVoZURtdUo1dTRyWWpQbHpFckZUeEtLdl9rN3I4UjNRNURoUnNXVjdYZmtjRnlFX3lNbEVOSlRXYmYyQU9fQUQ2QnRQb0gyMXVYU2drV0NpeXhwdnJEQQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-3811d3efe2ec664c241dec1337a2d5a2",
+            "title": "愛知県知事選 大村氏が5選出馬の意向固める 近く正式表明へ",
+            "source": "毎日新聞",
+            "published_at": "2026-11-11T12:51:29+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県知事選 大村氏が5選出馬の意向固める 近く正式表明へ  毎日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBSkkyb2hCSW1ZNFlpQTc5YXVuR2hSbXdNSGpST0lrc0U5cHMzRnZNREs3TW9TbnNCN2prOFBGQTAtdUFoMHNMUG82TndiRzJsUjZHRGFWQlB3UW5neVVJWTVGYzl1amo0?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-dabdaac381df723d6ad79dbf10cbb743",
+            "title": "愛知県知事、5選出馬へ 27年2月7日投開票",
+            "source": "日本経済新聞",
+            "published_at": "2026-11-11T17:26:18+09:00",
+            "category": "ビジネス",
+            "area": "愛知",
+            "summary": "愛知県知事、5選出馬へ 27年2月7日投開票  日本経済新聞",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56Y21XMTVMMy1vVTlnZ3JwS3BLeFVrR2kyZlNxbU5DVi1CdVZIVlF6N2JlVnNJZ0VmdUVXYWpxSU1JYmtJdzV1S25GNS1VcjlrRGhoWUkxelBYMUJ6UTVPS1RCVWRtelFORWlMdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-d3b171068d9cfd7b1c05af4115cfe212",
+            "title": "大村秀章知事の５選出馬意向を受け各党は？ 来年１月の愛知県知事選挙へ検討本格化",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-11T18:15:46+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "大村秀章知事の５選出馬意向を受け各党は？ 来年１月の愛知県知事選挙へ検討本格化  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mNmtKZEw3eWgtbzJaZ2J2aFRIZTVKU1JTS1ZOQ296Y1BDM2ppZ1U3cEFtd0dWWG92M3ZFbEFOX2RFdndwcXFzWU1oSldvWWdPc3FfNjU1eGtNY2huel8xTUx3?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-8afdf143c8984d51cb9c8d40f63b67cc",
+            "title": "愛知県の雨雲レーダー(過去)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-11T17:05:31+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の雨雲レーダー(過去)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pbjJxV2FNdFE5akcyUUJqQlhDVEdJVDdNMnBfNGFod2p2MXhJeEJFdUsyU1YybnJzS0Q1ZlRTdjZfWEFFNFNOWnRwMG5DUQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-7afb2c9a58070e26fcd5f889f5973e26",
+            "title": "愛知県知事選に現職・大村氏が５選目指し出馬へ 2027年2月7日投開票（テレビ愛知）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-11T18:57:01+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県知事選に現職・大村氏が５選目指し出馬へ 2027年2月7日投開票（テレビ愛知）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRSEtPbW5uWThRTHp4Y09YSnUzU0NLRDFqUDl2Zi1VZWRnWWtVQjVQMTVGSzBRaTY4Szl4RGF0VGllRzdQeHllSVd0cFZVRnBaS254YmVhOG9DeXZGblFrVHY1NjUyWkI3U0JKQ0FldVhhT0t0cW9sclBhTWdIcFU?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-7bdd0983a1204deb065660711c7745a6",
+            "title": "愛知で最大震度5強 交通機関ストップ備えは 名鉄社長「代替輸送進める」改めて強調",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-11T19:18:00+09:00",
+            "category": "暮らし・交通",
+            "area": "愛知",
+            "summary": "愛知で最大震度5強 交通機関ストップ備えは 名鉄社長「代替輸送進める」改めて強調  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RW5fUk0xcEZBQUVXdjVlZDNHSngyV3ZzRmJHY0VfTDRfbVZSbWJUbVJBR3hNd0dnSHFUQXNSYVJ2VnZUaFhZcHhuRWJNRExmZlpjejRMamY1dw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
+            "title": "愛知県の今日のアメダスの記録(11月11日)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-11T11:03:02+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の今日のアメダスの記録(11月11日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -221,113 +298,14 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-5916456c6c5c6fb97135150637a9230d",
-            "title": "【愛知県】トム・エバハート新作発表展！『Bogeyman Boogie!』《入場無料・展示販売》（アートコレクションハウス株式会社）",
-            "source": "SNOOPY.co.jp",
-            "published_at": "2026-11-11T10:04:40+09:00",
-            "category": "ビジネス",
-            "area": "愛知",
-            "summary": "【愛知県】トム・エバハート新作発表展！『Bogeyman Boogie!』《入場無料・展示販売》（アートコレクションハウス株式会社）  SNOOPY.co.jp",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nRmdHRy1NX1JkTVRfME85WkltTk9ONU15Sm9IaE1CeUljTGsySDBsd3ZBa0ZCLXpidzdHMndneTI4aUlQLXBxenhDT0E0dC1IMEhtOWw0Zw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-da344689f32b4797bce751bc5d3d5c72",
-            "title": "交番だより(11月号)の紹介",
-            "source": "愛知県",
-            "published_at": "2026-11-10T20:45:09+09:00",
+            "id": "news-d71be9516a8694bb924e51083a91363c",
+            "title": "来年2/7投開票の愛知県知事選挙 現職・大村知事が5選を目指して立候補の意向固める 12月の県議会で正式表明か",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-11T18:29:05+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "交番だより(11月号)の紹介  愛知県",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbjJzTGRsZHNOWkNZZVRscUlfSldIUWc5dnVGYXZ4OWY0bEtYZEJ0TUhJdm5YQlltTGRfWWZmYTNBSFBoUVZrdjZPMmJIaDAzTVQxS0Q5bE9SVWd0R1pmbkdFNFB1bXpfUTkwRWw3Ynh1VVhDQ3lvUXFEUG1lSVpNWnhwMklJalh0SkE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8e35bd2acf5e2c9953e29240c5af0664",
-            "title": "愛知啓成－愛工大名電 観戦記（2026年愛知県1年生大会） : 愛知野球通信＋",
-            "source": "タグマ！",
-            "published_at": "2026-11-11T07:00:57+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知啓成－愛工大名電 観戦記（2026年愛知県1年生大会） : 愛知野球通信＋  タグマ！",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sNGUxZHVVd1Y2QTVzYTZWMWc0MzRtR1gtWFJaNGdzNVdFTHg2d1N6MFI1Q3p0WEdyMkxzcDdBNDJUZWVxOUx3NngzWU1DaVZsMWl5M25melBnRHMydnBJRnY3ODlfZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-2fdabb88e6344ae7d8fe6d34b94842b1",
-            "title": "【愛知県】最大震度5強の地震から2日 県が被害状況を発表 重傷1人、軽傷19人、住宅一部損壊3棟（11月10日 午前8時現在）",
-            "source": "日テレNEWS NNN",
-            "published_at": "2026-11-10T18:00:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【愛知県】最大震度5強の地震から2日 県が被害状況を発表 重傷1人、軽傷19人、住宅一部損壊3棟（11月10日 午前8時現在）  日テレNEWS NNN",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTDl2WEFTdWFmMkhsaHBaSHc5Nzh2LVloVkllSHhIZzhrTVR2LVpJX3ljc2FHX0c4Umlfc3NPSFdGRmthWnJ2QXpuU2NmWkMwRzRYdzFRY2thaENrSmdsei1kT0JjNVp5UDRhV1lTWHlSbC12bzdQME4wanJEdEFkSlpHWWRaZ2M?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-34bbb8c2b3b9411e92cd04c6bc3c14fc",
-            "title": "【速報】愛知県の大村知事が5選出馬へ",
-            "source": "47NEWS",
-            "published_at": "2026-11-11T09:05:42+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【速報】愛知県の大村知事が5選出馬へ  47NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HbEZzMFJXUS1Oa3JsTy1XTTlVWXVOd2dEX3FTZEpzNkpZaWJhdTFoRHJFRmlVV3lLV0k0UUJfT3QyaGFsaUpWWmdhNA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f58687d6610ba6e9fb764a1e26f6e206",
-            "title": "愛知県の大村知事が５選出馬へ",
-            "source": "沖縄タイムス社",
-            "published_at": "2026-11-11T09:05:42+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の大村知事が５選出馬へ  沖縄タイムス社",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rVkg1dW5sT1RIQURMazZFTlpHdXRVTmNkZXBBVWhoaEJTTVFJZ3VNcmtWUkVFOHhXMUVxb3lpYWhiMGRtN3hNV0hPVVFiLXJIcmNQeUhRaENxU2NUTFE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-732ebc3daaac2047c8a69de65d89b1fe",
-            "title": "帰宅途中の25歳女性 路上でショルダーバッグを男に奪われ転倒し軽傷 愛知・阿久比町",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-11-11T08:19:00+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "帰宅途中の25歳女性 路上でショルダーバッグを男に奪われ転倒し軽傷 愛知・阿久比町  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLSjdEWFNaOTJQYXFCaTJMVVVvMmxBNkJyaTdiWmk0OFJlT0xScHVjQ2NSbndrUFBNdDlCUm1QWnVzRjNXX1Q2UVBTTDdIZFNoT3lJbW9jSnVHQQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ee91b4ee366406fdf2e5a54a5bc9af99",
-            "title": "愛知県の大村秀章知事 - 大村愛知県知事、5選出馬へ 来年2月任期満了 - 写真・画像(1/1)",
-            "source": "西日本新聞me",
-            "published_at": "2026-11-11T09:56:15+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の大村秀章知事 - 大村愛知県知事、5選出馬へ 来年2月任期満了 - 写真・画像(1/1)  西日本新聞me",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BSkREMnVVM1FveVg3T2JJMjFXM3RZdFg5Y2JkaFQtVWJxeWd3VThOZ2d1dW9venJVVjhkVzZNaHhyd0lwbVBVTm9nRE5UM21GazJ6UjlTUQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a6b3aadbe3431b566f4c5e39c8bdbbfc",
-            "title": "愛知県の過去の天気(アメダス・風向・風速・2026年11月)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-10T18:31:25+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の過去の天気(アメダス・風向・風速・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NZmt4eTY3SHV4MTJ2RGIyOGpBSVo0OEIwelZQR2VGVG1QWFJrTXdkS1dFXzZteWwwb1lqOWJrQkFoVnVwdzBRVVJXX3gySXYzODB2dXZGbGpiekk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-7d481b742746d4b00086abf8768b51e1",
-            "title": "「マチュピチュ」思わせる斜面の集落 空き家活用、ネックの規制とは [愛知県]",
-            "source": "朝日新聞",
-            "published_at": "2026-11-11T10:00:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "「マチュピチュ」思わせる斜面の集落 空き家活用、ネックの規制とは [愛知県]  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjVRNUdNRW9wNldRYTFISG1BT3VUbnV4XzhRMzZFWHVWRnhSVUo0SDYxS2RLSDZzTHRTNVVUWDJpRXJZc2gtRkVNYkZnUVFOMVVOLXZ3aTZCMVFfZnJ4QUo4dmdkbmlVX3hrQTc0TlEzMEFFR0p6RVR3YnNfMUVIMmVn?oc=5",
+            "summary": "来年2/7投開票の愛知県知事選挙 現職・大村知事が5選を目指して立候補の意向固める 12月の県議会で正式表明か  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MZWFGMXFFZ3VtWmhyYVJld3F2UTNvWkJwQXRKR2NGeEo2SWpNZ09JRE5mNzUtSFFtVjBCZzIxTnJxMUJwbTRUWmhzNUxqYjNkTEhfYlpvUDBnQ1dCeW13S2JkekhpWUU5ZXpIYzkwZWxIN0hNVnBFWkhUNXdlQm8?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
