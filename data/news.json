@@ -1,16 +1,27 @@
 {
-    "last_updated": "2026-11-13T01:41:39+09:00",
-    "update_session": "夕刊便（17:00配信）",
+    "last_updated": "2026-11-13T11:29:46+09:00",
+    "update_session": "昼刊便（12:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "くもり　夜のはじめ頃　晴れ",
+        "condition": "晴れ　時々　くもり",
         "icon": "☀️",
-        "temp_max": 21,
-        "temp_min": 10,
-        "rain_prob": "0%"
+        "temp_max": 20,
+        "temp_min": 20,
+        "rain_prob": "20%"
     },
     "total_count": 30,
     "articles": [
+        {
+            "id": "toyohashi-city-44d0971e597030d7c966053001cfe959",
+            "title": "渥美半島駅伝競走大会のエントリー期間を延長しました！",
+            "source": "豊橋市役所",
+            "published_at": "2026-11-13T09:46:00+09:00",
+            "category": "市政・くらし",
+            "area": "豊橋",
+            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
+            "url": "https://www.city.toyohashi.lg.jp/item/126632.htm#itemid126632",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
         {
             "id": "toyohashi-city-9bad5698dc9c80192ec03a924adf5dd2",
             "title": "１１月２８日（土曜日）・２９日（日曜日）は市役所が全館停電となります",
@@ -67,21 +78,10 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "toyohashi-city-4ee040361938703ed9a7665eaa52c319",
-            "title": "豊橋市議会議員政治倫理審査会の設置について",
-            "source": "豊橋市役所",
-            "published_at": "2026-11-06T13:46:00+09:00",
-            "category": "市政・くらし",
-            "area": "豊橋",
-            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
-            "url": "https://www.city.toyohashi.lg.jp/item/126495.htm#itemid126495",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-2136ba130c07a8cfd0fb65bdc6d54b74",
             "title": "コスプレーヤーの桃月なしこさんらが一日長を体験 豊橋市で「市民の日」",
             "source": "東愛知新聞",
-            "published_at": "2026-11-12T22:28:15+09:00",
+            "published_at": "2026-11-13T10:04:38+09:00",
             "category": "市政・行政",
             "area": "豊橋",
             "summary": "コスプレーヤーの桃月なしこさんらが一日長を体験 豊橋市で「市民の日」  東愛知新聞",
@@ -89,14 +89,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-50d57f8b9b74355703c32cf0addd8b78",
-            "title": "愛知・豊橋市での「野積み廃プラ」放置問題で、ついに地域の住民が廃棄物業者ら企業3社と、経営者ら個人2人を刑事告発へ。13日に告発後、記者会見（RIEF） | 一般社団法人環境金融研究機構",
-            "source": "環境金融研究機構",
-            "published_at": "2026-11-12T22:09:48+09:00",
+            "id": "news-584897feba4af57bcab50b28eedadf56",
+            "title": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
+            "source": "tenki.jp",
+            "published_at": "2026-11-12T19:27:52+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2d0N5QnhERmtibVBadUUyS21rMEh3Z2VDNnlVQTZPN19LQjZvV2g5Ykw2ZWVkX3ppbXRLdk1CWUFza0oyZlU4NHhJTmNsaEhsOWxJ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-53069d715d109db1a3b0f6d28508e082",
+            "title": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
+            "source": "ウォーカープラス",
+            "published_at": "2026-11-13T08:16:38+09:00",
             "category": "ビジネス",
             "area": "豊橋",
-            "summary": "愛知・豊橋市での「野積み廃プラ」放置問題で、ついに地域の住民が廃棄物業者ら企業3社と、経営者ら個人2人を刑事告発へ。13日に告発後、記者会見（RIEF） | 一般社団法人環境金融研...",
-            "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB4c0hGMGtqRFBfN1ExNWZ4eWdSdG1GN2d6cTdjQmRFazBGUnpiTnpGS0JBaFg2NjFCeWVxZEtXbTY1OFFI?oc=5",
+            "summary": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbmFBMjZVWTdXMENUUVM5X083Y3QySXVoeHdjWlhpaEhId1l0STRZdG1GLVZkbXpjcmVqYlRSSl9HMWtKMnNKTXRIQnROTXNRd0p0M1AwQW1CUnhWcWZ0dWZQcklBdlhmM2ZvUGFn?oc=5",
             "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -111,15 +122,37 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-1dbfd67a461b7ba1a56fbc715eace487",
-            "title": "【豊橋市】11/12 最高19℃、最低8℃、晴れて過ごしやすい予想【朝版】",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-12T05:29:59+09:00",
+            "id": "news-50d57f8b9b74355703c32cf0addd8b78",
+            "title": "「第二の豊島事件」と呼ばれる、愛知・豊橋市での「野積み廃プラ」放置問題で、ついに地域の住民が廃棄物業者ら企業3社と、経営者ら個人2人を刑事告発へ。13日に告発後、記者会見（RIEF）",
+            "source": "環境金融研究機構",
+            "published_at": "2026-11-12T22:09:48+09:00",
+            "category": "社会",
+            "area": "豊橋",
+            "summary": "「第二の豊島事件」と呼ばれる、愛知・豊橋市での「野積み廃プラ」放置問題で、ついに地域の住民が廃棄物業者ら企業3社と、経営者ら個人2人を刑事告発へ。13日に告発後、記者会見（RIEF...",
+            "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB4c0hGMGtqRFBfN1ExNWZ4eWdSdG1GN2d6cTdjQmRFazBGUnpiTnpGS0JBaFg2NjFCeWVxZEtXbTY1OFFI?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-660696061cde8ff75bf992403ce9f762",
+            "title": "「ブラックサンダー」の有楽製菓が「1億円」寄附 愛知県豊橋市へ…理由を説明",
+            "source": "山陽新聞",
+            "published_at": "2026-11-13T02:49:25+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "【豊橋市】11/12 最高19℃、最低8℃、晴れて過ごしやすい予想【朝版】  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YVm52MlB6aWJaRkZVNWsxQ09DbjRicTV1ZVcyYl9KRTZNdjhWRjVUaGNudWRtYzJ5TlA5MUdHbm5ucklER1NTVkZDbzNPUGtfVlhOUEVqUHJYNGtaMDY5V0lOcnpXVlZMZ1cwNXNUU05rZGVHV2xMbzlabkpnNTg?oc=5",
+            "summary": "「ブラックサンダー」の有楽製菓が「1億円」寄附 愛知県豊橋市へ…理由を説明  山陽新聞",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56MzlXYm01WFdxRjYzeUM3ZmcybzVpbW1NbHJFSXZadnNGVHZTdk1vTkF4LWJEMmVkNm5qMnZpQnBDUDE1YU1XTDRfNHFUMEp5M3g3UVFIeXJyWk11US1hTlcxTG80UlZkYnlZUTNJMA?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-d9d3eb46bef13b4a7871d850abaca4d6",
+            "title": "【入場無料】「伝統芸能を守りたい」中学生も参加！豊橋の指定無形民俗文化財「飽海人形浄瑠璃」の第35回定期公演を11/22に開催",
+            "source": "産経ニュース",
+            "published_at": "2026-11-13T08:20:30+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "【入場無料】「伝統芸能を守りたい」中学生も参加！豊橋の指定無形民俗文化財「飽海人形浄瑠璃」の第35回定期公演を11/22に開催  産経ニュース",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Lalp1cGZqeUg4TS0wRVBsbTdUc1E3ZlFVQXJVQkdiQ3lGcTZ1Vkl6RW4yUnh2ajJnaXhieG9xeURuMHQ4VllXMy1XSE5lM2RpNEhwbE5QR3BsRmlYNkJpNzJXRnVnTTZuOFlOSnQxaEp6NnJob244YktaSQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-6bf5133d2b0b9f5f7b444fbce1b1c634",
@@ -133,65 +166,43 @@
             "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
-            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
-            "source": "ウォーカープラス",
-            "published_at": "2026-11-12T16:43:23+09:00",
+            "id": "news-1dbfd67a461b7ba1a56fbc715eace487",
+            "title": "【豊橋市】11/12 最高19℃、最低8℃、晴れて過ごしやすい予想【朝版】",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-12T05:29:59+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
+            "summary": "【豊橋市】11/12 最高19℃、最低8℃、晴れて過ごしやすい予想【朝版】  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YVm52MlB6aWJaRkZVNWsxQ09DbjRicTV1ZVcyYl9KRTZNdjhWRjVUaGNudWRtYzJ5TlA5MUdHbm5ucklER1NTVkZDbzNPUGtfVlhOUEVqUHJYNGtaMDY5V0lOcnpXVlZMZ1cwNXNUU05rZGVHV2xMbzlabkpnNTg?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-46b5cbad3692f451e1950185e36c6d65",
-            "title": "軍都・豊橋の歴史 空襲体験者が語る…１４日に「語る会」：地域ニュース",
-            "source": "読売新聞",
-            "published_at": "2026-11-12T10:20:00+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "軍都・豊橋の歴史 空襲体験者が語る…１４日に「語る会」：地域ニュース  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VYU9qMmRMODFwUTRveDZHekRRcUNhUnRFakhwa19ycEw2cEk1R0xrUVZwZEktMkFpRWYtWG1WTmNjd09xUldhd2hEOWNzcFF3YWNhYjBtOXp5YV9oZVFTZWtqMmQxTEZyNV94bVM4eHY?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d9dc384992388f99af7d86b444e8aec1",
-            "title": "卓球男子シングルス 愛知･豊橋市出身の八木克勝選手が奮闘 銀メダル獲得【アジアパラ大会】",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-11-11T19:18:00+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "卓球男子シングルス 愛知･豊橋市出身の八木克勝選手が奮闘 銀メダル獲得【アジアパラ大会】  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NZDNIM2Racmtjc1gwVTcxWmVGY0VMdWlQb3RYWUZsY1l5X011eFVMZWdmOFpoN2lvYlc5RGZFMnFzWjIzQjlPYVVGb2Z4YWxwUHNqQmNETG5zNW9sdW9R?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-3fb60811b3675980dc5947a587eae9fa",
-            "title": "救急隊の迅速な対応に感謝を込めて。愛知県豊橋市の市民2人が高規格救急車3台を寄附 寄附受領式と感謝状贈呈式を開催",
-            "source": "ニコニコニュース",
-            "published_at": "2026-11-12T15:45:49+09:00",
+            "id": "news-bf22882264641dc1ab7b752f77f3985a",
+            "title": "名古屋観光特使「サックス侍」が豊橋駅前に登場！「豊橋イルミネーション SPECIAL LIVE」開催",
+            "source": "PR TIMES",
+            "published_at": "2026-11-13T10:00:02+09:00",
             "category": "観光・イベント",
             "area": "豊橋",
-            "summary": "救急隊の迅速な対応に感謝を込めて。愛知県豊橋市の市民2人が高規格救急車3台を寄附 寄附受領式と感謝状贈呈式を開催  ニコニコニュース",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0cjJOMG5aNGlRWENsdkFqRWVhVHBXMEUzNHd6M3R2SFNYcmNPMjE3X0xMZGotOTdxQlAwVW1wMXJQNDRqdk9vdVRSNG40RmtRZmMwclJjcktteXYzTU10ZHktODM3cU9FYTh3aHdoWDJER1NMM1VDMUJVZw?oc=5",
+            "summary": "名古屋観光特使「サックス侍」が豊橋駅前に登場！「豊橋イルミネーション SPECIAL LIVE」開催  PR TIMES",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QZDl2dEc0R3E4bkFhQ3d6Mms1akpnWk1LZmlLYm96TnJoOWpaY0ZacEpEVHVYRnlhRWJSYTNTb21OUUZ6MGZxZDEtTi02SHJDWkNQNXFkVWxObkp3amc3djNQaUhGRG8xclE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-b1fe9eca1ac9abdcaf53e93accdbfe47",
-            "title": "豊橋市、「理科って将来何の役に立つの？」その疑問を解決するイベント 27日開催",
-            "source": "ICT教育ニュース",
-            "published_at": "2026-11-11T08:58:01+09:00",
+            "id": "news-a6dc1a8da8353b6c77ec75ca66f5b7b0",
+            "title": "生誕100年・没後20年 茨木のり子を語る講演会「青春のうた、愛のうた ～茨木のり子と谷川俊太郎～」を開催します！",
+            "source": "愛知県",
+            "published_at": "2026-11-13T10:52:14+09:00",
             "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "豊橋市、「理科って将来何の役に立つの？」その疑問を解決するイベント 27日開催  ICT教育ニュース",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2eURXNlZMcmJQdHBpTUpkbXVaTVdkZjFvQjRLNFRGb2p6bWxFN2RlMjF6aklGYmhGYTBhaWU0THdVbE9MOTgySXZiTzc5VVNFVy1wTzB6ZDYxVVU?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+            "area": "愛知",
+            "summary": "生誕100年・没後20年 茨木のり子を語る講演会「青春のうた、愛のうた ～茨木のり子と谷川俊太郎～」を開催します！  愛知県",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yN255aXljc0haU3VYbjNXcVdXNnZXdHIwV3U3cjJvVkRRQXpYTkd3QlljZnFtX1JZTzRobU5NeEpubkZOalJtUzNyQmZLRmdFUC1RM2g0ZVhuZmVvTnRZNlBfYw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-efb222642469b57fee3a3163237412b3",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
             "source": "tenki.jp",
-            "published_at": "2026-11-12T21:31:25+09:00",
+            "published_at": "2026-11-13T09:31:25+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
@@ -210,48 +221,92 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-30c31f75e5c51df3deb462a24ab2b32e",
-            "title": "高校教諭を逮捕 電車内で女性の体を触り盗撮した疑い 愛知",
-            "source": "NHKニュース",
-            "published_at": "2026-11-12T19:58:00+09:00",
-            "category": "社会",
+            "id": "news-78bd73a95407d538964b0176ddc48789",
+            "title": "JR関西本線といえば、愛知県の名古屋駅か…",
+            "source": "奈良新聞",
+            "published_at": "2026-11-13T06:00:00+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "JR関西本線といえば、愛知県の名古屋駅か…  奈良新聞",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93MGpYclJHTVB1RndmbUp0V09PVFMyN0trQVJPQnhyeTBqOVBOYnEwODNfM19TQnRveDFIek1JRnBtdWtZTHNuSWNOa2J0em5jMmhvNC1RVGViWnB3TVFJ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-d5ee81ab8cb917d3b21600049b21538f",
+            "title": "愛知の進学校･旭丘高校ラグビー部の挑戦 部員6人→54人に 練習メニューは自分たちで考案 合同チーム乗り越え強豪復活へ【全国高校ラグビー愛知県大会2026】",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-13T07:30:18+09:00",
+            "category": "市政・行政",
             "area": "愛知",
-            "summary": "高校教諭を逮捕 電車内で女性の体を触り盗撮した疑い 愛知  NHKニュース",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WSWtDa1V0NUtWd0g3QUJrZmxMSk4xYWFpWnFmaWN6OFNwV1pjTkh2UDRvSmZLMS1CNGl2bnBadWwtLTZHd0JRVkM3MTQwSE9fR1VTY1NKS3E5TDdHdDcw?oc=5",
+            "summary": "愛知の進学校･旭丘高校ラグビー部の挑戦 部員6人→54人に 練習メニューは自分たちで考案 合同チーム乗り越え強豪復活へ【全国高校ラグビー愛知県大会2026】  TBS NEWS D...",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VVGpONnFiR1IwUkRIS1dkZ0xvZEZTN0xJOUFYVFNiYUF6cDNGTmRXYjc5NVZVbXpqanhINTdWZTZDSXhOM2x3ZHppaVdIaE5mQ0lOelVzcm82Y2w5emlv?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-e2f7d9299c31f3873c7cfac720d1b35b",
+            "title": "駅員を蹴った疑い、愛知県警瑞穂署の巡査部長を現行犯逮捕 名古屋市営地下鉄栄駅、盗撮で通報されて",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-13T06:00:00+09:00",
+            "category": "社会",
+            "area": "名古屋",
+            "summary": "駅員を蹴った疑い、愛知県警瑞穂署の巡査部長を現行犯逮捕 名古屋市営地下鉄栄駅、盗撮で通報されて  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0OVB2b1VQX3owZ0c2UHl6SjBVNVFmTmtjRUFmUURiazJOb1RWSEtsalFkRzlUWlF1cWdwWU52X28yMFdRYnptTWw1TkFabXZISFJ0ZQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ac43b534c28f6cd3decf0550b9ba4071",
-            "title": "中国産ウナギを”愛知県産”と偽装 ウナギ料理店経営の男に罰金50万円の略式命令",
+            "id": "news-0275dcc5e6be36bcbe277c20f83e14be",
+            "title": "愛知県東栄町／町役場本庁舎整備／委員会設置、年度内に方針取りまとめ",
+            "source": "日刊建設工業新聞",
+            "published_at": "2026-11-13T06:04:21+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "愛知県東栄町／町役場本庁舎整備／委員会設置、年度内に方針取りまとめ  日刊建設工業新聞",
+            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBHRjJBZnMwdks3QnVUdFZmNEEya2ZJZEltSldfaU1hcHhVSXdfTk9laXoxNlZNSFpFdGNyeGM5dnBIalBMWDY4?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-4b40c0cc50c53104c376cda1b625d9b5",
+            "title": "中国産ウナギを”愛知県産”と偽装 ウナギ料理店経営の男に罰金50万円の略式命令 | 関西のニュース | ニュース",
+            "source": "ktv.jp",
+            "published_at": "2026-11-12T22:30:39+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "中国産ウナギを”愛知県産”と偽装 ウナギ料理店経営の男に罰金50万円の略式命令 | 関西のニュース | ニュース  ktv.jp",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aZWtidjkxM3d6NWJjX0NGbktuTElWdU9NZF91WmthQmk1YUxSNEVhMmVPaFE0NjRhZXpJVy1CcmhCTVJHQUZiOGx1M3Y1Y1hYT09VaA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-918fc3f1da44a802c9f3a605aa005f34",
+            "title": "ベイシア、三心からの転換2号店を愛知県一宮市に出店",
+            "source": "激流オンライン",
+            "published_at": "2026-11-13T10:48:03+09:00",
+            "category": "市政・行政",
+            "area": "尾張",
+            "summary": "ベイシア、三心からの転換2号店を愛知県一宮市に出店  激流オンライン",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmajB2VHM4VTd0b2YxTlJPOS1VOXBoSUlPNjFld0VMOFdLaEpjdFRWY25INnNXbUliT081S0NQS3NFWWdjRmVpcXpYTjdVZXg0cEE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-16e4732a8de0022bbf99898f7861c005",
+            "title": "【愛知県】11/13の天気予報",
             "source": "FNNプライムオンライン",
-            "published_at": "2026-11-12T22:25:00+09:00",
+            "published_at": "2026-11-13T05:10:00+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "中国産ウナギを”愛知県産”と偽装 ウナギ料理店経営の男に罰金50万円の略式命令  FNNプライムオンライン",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QLTVOcGhfTHk3RE5DdVdpNXZZdGhsTnhncDZxNWhTNGR6VVN6b3cyTWJHMzZWRnllZHZ4QWYwQTRVbmRNa2hseUVWSjIwUQ?oc=5",
+            "summary": "【愛知県】11/13の天気予報  FNNプライムオンライン",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOdkNCZ3VndU5sQUZmZ042eDJuZnZpRWRKRmdmLWMtRnVVeEdmREwtZ1hybzViWjdQejB6UGE2U3NleUFkUjJQSnpJZ0dpdw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-e11a618584b3773f5806235461c35ac9",
-            "title": "愛知県、スクールソーシャルワーカー13名程度募集…応募12/7まで",
-            "source": "リセマム",
-            "published_at": "2026-11-12T16:15:03+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県、スクールソーシャルワーカー13名程度募集…応募12/7まで  リセマム",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LYkdhejZqZTZYUTVSOW5kUldXMkpueGZHeElYZDJobXY0czBOUTFSZmxoTzBUVkh0S2VSc3dQQ1Q2cktONDRVX3pQMW1nb3lPeWk1b3FYR2JreWhwQ1k4eTl4UGl4QQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-0b4157a059a94c7d7c7bcd78ee26b0f9",
-            "title": "【速報】中国産ウナギを愛知県三河産と偽装 京都の会社と代表取締役に罰金50万円の略式命令",
-            "source": "京都新聞デジタル",
-            "published_at": "2026-11-12T19:05:00+09:00",
-            "category": "市政・行政",
-            "area": "三河",
-            "summary": "【速報】中国産ウナギを愛知県三河産と偽装 京都の会社と代表取締役に罰金50万円の略式命令  京都新聞デジタル",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QYzdtdVFjVW9MZnhqT0RMczhHNENqcThvTG82bTc1enhXbi1oM094QTVvMzA5TXZUdC04WlZ3UmRjenFGenVRQ2VibkpVeXRIN2FBbnJpUU0?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "id": "news-f30e79ed675d711a77104a96b2da7215",
+            "title": "安城で女性活躍セミナー 愛知県と名古屋銀、碧海信金",
+            "source": "中部経済新聞",
+            "published_at": "2026-11-13T05:00:00+09:00",
+            "category": "ビジネス",
+            "area": "名古屋",
+            "summary": "安城で女性活躍セミナー 愛知県と名古屋銀、碧海信金  中部経済新聞",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FeXVuQ1FPRFhTQTJPRkdybGhHOGt6ZkRWZlVma1hyU2dHemVDM3MxOVhrcnRCc083c1ZjV1dfenVMRkpBMkNGWlBDbEc5NDROcDBBSUtsX3dsRmJpSXByb0hyT2dPT1g4LWJsbGpXSDNJY2s?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-578bb3be56d0efd532f9317cc9d231d1",
@@ -265,37 +320,15 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-d0eb57239d138868fc09a20021b13904",
-            "title": "ベイシア／愛知県一宮市に「玉ノ井店」12月4日オープン、三心との連携2号店",
-            "source": "流通ニュース",
-            "published_at": "2026-11-12T16:31:00+09:00",
-            "category": "観光・イベント",
-            "area": "尾張",
-            "summary": "ベイシア／愛知県一宮市に「玉ノ井店」12月4日オープン、三心との連携2号店  流通ニュース",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81NXA4NWZZTDJiTlRqaURxUUprMHI4VU1leWxoSjJzREdWQzVjZllhbHFpdWVZNHdPWmhxSXpUakVyRVo1MzlrSUFua0tiY3BDeGstWA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-37766e5311b86f62ad28c8fc4e104a24",
-            "title": "絵本のメニューが給食に登場、児童と一緒に町長も舌鼓 読書週間にちなみ愛知・東郷町の小中学校で",
-            "source": "中日新聞Web",
-            "published_at": "2026-11-12T23:18:37+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "絵本のメニューが給食に登場、児童と一緒に町長も舌鼓 読書週間にちなみ愛知・東郷町の小中学校で  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPN094LWpxd3oxRklIeEFqcjlqNFQ3bjJvOFJVSWZnejc1QVZPelpmRGtzYUk5UktEY2xfWlQwRExwLVZDQXlKWExWTE5iVVR5REFnYg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-97d90af16629d23526b9d225bed86320",
-            "title": "県立高校の教師(25)を不同意わいせつなどの疑いで逮捕 電車の中で少女の身体を触り盗撮したか 愛知",
+            "id": "news-c50bddf790f6acac346ade1ced0914bd",
+            "title": "愛知県内の交通取り締まり情報11月13日(金)【発表:愛知県警】（中京テレビＮＥＷＳ）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-11-12T19:00:01+09:00",
-            "category": "社会",
+            "published_at": "2026-11-13T06:04:21+09:00",
+            "category": "市政・行政",
             "area": "愛知",
-            "summary": "県立高校の教師(25)を不同意わいせつなどの疑いで逮捕 電車の中で少女の身体を触り盗撮したか 愛知  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfT2ZYN1hNNTlIclg5cVYwd0Y0SGhORzVvZjkyS24zcnp0cXhLSlZQRDNOandMa1h3czNacXFOMGFJMWJXOXNxemFsdkx0ZEk5WEdJYTh3YkFiVEt1UVpOS3hTSDNDdFc0Z0RnR29ZdHRYUXM3eHpjSExfZjhGbW8?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+            "summary": "愛知県内の交通取り締まり情報11月13日(金)【発表:愛知県警】（中京テレビＮＥＷＳ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsbXVwZ3UwRXN6c1MyYjBBSWxHWG9zeGR3c3NybktmZ2NOakZXMmkwYlNYMFB6ZU9Manh1RzQ0OFpBT1FVOFRBdVk4THRQN3dROHVLRWVKOUZXOHlFQTRfdUpPVG5LQ19pR2E2blMybUpIN2UyOUdXdWpDSzlHZkE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-d64cff5e61680b4bcbc530f4af828e51",
@@ -306,39 +339,6 @@
             "area": "名古屋",
             "summary": "【名古屋競馬】愛知県知事杯 第67回東海菊花賞（SPⅠ）競走は『アップショウグン号』が優勝[塚本 征吾騎手] 2026.11.12  スポーツナビ",
             "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55dVJYSjNRRnBydnlrTHY5VjF2MUUtNTFiU1BIaGpsT0VBdDJBd1ppLVBMT1J1dmppSFF2TzZNdzRIUkVWejA3MTFvcE5mZjhvdVdQV042R1dfRFVyREhpazlkc1ZyQnhZb3BfUDgtS0MzLVk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-9c76b470fa64665954d69b9b8e820b31",
-            "title": "林野火災の延焼を防ぐ 国が来年1月の導入目指す新たな消火剤 愛知で初の検証 消防隊員らが手順や上空からの散布を確認 新城市 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
-            "source": "TBSテレビ",
-            "published_at": "2026-11-12T18:58:00+09:00",
-            "category": "社会",
-            "area": "名古屋",
-            "summary": "林野火災の延焼を防ぐ 国が来年1月の導入目指す新たな消火剤 愛知で初の検証 消防隊員らが手順や上空からの散布を確認 新城市 | 名古屋・愛知・岐阜・三重のニュース【CBC news...",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1neThiTjUyNEF5OVdzb0lDLXU0dkRjYW9JemtKdldldE1GQ1Z6aWxLU2s1T2NhNGg2NEZKamtSWHFiVGRraWNpeW51QVVaOVA4XzNXNFhBYkE2UQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ceb02a5041a696d94b1e71775a674d86",
-            "title": "愛知県立高校６校を再編 瀬戸市に全日制・昼間定時制・通信制を備えた県内初の高校を新設へ（中京テレビＮＥＷＳ）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-12T19:27:01+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "愛知県立高校６校を再編 瀬戸市に全日制・昼間定時制・通信制を備えた県内初の高校を新設へ（中京テレビＮＥＷＳ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vSkJIRGxPTTFrQXlRVEtTTnhBZUEtQ2Vvel8wMlRqSWRfUzROZTJsSkJJUVl4eWdoVEYyRXRiS3g2eEhtZ0hjQzZPbTRJTTE0VllNb09OVVhLUXpFMHRHOGhnNlJXeXFDbF9UbG45RXFld1IzenpZOW9RQ0FUMTQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-0e453aadc9e11beee03c7e21943d715b",
-            "title": "【愛知県インフルエンザ週報】患者数1812人で3週連続で微増続く 名古屋・衣浦東部・岡崎・半田などで報告多く＜11月2日～8日の感染症情報＞（中京テレビＮＥＷＳ）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-12T17:41:00+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "【愛知県インフルエンザ週報】患者数1812人で3週連続で微増続く 名古屋・衣浦東部・岡崎・半田などで報告多く＜11月2日～8日の感染症情報＞（中京テレビＮＥＷＳ）  Yahoo!ニ...",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uMVUteHdTeU1JakZzZmJzOGc0Tk11bmpicjRzVS14eDhoSzNMT1U0azhIcFo1UDNQSlZqRTBEWVRNWDZmS1BYWjBJamxJalQzQzg5SHlRNGxaOTNwb1p5cTUxTHp3a2dxZkNXcTdXeUFrWjQwTVliUjRaa3Q4YzQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
