@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-13T19:46:32+09:00",
+    "last_updated": "2026-11-14T00:59:37+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,7 +9,7 @@
         "temp_min": 11,
         "rain_prob": "20%"
     },
-    "total_count": 30,
+    "total_count": 28,
     "articles": [
         {
             "id": "toyohashi-city-44d0971e597030d7c966053001cfe959",
@@ -78,47 +78,80 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-2136ba130c07a8cfd0fb65bdc6d54b74",
-            "title": "コスプレーヤーの桃月なしこさんらが一日長を体験 豊橋市で「市民の日」",
+            "id": "news-1d7e2820fcb425116b7d1b3c5d92af28",
+            "title": "愛知県豊橋市の清掃用品製造業「日之出」が破産開始決定 負債3億3000万円：倒産",
+            "source": "中日BIZナビ",
+            "published_at": "2026-11-13T20:26:46+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "愛知県豊橋市の清掃用品製造業「日之出」が破産開始決定 負債3億3000万円：倒産  中日BIZナビ",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RNnRBamg0U2tWZXE4emlOdlNCVS02MVJUVlhYMzhsWHNpa2p1czg3TV9JUEYyekV3NmNDN2dQQ2tjb184a3dXSEJBbmZyX1BCZHlJOGtYM2VRUmRNVVln?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-8c3d10cb0495f8fee28e8bf6ee6a0812",
+            "title": "野積み廃プラ問題で刑事告発 豊橋署へ不法投棄の疑いで 住民らが会見",
             "source": "東愛知新聞",
-            "published_at": "2026-11-13T19:09:51+09:00",
+            "published_at": "2026-11-14T00:00:00+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "野積み廃プラ問題で刑事告発 豊橋署へ不法投棄の疑いで 住民らが会見  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpOFdiT3ZIX0xrQWowSFB6UDlvU1NuX0MtR1g5U0FSVFhtOWQwOXhmNnExS3N6VUsxT1dIVW5nazc3RU9MWnVEUlUtYjdaaVBQNE5hQTk1OXRpUDZS?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-bb828b642f24c02fdd168918f43be5c1",
+            "title": "ごみ?資源?野積みの「廃プラスチック」 総量約3万2000トン 住民側は業者を刑事告発 愛知・豊橋市（CBCテレビ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-13T18:57:16+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "コスプレーヤーの桃月なしこさんらが一日長を体験 豊橋市で「市民の日」  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LSThCWlJUV1B4U1JXMV8tQ2FhZGJPTWlOLTJzZE9oVlU5Qm5fT282YW90WFNOSFNVMEMzT2xWTWZxSW5VNm9QQ09jUndSVjBnVGh3LXo5T2N0WFpi?oc=5",
+            "summary": "ごみ?資源?野積みの「廃プラスチック」 総量約3万2000トン 住民側は業者を刑事告発 愛知・豊橋市（CBCテレビ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rRHBvbXFXc2QzSUNuWE1mTTVxZHRNM1ZtWEZuWEtqeUlRQlRqZUxYNFhkRnpPTzNaam1Vdm44S3RYbkZva3BjS0dELWRCSnRsVG5raDJ2MkZheFppZ0J0WHVHaWxEMXpRTWRpOE95d3dzWTctY2hPMnNxZElvMWM?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-c9dbf222be7eef6b4fcb502aedbe56eb",
+            "id": "news-339305b0b9a57b11ee841b7e158a3119",
+            "title": "所有者はゴミでないと主張…愛知県豊橋市で大量のプラスチックが野積みされている問題 産廃処理業者を住民が刑事告発",
+            "source": "東海テレビ放送",
+            "published_at": "2026-11-13T14:41:39+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "所有者はゴミでないと主張…愛知県豊橋市で大量のプラスチックが野積みされている問題 産廃処理業者を住民が刑事告発  東海テレビ放送",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Pb0xHYlJXc0VXSHVmckgwRjdpaGlXVmhpbzlCaWpsNzZYNWhXdTVCYXNCZDlwTFdUNjNHXy05N3djTEt3YzNoMmxJNVI3N1lyVVcwWkxPN1ZxQWcta2dJWndBRnB5TG9RZ2JRV1BCWUlRZ00?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-9cc0abbe859c8765b149b45fdb8c98a3",
+            "title": "【豊橋市】ついに見納め。豊橋駅前のシンボル「スペースシャトル」が老朽化のため2026年12月中旬に撤去へ。",
+            "source": "地域ニュースサイト号外NET",
+            "published_at": "2026-11-13T23:50:52+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "【豊橋市】ついに見納め。豊橋駅前のシンボル「スペースシャトル」が老朽化のため2026年12月中旬に撤去へ。  地域ニュースサイト号外NET",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXU0N5WHo3NXZJTWgzdUh1aENDRHdGS3JIY2NVTG8zbmZqelN0eTl5UVdzNlBSS3B5V0plOUR3MURCb1cwS2lpeDZCMEp0UWpjMDcwTzRCWjZSVzZlWFpFdFJkc2RtOC1zVXRXNVR3?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-50d57f8b9b74355703c32cf0addd8b78",
+            "title": "「第二の豊島事件」と呼ばれる、愛知・豊橋市での「野積み廃プラ」放置問題で、ついに地域の住民が廃棄物業者ら企業3社と、経営者ら個人2人を刑事告発、豊橋署が13日に受理した後に記者会見（RIEF）",
+            "source": "環境金融研究機構",
+            "published_at": "2026-11-12T22:09:48+09:00",
+            "category": "社会",
+            "area": "豊橋",
+            "summary": "「第二の豊島事件」と呼ばれる、愛知・豊橋市での「野積み廃プラ」放置問題で、ついに地域の住民が廃棄物業者ら企業3社と、経営者ら個人2人を刑事告発、豊橋署が13日に受理した後に記者会見...",
+            "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB4c0hGMGtqRFBfN1ExNWZ4eWdSdG1GN2d6cTdjQmRFazBGUnpiTnpGS0JBaFg2NjFCeWVxZEtXbTY1OFFI?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-466fc06d47efc4c913f999584c6e0af1",
             "title": "豊橋市の野積み廃プラ問題、住民団体が刑事告発「行政が放置し何の前進もない」 事業者は「有価物」と主張",
-            "source": "中日新聞Web",
-            "published_at": "2026-11-13T19:14:47+09:00",
+            "source": "47NEWS",
+            "published_at": "2026-11-13T19:14:00+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "豊橋市の野積み廃プラ問題、住民団体が刑事告発「行政が放置し何の前進もない」 事業者は「有価物」と主張  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQYlBjNE1oWnI4RFVsQWRfZzF4RklYV2dCdXBCVzZ0aGplT0JZTGpJeU9ScU9SQnc2dkh5bk9UamNwbUJ3Y1MyeVlNZ3ZyeFRpbFNfQg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-6fff1d3dac12786e462344eec6d8127b",
-            "title": "ごみ？資源？野積みの｢廃プラスチック｣ 総量約3万2000トン 住民側は業者を刑事告発 愛知・豊橋市",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-11-13T18:56:00+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "ごみ？資源？野積みの｢廃プラスチック｣ 総量約3万2000トン 住民側は業者を刑事告発 愛知・豊橋市  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4bVBvM2RoWkFUTTFTZmxxQzZSRm94VVVYWHVxdzdwbFNUOW84U1A2b1hXQUI3UkJ6VWNNcThZMGx6Q1hwMTNBQzNET2d2eldQZ243dmFGTnZxWloxWXJJ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-70c936ab0e15922e391d10965e07293e",
-            "title": "愛知県の雨雲レーダー(予報)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-13T17:51:41+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
+            "summary": "豊橋市の野積み廃プラ問題、住民団体が刑事告発「行政が放置し何の前進もない」 事業者は「有価物」と主張  47NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15Z3R5V1c5b1YxM21IclpGbnJONkdXTUV2d0gyQlRBYUNzZmpMcTcxel9KeGxyWVFjWUdBam5tYmI0OEFNZlVSYTV1MA?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -144,61 +177,6 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-50d57f8b9b74355703c32cf0addd8b78",
-            "title": "「第二の豊島事件」と呼ばれる、愛知・豊橋市での「野積み廃プラ」放置問題で、ついに地域の住民が廃棄物業者ら企業3社と、経営者ら個人2人を刑事告発へ。13日に告発後、記者会見（RIEF）",
-            "source": "環境金融研究機構",
-            "published_at": "2026-11-12T22:09:48+09:00",
-            "category": "社会",
-            "area": "豊橋",
-            "summary": "「第二の豊島事件」と呼ばれる、愛知・豊橋市での「野積み廃プラ」放置問題で、ついに地域の住民が廃棄物業者ら企業3社と、経営者ら個人2人を刑事告発へ。13日に告発後、記者会見（RIEF...",
-            "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB4c0hGMGtqRFBfN1ExNWZ4eWdSdG1GN2d6cTdjQmRFazBGUnpiTnpGS0JBaFg2NjFCeWVxZEtXbTY1OFFI?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-04971f6c8783ac5afe9ed4c7dc204d14",
-            "title": "りくりゅうプロデュース アイスショー「THE DESTINY 2027」 東京・愛知の2都市で開催決定！",
-            "source": "木下グループ",
-            "published_at": "2026-11-13T12:00:07+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "りくりゅうプロデュース アイスショー「THE DESTINY 2027」 東京・愛知の2都市で開催決定！  木下グループ",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYaGpYYVIta0ZDaThYdWlrdmVoSWxnNTI1Mzc5STU5aXc0T0xmR01NellVeUVkRHZBNzhwY1U0WUNmVDM0amVyaWtxWmdsYWpHbFcxWHVSMWM?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-de7efcf399e3d9f4d0651d35a969c61e",
-            "title": "所有者はゴミでないと主張…愛知県豊橋市で大量のプラスチックが野積みされている問題 産廃処理業者を住民が刑事告発",
-            "source": "ｄメニューニュース",
-            "published_at": "2026-11-13T19:19:00+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "所有者はゴミでないと主張…愛知県豊橋市で大量のプラスチックが野積みされている問題 産廃処理業者を住民が刑事告発  ｄメニューニュース",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2tlMDdxQWZZYW1BN1ZVeHU2T1lGOVBpLTAxcFEwRUQ2aTZxUVNfWVFSN0s5REZIYXlIYUVTVjJVanZOdU1xeUkybjVvbXVYUGFjS1VKaF9FOXM1cDhNd1M4d1hKd1Z2RjlmX1Z0amxZSFNGSVllUEItT0o0cVozRmFHLWdZc3g4OXfSAY8BQVVfeXFMTk5jUS1qUGwwNFdsWUFZTk5INFlOYlJiODVJc0pGbl9sSFFTTU5JV1hELUdDV0RQSS1iSGNzdzl1cmc5cFRBRnFmdGlZbTNRNGsxTHQxZndtbFlSUnh0ei1EdjhTOVR1VW94Z0hEN1JLNFFWa2QyZzkxNFFPTjNvRk5WNlotRlNtMkFKLTY1Zms?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-53069d715d109db1a3b0f6d28508e082",
-            "title": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
-            "source": "ウォーカープラス",
-            "published_at": "2026-11-13T08:16:38+09:00",
-            "category": "ビジネス",
-            "area": "豊橋",
-            "summary": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbmFBMjZVWTdXMENUUVM5X083Y3QySXVoeHdjWlhpaEhId1l0STRZdG1GLVZkbXpjcmVqYlRSSl9HMWtKMnNKTXRIQnROTXNRd0p0M1AwQW1CUnhWcWZ0dWZQcklBdlhmM2ZvUGFn?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-efb222642469b57fee3a3163237412b3",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-13T15:31:26+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-7541c07ff255353ae8faf46fe910297c",
             "title": "人権啓発ポスター（2026年度）",
             "source": "愛知県",
@@ -210,15 +188,15 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-0c97b21336af764149bda97a83f8f68b",
-            "title": "愛知を襲った震度5強の地震 約1万7000基のエレベーターが停止していた マンションや店舗･図書館など 「まさか止まるとは」",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-13T14:42:17+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "愛知を襲った震度5強の地震 約1万7000基のエレベーターが停止していた マンションや店舗･図書館など 「まさか止まるとは」  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55T2QzU3M1b0o1eHdwa0tKMTRkZHFSa01xVWxScDUyWksyVzhqRWFYNjRlYWhWSUFWM19mVXBCV3ExU0RocS1UcWxOWGwwUTRadFBHdVROZ25oQlRVbHhJQzBzNUhkQnVMVzRRWktBSEhERGdveDRnTFZva25DazQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "id": "news-78fe9e3f1ee7d18ffff63d2ad3753f35",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月13日)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-14T00:29:19+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月13日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2UmM2QXdWVC04dmJuM2NuLTM5czdtcnNTU185aW56d1hJTkItQ3AxNzJVMlEtWDNqLUpmVHoxbHMtMDZKZ1dITUtBd2w3UHA4dWFQRHBvd012S2hCeU5Bcm1R?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-1ef91fa740414e9f1dfb92f1d9076bbe",
@@ -232,15 +210,37 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-a78ca560ad6ae137dafd2993d8937b06",
-            "title": "11月は児童虐待防止推進月間 愛知県あま市でチラシ等を配布し啓発活動 ためらわず早めの相談を呼びかけ",
-            "source": "愛知のニュース",
-            "published_at": "2026-11-13T19:05:46+09:00",
+            "id": "news-91063be54fac8f42bb55aa3608788b10",
+            "title": "11月は児童虐待防止推進月間 愛知県あま市でチラシ等を配布し啓発活動 ためらわず早めの相談を呼びかけ（テレビ愛知）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-13T18:57:01+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "11月は児童虐待防止推進月間 愛知県あま市でチラシ等を配布し啓発活動 ためらわず早めの相談を呼びかけ  愛知のニュース",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5paDJfT01EMF9odHl2RTBsUkFodFRnbnVoVWNMbzQzVzlMTzk5aUpQXzgyV0x5UERtMEUtbVBDb2dkdEMzQzZWZGtvZW5wU1BGemtLNmdTN2tKLXM?oc=5",
+            "summary": "11月は児童虐待防止推進月間 愛知県あま市でチラシ等を配布し啓発活動 ためらわず早めの相談を呼びかけ（テレビ愛知）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qbTg4TjJzWE5LR252T2NDeXlielBwVEMxT0lscElmelJ6OHEwanBNYW9rS1N6SlJvTVJOM1o1eUkwXzBUZ1NPWFJ1dmFtTzlsNU8xdzJVQzlhVGpHVWpXa3hsc0gxV0ZWekVfWjE1QVp1dURyZDJIYlUyVW1xYzQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-c1df7b8f560de2c80ef63e85fbe5a783",
+            "title": "台車に挟まれ作業員死亡 新幹線などの車両をつくる工場で 腹などを強く打ち約1時間後に死亡確認 日本車輌製造 愛知・豊川市",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-13T18:44:00+09:00",
+            "category": "ビジネス",
+            "area": "三河",
+            "summary": "台車に挟まれ作業員死亡 新幹線などの車両をつくる工場で 腹などを強く打ち約1時間後に死亡確認 日本車輌製造 愛知・豊川市  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TN3owVDVWSl9oOXBXTnRjOHhGNmxMendnYU0tbnVMRTR5Q1Y0alg1Q0pNazhiclpCeWx6b21QbjR2NVZiUGlHLVZmbWFZX0lRZURFZlNKSGRkZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-5fd730088f53974ea20522ff5512ff7a",
+            "title": "ご当地ニュースクイズ（１４６７）",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-14T00:05:34+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "ご当地ニュースクイズ（１４６７）  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMUUhfUnBtbGV5WmZtdjBkdXZXWm5VX1RCeVVZZ3ZIR3FkRng4dVhzTWEzV2RpUU9NeFhTaFEyQUZuYUYwNVFfbElLZmNxWE9iNm9rTXZPeThIZnhMU2RKWGktZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-14bedd6ad5fa94b0f7c719597a377b8c",
@@ -265,26 +265,15 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-c1df7b8f560de2c80ef63e85fbe5a783",
-            "title": "台車に挟まれ作業員死亡 新幹線などの車両をつくる工場で 腹などを強く打ち約1時間後に死亡確認 日本車輌製造 愛知・豊川市",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-11-13T18:44:00+09:00",
-            "category": "ビジネス",
-            "area": "三河",
-            "summary": "台車に挟まれ作業員死亡 新幹線などの車両をつくる工場で 腹などを強く打ち約1時間後に死亡確認 日本車輌製造 愛知・豊川市  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TN3owVDVWSl9oOXBXTnRjOHhGNmxMendnYU0tbnVMRTR5Q1Y0alg1Q0pNazhiclpCeWx6b21QbjR2NVZiUGlHLVZmbWFZX0lRZURFZlNKSGRkZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f21989653129878ef8a4bb3ac7ca2740",
-            "title": "発酵中「いい顔」がある 愛知の「日本一」企業、社長目利き",
-            "source": "朝日新聞",
-            "published_at": "2026-11-13T16:30:00+09:00",
-            "category": "ビジネス",
+            "id": "news-a6dc1a8da8353b6c77ec75ca66f5b7b0",
+            "title": "生誕100年・没後20年 茨木のり子を語る講演会「青春のうた、愛のうた ～茨木のり子と谷川俊太郎～」を開催します！",
+            "source": "愛知県",
+            "published_at": "2026-11-13T10:52:14+09:00",
+            "category": "観光・イベント",
             "area": "愛知",
-            "summary": "発酵中「いい顔」がある 愛知の「日本一」企業、社長目利き  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HQnpPT01lbmQzeUhINjZSRFVaYTdLZHdvSnBBWkdLZXdGci1xTzM2dnduWUlHT0t1b25IdnhlaGRTUGlleEx2NzFYWi11Rk8yNldrZ1FvTlRiY2k5?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+            "summary": "生誕100年・没後20年 茨木のり子を語る講演会「青春のうた、愛のうた ～茨木のり子と谷川俊太郎～」を開催します！  愛知県",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yN255aXljc0haU3VYbjNXcVdXNnZXdHIwV3U3cjJvVkRRQXpYTkd3QlljZnFtX1JZTzRobU5NeEpubkZOalJtUzNyQmZLRmdFUC1RM2g0ZVhuZmVvTnRZNlBfYw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-5c28e075fe3077c5625f2d855ba86cb3",
@@ -298,48 +287,37 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-1f37dd2b63789fb99c1ea530ca920b4e",
-            "title": "【動画】ラズファクトリー プロショップ巡り2026 愛知県豊川市",
-            "source": "Motor Fan",
-            "published_at": "2026-11-13T17:10:00+09:00",
-            "category": "市政・行政",
-            "area": "三河",
-            "summary": "【動画】ラズファクトリー プロショップ巡り2026 愛知県豊川市  Motor Fan",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aOG9jTHpHYVhhbW92N3RUaEYtNzMxa191alJVM2xpRnJsQ3F0RXA3MHNOWkk2dklLZEJuVDNhUHVtdXU4c09Mb1h4Z21qQQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a6dc1a8da8353b6c77ec75ca66f5b7b0",
-            "title": "生誕100年・没後20年 茨木のり子を語る講演会「青春のうた、愛のうた ～茨木のり子と谷川俊太郎～」を開催します！",
-            "source": "愛知県",
-            "published_at": "2026-11-13T10:52:14+09:00",
+            "id": "news-4f17673420c004c030c53bc0a6d3fef0",
+            "title": "『VIVANT』第18話のロケ地(愛知県小牧市)を特別公開！NGK電力技術研究所の見学イベント参加者50名を募集",
+            "source": "シネアナゴヤ",
+            "published_at": "2026-11-13T12:49:40+09:00",
             "category": "観光・イベント",
-            "area": "愛知",
-            "summary": "生誕100年・没後20年 茨木のり子を語る講演会「青春のうた、愛のうた ～茨木のり子と谷川俊太郎～」を開催します！  愛知県",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yN255aXljc0haU3VYbjNXcVdXNnZXdHIwV3U3cjJvVkRRQXpYTkd3QlljZnFtX1JZTzRobU5NeEpubkZOalJtUzNyQmZLRmdFUC1RM2g0ZVhuZmVvTnRZNlBfYw?oc=5",
+            "area": "尾張",
+            "summary": "『VIVANT』第18話のロケ地(愛知県小牧市)を特別公開！NGK電力技術研究所の見学イベント参加者50名を募集  シネアナゴヤ",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iTXQ1d0p5cHhQNWtDaV95QkRJalFKTzZIWHVoRWxVTXJUSUFkRWNfVGpYa0t4M1MzeWJoUzZpSzRFMGVUV25Eczl30gFPQVVfeXFMTW5iV2c4NURCSXprQXlOUThpNmVKM1EyMmoxNzZqVkRaZU53elZkSXdLelh5VTRnbElPbkJBVjBoclZhVmJyaWlzRFZueTVEaw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-8afdf143c8984d51cb9c8d40f63b67cc",
-            "title": "愛知県の雨雲レーダー(過去)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-13T17:51:41+09:00",
+            "id": "news-dcd5b9467f6ad7e8fa68d2fd1c61b737",
+            "title": "東三河地域の小学4年生向けパンフレット 「東三河魅力発見ノート」を作成しました！",
+            "source": "愛知県",
+            "published_at": "2026-11-13T10:54:08+09:00",
             "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の雨雲レーダー(過去)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pbjJxV2FNdFE5akcyUUJqQlhDVEdJVDdNMnBfNGFod2p2MXhJeEJFdUsyU1YybnJzS0Q1ZlRTdjZfWEFFNFNOWnRwMG5DUQ?oc=5",
+            "area": "三河",
+            "summary": "東三河地域の小学4年生向けパンフレット 「東三河魅力発見ノート」を作成しました！  愛知県",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjVE9pcV9LZ3o3NzdCMWdqUGdtdkR1MllibEplZFBTR2hKVGVQZ29Objg4WVRkc0twYWFYNVpBMk9YTFJnTUhTYnNlVEV4czhCMEZtczdIZ1RNR0E2MnpCRmNiczRvV2xUSXVaTGZR?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-6aa6acf4dce58665c7f56175469d16aa",
-            "title": "愛知県の大村知事が来年の知事選に5選を目指し出馬の意向固める これまでに減税日本から広告会社社長・野口氏が立候補表明",
-            "source": "locipo.jp",
-            "published_at": "2026-11-13T18:45:48+09:00",
-            "category": "市政・行政",
+            "id": "news-da2811ef8d2d6b13675b2468684ebd7b",
+            "title": "愛知拠点の窃盗グループが盗難車で東京に移動し10件以上犯行か 4億円超盗まれた貸金庫事件も関連浮上 渋谷の高級マンション窃盗容疑で男4人逮捕（TBS NEWS DIG Powered by JNN）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-13T16:51:59+09:00",
+            "category": "社会",
             "area": "愛知",
-            "summary": "愛知県の大村知事が来年の知事選に5選を目指し出馬の意向固める これまでに減税日本から広告会社社長・野口氏が立候補表明  locipo.jp",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1OXpSVEN1TWFkR1dLbjVwSF9nMzBiN0g3TFNqcGJ2T2p1M1dqTGtZQ0c3QVd1NXNGUnhYaDhfcm90aElibTJ0T19XdUZhZjJYNGVEZncxbnlJYTR3ZHVDZm5aeGVDd0tQX0x5MVJQbTg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "愛知拠点の窃盗グループが盗難車で東京に移動し10件以上犯行か 4億円超盗まれた貸金庫事件も関連浮上 渋谷の高級マンション窃盗容疑で男4人逮捕（TBS NEWS DIG Powere...",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50NHNYdTdLVTVmamlqbHR2Yi1LS1UtLW55TGZVQ0dXcndFc1BtYnk4WkhLN2gxUUlGWWY0eEpCWnBhUDB5YUUyakwwRUVpbHlYSmNCNjdoSzJtMXNwak5JckhFZ0FEMnFudmMwLXk0YkJDVnQ5YzdOb010ZlZLLWc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
