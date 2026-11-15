@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-15T19:37:25+09:00",
+    "last_updated": "2026-11-16T00:29:34+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,7 +9,7 @@
         "temp_min": 13,
         "rain_prob": "0%"
     },
-    "total_count": 29,
+    "total_count": 28,
     "articles": [
         {
             "id": "toyohashi-city-44d0971e597030d7c966053001cfe959",
@@ -78,28 +78,6 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-64a0185749be0e7c8295350b4a2304f5",
-            "title": "ふるさと住民登録、岐阜・飛驒市、愛知・豊橋市が登録アプリで実証",
-            "source": "日本経済新聞",
-            "published_at": "2026-11-15T11:00:00+09:00",
-            "category": "ビジネス",
-            "area": "豊橋",
-            "summary": "ふるさと住民登録、岐阜・飛驒市、愛知・豊橋市が登録アプリで実証  日本経済新聞",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GOHFobFlLRDdBTlJTVUFqb1Z1bi03MTIyak8yY1g2NkhqU1dFNlNCZW43V0wtVmhUUm5hVTFZczRWcEhycXRXdUdKUERiZTU5RC1JTkJ4bDNqOTlwNzBXMzZKX0FZclFoWVlWMQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-70c936ab0e15922e391d10965e07293e",
-            "title": "愛知県の雨雲レーダー(予報)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-15T17:12:21+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-773c2a9b5fc59f8aad1071fe79acc55c",
             "title": "恐竜の着ぐるみを着て速さを競う「ティラノサウルスレース」のフェスを愛知・豊橋市で初めて開催 （CBCテレビ）",
             "source": "Yahoo!ニュース",
@@ -111,6 +89,50 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-ec564dfaaad98bd8136d91397149b407",
+            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
+            "source": "tenki.jp",
+            "published_at": "2026-11-15T20:37:16+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-64a0185749be0e7c8295350b4a2304f5",
+            "title": "ふるさと住民登録、岐阜・飛驒市、愛知・豊橋市が登録アプリで実証",
+            "source": "日本経済新聞",
+            "published_at": "2026-11-15T11:00:00+09:00",
+            "category": "ビジネス",
+            "area": "豊橋",
+            "summary": "ふるさと住民登録、岐阜・飛驒市、愛知・豊橋市が登録アプリで実証  日本経済新聞",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GOHFobFlLRDdBTlJTVUFqb1Z1bi03MTIyak8yY1g2NkhqU1dFNlNCZW43V0wtVmhUUm5hVTFZczRWcEhycXRXdUdKUERiZTU5RC1JTkJ4bDNqOTlwNzBXMzZKX0FZclFoWVlWMQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-25eca1cf08707b343ddb852653f59d0e",
+            "title": "さようなら 豊橋駅前のスペースシャトル",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-16T00:00:00+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "さようなら 豊橋駅前のスペースシャトル  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EV0tqM1VIRXFuWFpGSnl0QUFkMVFrQ2R5YzhQVWRybEdfWUJTSFg0bDlJbkp2aVFQcnZwYXRxR3hYZUo1NWZNeFV1UUNhay1GVDExeWpwd3ZWRU56?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-e6d3e1cfdaf074ac66b5a66349cd5fe4",
+            "title": "「ブラックサンダー」の有楽製菓が「1億円」寄附 愛知県豊橋市へ…理由を説明",
+            "source": "山陽新聞",
+            "published_at": "2026-11-15T17:45:14+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "「ブラックサンダー」の有楽製菓が「1億円」寄附 愛知県豊橋市へ…理由を説明  山陽新聞",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3SDE1WXNyZnd4S1hWd2lKMmh1a3JnaUkwMlNoWnJzcGc3M0dwTmZFT08zMW9hR0hZa0UzYVlScUF4UXBWXzhRRWtQVHBZTVAzUVJDNXdxUjNpbWJKXy1DeW5xbw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-53069d715d109db1a3b0f6d28508e082",
             "title": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
             "source": "ウォーカープラス",
@@ -120,17 +142,6 @@
             "summary": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbmFBMjZVWTdXMENUUVM5X083Y3QySXVoeHdjWlhpaEhId1l0STRZdG1GLVZkbXpjcmVqYlRSSl9HMWtKMnNKTXRIQnROTXNRd0p0M1AwQW1CUnhWcWZ0dWZQcklBdlhmM2ZvUGFn?oc=5",
             "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-0eb8e23299039e9ad321c70a8fa2ab4e",
-            "title": "豊橋でガスネットフェア開幕 お得な最新ガス器具販売 11月15日まで 東愛知ガス供給ネット「緑三会」",
-            "source": "東愛知新聞",
-            "published_at": "2026-11-15T12:03:15+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "豊橋でガスネットフェア開幕 お得な最新ガス器具販売 11月15日まで 東愛知ガス供給ネット「緑三会」  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pOUNabzhNUGdSYnpRYm9KeGI2eWJfSW1Fa0l4LWM1X2dNVDFJTkk3R3Z5SnBLZURSNGJ2b19kOWRlMG1Bb01vZ2hFaUFNUlNZSEJkWjBqQzVqRWlC?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-4358c6af40fb0f02280e1f5ffa2a3b5f",
@@ -166,26 +177,48 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-1cdbed1f26a62ebc23069cb78a7833ea",
-            "title": "長久手市、武豊町、豊橋市…愛知県「住み続けたい街ランキング」2026発表！ 6年連続1位は？",
-            "source": "ニコニコニュース",
-            "published_at": "2026-11-15T08:00:03+09:00",
+            "id": "news-efb222642469b57fee3a3163237412b3",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-15T21:31:25+09:00",
             "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "長久手市、武豊町、豊橋市…愛知県「住み続けたい街ランキング」2026発表！ 6年連続1位は？  ニコニコニュース",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JWjdlcC1FWkJMWDRySUZBT2JZbThWV1RQZTZmSE1YaEdzLXEtMUNaMklua0xwbUdQSUd2NVZfb0ZYTW1KSDMyNUpsYkNoTGtYQWQyMjJDM2ZIV0VrZ1ZHTS1BREFzenVtbEk0VFIzeXJ4WHQzTnAzVlI3RFk?oc=5",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-367d7a8154ba35ace942e6295ba1a305",
-            "title": "「トクリュウ」か 女性重傷の強盗事件 捜査本部設置 愛知・小牧市",
-            "source": "テレ朝NEWS",
+            "id": "news-eeb416a318330a3312f443fc17a6d2f0",
+            "title": "「トクリュウ」か 女性重傷の強盗事件 捜査本部設置 愛知・小牧市（テレビ朝日系（ANN））",
+            "source": "Yahoo!ニュース",
             "published_at": "2026-11-15T17:39:27+09:00",
             "category": "社会",
             "area": "尾張",
-            "summary": "「トクリュウ」か 女性重傷の強盗事件 捜査本部設置 愛知・小牧市  テレ朝NEWS",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qZkJFWlpBRjdMdVBON2Njd0RZQjFGUUpqd0xlOEZvNTdiRUxLRzRuczFqVnZqaGtWTlZwMm5WeWxVM05EbU82QllkVjJEdHE0R0lGOWJ0TUVveUpXcDZCUWFsQ0xkRzF1eTJ2Rzg0d2VfQQ?oc=5",
+            "summary": "「トクリュウ」か 女性重傷の強盗事件 捜査本部設置 愛知・小牧市（テレビ朝日系（ANN））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02TUtCb2ZaeUZ2RXFLdEg1WmlWLXdjZm16VC15RVhvU1M1MWkxNlZfeXNGRkxKQ0dOSzlSbnRSTkpiYmRrTE50ZF9jRlplYzIwZ0gzRUg3b1ZZbDlJUDZhUFh0TDlaVUt0NWZBeDZhdEFvS3BDQ1BfT25LVlJkU0E?oc=5",
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-7aed346d791255c65a49c1d10ff28cb0",
+            "title": "愛知県弥富市長選挙、横井克典氏が初当選",
+            "source": "日本経済新聞",
+            "published_at": "2026-11-16T00:07:28+09:00",
+            "category": "ビジネス",
+            "area": "愛知",
+            "summary": "愛知県弥富市長選挙、横井克典氏が初当選  日本経済新聞",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVVzdjaS1LeF96TzlCZHBSMmViNWpyQjhVQzZEc3B3MW9vZTI4d0FyS0d3UEFLVVNJN0RCS1F2N3hibXJWc3ZyUHFsWlhzTzUwNHNWTE9uTVdLb1ZiY1c4Y2V0RUtGMUJXQzhpcw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f4e0c8e3b093d07e734eb835fa330c74",
+            "title": "自宅で襲われ82歳重傷 盗難車に乗車の男ら、関与ほのめかす 愛知 [愛知県]",
+            "source": "朝日新聞",
+            "published_at": "2026-11-15T23:00:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "自宅で襲われ82歳重傷 盗難車に乗車の男ら、関与ほのめかす 愛知 [愛知県]  朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56b3NPWHBTaFkxbzdvcGhmeEtPQmJfTm9VQkxGNzVDRjNkMzh4SnZzVWY2MjZHODJsTGtaMllXYVpmSVFUWTltUE03UV84eDYzQVktcFdWSmh4RFpLdkU4aWhkSXo4T2s?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-1ef91fa740414e9f1dfb92f1d9076bbe",
@@ -199,103 +232,37 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-9caa58cb749fcb1ac9a3864f6f6b7a9e",
-            "title": "【愛知県】11/16の天気予報（FNNプライムオンライン（フジテレビ系））",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-15T19:30:42+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【愛知県】11/16の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TZ0hFQUFtOEhpQmVjVGlDQ0k1VG1qX3R1YzJWc19CclBqZ051OHh3WEpkcVR6NHNPZEFrdjJPVldCOUNvVkVNa1h6Ty1XY1FmRzhzRjNJNkt2YlNYM2dLRUJ4WmpWRVdkRFdXbi13TGUxeG03YnV6b3NMeXBkcU0?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-276c323c8a7711a3541c6fa86a2cd609",
-            "title": "愛知・小牧の住宅に男らが押し入り８２歳女性を殴り逃走…現場付近で盗難車の５人逮捕、関与を示唆",
-            "source": "読売新聞",
-            "published_at": "2026-11-15T10:08:00+09:00",
-            "category": "社会",
-            "area": "尾張",
-            "summary": "愛知・小牧の住宅に男らが押し入り８２歳女性を殴り逃走…現場付近で盗難車の５人逮捕、関与を示唆  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FTm91bk1HeDk2U1NzYU0zUUF4d3VJWkRSS3lQUGh3SHpfTmNnNHNabThLWGgyMGlRYmZBR09TNWNULXJXYnZadll4RXJCczZTYzJKbm9Ob0I1MlFoeWYzM0dsa3BSZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-00059a9e03da07a6e18636a8f1b213b6",
-            "title": "愛知・小牧の住宅に強盗、82歳女性重傷 盗難車運転疑いの男ら関与か",
-            "source": "日本経済新聞",
-            "published_at": "2026-11-15T16:32:53+09:00",
-            "category": "ビジネス",
-            "area": "尾張",
-            "summary": "愛知・小牧の住宅に強盗、82歳女性重傷 盗難車運転疑いの男ら関与か  日本経済新聞",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95QXpUenZuY1IyUU1vTWZEYjNDdlBWc0liRTFyQnViNF9OY1JleVFIX21lOWd5S2tPZldHYWU3TF9MNEdaZ040eUxEaUM5dFVNNHF4Yzd0MXUzLU1CQzhFZUNYd2owRTlFaGkzNw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-51d561bce6de8a9ae77118ea44048b82",
-            "title": "20代の男1人と少年4人を逮捕 盗難車を運転し保管した疑い 82歳の女性が大けがをした強盗傷害事件への関与もほのめかす",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-11-15T12:48:00+09:00",
-            "category": "社会",
-            "area": "愛知",
-            "summary": "20代の男1人と少年4人を逮捕 盗難車を運転し保管した疑い 82歳の女性が大けがをした強盗傷害事件への関与もほのめかす  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSSkNmQmp0Wkwtc2NYeks0eWloNm5VQzR3N1RET2V1YWJqR0hBekplWU1YYnpZQjZsWjZoOU1BRnJHX0RxWG9ZRnptSXBhaU1Dc21nMTFxYw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-627de994c6f471b798891d4c17516f16",
-            "title": "名古屋市千種区 13500万円 4.02% 一棟売りアパート",
-            "source": "健美家",
-            "published_at": "2026-11-15T14:39:12+09:00",
-            "category": "一般ニュース",
-            "area": "名古屋",
-            "summary": "名古屋市千種区 13500万円 4.02% 一棟売りアパート  健美家",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50WWo0MjRydXFTWFVLRXBlMExRWEExU3RYdXQ3aDQxeUlzZm5seWZFck9DUmlpQkFUWk9lWDRUQTdkMVdyOVYxNWxLdGtpUGpERmk2SEFOSVAzRjhUeFY0S1E1NHlfTnlqNjRSdHZjS0g?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-efb222642469b57fee3a3163237412b3",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-15T15:31:26+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-87f6e348ed1cf1f6a8ad440410d54c01",
-            "title": "小牧市の住宅で強盗致傷事件、82歳女性が重傷 盗難車運転疑いで中学生含む男ら5人現行犯逮捕、事件関与ほのめかす",
+            "id": "news-6197c06661148a1f1a56de6d55035608",
+            "title": "愛知県小牧市の強盗殺人未遂事件 容疑者の1人の両親が中日新聞の取材に応じる：中日新聞Web",
             "source": "中日新聞Web",
-            "published_at": "2026-11-15T04:13:05+09:00",
+            "published_at": "2026-11-15T20:50:00+09:00",
             "category": "社会",
             "area": "尾張",
-            "summary": "小牧市の住宅で強盗致傷事件、82歳女性が重傷 盗難車運転疑いで中学生含む男ら5人現行犯逮捕、事件関与ほのめかす  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15WC1TY2I1NzJaMk1JNzdBNkMwX1QxRW1pSnlyM0ZsMkQ3dTk3dm9TMjUxZy11MzdWdnk2UzFuU05BNWxyazNZd0Rtb2FpU05ZVWNNXw?oc=5",
+            "summary": "愛知県小牧市の強盗殺人未遂事件 容疑者の1人の両親が中日新聞の取材に応じる：中日新聞Web  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VTFRkaV81YmtRSExFRmswUDliN2dtam1yNDRlVHo3dHN0RHU4RjY4cXZZZjVTOGNEcWhlYmcyMDFNVjJJUjBYV2laMDlBUWZJUG9sWA?oc=5",
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-e4a5904eb0bb879c72a5cfc0564a6784",
-            "title": "愛知 小牧 高齢女性宅で強盗傷害事件 盗難車運転疑いで5人逮捕",
+            "id": "news-c30e46c7a6a3bccd4e797bbcfa8cd303",
+            "title": "愛知・強盗殺人未遂事件 「トクリュウ」の犯行か 別件逮捕の少年らが関与ほのめかす 女性（82）がバールで背中を殴られ重傷",
+            "source": "日テレNEWS NNN",
+            "published_at": "2026-11-15T19:01:01+09:00",
+            "category": "社会",
+            "area": "愛知",
+            "summary": "愛知・強盗殺人未遂事件 「トクリュウ」の犯行か 別件逮捕の少年らが関与ほのめかす 女性（82）がバールで背中を殴られ重傷  日テレNEWS NNN",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qdExzYzdPd2F4NEhvMlFWaWxObWV1UHFuYWZTZGVjQXc2VFJNWXo4eXFHZjNjX2FpVFZqWkhRZzlEdFZxdm1LVTJBV1gtN3FRY2tCM091NWJrQVhQRk14WG5IMHpUV25NSkUtZ083a09TNGNXdHZudXVGRko?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-e9558ce7d4991a1276620dd061b9f3ef",
+            "title": "愛知 弥富市長選 新人の横井氏が初当選",
             "source": "NHKニュース",
-            "published_at": "2026-11-15T11:06:00+09:00",
-            "category": "社会",
-            "area": "尾張",
-            "summary": "愛知 小牧 高齢女性宅で強盗傷害事件 盗難車運転疑いで5人逮捕  NHKニュース",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94SWR4d1ZtWk9pNVd5TExfNVBjeHJLaksxcGdhbk1acmtpQlM4dEx2NXcwbjRva09jQy1DajkwRWNXS0NDMEVDVVYyTFNEdzJTXzdSdE5KUHhJYk1RZW5R?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-37f4f619b96a989dba47f95728969f7f",
-            "title": "「ラヴ上等」出演の「あっすん」を逮捕 無許可風俗営業容疑 名古屋 [愛知県]",
-            "source": "朝日新聞",
-            "published_at": "2026-11-15T05:55:00+09:00",
-            "category": "社会",
-            "area": "名古屋",
-            "summary": "「ラヴ上等」出演の「あっすん」を逮捕 無許可風俗営業容疑 名古屋 [愛知県]  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84QVo0MENjcWlBTzZrbW9jd3NRTUhLNlBKOUhPcFNLNHB1WW1HajBxY3lwZ0hIX0xBVUMyQVNOQVlqdlljM1JMWEc2VHhkblB4cGJyb3FiVlFGWXd2VEVqMENTUmF4ZkE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+            "published_at": "2026-11-15T23:09:18+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知 弥富市長選 新人の横井氏が初当選  NHKニュース",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53cXRGc3JCOGpIbFdiNXlhNHZzdmt5VHJOdTBOSDdyRURhUzFEcTBfanBWRlprbkdlSU1xbXRuSTFpcVNiTkdhYVhDN2lwbDQzenRZWG5ReG85TEVSd0JN?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-62e55fef4395be68b18408b7bbaf979c",
@@ -309,26 +276,48 @@
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-dd8eba74081004e0cd8ffa597d4358fe",
-            "title": "住宅に強盗、82歳女性重傷 愛知・小牧、男ら数人（共同通信）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-15T08:37:55+09:00",
-            "category": "一般ニュース",
-            "area": "尾張",
-            "summary": "住宅に強盗、82歳女性重傷 愛知・小牧、男ら数人（共同通信）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RT2o3QUxLcnVqNmo4WXJyRWpoZzFtR2xLSFMwelBvU040YjRsNGZxNUpSU1Z5bzZLSHNTVXhlUjd2WVZkQUlXcnBLQ2l1bFloVndYZ0Q1TEhhVjhTdWFZdmZfVTFEZ01KSUFvbXdUWG5qZEFTQmJQZktoVVAxTWM?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "id": "news-a866936a0d2475be6bdbe5d614c100d2",
+            "title": "愛知県弥富市長選で横井克典氏が初当選 2新人破る",
+            "source": "47NEWS",
+            "published_at": "2026-11-15T22:58:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県弥富市長選で横井克典氏が初当選 2新人破る  47NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhaVk4dmR4N2I3V250T2laUGRMaVdmR1AwczV0Q1ZUMzdDTWxoVU9EdHk1bjF6R2tZTXUxbEtXdW1lT090QUh1OXFWaw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-19ef32f8a1a6578da8e76465efe0a1da",
-            "title": "「金はないか」就寝中の高齢女性が殴られ重傷 少年ら5人が関与か 愛知県小牧市（メ〜テレ（名古屋テレビ））",
+            "id": "news-6f55bf9a6d6a0291efce481daf2a2cd0",
+            "title": "”トクリュウ”の犯行とみて警察が捜査 愛知・小牧市の強盗殺人未遂事件 82歳の女性が重傷",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-15T20:52:00+09:00",
+            "category": "社会",
+            "area": "尾張",
+            "summary": "”トクリュウ”の犯行とみて警察が捜査 愛知・小牧市の強盗殺人未遂事件 82歳の女性が重傷  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzY1JzckE5UGFKR2duOTFDVTlRN0N5MVlCSk1yVWlackM3MzNGVEY1Mlh5WHAzcHI0NkY3dU95X3huWTRGTi1iZ3kzOE9KZ2pMZG1UdzNHeTdlZWN0SV9Wb3VwVkNxYzg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-276c323c8a7711a3541c6fa86a2cd609",
+            "title": "愛知・小牧の住宅に男らが押し入り８２歳女性を殴り逃走…現場付近で盗難車の５人逮捕、関与を示唆",
+            "source": "読売新聞",
+            "published_at": "2026-11-15T10:08:00+09:00",
+            "category": "社会",
+            "area": "尾張",
+            "summary": "愛知・小牧の住宅に男らが押し入り８２歳女性を殴り逃走…現場付近で盗難車の５人逮捕、関与を示唆  読売新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FTm91bk1HeDk2U1NzYU0zUUF4d3VJWkRSS3lQUGh3SHpfTmNnNHNabThLWGgyMGlRYmZBR09TNWNULXJXYnZadll4RXJCczZTYzJKbm9Ob0I1MlFoeWYzM0dsa3BSZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-eb2d8654feed6face11946354032fe89",
+            "title": "82歳女性がバールで殴られ重傷 男ら住宅侵入 別件で逮捕の少年ら5人のうち複数人が関与か 愛知・小牧市",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-11-15T12:18:02+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "「金はないか」就寝中の高齢女性が殴られ重傷 少年ら5人が関与か 愛知県小牧市（メ〜テレ（名古屋テレビ））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUVHQ2RGZqWGZrX0EtMzZQWFBTZlNKTU5qb3pjY2FEQnZ2MG5tTUJGM3pOZFRpaFlZSTg2Qm5ibG9VcXl0T3hmS1g5SkM0aUVBemlGUUpKV0dySF82c0xaVjF2OTc5UHdwZDRGd2paSi1RRFRzdi16S3FfQmstTkk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "published_at": "2026-11-15T17:49:19+09:00",
+            "category": "社会",
+            "area": "尾張",
+            "summary": "82歳女性がバールで殴られ重傷 男ら住宅侵入 別件で逮捕の少年ら5人のうち複数人が関与か 愛知・小牧市  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02NE9IdS1rZWVTUHM0UWw2WTBYN0tCWGtTQVVkU2dOOXZXNXpCRnpUazJOUExNZW5qd29fYmtLTm1JNFBwU0phUlZ3NU03emVQZmJMM3hqaURCRkFSRlByZm1nRVNkVjNOLUFOQUVzUGs0bTRDaHdaTjA0VGVuLW8?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
