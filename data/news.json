@@ -1,15 +1,15 @@
 {
-    "last_updated": "2026-11-16T10:44:36+09:00",
-    "update_session": "朝刊便（07:00配信）",
+    "last_updated": "2026-11-16T19:54:08+09:00",
+    "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "晴れ　夜　くもり",
+        "condition": "くもり",
         "icon": "☀️",
-        "temp_max": 21,
-        "temp_min": 21,
+        "temp_max": 15,
+        "temp_min": 12,
         "rain_prob": "70%"
     },
-    "total_count": 26,
+    "total_count": 30,
     "articles": [
         {
             "id": "toyohashi-city-44d0971e597030d7c966053001cfe959",
@@ -78,21 +78,21 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-c949728bfbb42d3d0a1badebb263ee53",
-            "title": "愛知県豊橋市の多文化交流イベント、台湾の農産品をPR",
-            "source": "Taiwan Today",
-            "published_at": "2026-11-16T10:43:01+09:00",
-            "category": "観光・イベント",
+            "id": "news-ec564dfaaad98bd8136d91397149b407",
+            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
+            "source": "tenki.jp",
+            "published_at": "2026-11-16T17:46:21+09:00",
+            "category": "市政・行政",
             "area": "豊橋",
-            "summary": "愛知県豊橋市の多文化交流イベント、台湾の農産品をPR  Taiwan Today",
-            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IYVVtN3FYZi1DZTE0Szg5UVBSc0t5RFRjUDZzaDFXYjhtU1ZTRFhxMnJSR0Fqby15U2pfVUQ3Sk9qM1pWbm9VLURXZ3g?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-0b55d835b55dd45121cf2d8c8b597a23",
             "title": "【枚方市】スタートアップと連携して地域課題を解決｜豊橋市のアグリミートアップの取組を視察",
             "source": "選挙ドットコム",
-            "published_at": "2026-11-16T09:22:47+09:00",
+            "published_at": "2026-11-16T13:48:08+09:00",
             "category": "ビジネス",
             "area": "豊橋",
             "summary": "【枚方市】スタートアップと連携して地域課題を解決｜豊橋市のアグリミートアップの取組を視察  選挙ドットコム",
@@ -100,15 +100,15 @@
             "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-25eca1cf08707b343ddb852653f59d0e",
-            "title": "さようなら 豊橋駅前のスペースシャトル",
-            "source": "東愛知新聞",
-            "published_at": "2026-11-16T00:00:00+09:00",
-            "category": "一般ニュース",
+            "id": "news-c949728bfbb42d3d0a1badebb263ee53",
+            "title": "愛知県豊橋市の多文化交流イベント、台湾の農産品をPR",
+            "source": "Taiwan Today",
+            "published_at": "2026-11-16T11:08:30+09:00",
+            "category": "観光・イベント",
             "area": "豊橋",
-            "summary": "さようなら 豊橋駅前のスペースシャトル  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EV0tqM1VIRXFuWFpGSnl0QUFkMVFrQ2R5YzhQVWRybEdfWUJTSFg0bDlJbkp2aVFQcnZwYXRxR3hYZUo1NWZNeFV1UUNhay1GVDExeWpwd3ZWRU56?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "summary": "愛知県豊橋市の多文化交流イベント、台湾の農産品をPR  Taiwan Today",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IYVVtN3FYZi1DZTE0Szg5UVBSc0t5RFRjUDZzaDFXYjhtU1ZTRFhxMnJSR0Fqby15U2pfVUQ3Sk9qM1pWbm9VLURXZ3g?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-773c2a9b5fc59f8aad1071fe79acc55c",
@@ -122,14 +122,25 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-660696061cde8ff75bf992403ce9f762",
-            "title": "「ブラックサンダー」の有楽製菓が「1億円」寄附 愛知県豊橋市へ…理由を説明",
-            "source": "山陽新聞",
-            "published_at": "2026-11-16T05:37:42+09:00",
+            "id": "news-229978ae9e7ca70809617516476f7fce",
+            "title": "俳優の松平健さんが御開帳中の豊川稲荷に登場 門前や境内を馬に乗り移動 沿道に大勢のファン詰めかけ",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-16T18:13:11+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "俳優の松平健さんが御開帳中の豊川稲荷に登場 門前や境内を馬に乗り移動 沿道に大勢のファン詰めかけ  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UT2xrOG5lajEzV0gtVWh5eHNoMjAtbDFEUGFwZDZteUdIbVltOHY3cmlIV1Z6SGFQNGY2OFB4WmtZb1R1UXZMX0VwbkEwZENidkVyN3B5V0FuekRN?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-2c087a8f534156454f2a9602df63bb95",
+            "title": "市電や観覧車の光のモチーフが初登場！豊橋市“とよはしキラキラ☆イルミネーション2026”",
+            "source": "Dtimes",
+            "published_at": "2026-11-16T13:42:46+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "「ブラックサンダー」の有楽製菓が「1億円」寄附 愛知県豊橋市へ…理由を説明  山陽新聞",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56MzlXYm01WFdxRjYzeUM3ZmcybzVpbW1NbHJFSXZadnNGVHZTdk1vTkF4LWJEMmVkNm5qMnZpQnBDUDE1YU1XTDRfNHFUMEp5M3g3UVFIeXJyWk11US1hTlcxTG80UlZkYnlZUTNJMA?oc=5",
+            "summary": "市電や観覧車の光のモチーフが初登場！豊橋市“とよはしキラキラ☆イルミネーション2026”  Dtimes",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5aZUtjSDlkcTU4WXg1a1hiUUJJM1N4cDlTdmxHdkV4ZU94U0taSEI0WDQ1V0Q1OW9xQmp1Tm1Va1Bnamh4LVE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -144,6 +155,28 @@
             "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-660696061cde8ff75bf992403ce9f762",
+            "title": "「ブラックサンダー」の有楽製菓が「1億円」寄附 愛知県豊橋市へ…理由を説明",
+            "source": "山陽新聞",
+            "published_at": "2026-11-16T05:37:42+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "「ブラックサンダー」の有楽製菓が「1億円」寄附 愛知県豊橋市へ…理由を説明  山陽新聞",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56MzlXYm01WFdxRjYzeUM3ZmcybzVpbW1NbHJFSXZadnNGVHZTdk1vTkF4LWJEMmVkNm5qMnZpQnBDUDE1YU1XTDRfNHFUMEp5M3g3UVFIeXJyWk11US1hTlcxTG80UlZkYnlZUTNJMA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-afaa2ba3f042f664b3d875a9b0794e8d",
+            "title": "冬の豊橋が光の街に大変身！「とよはしキラキラ☆イルミネーション2026」が11月20日(金)よりスタート",
+            "source": "イザ！",
+            "published_at": "2026-11-16T13:21:52+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "冬の豊橋が光の街に大変身！「とよはしキラキラ☆イルミネーション2026」が11月20日(金)よりスタート  イザ！",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xQzFvbnJBMnFzejB1Z0JNS0VCQk5CWmpmTm85dEk4d0ZrSHZ4VWExLUZtM0NoM2ozUlF2WlVMNTF2ckxNbXM2QnFEQzB6YXlvSl9kc2JGVUNwcldsb2swY1pWTjBQeXFGbUh2Z2VZVWVqb1drc1VVMlpR?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
             "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
             "source": "ウォーカープラス",
@@ -155,26 +188,37 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-584897feba4af57bcab50b28eedadf56",
-            "title": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
+            "id": "news-70c936ab0e15922e391d10965e07293e",
+            "title": "愛知県の雨雲レーダー(予報)",
             "source": "tenki.jp",
-            "published_at": "2026-11-14T19:11:17+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "のびっこジャンボ豊橋南店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2d0N5QnhERmtibVBadUUyS21rMEh3Z2VDNnlVQTZPN19LQjZvV2g5Ykw2ZWVkX3ppbXRLdk1CWUFza0oyZlU4NHhJTmNsaEhsOWxJ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+            "published_at": "2026-11-16T18:42:15+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-eb6c8a0a930489ade35e00abe68d69d4",
-            "title": "電車やバスの待ち時間に絵本を楽しむ 愛知県豊橋市で今年も「絵本の駅」スタート",
-            "source": "株式会社共同通信社",
-            "published_at": "2026-11-15T10:00:00+09:00",
-            "category": "ビジネス",
-            "area": "豊橋",
-            "summary": "電車やバスの待ち時間に絵本を楽しむ 愛知県豊橋市で今年も「絵本の駅」スタート  株式会社共同通信社",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94QzY4T2Jad3YzLWlHcVZXbE9CeW1EQkE1OFhnTnRuX1hPaG1RT0xWN1RteEFPaWI4TkFKRFpOMTVPWHc4Z1gxekNON3FUV0NnYnFaeWNsNkFrSnV1?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+            "id": "news-b8b56100b3e17e694b07a01130ff4f00",
+            "title": "エシカル消費普及啓発イベント「あいちエシカルパーク」を開催します",
+            "source": "愛知県公式Webサイト",
+            "published_at": "2026-11-16T10:47:22+09:00",
+            "category": "観光・イベント",
+            "area": "愛知",
+            "summary": "エシカル消費普及啓発イベント「あいちエシカルパーク」を開催します  愛知県公式Webサイト",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43WWNBaklMd0IzRlozOGdlamhSSFAtUllKTXhLbnpod1FIRU1iMDhCOFVOWUtnbVF0aUhDSlgtU0psbV94QmUzNmpoRUlVV0ZPdzZLTWowaDdIcDNwTFBhU2RNVVI5Q0E?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-83744949046a9d61530b6656b7e28aea",
+            "title": "【高校サッカー】愛知県大会決勝ダイジェスト 東海学園vs豊川",
+            "source": "スポーツナビ",
+            "published_at": "2026-11-16T13:30:00+09:00",
+            "category": "市政・行政",
+            "area": "三河",
+            "summary": "【高校サッカー】愛知県大会決勝ダイジェスト 東海学園vs豊川  スポーツナビ",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXOUxHbjhCRS1lUWlkYUM1bXptdTVwZHJoQ2Qyak4tbDBCODdYQUJwQ0Z0c09KVWI4R2RwWEljNDBwcVJNZjFyaWFobHhlS1lSQXBVV1UwOTVtMVh1?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-57aa4cf59ca8053424b228758cce936c",
@@ -188,21 +232,43 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-9af25784ad1e11d3bf0f8a52a818301f",
-            "title": "【地震】愛知県内で震度1 愛知県東部を震源とする最大震度1の地震が発生 津波の心配なし（メ〜テレ（名古屋テレビ））",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-16T04:38:01+09:00",
+            "id": "news-3721fb312b229c3e67e3a697c702b760",
+            "title": "愛知・小牧の強盗殺人未遂事件、逮捕の５人の中に中学生か…盗品保管容疑",
+            "source": "読売新聞",
+            "published_at": "2026-11-16T12:40:00+09:00",
+            "category": "社会",
+            "area": "尾張",
+            "summary": "愛知・小牧の強盗殺人未遂事件、逮捕の５人の中に中学生か…盗品保管容疑  読売新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sXzIyVlFqMERfOWFoZFdoS0tnY3FGODhZMXF4czFMRmMxbjZWcDNsa21iSjF0TmI2TzlhQ25mTnBtdmFuMV8tUlVjZVd1WW1ubHRlNUZvcGVfTTIybXpXckYyMFFUQQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-7efd778f1e58b9682846cc24b74a0f00",
+            "title": "愛知県、12月補正案に215億円 職員給与引き上げやファンド出資",
+            "source": "日本経済新聞",
+            "published_at": "2026-11-16T18:20:58+09:00",
+            "category": "ビジネス",
+            "area": "愛知",
+            "summary": "愛知県、12月補正案に215億円 職員給与引き上げやファンド出資  日本経済新聞",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xOWkxdzJKVm5CUzYzQk03X2E0T29fejk1Rl9DallIZGdDbGhSSlI1aERBdEd3NlB0VEZUalhmOTQ2YkdMVC1uYS0tLXJtc0xWdDRqVk14d0lkSkRaR0k2cHBVN3g5ZXhhZVpZXw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-7734f5cde0958c385fddaaab03ed0e2e",
+            "title": "多文化共生社会「理解していない」約4割 愛知県がアンケート、県民1701人回答",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-16T17:27:05+09:00",
             "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "【地震】愛知県内で震度1 愛知県東部を震源とする最大震度1の地震が発生 津波の心配なし（メ〜テレ（名古屋テレビ））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jU3EzcllmS2lKOXpWeEJfTEl6NzRyQmR2LW95SGhJMDJRYS1YYUp1b0k2d1pmQXNsQXNxbHF1ajJOR3oxN2JMTUQzeVVCQlNrWkFiSjJTbTVhRkFyY0VaeU1HZWl4UFN6Und1Yi05MHNhTXlOUWxIVEJoY0owUUU?oc=5",
+            "area": "愛知",
+            "summary": "多文化共生社会「理解していない」約4割 愛知県がアンケート、県民1701人回答  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jSTZKbmVjT0laUkF0a0NLLVFKYkJzZW9hVlpqMVQxRDhaUW05MGY2R1M1a29ueEdMVGd6RXJ0cUdMd1Z5eml1cE9KZnRTbVV1aUNjMA?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-efb222642469b57fee3a3163237412b3",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
             "source": "tenki.jp",
-            "published_at": "2026-11-16T06:31:27+09:00",
+            "published_at": "2026-11-16T15:31:26+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
@@ -210,25 +276,14 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-923b4f571cfb08ecd5c246557446fe2c",
-            "title": "気象支援資料 ( 愛知県 知多市 )",
-            "source": "気象庁",
-            "published_at": "2026-11-16T09:05:48+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "気象支援資料 ( 愛知県 知多市 )  気象庁",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHlNM2VWT05kY1VqWEFHbUc5X1U0N0ZuOS1tNWlPcXN4M1loUTZhR2Z0OTJRc01qdFg1Yklkd1MyTXpsMHdTVWFESG9vMW9iSTVETWVEbXFKRC1CUkZJZHphcFJfUGUwcUp4UXNqZkI3UTVXUlNRMElvY3o5TGdtMmtrd3hxc1lG?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f4e0c8e3b093d07e734eb835fa330c74",
-            "title": "自宅で襲われ82歳重傷 盗難車に乗車の男ら、関与ほのめかす 愛知 [愛知県]",
-            "source": "朝日新聞",
-            "published_at": "2026-11-15T23:00:00+09:00",
+            "id": "news-ff885c39c990c900ebcbe267598cfb68",
+            "title": "【愛知県】11/17の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-16T19:30:53+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "自宅で襲われ82歳重傷 盗難車に乗車の男ら、関与ほのめかす 愛知 [愛知県]  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56b3NPWHBTaFkxbzdvcGhmeEtPQmJfTm9VQkxGNzVDRjNkMzh4SnZzVWY2MjZHODJsTGtaMllXYVpmSVFUWTltUE03UV84eDYzQVktcFdWSmh4RFpLdkU4aWhkSXo4T2s?oc=5",
+            "summary": "【愛知県】11/17の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80N2V2WjFUVWVEdkZyVElLLVVwLXNiaTdjZGcwWHhFS3JOOUFFbGhybWFHWkpmS1ZIejYzYnhiZG5fNFotUURrbFhqLWp4bHQ5eGJ0c2hFVHlveFNNcUF3X0ctSGtHNkJ5eVhBSFJraEdDTVU3ZjE5Z1Z5QTBJSDA?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -243,37 +298,26 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-d9cf55309d1862aa471a9e12141bdccb",
-            "title": "長野県で最大震度1の地震 長野県・売木村、岐阜県・恵那市、静岡県・浜松天竜区、愛知県・新城市、瀬戸市、豊田市",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-16T06:13:32+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "長野県で最大震度1の地震 長野県・売木村、岐阜県・恵那市、静岡県・浜松天竜区、愛知県・新城市、瀬戸市、豊田市  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtekhyY19hblFlV3Y3OXZZRkJHUXVOYnlWYUFEVlhkdlZ2ZS1ySzg3VGxKOG9MMlZ1VXFHMEc2a05CZTJPYmtrbjhGMzh0Q1FqQ3dpQ1IwWjVwYW9aZUpJZHZMdmRuMElBaDJWb1M3M2xEOF9IWWdQa1JCQXplMlk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-de0b1788bf11d8907eed074c92c7a8c3",
-            "title": "愛知県で最大震度1の地震 愛知県・新城市（TBS NEWS DIG Powered by JNN）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-16T04:40:30+09:00",
-            "category": "市政・行政",
-            "area": "三河",
-            "summary": "愛知県で最大震度1の地震 愛知県・新城市（TBS NEWS DIG Powered by JNN）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YWnFpXzVfWjZUSDdkV1hIRmR4NURSaXI3OC1fTWdqVDNlanJpQVFzYnNTd3lUMmF4N2VSNlhUS2pOZFFQMUV2c1JxUkJYZGN0MW02VGlySi11WGtnUkN6bWZCNWFJanAzNURGWlAza1hnT05ISWhHbzdPRHd2RWs?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-10805e9ebdc70d3c4741670e969863fe",
-            "title": "愛知県東部を震源 売木村で震度1（16日午前6時8分ごろ）（ＳＢＣ信越放送）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-16T06:55:05+09:00",
+            "id": "news-8afdf143c8984d51cb9c8d40f63b67cc",
+            "title": "愛知県の雨雲レーダー(過去)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-16T17:29:58+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県東部を震源 売木村で震度1（16日午前6時8分ごろ）（ＳＢＣ信越放送）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRVBKUXFSbzJkMldJeDQ0SkcxU083YVlzLUZIMjU1XzZxTVZiZmhFM1ZxYzNLTHNqdkxLd3dISFdDMWhfVlBUN0pfWVpRYkt5SjVEdkN4WmJob3BESjdxOGtmemo0bHhWdGVtV0J0WXFaWE15UTZBcXRXMktqTW44UjBvYzZISnFEUkc0Znpn?oc=5",
+            "summary": "愛知県の雨雲レーダー(過去)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pbjJxV2FNdFE5akcyUUJqQlhDVEdJVDdNMnBfNGFod2p2MXhJeEJFdUsyU1YybnJzS0Q1ZlRTdjZfWEFFNFNOWnRwMG5DUQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-baf531ff100e4b81ff865e12aee44608",
+            "title": "被害受けた中小企業を支援…愛知県が9月の記録的大雨に関する補助金約2億円を盛り込んだ補正予算案発表 受付は4月頃の見通し（東海テレビ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-16T19:07:38+09:00",
+            "category": "ビジネス",
+            "area": "愛知",
+            "summary": "被害受けた中小企業を支援…愛知県が9月の記録的大雨に関する補助金約2億円を盛り込んだ補正予算案発表 受付は4月頃の見通し（東海テレビ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sNXdJZzBZSTBySXVGcEpsejZvZ19iNlFjQ1dOaTVRTURma3dRVXI4STc4M2RLLTQzdGszc0FBamRFenpvRmxXVlF2ME8xV3pMd21IVktYZUNvREZBemQ3QUotOVo0NEF1MEtlbjRac3I2T3ZqYnhodzAwYXBFM0k?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-7ba530ef29e4cddc2f61c3d2df982e03",
@@ -287,14 +331,14 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-74279c9c86803dedeb75a4f2c2bdf54a",
-            "title": "長野県、岐阜県、静岡県、愛知県で最大震度1の地震 長野県・売木村、岐阜県・恵那市、静岡県・浜松天竜区（静岡放送（SBS））",
+            "id": "news-9af25784ad1e11d3bf0f8a52a818301f",
+            "title": "【地震】愛知県内で震度1 愛知県東部を震源とする最大震度1の地震が発生 津波の心配なし（メ〜テレ（名古屋テレビ））",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-11-16T06:32:14+09:00",
+            "published_at": "2026-11-16T04:38:01+09:00",
             "category": "市政・行政",
-            "area": "愛知",
-            "summary": "長野県、岐阜県、静岡県、愛知県で最大震度1の地震 長野県・売木村、岐阜県・恵那市、静岡県・浜松天竜区（静岡放送（SBS））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tXzEwYXY1d3dRZElsc1ZORi1rTXpCcnZ3SVc0YnNGRFVmLUJnTXZseld4MGtWYjZBTGJiOFdyWG8zUENOanlEWHZPOGVSbTVyTmg1SUhhS21OMml6SXo0ckVFaUdLSFFWWWZIX2RGUHJIWWNMZ3FaN3k3OU55RkU?oc=5",
+            "area": "名古屋",
+            "summary": "【地震】愛知県内で震度1 愛知県東部を震源とする最大震度1の地震が発生 津波の心配なし（メ〜テレ（名古屋テレビ））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jU3EzcllmS2lKOXpWeEJfTEl6NzRyQmR2LW95SGhJMDJRYS1YYUp1b0k2d1pmQXNsQXNxbHF1ajJOR3oxN2JMTUQzeVVCQlNrWkFiSjJTbTVhRkFyY0VaeU1HZWl4UFN6Und1Yi05MHNhTXlOUWxIVEJoY0owUUU?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
