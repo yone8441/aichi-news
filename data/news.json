@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-17T20:39:07+09:00",
+    "last_updated": "2026-11-18T02:29:05+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -78,15 +78,26 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-25eca1cf08707b343ddb852653f59d0e",
-            "title": "さようなら 豊橋駅前のスペースシャトル",
+            "id": "news-5e6e2eabfca2a1cbca5532651876a9d4",
+            "title": "豊橋市公会堂の保存活用計画、文化庁が認定 耐震補強工事や各種設備改修を重点課題に",
             "source": "東愛知新聞",
-            "published_at": "2026-11-17T19:14:19+09:00",
-            "category": "一般ニュース",
+            "published_at": "2026-11-18T01:55:32+09:00",
+            "category": "市政・行政",
             "area": "豊橋",
-            "summary": "さようなら 豊橋駅前のスペースシャトル  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EV0tqM1VIRXFuWFpGSnl0QUFkMVFrQ2R5YzhQVWRybEdfWUJTSFg0bDlJbkp2aVFQcnZwYXRxR3hYZUo1NWZNeFV1UUNhay1GVDExeWpwd3ZWRU56?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "summary": "豊橋市公会堂の保存活用計画、文化庁が認定 耐震補強工事や各種設備改修を重点課題に  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ycUo1cDJscUVYdXdJWmdEWjRaSFpkYWIyeTVvNnVuV1o0RTVzNGxDcGdXbkZyX1RYWFlIWlcteHRwdkVPYXlaN0JJcUV6bTJmUXVWZTlncm4ycjF0?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-53069d715d109db1a3b0f6d28508e082",
+            "title": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた",
+            "source": "ウォーカープラス",
+            "published_at": "2026-11-17T23:52:40+09:00",
+            "category": "ビジネス",
+            "area": "豊橋",
+            "summary": "画像20 / 29＞「ブラックサンダー」史上初の工場見学施設が愛知県豊橋市に誕生！大人気菓子の魅力が詰まった有楽製菓の工場見学を体験してきた  ウォーカープラス",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbmFBMjZVWTdXMENUUVM5X083Y3QySXVoeHdjWlhpaEhId1l0STRZdG1GLVZkbXpjcmVqYlRSSl9HMWtKMnNKTXRIQnROTXNRd0p0M1AwQW1CUnhWcWZ0dWZQcklBdlhmM2ZvUGFn?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-294dcec4a829d394fed505835acca402",
@@ -111,28 +122,6 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-274a879c6fe2f60a7707abfe5792347a",
-            "title": "新着情報“タントカスタムXセレクション”2020年式シャイニングホワイトパール入荷しました！",
-            "source": "中古車のガリバー",
-            "published_at": "2026-11-17T15:24:20+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "新着情報“タントカスタムXセレクション”2020年式シャイニングホワイトパール入荷しました！  中古車のガリバー",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKMDhNazB5RmFOLXppbGZsYlNUcnNCNTFkU0ZPdlFYRnNBQzRtNlpvY05RUXcyTnVUU3lJQmw3cnpMU2FEclJtZU90eUlranF4VjBtakJtRHR0WU5BNjV6ZEdjdkJWSWJQLXR3MTRiWm4zbUJlV1BGbVN2dXBxR3M?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-768463971d69aaaae3db4e1ca7a23f6a",
-            "title": "開胸せず患者の負担減 医療法人澄心会豊橋ハートセンター（愛知県豊橋市）心臓血管外科部長 後藤芳宏さん（４４）",
-            "source": "中日新聞Web",
-            "published_at": "2026-11-17T11:42:16+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "開胸せず患者の負担減 医療法人澄心会豊橋ハートセンター（愛知県豊橋市）心臓血管外科部長 後藤芳宏さん（４４）  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yWVVFODUyakhCbTE0a1BXSlk1SmZybGVLcXk4R2FNVDB0NHpkU3JhYkpCSUp1TmgxV0dLQjd2enp5c1RBdi1iWklKR2I5czdYbXp1OTM5X3hQQnFEZUphMnd6T2o?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-35e9ec9b4cea10252c50310d7bf07976",
             "title": "「ブラックサンダー」の有楽製菓が「1億円」寄附 愛知県豊橋市へ…理由を説明",
             "source": "山陽新聞",
@@ -141,28 +130,6 @@
             "area": "豊橋",
             "summary": "「ブラックサンダー」の有楽製菓が「1億円」寄附 愛知県豊橋市へ…理由を説明  山陽新聞",
             "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oRlIxdFJrVDdNSTlHVGNtTlcxWFF3Q0xzaDA3b1pQMHMyaGpFaEd2VF95c0JSX01oYXp6VWlaWlFHVzhPUnZ1dVNIWmhscWJQMWZaaGpiTHZCUQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-4d07ec1168eff16bf5fb9d59c5ac202b",
-            "title": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！",
-            "source": "ウォーカープラス",
-            "published_at": "2026-11-17T11:05:16+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "国内最大のMEGA ドン・キホーテが愛知県豊橋市に誕生！  ウォーカープラス",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiV2loTkRreVdoZFZwQnBxY09rZW9aR0xoQWFmV3VFYmE5aWw4TUFvN0hoMWpBbHltY3o1WFhhVHZUdWFJb3ptMzBPU0ZMNGZtdGkwcE1QNENVRzZWZEliS3p4am5pWG9OcWpBeDlZUmk5ZHdSRHBPYnRQaw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-5e6e2eabfca2a1cbca5532651876a9d4",
-            "title": "豊橋市公会堂の保存活用計画が文化財保護法に基づく文化庁の認定受ける 耐震補強工事や各種設備改修を重点課題に",
-            "source": "東愛知新聞",
-            "published_at": "2026-11-17T12:03:56+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "豊橋市公会堂の保存活用計画が文化財保護法に基づく文化庁の認定受ける 耐震補強工事や各種設備改修を重点課題に  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ycUo1cDJscUVYdXdJWmdEWjRaSFpkYWIyeTVvNnVuV1o0RTVzNGxDcGdXbkZyX1RYWFlIWlcteHRwdkVPYXlaN0JJcUV6bTJmUXVWZTlncm4ycjF0?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -177,10 +144,43 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-333b7d52b8d992ee6b203be7730c48cc",
+            "title": "開胸せず患者の負担減 医療法人澄心会豊橋ハートセンター（愛知県豊橋市）心臓血管外科部長 後藤芳宏さん（４４）",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-17T11:42:16+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "開胸せず患者の負担減 医療法人澄心会豊橋ハートセンター（愛知県豊橋市）心臓血管外科部長 後藤芳宏さん（４４）  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90V284VlAwS2tEdkpwVm9OQ3J2WDQzRGRYVTh0TUNJMWoxWHRlMWNVWW9mbEs1Q0FiNzN6MmdUQmQ2eXpPSjRiYWYyZnJ1S0J5TEFrTg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-98cae2e410468e22fd14faa0cb6ab50e",
+            "title": "万場調整池を消火ヘリなどの前進基地に 豊橋市と水資源機構が協定",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-18T00:00:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "万場調整池を消火ヘリなどの前進基地に 豊橋市と水資源機構が協定  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1feGdDeGtWZmltaTVzb01vbE1UeGdXTkpXRHZsWGJyX0VBSlhzMjhXVE1fUmJtZWk2ZTFybWt6TFM1NmhFR1VqU1hUR1JUdzFMbVZpa21zczlUNGkz?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-0b55d835b55dd45121cf2d8c8b597a23",
+            "title": "【枚方市】スタートアップと連携して地域課題を解決｜豊橋市のアグリミートアップの取組を視察",
+            "source": "選挙ドットコム",
+            "published_at": "2026-11-16T13:48:08+09:00",
+            "category": "ビジネス",
+            "area": "豊橋",
+            "summary": "【枚方市】スタートアップと連携して地域課題を解決｜豊橋市のアグリミートアップの取組を視察  選挙ドットコム",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wVnEwOXF6d1padm43RExHbmZ0REpoNTk1ZHVESzQtQjBZSGVXcTVwXzI1Tmd6b3BoQTRIWTlsM3c3TlNFR0VkTHRNVXVMNWFteENnTmlBTzBycG9GVlE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-cd12c6bdbab61fc31358e986be371cb8",
             "title": "「PHOENIX NIGHT（フェニックスナイト）」景品決定のお知らせ",
             "source": "三遠ネオフェニックス",
-            "published_at": "2026-11-17T19:25:43+09:00",
+            "published_at": "2026-11-17T20:32:32+09:00",
             "category": "スポーツ",
             "area": "豊橋",
             "summary": "「PHOENIX NIGHT（フェニックスナイト）」景品決定のお知らせ  三遠ネオフェニックス",
@@ -188,14 +188,14 @@
             "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
-            "title": "愛知県の今日のアメダスの記録(11月17日)",
+            "id": "news-efb222642469b57fee3a3163237412b3",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
             "source": "tenki.jp",
-            "published_at": "2026-11-17T16:58:19+09:00",
+            "published_at": "2026-11-17T21:31:26+09:00",
             "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の今日のアメダスの記録(11月17日)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -210,6 +210,61 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-2fcd01dc9265e0b25c723e9cca8c70de",
+            "title": "開園から60年以上…大高緑地リニューアル構想　愛知県　３エリアで自然を感じられる場所やにぎわい創出",
+            "source": "名古屋テレビ【メ～テレ】",
+            "published_at": "2026-11-18T00:10:00+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "開園から60年以上…大高緑地リニューアル構想　愛知県　３エリアで自然を感じられる場所やにぎわい創出  名古屋テレビ【メ～テレ】",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tNXZVTE9tS1dEbEN6cXZIWDJRMG4yN04zeXFsTzRSM2l4NlFUeVl2OENMZmdnVUsxQTJDQVZEQjREZVM5WF9KLWpmYnMzdG9TemI4REJNZG1faW1FNDNvWEZMNlHSAWRBVV95cUxNbTV2VUxPbUtXRGxDenF2SFgyUTBuMjdOM3lxbE80UjNpeDZRVHlZdjhDTGZnZ1VLMUEyQ0FWREI0RGVTOVhfSi1qZmJzM3RvU3piOERCTWRtX2ltRTQzb1hGTDZR?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-9c16d1ebb30053ddf5fc404d9139e43e",
+            "title": "韓国の没入型美術館「アルテミュージアム」18日開業 愛知県知多市で",
+            "source": "日本経済新聞",
+            "published_at": "2026-11-17T18:44:29+09:00",
+            "category": "ビジネス",
+            "area": "尾張",
+            "summary": "韓国の没入型美術館「アルテミュージアム」18日開業 愛知県知多市で  日本経済新聞",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoVXhEemRkNFVXU01rWTVkTnRoY3pTREgxQ2FmYkNPUnlpQ1BqTHBJOC10Z04yUGM4eWM4MG40eE5CU3I2c0hLaE1DeUpCYjMtRXk4dWxnN2FZMncyem9yRjZ4cmtKZ0JpNEhVYg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-3f4d3ee3c337c5c079208cf340c8c514",
+            "title": "11/23（月・祝）愛知県主催「Let's エコアクション in Aichi」にグランパスくん参加＆キックターゲット実施のお知らせ",
+            "source": "名古屋グランパス公式サイト",
+            "published_at": "2026-11-17T13:49:50+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "11/23（月・祝）愛知県主催「Let's エコアクション in Aichi」にグランパスくん参加＆キックターゲット実施のお知らせ  名古屋グランパス公式サイト",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wUGhmaDBrdERGeTZEaXlLanNTRFZyTDNhZnVqMHRTNnZzYjZrbW5rSFNlLWpueXZVMHhwLXpITHRJa0Qtay1ESU56MF9oTjlab3lQRDZZOW9wX19GNkJMdXRfN29lV00xMDFRMDd5Z3lXVkhyd1A0aHRB?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-fdfbe051328aa0939dcdfc4e80e59d3f",
+            "title": "没入型アート作品体験施設「アルテミュージアム」、愛知県知多市に18日オープン ニューヨークやドバイなどに続き世界で9カ所目",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-17T20:35:45+09:00",
+            "category": "観光・イベント",
+            "area": "尾張",
+            "summary": "没入型アート作品体験施設「アルテミュージアム」、愛知県知多市に18日オープン ニューヨークやドバイなどに続き世界で9カ所目  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aMlNVWkZ1aHVyMnpBbmstMkR2M0hoc1AzUHNHVHg0V3FJWWVCSERrWG9xX0lUSnhTcUoxMnE2UlljVDk2UXVKSnNWVWxSZFFiNWI3dg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-29522ca1f9b4aa6a2b69907afb3b25dc",
+            "title": "愛知県の過去の天気(アメダス・積雪深・2026年11月)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-17T21:31:26+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の過去の天気(アメダス・積雪深・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05VkFEeEFhVFMyZWIzWHlIS2lCeGExT1dSQlVjM2YzM3RIb1hoekRuRFE1VVdIRVZENGV6VEZzQW0xME1OQUxUUkwweW1ScXZoUzFWZUlzdnVmRDg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-0e9122f5a43cf4824f6308cd75660bf9",
             "title": "愛知の強盗殺人未遂 関与疑いの少年4人は仙台から＜宮城・仙台＞（ミヤギテレビ）",
             "source": "Yahoo!ニュース",
@@ -221,25 +276,36 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-4c24fd3dca50b18ef201a8e2e494a2c1",
-            "title": "少年「知人から闇バイトに誘われ」中学生3人が関与か 愛知・強盗殺人未遂事件",
-            "source": "テレ朝NEWS",
-            "published_at": "2026-11-17T18:39:22+09:00",
-            "category": "社会",
-            "area": "愛知",
-            "summary": "少年「知人から闇バイトに誘われ」中学生3人が関与か 愛知・強盗殺人未遂事件  テレ朝NEWS",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIUHozOTA2LXZteVBJWjdDZ1pJM2lmS1NaajAzY25hdlFzNktQUnUzU202NFY1bjZHUGt1cDhwbEFBeHowNUE1UUlyOW5ERFc4QnBkSFRIdHNncHB1bnhhanZQR1Vwb2E1VjdyZGlJM1lRdw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+            "id": "news-de220fcd4efbd5987b2d1f181409f7c7",
+            "title": "愛知県春日井市、高齢者向けスマートフォンサービス「かすがいいきいきポイントアプリ」で情報漏えいか",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-17T21:20:00+09:00",
+            "category": "市政・行政",
+            "area": "尾張",
+            "summary": "愛知県春日井市、高齢者向けスマートフォンサービス「かすがいいきいきポイントアプリ」で情報漏えいか  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9acjVQTHYxSkc4S01fcGJmY0hHaUVlMmFnc2ppUTBOX3ZMakZURHJRRE9CRGo0X0ZJNjZwb0VVRnVSOE9odEk3YjZJSGdMVlJfVzE1VA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-3f4d3ee3c337c5c079208cf340c8c514",
-            "title": "11/23（月・祝）愛知県主催「Let's エコアクション in Aichi」にグランパスくん参加＆キックターゲット実施のお知らせ",
-            "source": "名古屋グランパス公式サイト",
-            "published_at": "2026-11-17T13:49:50+09:00",
+            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
+            "title": "愛知県の今日のアメダスの記録(11月17日)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-17T16:58:19+09:00",
             "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "11/23（月・祝）愛知県主催「Let's エコアクション in Aichi」にグランパスくん参加＆キックターゲット実施のお知らせ  名古屋グランパス公式サイト",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wUGhmaDBrdERGeTZEaXlLanNTRFZyTDNhZnVqMHRTNnZzYjZrbW5rSFNlLWpueXZVMHhwLXpITHRJa0Qtay1ESU56MF9oTjlab3lQRDZZOW9wX19GNkJMdXRfN29lV00xMDFRMDd5Z3lXVkhyd1A0aHRB?oc=5",
+            "area": "愛知",
+            "summary": "愛知県の今日のアメダスの記録(11月17日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-0a93cd15e6aa74476eb399ec50881b3f",
+            "title": "愛知県の大村知事、来年2月の知事選に「特にコメントはない」 報道では5選出馬の意向固める",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-17T19:21:04+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の大村知事、来年2月の知事選に「特にコメントはない」 報道では5選出馬の意向固める  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVGpmQ3VFaXA3VEVudUpDUl83c1JrNm5OeUx1ZDJOdGozTTZVNE45aDVlM1hvbG1oV09iWUlBUm1SWkhFTGR1emVWaUJXRFk2ZGFxczAycV85VWRwSEpVVG55Um1DMy1KSllncjVjd2ozeVBDTTg5bWk1SnlCMEJMYkRJZUViN1otV0ZsY0ln?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -254,58 +320,14 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-87cb5ce0754af3a6a362d655c0ac7bfd",
-            "title": "愛知県、名古屋の大高緑地をリニューアルへ 28年度までに事業計画",
-            "source": "日本経済新聞",
-            "published_at": "2026-11-17T12:19:37+09:00",
-            "category": "ビジネス",
-            "area": "名古屋",
-            "summary": "愛知県、名古屋の大高緑地をリニューアルへ 28年度までに事業計画  日本経済新聞",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xZmc0a0R2WlJfTHc4TGFxQWgzWmQyMWh2SFhfNC12Zm5pRlpoQndPQ1RxZ2JjWmdaZW1pUWE1YWtUclZsbVhVam5WRV9MdG1obnVrZjJIYWRsVG0wd3luVUdXRVZuY203X3J4Qw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-efb222642469b57fee3a3163237412b3",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
+            "id": "news-53041e7ed82a70fdd87d5d026edf2ac9",
+            "title": "愛知県の過去の雨雲レーダー(2026年11月17日)",
             "source": "tenki.jp",
-            "published_at": "2026-11-17T18:31:27+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-88729a3661708d18f4c5aaa7ca9f72c2",
-            "title": "愛知県の大村知事、来年2月の知事選に「特にコメントはない」 報道では5選出馬の意向固める",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-17T19:21:04+09:00",
+            "published_at": "2026-11-18T00:22:03+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県の大村知事、来年2月の知事選に「特にコメントはない」 報道では5選出馬の意向固める  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BWkxYTUJsVjdhRDBhcHVMbUtodEh2aGp3eVpfSzNOUjdlWGlaX21lRDl6OXFkRk1jS21kRVRNY0xSSGJCSDdCejZ0YWI1SDFUTHNGYTVTQ2JGcXowVmdPV0dFRWQxOFRmbnROQ1BKeko5RUktYTI2VVJQR2U0clU?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a2be125e1ca1ca7edc39200b6324d37b",
-            "title": "岐阜県本巣市の林道で車が谷に転落、愛知県一宮市の男性死亡",
-            "source": "中日新聞Web",
-            "published_at": "2026-11-17T18:55:00+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "岐阜県本巣市の林道で車が谷に転落、愛知県一宮市の男性死亡  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uSXBTWHJTQ0ZCWnZtNzIzeUFWdk8wMkJZTnBNLTNfU1Fkc1JtYVB4N1NaNFZQbl9EZi1PbmFzS2QyRFZmaFl4ckh5cEI5ZFJ6blBULQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-9c5a65669c5f76316b03b5fa9f430459",
-            "title": "愛知県の過去の天気(アメダス・降水量・2026年11月)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-17T15:31:26+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の過去の天気(アメダス・降水量・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11bG5iSHVwQXlacml3M3VOa1FsRjVNcjVWTFVqeWFZYkcxbWc1RXJZb29xVTdkLWZLLU1fbmphclhKdF9iMHV0SGdqOExUNUp2c1lZTHdZbFhVNFB6RFE?oc=5",
+            "summary": "愛知県の過去の雨雲レーダー(2026年11月17日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84Y3JDSnN3LUxmLU5vaEJIUHlrUnU3NlFqcjZVTUdvY2xZSU1sX004OXRadVY0SHdnTjAtTWVvZG1zUjlhQTVGOUo3a2oxWDN1a1JuWE9mYw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -318,28 +340,6 @@
             "summary": "愛知の強盗殺人未遂 仙台から中学生含む少年4人が関与か＜宮城・仙台＞（ミヤギテレビ）  Yahoo!ニュース",
             "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZMjZlSDZ0enMxZ1c0YWJHWUc3b0ZVMThzbTBhcExWNVk3a2FXTi1wdzVqaFlvbmdVSWVBN2tYVjNCeVRGMXBrU05yT3k5RHRsTXNveEduZlNXcUFGUVZOZHdVY2tYTTFSU0ZuelZPQWZvRk5GNy1yWTJrYUc3V1U?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a8dae0caf641fe0928a857397a8ed1ff",
-            "title": "「報酬目的で仙台から来た」 愛知の強殺未遂、関与疑いの少年（共同通信）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-17T11:17:31+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "「報酬目的で仙台から来た」 愛知の強殺未遂、関与疑いの少年（共同通信）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xamVqaUR5Q1dqWEY1MzJnSk1vd01iU1dSb3hUUTg1VThQUHozeFhkaFpBOVJCZTZRVVVqNF9hbGhZb2dBVUFGSXVIeWJOTU92QXVmNWtjYTNFaV94RlNJNFlSbk5Jd2NNSGJFdlk1UFpTUlc1eUZLLTgzUVVEazA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-27b6084f9e970e09695fc7d67d907eb4",
-            "title": "愛知県の過去の天気(実況天気・2026年11月16日)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-17T12:29:20+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の過去の天気(実況天気・2026年11月16日)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QdGMxbkZWdllZRlBKZThGN3gyRW5mcW5IY2ZTdUhUaDlCVG1EcGhXU1ktV29Wd01uQnM1b1NmNjc4U3U5SmVyOUFuVzJ2V0h6THZfU19lR05Ydw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
