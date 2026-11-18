@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-18T20:25:48+09:00",
+    "last_updated": "2026-11-19T02:03:31+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,7 +9,7 @@
         "temp_min": 11,
         "rain_prob": "0%"
     },
-    "total_count": 29,
+    "total_count": 28,
     "articles": [
         {
             "id": "toyohashi-city-4955786b2448b3b554c3d635b3a4ea2c",
@@ -78,14 +78,14 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-5e6e2eabfca2a1cbca5532651876a9d4",
-            "title": "豊橋市公会堂の保存活用計画、文化庁が認定 耐震補強工事や各種設備改修を重点課題に",
+            "id": "news-eb33a7f15b1dc528d46bdb02ac5f3a1d",
+            "title": "豊橋市と三遠キッチンカー支援ネットが災害時の炊き出し協定 要請で避難所に派遣",
             "source": "東愛知新聞",
-            "published_at": "2026-11-18T20:01:14+09:00",
+            "published_at": "2026-11-18T17:12:13+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "豊橋市公会堂の保存活用計画、文化庁が認定 耐震補強工事や各種設備改修を重点課題に  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ycUo1cDJscUVYdXdJWmdEWjRaSFpkYWIyeTVvNnVuV1o0RTVzNGxDcGdXbkZyX1RYWFlIWlcteHRwdkVPYXlaN0JJcUV6bTJmUXVWZTlncm4ycjF0?oc=5",
+            "summary": "豊橋市と三遠キッチンカー支援ネットが災害時の炊き出し協定 要請で避難所に派遣  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uYko0MXlDVXdudTdrQjFrN0pGVXVXTW5uckNOaVFPTnpzVmN0ZjBKUWZxdG0yZW5PRVVfRm1QUk4zWmtKbFoxcDh3STVDQXJQNVFTb051RjNPOERf?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -111,17 +111,6 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-70c936ab0e15922e391d10965e07293e",
-            "title": "愛知県の雨雲レーダー(予報)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-18T18:03:18+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-1d4d4b95268175dcd4c650f1d8adc3c3",
             "title": "豊橋市・普門寺の寺宝が京都に集結！龍谷ミュージアム秋季企画展「みんなおいでん！東三河の普門寺さん」",
             "source": "Yahoo!ニュース",
@@ -144,15 +133,15 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-eb33a7f15b1dc528d46bdb02ac5f3a1d",
-            "title": "豊橋市と三遠キッチンカー支援ネットが災害時の炊き出し協定 要請で避難所に派遣",
-            "source": "東愛知新聞",
-            "published_at": "2026-11-18T17:12:13+09:00",
-            "category": "市政・行政",
+            "id": "news-f7bb18b1e486f33536bdf46f6d29d610",
+            "title": "12/13（日）群馬戦 追加座席販売のお知らせ",
+            "source": "三遠ネオフェニックス",
+            "published_at": "2026-11-18T05:22:35+09:00",
+            "category": "スポーツ",
             "area": "豊橋",
-            "summary": "豊橋市と三遠キッチンカー支援ネットが災害時の炊き出し協定 要請で避難所に派遣  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uYko0MXlDVXdudTdrQjFrN0pGVXVXTW5uckNOaVFPTnpzVmN0ZjBKUWZxdG0yZW5PRVVfRm1QUk4zWmtKbFoxcDh3STVDQXJQNVFTb051RjNPOERf?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "12/13（日）群馬戦 追加座席販売のお知らせ  三遠ネオフェニックス",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90Y3JZZlk4RTFsSWM5WjctRjdlWmNTVUxaNEpyRjlaRWZNRE5xM2o2bVo4NTRoZlZteElzODdQSnhfc1d3WHJhYVJJQzM4cDRyajlZYlFWeklKemV0QUpZSnJTZlJqVUdoa2RuZmZZekZ1UnNo?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-c5399693c2299d3c682792dcceb18c45",
@@ -166,21 +155,43 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-f7bb18b1e486f33536bdf46f6d29d610",
-            "title": "12/13（日）群馬戦 追加座席販売のお知らせ",
-            "source": "三遠ネオフェニックス",
-            "published_at": "2026-11-18T05:22:35+09:00",
+            "id": "news-8341079a37a4882fd3ed3156d727cb4e",
+            "title": "豊橋駅みやげ第1位「ブラックサンダーあん巻き」に、新しい稲妻。もちもちの皮に刻む焼印を刷新",
+            "source": "Infoseek",
+            "published_at": "2026-11-18T22:15:24+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "豊橋駅みやげ第1位「ブラックサンダーあん巻き」に、新しい稲妻。もちもちの皮に刻む焼印を刷新  Infoseek",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5WDQwOXdoZ3VEeGRQNHFCZWFpZk8ySTI5TzFYNDkxdDNwVXNWdEF2bEdUVnZfQ3ZJZ2QwdFdIcGZyZ2dJYkZSem5zOVFIUkhETEg1am03STdjZ05sSGpDNXpGNkNBamR3Z1paZWlqb0twZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-4f1fc6efd294c6274d1f326002f821e0",
+            "title": "【連載】エンジョイサッカー〈124〉第１回大会は桜丘が優勝 豊橋でユタカ自校杯",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-19T00:00:00+09:00",
             "category": "スポーツ",
             "area": "豊橋",
-            "summary": "12/13（日）群馬戦 追加座席販売のお知らせ  三遠ネオフェニックス",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90Y3JZZlk4RTFsSWM5WjctRjdlWmNTVUxaNEpyRjlaRWZNRE5xM2o2bVo4NTRoZlZteElzODdQSnhfc1d3WHJhYVJJQzM4cDRyajlZYlFWeklKemV0QUpZSnJTZlJqVUdoa2RuZmZZekZ1UnNo?oc=5",
+            "summary": "【連載】エンジョイサッカー〈124〉第１回大会は桜丘が優勝 豊橋でユタカ自校杯  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xbkJUT0FXRmIzNWtzQjBkbDdjdUs0WXUyRGpyQjhOSml0Yll2VnVyeWd6NmZrRkxxdG9LbjhRcER5RF9DVnNRRkZxQmZnTFJRUVpmSURIUDVRQ3M2?oc=5",
             "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-efb222642469b57fee3a3163237412b3",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-18T21:31:26+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-1715f58b682bb9d726a37e3a0ef07567",
             "title": "【U15】「第16回豊田通商カップ 第8回愛知県 U15 バスケットボール選手権大会 2026」試合結果(vs.江南Squareblocks)について",
             "source": "シーホース三河",
-            "published_at": "2026-11-18T15:44:13+09:00",
+            "published_at": "2026-11-18T15:33:45+09:00",
             "category": "市政・行政",
             "area": "尾張",
             "summary": "【U15】「第16回豊田通商カップ 第8回愛知県 U15 バスケットボール選手権大会 2026」試合結果(vs.江南Squareblocks)について  シーホース三河",
@@ -188,14 +199,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-83744949046a9d61530b6656b7e28aea",
-            "title": "【高校サッカー】愛知県大会決勝ダイジェスト 東海学園vs豊川",
-            "source": "スポーツナビ",
-            "published_at": "2026-11-18T09:36:00+09:00",
+            "id": "news-466c63fa9ae830db2a7be97f41b11772",
+            "title": "「自分は大丈夫」なのに詐欺電話を信じた理由 愛知県蟹江町の80代男性、未遂に終わったが悔しさ消えず",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-18T23:28:27+09:00",
             "category": "市政・行政",
-            "area": "三河",
-            "summary": "【高校サッカー】愛知県大会決勝ダイジェスト 東海学園vs豊川  スポーツナビ",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXOUxHbjhCRS1lUWlkYUM1bXptdTVwZHJoQ2Qyak4tbDBCODdYQUJwQ0Z0c09KVWI4R2RwWEljNDBwcVJNZjFyaWFobHhlS1lSQXBVV1UwOTVtMVh1?oc=5",
+            "area": "愛知",
+            "summary": "「自分は大丈夫」なのに詐欺電話を信じた理由 愛知県蟹江町の80代男性、未遂に終わったが悔しさ消えず  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xYVVwMTFPSnJ5VjQ4VDVuNlpQT2NGY3lFdjJIMDl5Z1UzdEhjY3JaWEtRTnNzR01rWTY1SlkybjZEYThDb2dKVDZxdW9HU2FtYk1GMQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-d28904c992517e675225748a1fba0160",
+            "title": "リニア開業の提示延期「残念」と愛知県知事（共同通信）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-18T17:29:02+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "リニア開業の提示延期「残念」と愛知県知事（共同通信）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RbDJTdEZIOXBJSVRWT0otSXJ4QkR2RWxxcnM3TlhvSDlYWUVpMTNpXzlHVlpqYmNzdjk0NkFxZEhkZlNSSmxFcTdLQXkwVGk1Y0Q0anR6R3pBcUZsTEZuMllDeHhTcWZYYldMNkp4ejlTMUpDcURUX09SM3Fva0U?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -211,24 +233,46 @@
         },
         {
             "id": "news-06644b4ec34d0a3d7294294606bd85a5",
-            "title": "【皇室コラム】愛子さま訪問のシンガポール――「音吉」でつながる愛知県美浜町との“草の根交流”（2026年11月17日掲載）",
+            "title": "【皇室コラム】愛子さま訪問のシンガポール――「音吉」でつながる愛知県美浜町との“草の根交流”",
             "source": "日テレNEWS NNN",
             "published_at": "2026-11-18T12:01:00+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "【皇室コラム】愛子さま訪問のシンガポール――「音吉」でつながる愛知県美浜町との“草の根交流”（2026年11月17日掲載）  日テレNEWS NNN",
+            "summary": "【皇室コラム】愛子さま訪問のシンガポール――「音吉」でつながる愛知県美浜町との“草の根交流”  日テレNEWS NNN",
             "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NSEh3RkZIU1lDSFFFX19xQnVkODdmU0pTdzNKcjdmdDBJcWZIMUhfMk9IOFkxRTVPWll2OVpGZDBkNDh3RTdocGtFNXg0VmJaWFRqS2RfWGNYRWlrb1lyZzFGS2R0M1N6TVVjOHRzSkc1YjA4bmlvc2MtUWE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-c73382f844d0e46d01dcc378892f1e09",
+            "title": "ドローン活用し山間地に医薬品を 愛知県の物流サービス実証実験、新城市で実施",
+            "source": "47NEWS",
+            "published_at": "2026-11-18T22:18:00+09:00",
+            "category": "市政・行政",
+            "area": "三河",
+            "summary": "ドローン活用し山間地に医薬品を 愛知県の物流サービス実証実験、新城市で実施  47NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13NXpRRlB2RF9sTFZIbXhjeEVLOTNvQnJxUDktT1pobXk0ZFN4OVlVbXF3V3pDQk5Vc01oekVrUjBhZWJzMlBLRlRKWQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-9397c937bfc2331dd11a59c1ab67189b",
             "title": "愛知県知多市・新舞子にイマーシブミュージアム「Arte Museum Nagoya」グランドオープン、新作6作品が公開",
             "source": "Mogura VR",
-            "published_at": "2026-11-18T19:27:20+09:00",
+            "published_at": "2026-11-18T19:28:16+09:00",
             "category": "観光・イベント",
             "area": "尾張",
             "summary": "愛知県知多市・新舞子にイマーシブミュージアム「Arte Museum Nagoya」グランドオープン、新作6作品が公開  Mogura VR",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yWnhwdElzUVVaZUNkZkU1SFFpSHdFUUtrbXpEUmcxMXZnMTY1M2NaaGpqSGtJSm80MDNVRkdsYk1RdmdxcXhFMExubTZwRW9HUG9aMWN1VEVpSktWM2pndWtaVHRYZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-b5a111f87103aa1a1e3a0d4adadecbc5",
+            "title": "カルノリレンタカー、愛知県で3店舗目…名古屋中川店がオープン",
+            "source": "レスポンス（Response.jp）",
+            "published_at": "2026-11-18T18:30:03+09:00",
+            "category": "観光・イベント",
+            "area": "名古屋",
+            "summary": "カルノリレンタカー、愛知県で3店舗目…名古屋中川店がオープン  レスポンス（Response.jp）",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CbVRHaHFFZUJQZzRqZmVBcU05M1JFUVR3Tzk1NXBjWWlWWlRtMFNfczlXWGhhV0w5SGx4VHo0XzZsOXowcDRfZFFEWU85MXkybngxTXo4Q19qS3JKYTRj?oc=5",
             "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -243,15 +287,15 @@
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ddf0ac8530453eb98c7df54f72c16568",
-            "title": "【速報】リニア開業の提示延期「残念」と愛知県知事",
-            "source": "47NEWS",
-            "published_at": "2026-11-18T17:29:02+09:00",
-            "category": "市政・行政",
+            "id": "news-a565def5fbb79f612458eb29c28b0782",
+            "title": "東ジャワ州、愛知県で貿易投資イベント24日開催",
+            "source": "NNAアジア",
+            "published_at": "2026-11-19T00:00:00+09:00",
+            "category": "観光・イベント",
             "area": "愛知",
-            "summary": "【速報】リニア開業の提示延期「残念」と愛知県知事  47NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VZDFQZ180R2xsMW0ySWdidktDd3JSSVQ3c1FFUXFORXl1NVBoT0lzLTV0eDI0Ykw0akI2eGtXd0JTek1sWGlGZ2YwMA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "東ジャワ州、愛知県で貿易投資イベント24日開催  NNAアジア",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02ZGhIbFJhREFRLS1LaGZjZlJDQmNxSndlTTZNd0lSSktqV2ZEN0RMOGFHUFdUYWl0djB3Ql9kbWYxRDh4REE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-f2c140a57014f52c49faf51766436ace",
@@ -265,70 +309,15 @@
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-4414c0de21f6eabc455a497037d8fe8f",
-            "title": "画像・写真：没入型ミュージアムがオープン 愛知県知多市〔地域〕：時事ドットコム",
-            "source": "時事ドットコム",
-            "published_at": "2026-11-18T14:51:00+09:00",
-            "category": "観光・イベント",
+            "id": "news-52d575aee0e043ab4bdb6ec198f98678",
+            "title": "小牧・強盗殺人未遂事件 少年の一部“地元の知り合いに闇バイトに誘われた”（日テレNEWS NNN）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-18T20:01:00+09:00",
+            "category": "社会",
             "area": "尾張",
-            "summary": "画像・写真：没入型ミュージアムがオープン 愛知県知多市〔地域〕：時事ドットコム  時事ドットコム",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjZ4ZUJTUDVLNHJCOERJZklQQXpna3JWbnJkQkFEZUZMeGhBUUtERG56XzgzMjNLU2ZuUjRiRGo1RmU5cFEtcldXSjY5eWFPdlpVYkVpZDdUOUt1UnljdFBMbVhyaHpiQ1NTNkdUaldYeVBmcFFiM2YxajBqdXM5Tw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-923b4f571cfb08ecd5c246557446fe2c",
-            "title": "気象支援資料 ( 愛知県 知多市 )",
-            "source": "気象庁",
-            "published_at": "2026-11-18T08:58:12+09:00",
-            "category": "市政・行政",
-            "area": "尾張",
-            "summary": "気象支援資料 ( 愛知県 知多市 )  気象庁",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHlNM2VWT05kY1VqWEFHbUc5X1U0N0ZuOS1tNWlPcXN4M1loUTZhR2Z0OTJRc01qdFg1Yklkd1MyTXpsMHdTVWFESG9vMW9iSTVETWVEbXFKRC1CUkZJZHphcFJfUGUwcUp4UXNqZkI3UTVXUlNRMElvY3o5TGdtMmtrd3hxc1lG?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-efb222642469b57fee3a3163237412b3",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-18T15:31:26+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8d67b0cbfcbdff311df29a5a84b83919",
-            "title": "カルノリレンタカー、愛知県で3店舗目…名古屋中川店がオープン（レスポンス）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-18T18:30:03+09:00",
-            "category": "観光・イベント",
-            "area": "名古屋",
-            "summary": "カルノリレンタカー、愛知県で3店舗目…名古屋中川店がオープン（レスポンス）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rSGxXbG5Gem13VVhtYUJzOHQ3SWduVHZmNTVhekNLbVVfeHk2VGlCVnhzTWFZRzE3WmFFVEpLTk55TTAwc2N4Sjc4WkNiLUVjdFlWT1ZzVmV1V3p2MmUwaHQ2eGVkUmtvZXdwdVZ6X2pTRzRKTjZhTGV6VWhYX28?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d28904c992517e675225748a1fba0160",
-            "title": "リニア開業の提示延期「残念」と愛知県知事（共同通信）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-18T17:29:02+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "リニア開業の提示延期「残念」と愛知県知事（共同通信）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RbDJTdEZIOXBJSVRWT0otSXJ4QkR2RWxxcnM3TlhvSDlYWUVpMTNpXzlHVlpqYmNzdjk0NkFxZEhkZlNSSmxFcTdLQXkwVGk1Y0Q0anR6R3pBcUZsTEZuMllDeHhTcWZYYldMNkp4ejlTMUpDcURUX09SM3Fva0U?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f2b0052ce4b343167c8c312e0c6911c4",
-            "title": "大高緑地、愛される公園へ 愛知県、刷新向け構想原案…3エリア 自然と調和図る (読売新聞オンライン)",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-18T15:37:24+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "大高緑地、愛される公園へ 愛知県、刷新向け構想原案…3エリア 自然と調和図る (読売新聞オンライン)  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGRSUmpZVW51dXYwSVUtdWFVTlhQaUp2STBvS0oyLW9jekZITUR3YUgzd1lqU0duYXU3LVZnX2laNmVILWJiZ19DQWRBZDl4dXdyWDJ4T25DRkNtekpMcmNzSDU1MFd1SFlUeGdmcWwtWld0UFRuZGZWWHhQSzJsaFhOeTdSN0JCbHVVOTB3?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "小牧・強盗殺人未遂事件 少年の一部“地元の知り合いに闇バイトに誘われた”（日テレNEWS NNN）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80SS1nM04ya0ZlTklWUk05WkdJeDdmdGswSDByY2p6WlRzUFhrUFJYUDhUYlBOeV9rNUttanUyalkyakwtRktSMmg1VTIzODd5b2tnV0Z1TzZHa09LTkkwRjE0U1dYUUladmV0YnBxNmtFZVdhWUV6cHNjZ3NaUE0?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
