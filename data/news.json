@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-20T20:13:31+09:00",
+    "last_updated": "2026-11-21T01:49:57+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -89,15 +89,37 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-d85d0ead2c6d58e413bc85329c210b5f",
-            "title": "豊橋市が王座奪還へ – 東日新聞",
+            "id": "news-a38eb55ff93d8d0608aad2f94a4c008d",
+            "title": "ぶっ飛んだイベ企画考える",
             "source": "東日新聞",
-            "published_at": "2026-11-20T00:10:35+09:00",
-            "category": "市政・行政",
+            "published_at": "2026-11-21T00:54:05+09:00",
+            "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "豊橋市が王座奪還へ – 東日新聞  東日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qNmxsdngwLUtMNmVZUGFLQXdYdE1wSXdIMThSWlRTdUFUQzUyWDJnbFE0TW1pZ0FuUXJPVjNaa3c0LXlwUExyeHBjZEhLYWpzU0tGNndIOVNwbm1PVVE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "ぶっ飛んだイベ企画考える  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LQ01KS3JSd2Q4T2xqQjBIa0xYdktMRWhBSEFGZXFhVGRDcGxwNUlGMk9KcGJPYnpOSWZmVTZsMV9LZTRJMEZDVWh3YXc5bG1zNDlocUxrRWN3S1pxWUE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-c783352f94c4d478f49936a750234cc6",
+            "title": "※11/19 追記 12/16（水）秋田戦 「GENERATIONS 佐野玲於さん」来場決定！",
+            "source": "三遠ネオフェニックス",
+            "published_at": "2026-11-20T17:22:54+09:00",
+            "category": "スポーツ",
+            "area": "豊橋",
+            "summary": "※11/19 追記 12/16（水）秋田戦 「GENERATIONS 佐野玲於さん」来場決定！  三遠ネオフェニックス",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5TkdJald4OTVjRDhMOTExc1Z0LWpuS2sycW9iMmtEMEJuaUVqaGNjeEgzejk1UEROSXhiWnFXX3VXb2ltMlFzanBzeUctYWNkT0tlUzhwTTV1QQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-9049325f97c252446f7bd7f629d10527",
+            "title": "三河港の輸入車両をずらっと紹介 11月21日、豊橋市で開催",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-20T15:10:50+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "三河港の輸入車両をずらっと紹介 11月21日、豊橋市で開催  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mYy1DdTlnbEE3YUExbm42Unp4SE5ETXVXX2lQVGs2eWRqZDF5dFVaQzlxOUMzUmtxdENMeVVjTGZPWGZ4UXo4S3Y4QWZMb1ZqZjJ2WQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-4e705e4608f5b737e12e387fffaf66bd",
@@ -111,54 +133,10 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-c783352f94c4d478f49936a750234cc6",
-            "title": "※11/19 追記 12/16（水）秋田戦 「GENERATIONS 佐野玲於さん」来場決定！",
-            "source": "三遠ネオフェニックス",
-            "published_at": "2026-11-20T08:32:57+09:00",
-            "category": "スポーツ",
-            "area": "豊橋",
-            "summary": "※11/19 追記 12/16（水）秋田戦 「GENERATIONS 佐野玲於さん」来場決定！  三遠ネオフェニックス",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5TkdJald4OTVjRDhMOTExc1Z0LWpuS2sycW9iMmtEMEJuaUVqaGNjeEgzejk1UEROSXhiWnFXX3VXb2ltMlFzanBzeUctYWNkT0tlUzhwTTV1QQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-34531143a3f80da3fa3f5655c69c1c39",
-            "title": "三河港の輸入車両をずらっと紹介 11月21日、豊橋市で開催",
-            "source": "中日新聞Web",
-            "published_at": "2026-11-20T05:05:00+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "三河港の輸入車両をずらっと紹介 11月21日、豊橋市で開催  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yT3dLakF5NjF6RDFUUlhLdEZVdEg2YVJJWVBOdTc1dVA5ZElnM3Q1TEV4ZjNMeF8wdWVFR0M2TUN0RnE0ME5tQlVTeGZaUXVLeVgxX2dNQ2pnb3puaUdRVGRn?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-4f1fc6efd294c6274d1f326002f821e0",
-            "title": "【連載】エンジョイサッカー〈124〉第1回大会は桜丘が優勝 豊橋でユタカ自校杯",
-            "source": "東愛知新聞",
-            "published_at": "2026-11-20T18:30:40+09:00",
-            "category": "スポーツ",
-            "area": "豊橋",
-            "summary": "【連載】エンジョイサッカー〈124〉第1回大会は桜丘が優勝 豊橋でユタカ自校杯  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xbkJUT0FXRmIzNWtzQjBkbDdjdUs0WXUyRGpyQjhOSml0Yll2VnVyeWd6NmZrRkxxdG9LbjhRcER5RF9DVnNRRkZxQmZnTFJRUVpmSURIUDVRQ3M2?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-5320d6349339a3e9eabbd0e38adfb779",
-            "title": "豊橋のエクスラージ最優秀賞 – 東日新聞",
-            "source": "東日新聞",
-            "published_at": "2026-11-20T00:05:35+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "豊橋のエクスラージ最優秀賞 – 東日新聞  東日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CdGZydFhPalNQREdkMHBDdXV1akd3cUhLTGo5OGJ4YlVrWHpIUTg4bThSUnk4cXJvdnZ1dkc3MHVqVkV6cnBnWWRhYjZnbUo3ZG5GVkVveFpYdnQwdHc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-cb274eeab5ec940d8e5e97c1d749835c",
             "title": "生活に溶け込む布花200点 豊橋で柴田さんの作品展",
             "source": "東愛知新聞",
-            "published_at": "2026-11-20T18:12:24+09:00",
+            "published_at": "2026-11-21T00:12:24+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
             "summary": "生活に溶け込む布花200点 豊橋で柴田さんの作品展  東愛知新聞",
@@ -166,15 +144,48 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-93581179cf1f387bf1235c089fe04b58",
-            "title": "魚市場や農業ハウスを見学 – 東日新聞",
+            "id": "news-49c54d6089ff1fa4c22f058433d178f5",
+            "title": "とよはしキラキラ☆イルミ開幕",
             "source": "東日新聞",
-            "published_at": "2026-11-20T00:05:35+09:00",
+            "published_at": "2026-11-21T00:17:48+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "魚市場や農業ハウスを見学 – 東日新聞  東日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NdV9kckRJaXhvS0lzb0F1OVVlZ0xZT29fWGtSNGZlemo3RWJWeWFBMTFfbkhaZlZFbGxySGNpSENNMDVoR3ZBQno0aXpZRW1YRlFMVDNLSUhVUWJFR2c?oc=5",
+            "summary": "とよはしキラキラ☆イルミ開幕  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80VTdCNnF3M19GVWpOd2daVXZSVm5FWFdWUWZ5VkdnSHZINS1GYmQ2OHFNdVZZUzV6ckxkdEN2ZE13SlMwdmZMYXRDSllLdVpMNUY0THdOd3FxWWltdlE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-1a9de625feb96024a86754f7b0875646",
+            "title": "ＵＳＡ豊橋駅前店のスペースシャトル 安全上の問題から解体撤去決まる",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-21T00:00:00+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "ＵＳＡ豊橋駅前店のスペースシャトル 安全上の問題から解体撤去決まる  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ibUNVNmtMdTN6aEd5a2pnc0J0Vk8wQUhsQ21PSS15MzRWVUp2aHMyYWZiY1Q4VU01b0hhZ1BOc3BORy1ha1EwTkRkdUhvdU9ka2JJQW1QN25mdEla?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-314bd380de91e16f3eebdf49b0838fd7",
+            "title": "私の挑戦を表現した作品",
+            "source": "東日新聞",
+            "published_at": "2026-11-21T00:03:23+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "私の挑戦を表現した作品  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VMC1yeG03ZjVNbWtGTWI2ZXZvOUpSOFUwVFc2cE5ibC1BTDExRV9fZng1UEdVa3d3NkJ5UTI4dW5lTmRnU0lGcUF2Rm54Ql95QlFReTVlZ0FfWHdOeXc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-efb222642469b57fee3a3163237412b3",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-20T21:31:25+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-160314d0e298a52bf572e03e4484ab8c",
@@ -186,17 +197,6 @@
             "summary": "警察署や交番で性的行為、不適切交際で男女3人の警察官を処分 愛知 [愛知県]  朝日新聞",
             "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfTmRTYzM5LUV2YzVObWpSWUlpVUNmSFFGLVJuM2Z6aU0tTm4xcGg2NWZqMVFERkt4S2pOVG9sLU5kTnZEYmhocUl6Nzg1LW1FTkI5TzNuMHlaN05tSDM2eldIamtkZms?oc=5",
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-efb222642469b57fee3a3163237412b3",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-20T15:31:26+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-add2b6c6d3cb983345691376d9a48af1",
@@ -221,6 +221,39 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-ae012dcaf13cbabc45f2c616532ff186",
+            "title": "あいちモビリティイノベーションプロジェクト「空と道がつながる愛知モデル2030」 災害時航空情報配信リスト及びドローン出動協力リストへの登録を募集します！ - 次世代空モビリティ（ドローンやAAM（空飛ぶクルマ）等）産業の振興",
+            "source": "愛知県公式Webサイト",
+            "published_at": "2026-11-20T10:48:06+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "あいちモビリティイノベーションプロジェクト「空と道がつながる愛知モデル2030」 災害時航空情報配信リスト及びドローン出動協力リストへの登録を募集します！ - 次世代空モビリティ（...",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTBNa2szT0VTZW5uMDFoZWZpTlBFYUtZeVlLaGRwR19tdHVIYzR3a0IyQU5sY0t4MnlETERpUjFUUWJSckluX1BUcld2aXV5dmoyTWJSdTk1MzE0OTZwR3dlMTRUWWY4R1h6cFlpeXVPZEgzTXRVZ0NjMmhvYk1ycUJOX0FFRmJ0ZElBOGhRWQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-823f7aace7974398e91516161220c39e",
+            "title": "【動画】愛知県知事選挙、名古屋市議の北角嘉幸氏が立候補表明「生活に密着した県政に変えたい」",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-20T20:21:05+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "【動画】愛知県知事選挙、名古屋市議の北角嘉幸氏が立候補表明「生活に密着した県政に変えたい」  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zbDZjVXBLcTZTRzNDdTBXSGNOUFMtdl9LSkU2SmkwMDFyN1lPbV9TU0c4NXg3WXBUOVdSYXhyalRuc05SSTZhMXFHYk5MM1NGcU1RcQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-1a090ee72076079c9283005130fa0408",
+            "title": "ラリー三河湾を活用した愛知の魅力発信業務に係る企画提案の公募",
+            "source": "トラベルボイス",
+            "published_at": "2026-11-20T23:07:46+09:00",
+            "category": "一般ニュース",
+            "area": "三河",
+            "summary": "ラリー三河湾を活用した愛知の魅力発信業務に係る企画提案の公募  トラベルボイス",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DM3RDaVpCS2szVUgxLWx3YjdQQlhCOHYyVVViMkx3TzVEeFNhUTFUbTZYOEdrVkdlajVBcklSaU4tNW1XcEE2clNRVHVvS0Zf?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-0928d06dcf282c3c2572e14c27c78105",
             "title": "エアロネクストほか／愛知県新城市でドローン活用し「医薬品配送モデル」実証",
             "source": "物流ニュースのLNEWS",
@@ -229,94 +262,6 @@
             "area": "三河",
             "summary": "エアロネクストほか／愛知県新城市でドローン活用し「医薬品配送モデル」実証  物流ニュースのLNEWS",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHM3NRNl8tdzZTX2hkRFVZZzJpWHl5YW9nZVk0Yk5yVjM2SkxPemtBbG5fM2FBZVJVY21SQ01RdzdZb3RCVllsZE12aWM1cUw4bHhtYw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-88040227034a430969142977e15aadba",
-            "title": "「あいちの農林水産フェア」及び「2026あいち畜産フェスタ」会場での大村知事による県産農林水産物のPRについて",
-            "source": "愛知県公式Webサイト",
-            "published_at": "2026-11-20T10:48:06+09:00",
-            "category": "観光・イベント",
-            "area": "愛知",
-            "summary": "「あいちの農林水産フェア」及び「2026あいち畜産フェスタ」会場での大村知事による県産農林水産物のPRについて  愛知県公式Webサイト",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jU3huT3VTQ1lRdXd3M0xvekUtZkdDaUtIVU9vaGU1aERyNVhVZjV2OFI2QU5oSm9SbUJoZFhsSGpuWmxablhHS1JaUF9qZjZROGUtQmppUEM0Z0lYT0l4cTZNYzduc2Nzckg4SExNaw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-aa9b8322e43e12221d00f6624bb964d3",
-            "title": "愛知県知事選挙に名古屋市議の北角氏が立候補を表明",
-            "source": "NHKニュース",
-            "published_at": "2026-11-20T17:41:02+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "愛知県知事選挙に名古屋市議の北角氏が立候補を表明  NHKニュース",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zVzNiaDV6UzB5bWhRWVItRkRMWmJnY3dPeXdmQ0ZTXzFWYlF3eFc1V21TZFAzZ2J5M1lLTlV3alFWY0ZYVGFTZzRpYkFvdG42dGFJd0otbnVFWGU1Ykww?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-7b94e68b18d263244682afa617738aa6",
-            "title": "遠くから見ると「打ち出のこづち」 愛知県豊川市の「大和の大いちょう」が紅葉ライトアップ",
-            "source": "愛知のニュース",
-            "published_at": "2026-11-20T15:00:46+09:00",
-            "category": "市政・行政",
-            "area": "三河",
-            "summary": "遠くから見ると「打ち出のこづち」 愛知県豊川市の「大和の大いちょう」が紅葉ライトアップ  愛知のニュース",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kamxUZ3JOOW1GQnJEM05UUUYwY2Y2NFp3b3hUYk1MVGY0RGdOczRabXdDbnQ0MFhVMHlPVWRaTTl6aFZiMUhWaFlSU3ZlUnd5OG9kRnBIc2QtY1E?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-fe3c2cab795ad4ed8f844a880b4a4b64",
-            "title": "愛知県東海市の立てこもり事件で男を起訴 名古屋地検",
-            "source": "中日新聞Web",
-            "published_at": "2026-11-20T19:01:06+09:00",
-            "category": "社会",
-            "area": "名古屋",
-            "summary": "愛知県東海市の立てこもり事件で男を起訴 名古屋地検  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EVEN5elhuRzhxSkdKVnFnNVc5QzFfdlBrSk5jSUctSVpCbVc0QU8wX0xtelZjTmlQU3lnakY2dzBKWEpZSi1wcnBmWG1VdUZPLTR4dw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-295a6a0c24b19a1e2b2ab8a7f3f4a8b9",
-            "title": "来年2月の愛知県知事選挙 現職の名古屋市議・北角嘉幸氏が立候補表明「庶民の生活に対する配慮が足りない」",
-            "source": "FNNプライムオンライン",
-            "published_at": "2026-11-20T19:11:01+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "来年2月の愛知県知事選挙 現職の名古屋市議・北角嘉幸氏が立候補表明「庶民の生活に対する配慮が足りない」  FNNプライムオンライン",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xdmhWVHlJY0FaX3BNdWM5QWpyWUMzb3hvWXdNWDZndkVYd2NoMGQ5RzFRNVFpZG9FVkF6T3B3ZElfamViSUVFYllDM0tqQQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-0839b7daba619803af598ae457010c99",
-            "title": "メガネトップ／愛知県に「眼鏡市場 名古屋妙音通店」11月20日オープン",
-            "source": "流通ニュース",
-            "published_at": "2026-11-20T16:05:00+09:00",
-            "category": "観光・イベント",
-            "area": "名古屋",
-            "summary": "メガネトップ／愛知県に「眼鏡市場 名古屋妙音通店」11月20日オープン  流通ニュース",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53RG1zeHVJYVRfcDltWmlOOENKcVJSLVhpZHd5R0dxRUk2ZnBSNm95TDZSZkdfMzBQR291ZVY0UjN2TVZnRWlBN1BWLUxKZk1BVzlMMw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-e32ce575ecaa25926edf82cef47cc356",
-            "title": "プレスリリース：［ステーキのあさくま］愛知県蒲郡市に初出店！12月16日（水）グランドオープン、12月13日（日）には極上ステーキ食べ放題「匠肉祭り」を開催。また、12月11日(金)メディア内覧会も開催（PR TIMES）",
-            "source": "毎日新聞",
-            "published_at": "2026-11-20T16:24:20+09:00",
-            "category": "観光・イベント",
-            "area": "三河",
-            "summary": "プレスリリース：［ステーキのあさくま］愛知県蒲郡市に初出店！12月16日（水）グランドオープン、12月13日（日）には極上ステーキ食べ放題「匠肉祭り」を開催。また、12月11日(金...",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoTXVJcWdRSGhRTW9RVHpldnJSd3VyRnZBRVB3N2RZNXcxU3VPN1ozVzdKbHlXbjdYLXB3VG1jXzVWQWZ4QlBuUFpCRVFQd2JURHBVSU10M092dHBOTXc5RGsybG1PaVVB?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-9c5a65669c5f76316b03b5fa9f430459",
-            "title": "愛知県の過去の天気(アメダス・降水量・2026年11月)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-20T12:31:25+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の過去の天気(アメダス・降水量・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11bG5iSHVwQXlacml3M3VOa1FsRjVNcjVWTFVqeWFZYkcxbWc1RXJZb29xVTdkLWZLLU1fbmphclhKdF9iMHV0SGdqOExUNUp2c1lZTHdZbFhVNFB6RFE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -331,6 +276,50 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-9c5a65669c5f76316b03b5fa9f430459",
+            "title": "愛知県の過去の天気(アメダス・降水量・2026年11月)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-20T12:31:25+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の過去の天気(アメダス・降水量・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11bG5iSHVwQXlacml3M3VOa1FsRjVNcjVWTFVqeWFZYkcxbWc1RXJZb29xVTdkLWZLLU1fbmphclhKdF9iMHV0SGdqOExUNUp2c1lZTHdZbFhVNFB6RFE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-9f9fe57c22944f36de642a40d9ee8139",
+            "title": "【愛知県知事選挙】名古屋市議の北角嘉幸さんが立候補表明「県民の生活を取り戻したい」（テレビ愛知）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-20T20:12:01+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "【愛知県知事選挙】名古屋市議の北角嘉幸さんが立候補表明「県民の生活を取り戻したい」（テレビ愛知）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1paW9yNUZyUmxYbi1lUjA2TzhBOEhSdGRpaWJNSDZPQWNPcnBEOTFXQTNlY0w5VlBvLTJ5YllHTGdWb2pxWi1VRzBkcnQ3R2ZoOUk3UHZNaWpnOThnaGpYVklxUG0xcGpMTU9wckdJQTJXX0xoVVFab1c3X3dDWG8?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-2e83f69e84196bcc88e2648a6c07ee9e",
+            "title": "建築職の人材確保へ公務員試験に新区分 愛知県が2027年度から、教養試験なくし適性検査導入",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-20T21:06:08+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "建築職の人材確保へ公務員試験に新区分 愛知県が2027年度から、教養試験なくし適性検査導入  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fZktWSjN4dTZkbnlfaW5XMng4MFdLanJiaDUtZ1lfME1YbjNmWDFpWlBkNEtLNlNNZjRoeW9EVlRuNE5nbVVHYk52VVVNRW1OekdkdlBnQzdQM0JSeWJBTlZB?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-88040227034a430969142977e15aadba",
+            "title": "「あいちの農林水産フェア」及び「2026あいち畜産フェスタ」会場での大村知事による県産農林水産物のPRについて",
+            "source": "愛知県公式Webサイト",
+            "published_at": "2026-11-20T10:48:06+09:00",
+            "category": "観光・イベント",
+            "area": "愛知",
+            "summary": "「あいちの農林水産フェア」及び「2026あいち畜産フェスタ」会場での大村知事による県産農林水産物のPRについて  愛知県公式Webサイト",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jU3huT3VTQ1lRdXd3M0xvekUtZkdDaUtIVU9vaGU1aERyNVhVZjV2OFI2QU5oSm9SbUJoZFhsSGpuWmxablhHS1JaUF9qZjZROGUtQmppUEM0Z0lYT0l4cTZNYzduc2Nzckg4SExNaw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-f684bcb3f1848faa98c44ec172cdf678",
             "title": "愛知県の今日のアメダスの記録(11月20日)",
             "source": "tenki.jp",
@@ -339,6 +328,17 @@
             "area": "愛知",
             "summary": "愛知県の今日のアメダスの記録(11月20日)  tenki.jp",
             "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-341b7b55ec99f763427b62a57657b054",
+            "title": "名古屋での「移民政策反対デモ」準備中の発言は差別的と認定 愛知県、人権条例に基づき公表",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-20T21:45:45+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "名古屋での「移民政策反対デモ」準備中の発言は差別的と認定 愛知県、人権条例に基づき公表  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yWllxSDhRbnRLTXNjQ2FIVW5PTVFLWUJUbXZxUWx1b0dBbjZQdTZfOXY4dlp4VnR0YUVTZ3ZRLWUxZm5OOFVQMEtwSmdXdkxOYVhsdQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
