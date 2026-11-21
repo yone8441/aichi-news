@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-11-21T01:49:57+09:00",
-    "update_session": "夕刊便（17:00配信）",
+    "last_updated": "2026-11-21T12:03:23+09:00",
+    "update_session": "昼刊便（12:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "晴れ",
+        "condition": "晴れ　時々　くもり",
         "icon": "☀️",
         "temp_max": 13,
-        "temp_min": 5,
-        "rain_prob": "10%"
+        "temp_min": 13,
+        "rain_prob": "0%"
     },
     "total_count": 30,
     "articles": [
@@ -78,26 +78,37 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-bd7d1b20b1e474ca78839ac7299c543e",
-            "title": "キャンバスは工事の仮囲い 園児ら夢中で描画 豊橋の天伯保育園",
+            "id": "news-b362622f57b3d586be1242902f8e3b6a",
+            "title": "豊橋の「濱金商店」と「兵藤農園」がコラボ 「ごろっと椎茸ごはんの素」",
             "source": "東愛知新聞",
-            "published_at": "2026-11-20T18:30:40+09:00",
+            "published_at": "2026-11-21T11:16:14+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "キャンバスは工事の仮囲い 園児ら夢中で描画 豊橋の天伯保育園  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aMXR1ZWNTSHh5alpiRHFuemg5V25zUmJCWVdpaU1YUlg0S25iQUZjYlNMQzM2cTItb0IwdWlnS21XeUpDc0U0Qkdvano5aDFNVXZOV1c0OXBXVjF1?oc=5",
+            "summary": "豊橋の「濱金商店」と「兵藤農園」がコラボ 「ごろっと椎茸ごはんの素」  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFemd5RHl1UDI0dTN2U01ibWwwSVptYTVHQ2pCWXI4VmNtcS1XTXFtdEh5WWpZZlFndHRnOWJlTS1lV0NWYmNoQVNaeGtPZXN3MTFfMF8yQmJQRTdO?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-a38eb55ff93d8d0608aad2f94a4c008d",
-            "title": "ぶっ飛んだイベ企画考える",
+            "id": "news-669b57657bd35b00d938739708e1778b",
+            "title": "切り絵と水彩画約20点並ぶ – 東日新聞",
             "source": "東日新聞",
-            "published_at": "2026-11-21T00:54:05+09:00",
+            "published_at": "2026-11-21T04:24:17+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "ぶっ飛んだイベ企画考える  東日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LQ01KS3JSd2Q4T2xqQjBIa0xYdktMRWhBSEFGZXFhVGRDcGxwNUlGMk9KcGJPYnpOSWZmVTZsMV9LZTRJMEZDVWh3YXc5bG1zNDlocUxrRWN3S1pxWUE?oc=5",
+            "summary": "切り絵と水彩画約20点並ぶ – 東日新聞  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56OVlmRzVUQ1lFUVJKd2RMb2VaNGFhT0tEejVaQ1J4RXp6MWlOU0pNYU10RnJkaTRrQUowRUF3ZlNIYWx2ZGdQRnppSTM2d3VQdUtNMmptekw5eFhUZXc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-35e9ec9b4cea10252c50310d7bf07976",
+            "title": "「ブラックサンダー」の有楽製菓が「1億円」寄附 愛知県豊橋市へ…理由を説明",
+            "source": "山陽新聞",
+            "published_at": "2026-11-21T05:24:56+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "「ブラックサンダー」の有楽製菓が「1億円」寄附 愛知県豊橋市へ…理由を説明  山陽新聞",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oRlIxdFJrVDdNSTlHVGNtTlcxWFF3Q0xzaDA3b1pQMHMyaGpFaEd2VF95c0JSX01oYXp6VWlaWlFHVzhPUnZ1dVNIWmhscWJQMWZaaGpiTHZCUQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-c783352f94c4d478f49936a750234cc6",
@@ -111,32 +122,21 @@
             "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-9049325f97c252446f7bd7f629d10527",
-            "title": "三河港の輸入車両をずらっと紹介 11月21日、豊橋市で開催",
+            "id": "news-cee489ee7a8895c85319f8caacb05d7c",
+            "title": "愛知・豊橋の「サウナピア」に初めて女性が入店 ＢＳ朝日「サウナを愛でたい」ロケ地巡りツアー ※無料全文公開",
             "source": "中日新聞Web",
-            "published_at": "2026-11-20T15:10:50+09:00",
-            "category": "観光・イベント",
+            "published_at": "2026-11-21T05:05:01+09:00",
+            "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "三河港の輸入車両をずらっと紹介 11月21日、豊橋市で開催  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mYy1DdTlnbEE3YUExbm42Unp4SE5ETXVXX2lQVGs2eWRqZDF5dFVaQzlxOUMzUmtxdENMeVVjTGZPWGZ4UXo4S3Y4QWZMb1ZqZjJ2WQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-4e705e4608f5b737e12e387fffaf66bd",
-            "title": "【豊橋市】11/20 最低8℃、風がややあり、乾燥に注意の予想【朝版】",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-20T05:29:38+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "【豊橋市】11/20 最低8℃、風がややあり、乾燥に注意の予想【朝版】  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40RkNKSXpwTGtRRC1udE1lMmRqcFhuZk9nUWxSLWZJN2E2VnlHV1huQWQtTjlPeVBBMkpkcUk2ZU5Hdks1QzJ6NlJTTzM3RzRJOGc0cmNVOXh6X3AtTDg4Nk9qMmcwdXdaeE1IdjNlVmwyTE5kTC1XdmJLNWRRcHc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "愛知・豊橋の「サウナピア」に初めて女性が入店 ＢＳ朝日「サウナを愛でたい」ロケ地巡りツアー ※無料全文公開  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fcVc3TFA5bjNONnJPWU1pNjlqWmhvcjBZYUhMQUNmV0UxZ2JsNHAtVHNnYUNFOG12eU11Q2pKakpIbWY3ekZIdEJHQmtPb29CMWh6TTgteXBhV0lrZWEzQ1c0R2w?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-cb274eeab5ec940d8e5e97c1d749835c",
             "title": "生活に溶け込む布花200点 豊橋で柴田さんの作品展",
             "source": "東愛知新聞",
-            "published_at": "2026-11-21T00:12:24+09:00",
+            "published_at": "2026-11-21T06:12:24+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
             "summary": "生活に溶け込む布花200点 豊橋で柴田さんの作品展  東愛知新聞",
@@ -144,21 +144,21 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-49c54d6089ff1fa4c22f058433d178f5",
-            "title": "とよはしキラキラ☆イルミ開幕",
+            "id": "news-a38eb55ff93d8d0608aad2f94a4c008d",
+            "title": "ぶっ飛んだイベ企画考える – 東日新聞",
             "source": "東日新聞",
-            "published_at": "2026-11-21T00:17:48+09:00",
+            "published_at": "2026-11-21T00:54:05+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "とよはしキラキラ☆イルミ開幕  東日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80VTdCNnF3M19GVWpOd2daVXZSVm5FWFdWUWZ5VkdnSHZINS1GYmQ2OHFNdVZZUzV6ckxkdEN2ZE13SlMwdmZMYXRDSllLdVpMNUY0THdOd3FxWWltdlE?oc=5",
+            "summary": "ぶっ飛んだイベ企画考える – 東日新聞  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LQ01KS3JSd2Q4T2xqQjBIa0xYdktMRWhBSEFGZXFhVGRDcGxwNUlGMk9KcGJPYnpOSWZmVTZsMV9LZTRJMEZDVWh3YXc5bG1zNDlocUxrRWN3S1pxWUE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-1a9de625feb96024a86754f7b0875646",
             "title": "ＵＳＡ豊橋駅前店のスペースシャトル 安全上の問題から解体撤去決まる",
             "source": "東愛知新聞",
-            "published_at": "2026-11-21T00:00:00+09:00",
+            "published_at": "2026-11-21T06:03:50+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
             "summary": "ＵＳＡ豊橋駅前店のスペースシャトル 安全上の問題から解体撤去決まる  東愛知新聞",
@@ -166,25 +166,58 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-314bd380de91e16f3eebdf49b0838fd7",
-            "title": "私の挑戦を表現した作品",
+            "id": "news-bfa0b101625d10af743da7e652841063",
+            "title": "初の取引先経営者同士交流 – 東日新聞",
             "source": "東日新聞",
-            "published_at": "2026-11-21T00:03:23+09:00",
+            "published_at": "2026-11-21T00:54:05+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "私の挑戦を表現した作品  東日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VMC1yeG03ZjVNbWtGTWI2ZXZvOUpSOFUwVFc2cE5ibC1BTDExRV9fZng1UEdVa3d3NkJ5UTI4dW5lTmRnU0lGcUF2Rm54Ql95QlFReTVlZ0FfWHdOeXc?oc=5",
+            "summary": "初の取引先経営者同士交流 – 東日新聞  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fWmlENkNVMlhyajFoWVpUZjFYbE1LYVVDUGpUdkRuTV9vbGRFd3RhblMzajExVEI3VDdMVG1sRjc3ZHlaOE5TWGdnY1c5Rk5mbUVRYWVXTU5ZM1R5Q0E?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f52f7cdcf1dd0aada7dfc2a6d03215e9",
+            "title": "豊橋創造大短期大学部の特別講義で雨森たきびさん登壇",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-21T06:03:48+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "豊橋創造大短期大学部の特別講義で雨森たきびさん登壇  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xNUtDRWcyYjJXMGxOenNaTlZlZGlGbWFCdUs5bnNqci1LVnlISjlJNGYyZWpzUEREa0VrR3lqc1FPekNjNTBsREZvUTZkMlpWSTNrekc5TkJxdEVL?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-efb222642469b57fee3a3163237412b3",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
             "source": "tenki.jp",
-            "published_at": "2026-11-20T21:31:25+09:00",
+            "published_at": "2026-11-21T09:31:26+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-05e9323e49a0fa002d8307ac31f4aaec",
+            "title": "【独自】父親が目に涙を浮かべて明かす 「まさか闇バイトやってないな」 事件前の親子の会話 関与疑われる中学生の息子 「根は優しいが、外で何をしているのかわからない所も」 愛知･小牧市の強盗殺人未遂（CBCテレビ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-21T07:54:51+09:00",
+            "category": "社会",
+            "area": "尾張",
+            "summary": "【独自】父親が目に涙を浮かべて明かす 「まさか闇バイトやってないな」 事件前の親子の会話 関与疑われる中学生の息子 「根は優しいが、外で何をしているのかわからない所も」 愛知･小牧...",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zMllMcWxlTE1qaEJvLXZERUlLQXhGak9uUS1vRlZwQWlrTC16aTBTZTc3eUZQSVlkTWNUbm9RdTB4R2haWjZFRG9LOWRjYjBMVFQtazZSWmpzVWpOMVpfWURxRF9telEwWUpJX181eS1jNm9URFR6NVhqQnRobXc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-edb371060dcaadbc6aa09214fd24ba41",
+            "title": "愛知県知事選に北角嘉幸さんが無所属で立候補 3年前名古屋市議に初当選し「減税日本」に在籍 18歳以下の医療費や中学校給食の無償化掲げる",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-21T09:03:00+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "愛知県知事選に北角嘉幸さんが無所属で立候補 3年前名古屋市議に初当選し「減税日本」に在籍 18歳以下の医療費や中学校給食の無償化掲げる  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBieTh3RUVNTjMtLU1iU293ekM3RXpNekViMzlEVDdveVR0RHhNNDJWeHBlRkNNZXNXTEphRGZ6RUJWeVFiMlRObVJWQ2p4TlJFQzdkTUxKVTlKLXNoZWdv?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -199,6 +232,39 @@
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-3e26a0c76a6eadde558ed3be494d1a6a",
+            "title": "命守るため災害備える、愛知県安城市で訓練 豪雨や地震想定、炊き出しなど体験",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-21T10:44:29+09:00",
+            "category": "市政・行政",
+            "area": "三河",
+            "summary": "命守るため災害備える、愛知県安城市で訓練 豪雨や地震想定、炊き出しなど体験  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kVnlmRGJ3Y3ppd2RnSmtIV3RWXzBGaTlDVjZtSDdWRllqZm9aalVEZVZ5TzEyYXo0T0ZlYTlva0ZyWktHWERadEZlMllTOVB5blhKaEhBOW5FU01TbklheTBB?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-09a221b6e0d6655b191ef84a7c2efe32",
+            "title": "大手行、愛知県で個人店舗拡充 若年・家族層を開拓",
+            "source": "ニッキンONLINE",
+            "published_at": "2026-11-21T04:50:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "大手行、愛知県で個人店舗拡充 若年・家族層を開拓  ニッキンONLINE",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TV1U0bDhVcE5OS0Z5RnNIekFOTk9mV0Z5THplVG1mZ1c3aGUzT19zc290eHlNS2dPTVJQcHdVWTR3SUpCVmxPYkZPSTZKUVlEaHZKMXpn?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-1f9963970438bbf9d67d64176ffb2b83",
+            "title": "愛知県内の交通取り締まり情報11月21日(土)【発表:愛知県警】（2026年11月20日掲載）｜中京テレビNEWS NNN",
+            "source": "日テレNEWS NNN",
+            "published_at": "2026-11-21T06:07:55+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県内の交通取り締まり情報11月21日(土)【発表:愛知県警】（2026年11月20日掲載）｜中京テレビNEWS NNN  日テレNEWS NNN",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMG1ZaEtNaUdjWFpwZkVpd002Y0U2SmtjVWpFZEg1TDFCYnExQ2xiQUt6eU9aRUxUMlhTbHdaZEpRYTdOUWctTF9KRG9fRTB4V1BYMjBMM0VpSmZSZjNvOHByV09VV1I4ZWlfYXYyUFJaNTRQRzJ3Z3JXSU83OFgwb0FZdzV2TWs?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-add2b6c6d3cb983345691376d9a48af1",
             "title": "【愛知県蒲郡市】RemoteLOCKの複合施設導入事例「蒲郡市立西浦学園・西浦公民館」のご紹介",
             "source": "自治体通信Online",
@@ -210,58 +276,14 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-47ba2abc33225d5782801e6b7ae04c27",
-            "title": "愛知県知事選に名古屋市議の北角氏が出馬表明 「現職は慢心がある」（朝日新聞）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-20T19:00:00+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "愛知県知事選に名古屋市議の北角氏が出馬表明 「現職は慢心がある」（朝日新聞）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOOGxTbU9OaGdFRkZ2RF9KSkFvQWhBMXpVM3JiSkJNLWNpV19sTGZzNjZfMWN2cXN6QWJmb255OFI3blU3SVdCMXJMT29PLWxsUlFKRTQ0VWpGTDI3Ykh2YkxHMndTOGFWWTlXZWU5bDlCTGNzMW9OazY4c0V3dUk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ae012dcaf13cbabc45f2c616532ff186",
-            "title": "あいちモビリティイノベーションプロジェクト「空と道がつながる愛知モデル2030」 災害時航空情報配信リスト及びドローン出動協力リストへの登録を募集します！ - 次世代空モビリティ（ドローンやAAM（空飛ぶクルマ）等）産業の振興",
-            "source": "愛知県公式Webサイト",
-            "published_at": "2026-11-20T10:48:06+09:00",
+            "id": "news-10bce9e696690e984c9663bb80872036",
+            "title": "愛知県・岐阜県・三重県に店舗を展開するスーパーマーケット「ヤマナカ」の精肉コーナーで「豚ロース味付生姜焼用（岩下の新生姜入り）」・「シャキシャキ岩下の新生姜入り国産鶏つみれ」を11月21日発売。",
+            "source": "岩下食品",
+            "published_at": "2026-11-21T09:03:46+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "あいちモビリティイノベーションプロジェクト「空と道がつながる愛知モデル2030」 災害時航空情報配信リスト及びドローン出動協力リストへの登録を募集します！ - 次世代空モビリティ（...",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTBNa2szT0VTZW5uMDFoZWZpTlBFYUtZeVlLaGRwR19tdHVIYzR3a0IyQU5sY0t4MnlETERpUjFUUWJSckluX1BUcld2aXV5dmoyTWJSdTk1MzE0OTZwR3dlMTRUWWY4R1h6cFlpeXVPZEgzTXRVZ0NjMmhvYk1ycUJOX0FFRmJ0ZElBOGhRWQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-823f7aace7974398e91516161220c39e",
-            "title": "【動画】愛知県知事選挙、名古屋市議の北角嘉幸氏が立候補表明「生活に密着した県政に変えたい」",
-            "source": "中日新聞Web",
-            "published_at": "2026-11-20T20:21:05+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "【動画】愛知県知事選挙、名古屋市議の北角嘉幸氏が立候補表明「生活に密着した県政に変えたい」  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zbDZjVXBLcTZTRzNDdTBXSGNOUFMtdl9LSkU2SmkwMDFyN1lPbV9TU0c4NXg3WXBUOVdSYXhyalRuc05SSTZhMXFHYk5MM1NGcU1RcQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-1a090ee72076079c9283005130fa0408",
-            "title": "ラリー三河湾を活用した愛知の魅力発信業務に係る企画提案の公募",
-            "source": "トラベルボイス",
-            "published_at": "2026-11-20T23:07:46+09:00",
-            "category": "一般ニュース",
-            "area": "三河",
-            "summary": "ラリー三河湾を活用した愛知の魅力発信業務に係る企画提案の公募  トラベルボイス",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DM3RDaVpCS2szVUgxLWx3YjdQQlhCOHYyVVViMkx3TzVEeFNhUTFUbTZYOEdrVkdlajVBcklSaU4tNW1XcEE2clNRVHVvS0Zf?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-0928d06dcf282c3c2572e14c27c78105",
-            "title": "エアロネクストほか／愛知県新城市でドローン活用し「医薬品配送モデル」実証",
-            "source": "物流ニュースのLNEWS",
-            "published_at": "2026-11-20T14:13:34+09:00",
-            "category": "市政・行政",
-            "area": "三河",
-            "summary": "エアロネクストほか／愛知県新城市でドローン活用し「医薬品配送モデル」実証  物流ニュースのLNEWS",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHM3NRNl8tdzZTX2hkRFVZZzJpWHl5YW9nZVk0Yk5yVjM2SkxPemtBbG5fM2FBZVJVY21SQ01RdzdZb3RCVllsZE12aWM1cUw4bHhtYw?oc=5",
+            "summary": "愛知県・岐阜県・三重県に店舗を展開するスーパーマーケット「ヤマナカ」の精肉コーナーで「豚ロース味付生姜焼用（岩下の新生姜入り）」・「シャキシャキ岩下の新生姜入り国産鶏つみれ」を11...",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10RUxzbnpmck5XaGxkX2pkYVlXdi04OXVVLWxuNzdpSGNhMm9RRktMVl9pckVtd0N0T2tFMjRYZUtNc2xsX3JpakpPRF9BLUxMLWNENVdMSQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -276,14 +298,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-9c5a65669c5f76316b03b5fa9f430459",
-            "title": "愛知県の過去の天気(アメダス・降水量・2026年11月)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-20T12:31:25+09:00",
+            "id": "news-80b9e957ebad6407a1c77ee0aa4e7a33",
+            "title": "2027年2月愛知県知事選 名古屋市・北角嘉幸市議が出馬表明 子育て世帯への支援実現などを公約に（中京テレビＮＥＷＳ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-21T08:04:00+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "2027年2月愛知県知事選 名古屋市・北角嘉幸市議が出馬表明 子育て世帯への支援実現などを公約に（中京テレビＮＥＷＳ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93ZVJUUS1yQTZCbGpBRVowZ0YtZ0VlY0dWU0d4OHFlMkpGU0R0eEwxRHJmRnpmSVJtS3ZaQjFuRHBpNlFHZ3VmMXVhbThvTkpQckVzVzhJc2daeGFPU204MEs5ekRrVVhzamxuUEtmRUY0RkJtOE5QT2pzRzZJZGc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-e4e25c1382eb34367de3b0754146fa28",
+            "title": "【愛知県】11/21の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-21T05:10:33+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県の過去の天気(アメダス・降水量・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11bG5iSHVwQXlacml3M3VOa1FsRjVNcjVWTFVqeWFZYkcxbWc1RXJZb29xVTdkLWZLLU1fbmphclhKdF9iMHV0SGdqOExUNUp2c1lZTHdZbFhVNFB6RFE?oc=5",
+            "summary": "【愛知県】11/21の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VWksxcjZrYWNGOHRTemtnSXA1MzNmSWZNNHgzTWtxU0dKUWZJN1dEV2RUSV9QZndVa1I2SUNhM25TTXBON1NUQUFPSHhGLXBwaWk0WVNTYm1oZ05QbVlJZm0wZjZEQmpKUllpUTktc29NUU51SjlZQWNLM3RPRTg?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -298,48 +331,15 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-2e83f69e84196bcc88e2648a6c07ee9e",
-            "title": "建築職の人材確保へ公務員試験に新区分 愛知県が2027年度から、教養試験なくし適性検査導入",
-            "source": "中日新聞Web",
-            "published_at": "2026-11-20T21:06:08+09:00",
-            "category": "市政・行政",
+            "id": "news-c589aa8c4ffb981d446544d30f6b2744",
+            "title": "警察署や交番で性的行為か 愛知県警の男女警察官3人を減給の懲戒処分 3人とも11月20日付で依願退職（テレビ愛知）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-20T20:15:01+09:00",
+            "category": "社会",
             "area": "愛知",
-            "summary": "建築職の人材確保へ公務員試験に新区分 愛知県が2027年度から、教養試験なくし適性検査導入  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fZktWSjN4dTZkbnlfaW5XMng4MFdLanJiaDUtZ1lfME1YbjNmWDFpWlBkNEtLNlNNZjRoeW9EVlRuNE5nbVVHYk52VVVNRW1OekdkdlBnQzdQM0JSeWJBTlZB?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-88040227034a430969142977e15aadba",
-            "title": "「あいちの農林水産フェア」及び「2026あいち畜産フェスタ」会場での大村知事による県産農林水産物のPRについて",
-            "source": "愛知県公式Webサイト",
-            "published_at": "2026-11-20T10:48:06+09:00",
-            "category": "観光・イベント",
-            "area": "愛知",
-            "summary": "「あいちの農林水産フェア」及び「2026あいち畜産フェスタ」会場での大村知事による県産農林水産物のPRについて  愛知県公式Webサイト",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jU3huT3VTQ1lRdXd3M0xvekUtZkdDaUtIVU9vaGU1aERyNVhVZjV2OFI2QU5oSm9SbUJoZFhsSGpuWmxablhHS1JaUF9qZjZROGUtQmppUEM0Z0lYT0l4cTZNYzduc2Nzckg4SExNaw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
-            "title": "愛知県の今日のアメダスの記録(11月20日)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-20T09:21:59+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の今日のアメダスの記録(11月20日)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-341b7b55ec99f763427b62a57657b054",
-            "title": "名古屋での「移民政策反対デモ」準備中の発言は差別的と認定 愛知県、人権条例に基づき公表",
-            "source": "中日新聞Web",
-            "published_at": "2026-11-20T21:45:45+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋での「移民政策反対デモ」準備中の発言は差別的と認定 愛知県、人権条例に基づき公表  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yWllxSDhRbnRLTXNjQ2FIVW5PTVFLWUJUbXZxUWx1b0dBbjZQdTZfOXY4dlp4VnR0YUVTZ3ZRLWUxZm5OOFVQMEtwSmdXdkxOYVhsdQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "警察署や交番で性的行為か 愛知県警の男女警察官3人を減給の懲戒処分 3人とも11月20日付で依願退職（テレビ愛知）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uY2E5eUpIengyQTRod0tLTDRHUkdLeUo4bEpQbGM3dzNDY1AtUDJZWXpIREV1WmNmS1hlSzU1OWFnVWxRSkU2bjZaM1BWbmIzTnJ0NElmX0VEbzJrRXZQNUI1UXFYSTdCWFhhU2xrN2d5OV9IdVd1Y0lRUGFYMWc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
