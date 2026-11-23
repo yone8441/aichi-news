@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-11-23T21:07:16+09:00",
+    "last_updated": "2026-11-24T04:58:30+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "晴れ　夜遅く　くもり",
-        "icon": "☀️",
+        "condition": "くもり　昼前　から　夕方　雨　所により　雷　を伴う",
+        "icon": "🌧️",
         "temp_max": 13,
-        "temp_min": 7,
-        "rain_prob": "10%"
+        "temp_min": 13,
+        "rain_prob": "0%"
     },
     "total_count": 24,
     "articles": [
@@ -111,6 +111,17 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-1e853867fc8ccb92244a595cc6bd02d2",
+            "title": "親子が楽しみながら石巻山頂上へ 愛知登山道整備協会が豊橋で初のイベント",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-24T01:53:20+09:00",
+            "category": "観光・イベント",
+            "area": "豊橋",
+            "summary": "親子が楽しみながら石巻山頂上へ 愛知登山道整備協会が豊橋で初のイベント  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmcTBjWnJiVEFESExwbjNOZ1l0dG0wT3JnT21OXzdDR2phcTB0QlpHNUFsWjBwVFpnR0thU0ptLWJiNFIyZG5sYmtOLXMzU1l0bXgzbVQtSHFqQk9M?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-1563eb94862c97dadd8a431ceb567dd7",
             "title": "愛知・豊橋市の養鶏場で鳥インフル感染確認 県が約8万羽の殺処分を開始（2026年11月22日掲載）｜日テレNEWS NNN",
             "source": "日テレNEWS NNN",
@@ -144,21 +155,21 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ec564dfaaad98bd8136d91397149b407",
-            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
-            "source": "tenki.jp",
-            "published_at": "2026-11-23T18:28:06+09:00",
-            "category": "市政・行政",
+            "id": "news-a33f094fb3c54239418406114f25d180",
+            "title": "農業体験を通じて留学生と交流",
+            "source": "東日新聞",
+            "published_at": "2026-11-24T00:02:24+09:00",
+            "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "農業体験を通じて留学生と交流  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0WFRQMk5CN3Z0WXZjZWRKNVRnbFBjaTJSZ09QMXhEV09hMFpWajhaM3EzQWEyZGE5WVJWc0xyenBGOEZqWjlvVmoyamZsVjVFZnk4aFkxSFFYSWZXYVE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-2663d497a0a9c1c24d5b619ded440924",
             "title": "＜最新＞愛知・豊橋市で鳥インフル 採卵鶏８万羽殺処分",
             "source": "日本農業新聞",
-            "published_at": "2026-11-23T16:19:20+09:00",
+            "published_at": "2026-11-23T17:17:32+09:00",
             "category": "市政・行政",
             "area": "豊橋",
             "summary": "＜最新＞愛知・豊橋市で鳥インフル 採卵鶏８万羽殺処分  日本農業新聞",
@@ -166,36 +177,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-b7815f849cd49c61c9ea8670339fa22a",
-            "title": "愛知･豊橋市の養鶏場で鳥インフルエンザの感染が確認 ニワトリ約８万羽を殺処分へ 愛知では2シーズンぶりの感染確認",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-11-23T08:54:00+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知･豊橋市の養鶏場で鳥インフルエンザの感染が確認 ニワトリ約８万羽を殺処分へ 愛知では2シーズンぶりの感染確認  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFQ1p6cjhBM0pVUlhyOXRyWTdzRU1DM3BfYXR0VXRyZ0NmVzk4Z3JNR0JzODFCZVo3cGdEUjFYeXJtcmJ1S3k5QlpQb0tlVnhDVTRnZkgtMGVLdw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
-            "title": "愛知県の今日のアメダスの記録(11月23日)",
+            "id": "news-efb222642469b57fee3a3163237412b3",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
             "source": "tenki.jp",
-            "published_at": "2026-11-23T17:52:06+09:00",
+            "published_at": "2026-11-24T03:31:28+09:00",
             "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の今日のアメダスの記録(11月23日)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-63cc34b4ef4fabea70d374b3b46a836c",
-            "title": "「1階の窓から火と煙が見える」愛知県春日井市で住宅火災 80代女性が顔にやけどをするけが",
-            "source": "名古屋テレビ",
+            "id": "news-394b27bbfdb1248d7733163e8d08cbc8",
+            "title": "「1階の窓から火と煙が見える」愛知県春日井市で住宅火災　80代女性が顔にやけどをするけが",
+            "source": "名古屋テレビ【メ～テレ】",
             "published_at": "2026-11-23T16:59:00+09:00",
             "category": "社会",
             "area": "名古屋",
-            "summary": "「1階の窓から火と煙が見える」愛知県春日井市で住宅火災 80代女性が顔にやけどをするけが  名古屋テレビ",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxYzV2SWNjaEhvY2JGdlZUMWN3LVIybHAyM1VZellNcWNCYVNjek9VZEtCUi05cmZUX3lJanFGRExnZGtSZFZMRHVEOVc5a3lQYVE?oc=5",
+            "summary": "「1階の窓から火と煙が見える」愛知県春日井市で住宅火災　80代女性が顔にやけどをするけが  名古屋テレビ【メ～テレ】",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxYzV2SWNjaEhvY2JGdlZUMWN3LVIybHAyM1VZellNcWNCYVNjek9VZEtCUi05cmZUX3lJanFGRExnZGtSZFZMRHVEOVc5a3lQYVHSAWRBVV95cUxOUFB2VmpJZzhYR2YyNUxoRC1XNmEwMmdCTXhXRDZTNEo3WmN1bmtEWno3dm1hQ0duSW5BYjRrVDI1S0RBeWF3b1E4M2tXSG5RTGx2RjRxWnlIOFBwQWhVQ3Izekwt?oc=5",
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -210,48 +210,15 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-9a7ddd017781ffdbbe66897d70967385",
-            "title": "愛知県春日井市で民家火災 目撃者が119番、消火活動続く",
+            "id": "news-0a1f77fd1fdfddecbf3fbb732fcc3141",
+            "title": "ご当地ニュースクイズ（１４７０）",
             "source": "中日新聞Web",
-            "published_at": "2026-11-23T15:59:15+09:00",
-            "category": "社会",
-            "area": "尾張",
-            "summary": "愛知県春日井市で民家火災 目撃者が119番、消火活動続く  中日新聞Web",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kMGZzS0taQXlKbHZXalF6b0pyWDJMX1hQQjdhNEtZNnI4czZta1NGWk1vWjluRkxjZnlvcGpaNDhvSi1ZS3BkM21jV01WcEdfbEhJZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8350956112ebed7472088b100b75fc88",
-            "title": "愛知・豊橋で鳥インフル確認、国内養鶏場で今季３例目の感染確認…８万羽を殺処分",
-            "source": "読売新聞",
-            "published_at": "2026-11-23T17:46:00+09:00",
+            "published_at": "2026-11-24T00:03:17+09:00",
             "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "愛知・豊橋で鳥インフル確認、国内養鶏場で今季３例目の感染確認…８万羽を殺処分  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51OTZ3SXB5dUZweHYyWGdlLVJTRWxLT3VrNnRvSHB1UnVxMVJxcXhhZHc0dDZOdjJrOWxBdDluWEc1dzdYUVJlRWNETUVEMDFaVkY5QWg0MTZ2a2lzOUExNWpRa0FnQQ?oc=5",
+            "area": "愛知",
+            "summary": "ご当地ニュースクイズ（１４７０）  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sY0tlU3VYamhmT0VXQ2gwVFlvNUN2dE5yb0R3cG9neVRyVC1BVkVCR3MyWTduaF9rbXFEaVR4VEFHN0V1LUtFRk9pV3pyc0hwUjRoS0RqLUtxWDllSTVrS0FwWQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-512ce8bca9f00cde8aa3dab5e5f4bfac",
-            "title": "約8万羽のニワトリを殺処分 愛知･豊橋市の養鶏場で鳥インフルエンザの感染確認 県では2シーズンぶり 愛知･大村知事｢封じ込めていきたい」 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-11-23T19:40:00+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "約8万羽のニワトリを殺処分 愛知･豊橋市の養鶏場で鳥インフルエンザの感染確認 県では2シーズンぶり 愛知･大村知事｢封じ込めていきたい」 | 名古屋・愛知・岐阜・三重のニュース【C...",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ySzNMNXBJM2dDUXBRVk1QQzZhV2gxQUZPRlV6SkZnWHFKWWljT0J6eEdQcF92aGZyaVlHenRCSXV1VmZqN2Z4Z1doeHh0eHFpNEZNOFd1b19BZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-efb222642469b57fee3a3163237412b3",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-23T18:31:28+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-8cb1cd57f38bcf3d69f06475e3597d3a",
@@ -265,15 +232,48 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-aeccee826d08bc83d7f6de9d530cc997",
-            "title": "愛知の養鶏場で鳥インフルエンザ 23日に陽性判明し8万羽の殺処分開始（テレビ朝日系（ANN））",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-23T20:06:12+09:00",
+            "id": "news-1626746ac7f9f8a14e29f168c6ed77f2",
+            "title": "約8万羽のニワトリを殺処分 愛知･豊橋市の養鶏場で鳥インフルエンザの感染確認 県では2シーズンぶり 愛知･大村知事｢封じ込めていきたい」 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web (1ページ)",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-23T19:40:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "約8万羽のニワトリを殺処分 愛知･豊橋市の養鶏場で鳥インフルエンザの感染確認 県では2シーズンぶり 愛知･大村知事｢封じ込めていきたい」 | 名古屋・愛知・岐阜・三重のニュース【C...",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Jcm1jMTN6T01vTkFJanl6SFZ3LU9qSUY2djVTZVdZNVA1a2wtSlFNa1RUV21uVE9fSzkyREdTZnF0cExnZndxeFpoY19vQV91elBFZFlxb2JiaGF6YmVRYlktdTlVSWM?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-e68bd93a73c37828903efa0c6be58ac6",
+            "title": "東海地方の雨雲レーダー(実況) / リアルタイムの雨雲",
+            "source": "tenki.jp",
+            "published_at": "2026-11-23T20:38:47+09:00",
             "category": "一般ニュース",
             "area": "愛知",
-            "summary": "愛知の養鶏場で鳥インフルエンザ 23日に陽性判明し8万羽の殺処分開始（テレビ朝日系（ANN））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vR2dpQnJOZXBLVzFvYWtvYmUzNktudERSck9vR2EtaTBtZkdFc2dad2NzalBUWEdKX3ZHaDU1RTI2WVR6ZU9FekZ1RDhpS3NxQ09CTi1pZW5uWThQSG9iOEdIeDFvSkQ5SGR3bnZWV1ozcFJKT2FSei1lMVdzR2s?oc=5",
+            "summary": "東海地方の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5ScUxOdFIzOVZRN1U2dlM0cTdwZGJHSFRNTFdzbU1GUEtvU1pfVjg2YjYwdHJCQmptdmx0QXln?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-29ee63bcc662c93c6c3e262e61f8d4e0",
+            "title": "愛知・小牧市の強殺未遂事件から1週間…防犯カメラが捉えた逃走 犯行時も指示役と現場でやり取りか",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-23T17:42:01+09:00",
+            "category": "社会",
+            "area": "尾張",
+            "summary": "愛知・小牧市の強殺未遂事件から1週間…防犯カメラが捉えた逃走 犯行時も指示役と現場でやり取りか  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aeGVKZ3F3clVldjJMeENGNUZlMkJ0VDlBNWpmTzl3MHpkUktRZ0FIQW5abklaQUl2QlBZTEtGNHY1aXlUTi02X3BDczY3RmdyMk1LUDBoblhmaXdybzBSRXVmWVY3d3dVeEsyR0NTbDlsMjRTVzdMWDJmc3hsd2s?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-9a7ddd017781ffdbbe66897d70967385",
+            "title": "愛知県春日井市で民家火災 女性重傷か、周辺の民家の屋根なども焼く",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-23T15:59:15+09:00",
+            "category": "社会",
+            "area": "尾張",
+            "summary": "愛知県春日井市で民家火災 女性重傷か、周辺の民家の屋根なども焼く  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kMGZzS0taQXlKbHZXalF6b0pyWDJMX1hQQjdhNEtZNnI4czZta1NGWk1vWjluRkxjZnlvcGpaNDhvSi1ZS3BkM21jV01WcEdfbEhJZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
