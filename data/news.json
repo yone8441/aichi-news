@@ -1,16 +1,27 @@
 {
-    "last_updated": "2026-11-25T13:50:32+09:00",
-    "update_session": "昼刊便（12:00配信）",
+    "last_updated": "2026-11-25T21:29:11+09:00",
+    "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "くもり　時々　晴れ",
+        "condition": "晴れ",
         "icon": "☀️",
-        "temp_max": 11,
-        "temp_min": 11,
+        "temp_max": 13,
+        "temp_min": 3,
         "rain_prob": "0%"
     },
-    "total_count": 30,
+    "total_count": 28,
     "articles": [
+        {
+            "id": "toyohashi-city-6af36d0fbddefaccc6a6f4c85349b811",
+            "title": "豊橋市で発生した高病原性鳥インフルエンザへの対応について",
+            "source": "豊橋市役所",
+            "published_at": "2026-11-25T15:00:00+09:00",
+            "category": "市政・くらし",
+            "area": "豊橋",
+            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
+            "url": "https://www.city.toyohashi.lg.jp/item/126744.htm#itemid126744",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
         {
             "id": "toyohashi-city-40b196a5f223647bb9507fe92cb61759",
             "title": "11月25日から「豊橋総合動植物公園（のんほいパーク）の動物園体験に関するアンケート」についてのアンケート始まりました",
@@ -20,17 +31,6 @@
             "area": "豊橋",
             "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
             "url": "https://www.city.toyohashi.lg.jp/item/125163.htm#itemid125163",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "toyohashi-city-6af36d0fbddefaccc6a6f4c85349b811",
-            "title": "豊橋市で発生した高病原性鳥インフルエンザへの対応について",
-            "source": "豊橋市役所",
-            "published_at": "2026-11-24T09:00:00+09:00",
-            "category": "市政・くらし",
-            "area": "豊橋",
-            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
-            "url": "https://www.city.toyohashi.lg.jp/item/126744.htm#itemid126744",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -78,6 +78,17 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-b63e2c0e67afc23feed3dda642ad4557",
+            "title": "宅配業者を装った男に「金を出せ」と脅される 男は何も奪わずに逃走も女性に軽いけが 愛知・豊橋市（メ〜テレ（名古屋テレビ））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-25T17:38:01+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "宅配業者を装った男に「金を出せ」と脅される 男は何も奪わずに逃走も女性に軽いけが 愛知・豊橋市（メ〜テレ（名古屋テレビ））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00N2ZKR05ocHp2eUstSFYzNVV6TDhxbnBQaFNzUGF4V0tJYTJyV0lMdzBqQVdkVDJvckIwZ20yTDV0YVZyT1JWU01pMno2WGJremhGbjJjODBDX044YlJWY1BHakRGZ2I1ODA1MUpSQzREdnhCN3FkeDhEMTRiYVk?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-24ea1c7e81a130430fa78f56a9c6004f",
             "title": "愛知･豊橋市の養鶏場で鳥インフルエンザの感染を確認 ニワトリ約８万羽を殺処分へ 愛知では2シーズンぶりの感染確認",
             "source": "TBS NEWS DIG",
@@ -89,103 +100,114 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-9133fc64c6919c912c8c7acb03f0446d",
-            "title": "【豊橋市】11/25 最低6℃、冷え込み、やや風がある、朝から夜まで晴れる予想【朝版】",
+            "id": "news-29ba31da5f76b40e96fb5914a2b2339f",
+            "title": "宅配業者を装って訪れ「静かにしろ 金を出せ」住宅で女性が襲われ唇にケガ 60歳位で身長160cm程の男が逃走",
+            "source": "東海テレビ放送",
+            "published_at": "2026-11-25T17:07:00+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "宅配業者を装って訪れ「静かにしろ 金を出せ」住宅で女性が襲われ唇にケガ 60歳位で身長160cm程の男が逃走  東海テレビ放送",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rSHZ3WmUxQXNvQWY3Wm9fTkpzNlJzUjFEUXBFV2wtX1doMHlVWDhIVWdtbW1ydzQzTnRfZHVlZ2d0Z3RXOXBRSk16ZVV0Z2ViMnJJQWhkdXN6OC1rSUo4ZXhwWEp5dERhT3NlbjRCdmxyTHc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-af4a8dbed72c254c160bb2129c0fa3b2",
+            "title": "約8万羽の殺処分進む…豊橋市の養鶏場で確認された高病原性鳥インフルエンザ 半径10km圏内にある17の農場で卵等の出荷再開",
+            "source": "FNNプライムオンライン",
+            "published_at": "2026-11-25T19:29:56+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "約8万羽の殺処分進む…豊橋市の養鶏場で確認された高病原性鳥インフルエンザ 半径10km圏内にある17の農場で卵等の出荷再開  FNNプライムオンライン",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DS1pMdHJWLXp3VjJTem5QM3RHNzZrT2gxNlFPWHhzemtSNGo5bTV0aF8yTnh6LU5UZklaZkxNdzlxMkluQ2lsUmpuNk8wZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-b92d66d0f430cf5df1aae7e4516c0792",
+            "title": "鶏や卵の出荷、制限区域で24日から順次再開 愛知県豊橋市の高病原性鳥インフルエンザ感染",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-25T20:55:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "鶏や卵の出荷、制限区域で24日から順次再開 愛知県豊橋市の高病原性鳥インフルエンザ感染  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YRUxSLUYwUDBWd2tzdnZ5Mlk5bHNSVnMyNHZ2ZDUwQXdQSUt5Z3duWFFSd3JHUmFOZDExdzAtZDZpbVRoNnVMdk1JNEkyQ2VWTXJJWQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-1ec12e06ee6acfc1c500e1bbc080fe5f",
+            "title": "宅配便を装った男が女性に金を要求逃走 女性は軽傷 愛知 豊橋",
+            "source": "NHKニュース",
+            "published_at": "2026-11-25T19:40:13+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "宅配便を装った男が女性に金を要求逃走 女性は軽傷 愛知 豊橋  NHKニュース",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ia25GWDUzZ1FlVVMyYnB6d0VZYjl2eEludHpKYlNRbHlzQnl2TjNmZ3VQeGFva1UxczBmdFdFSlEtZkVOZDVnNkxhejNrWmRtdlFkR0NPWV80YU41cW5z?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-228dbd5105c9c9a5680997c3b8808b0f",
+            "title": "愛知･豊橋市の養鶏場で鳥インフルエンザ 周辺17農場で出荷可能に 約8万羽の殺処分は25日中に完了する見込み",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-25T18:54:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "愛知･豊橋市の養鶏場で鳥インフルエンザ 周辺17農場で出荷可能に 約8万羽の殺処分は25日中に完了する見込み  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQSzdvZHNuNGpNdFl0aUdXRXRLWGlTYTZlTGhuYXMyYnM3M2FMaXo1bWd1SV9ZcjZfUmhIUEpjbXFnZVRXNllsRWxtTXhoNS1JMmRLYjJYcFBjUF9ub0k4?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-06ab0701cd2bbe943057307e8f683213",
+            "title": "【卵危機再来!?】愛知･豊橋の｢鳥インフル｣確認で隣県･静岡も対応に追われる…鶏卵価格巡る消費者･小売影響を取材",
+            "source": "日テレNEWS NNN",
+            "published_at": "2026-11-25T16:59:00+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "【卵危機再来!?】愛知･豊橋の｢鳥インフル｣確認で隣県･静岡も対応に追われる…鶏卵価格巡る消費者･小売影響を取材  日テレNEWS NNN",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNjNGZVRlOGZTNk83a204Q2E4d1llTUhuVllVZGVHN2VuUVUxODBHUnNVYk9vYnNZOGlxMWowSWJlUGlrcTNqZGppcE5VcFFya3dXbzV3YTAySGhaYklTb1hubUpuRmFJdlpWdERGWXpSSGFaTkVBYnRRcDVqVWJKYlBXUFFLYVU?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
+            "title": "愛知県の今日のアメダスの記録(11月25日)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-25T20:01:45+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の今日のアメダスの記録(11月25日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-eb1869a552430fc086465bfcf13039bc",
+            "title": "【新商品情報】11/28（土）愛知県・岡崎市体育館大会",
+            "source": "スターダム✪STARDOM",
+            "published_at": "2026-11-25T18:01:08+09:00",
+            "category": "市政・行政",
+            "area": "三河",
+            "summary": "【新商品情報】11/28（土）愛知県・岡崎市体育館大会  スターダム✪STARDOM",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pcHJmOTF3Rkg5V3lsYzVUZkxlQ2NvYlhUbmRBUU5zR09NTzBWN1UzYUg2Y1R2OXp4UE5DVFJ2OWtMb0ZMd1poZ2ZPYzcxMEVUWE5hYnBmOGw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-c4f6cae47a6f95920d56eeff6950b792",
+            "title": "愛知・小牧市の強盗殺人未遂事件で中高生ら5人を再逮捕 「闇バイトに誘われた」と供述も（メ〜テレ（名古屋テレビ））",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-11-25T05:29:03+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "【豊橋市】11/25 最低6℃、冷え込み、やや風がある、朝から夜まで晴れる予想【朝版】  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81ZDF4LXZfZFZmWFE1UjB1UGkxZ1ZFMlc2TWpUNFdNQ25Sakw3cF9nWGg4MTR0YmYzbHQ4MXZiLTlweEhicGlVejI3QTNXMjdEUXBkeTRZbk1WMXg1SF9KSXJnaE9RcWtXbVpmRGh0ZGt5TkJuN1FCVGhGckR3MUU?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "published_at": "2026-11-25T16:26:01+09:00",
+            "category": "社会",
+            "area": "名古屋",
+            "summary": "愛知・小牧市の強盗殺人未遂事件で中高生ら5人を再逮捕 「闇バイトに誘われた」と供述も（メ〜テレ（名古屋テレビ））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BZUhCaFZ0SktvZ3FuQkJpXzd1TW9pbENZNmxNZ0VvejV4WlRYY0t0eFhZajNKRFVKRnJUTlF5RWF0ZXpmWDE4VDYzYzBVYVNvY0ZGV2VxRWdqODVzbkFyZGhNYjBfQ240TUItUklSajhUZG9GMFZoc2tXRjNBV0E?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-664aed20ffdaf38d87fdd5f1b653ce30",
-            "title": "1/31（日）ホーム島根戦「ダンカー労いシート」販売のお知らせ",
-            "source": "三遠ネオフェニックス",
-            "published_at": "2026-11-25T12:25:54+09:00",
-            "category": "スポーツ",
-            "area": "豊橋",
-            "summary": "1/31（日）ホーム島根戦「ダンカー労いシート」販売のお知らせ  三遠ネオフェニックス",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCRkZNYUNmakpkOWFITC1OemFrWWVwcnRqcm8zSkl5OXZzT0hzdmdORHdXQ1hkdzlGUV9YVHpKaWxSTTh4VkpJR25kc0RXeTEzbHY4NmRmcnZNdw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-1e853867fc8ccb92244a595cc6bd02d2",
-            "title": "親子が楽しみながら石巻山頂上へ 愛知登山道整備協会が豊橋で初のイベント",
-            "source": "東愛知新聞",
-            "published_at": "2026-11-24T21:25:27+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "親子が楽しみながら石巻山頂上へ 愛知登山道整備協会が豊橋で初のイベント  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmcTBjWnJiVEFESExwbjNOZ1l0dG0wT3JnT21OXzdDR2phcTB0QlpHNUFsWjBwVFpnR0thU0ptLWJiNFIyZG5sYmtOLXMzU1l0bXgzbVQtSHFqQk9M?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-967ed90c04bfbe4968a6db59517688cd",
-            "title": "豊橋の養鶏場で鳥インフル発生 – 東日新聞",
-            "source": "東日新聞",
-            "published_at": "2026-11-24T00:02:24+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "豊橋の養鶏場で鳥インフル発生 – 東日新聞  東日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xWnk3MlZ5a19VaGJ0bDZ0S3JBUEpxZ2txTEgzbV9tUVhtazI1MHBfVFluUjhpZnlWYzR2S3ExU09FUzdsTGZzM2pfM1NWdXJieV9XeEQ1TXNOd3hVaHc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-561de518b39f78a2d75b1fe81c65895c",
-            "title": "（愛知）豊橋市牟呂外神町で声かけ　１１月１９日",
-            "source": "ｄメニューニュース",
-            "published_at": "2026-11-25T11:59:00+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "（愛知）豊橋市牟呂外神町で声かけ　１１月１９日  ｄメニューニュース",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORFl4RDJhTmpNU0RQdGZidDVpd01nVkpBdExJVEFQbGQ0UGVTdGZPV2pYSnlfdjhyeUx5NWRFWFZES0pXd3ZORmJoOTMyUGxOLV8zR0NxTHdXUlFtR2RXR3R1UWd1N1FxRmtNNFoxd0IxUE9Lc0l0c1ZPY1NMdWp0MXJDd0tEYk0xa0Z4d1JLbTBJZ212QVVMdWZ2LUvSAaIBQVVfeXFMTU9BOGc4MzNOUGlNMzBFdzRyZG94bmV4TE5OaXdXVnZiN0VEd21xRW1iMFNVMGR0V2V2cTRLc0xNcTRKdGJtWm1la29heHRTVkV1UTkzQVlqM3R2LUtEUUh3THlwMUhfWmJ6MUVNUzQ0M2hnenhfVXpYRU5XTGZsUUNRZVpoZHVKdS02QVF3UkZaMTdGd0tnSFJNTFhJLXFwVUNR?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-086d959c9d8742ae0c2e12da01e97970",
-            "title": "愛知県で鳥インフルエンザ 静岡県が緊急会議で対応協議 豊橋市で約8万羽を殺処分 農家への指導と警戒強める",
-            "source": "テレビ静岡",
-            "published_at": "2026-11-24T19:15:00+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県で鳥インフルエンザ 静岡県が緊急会議で対応協議 豊橋市で約8万羽を殺処分 農家への指導と警戒強める  テレビ静岡",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2akI5RkdMQm1xREVhWF9YTmxhb3hrZVdBbFB2eldDeUpnNkV6d2pGMmNsemZBWVVhczZFZW8tV1F5ekJqZ1E0S0oxS3BxbGtKNURETWVaQkxCYWhGVlFiUXBwTQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8350956112ebed7472088b100b75fc88",
-            "title": "愛知・豊橋で鳥インフル確認、国内養鶏場で今季３例目の感染確認…８万羽を殺処分",
-            "source": "読売新聞",
-            "published_at": "2026-11-23T17:46:00+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "愛知・豊橋で鳥インフル確認、国内養鶏場で今季３例目の感染確認…８万羽を殺処分  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51OTZ3SXB5dUZweHYyWGdlLVJTRWxLT3VrNnRvSHB1UnVxMVJxcXhhZHc0dDZOdjJrOWxBdDluWEc1dzdYUVJlRWNETUVEMDFaVkY5QWg0MTZ2a2lzOUExNWpRa0FnQQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-c1647173e60fac587be1d46d1b138b0c",
-            "title": "愛知県豊橋市の養鶏場で鳥インフルエンザの陽性確認 全国では今シーズン3例目 約8万羽の殺処分（テレビ愛知）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-23T17:43:01+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県豊橋市の養鶏場で鳥インフルエンザの陽性確認 全国では今シーズン3例目 約8万羽の殺処分（テレビ愛知）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wX1hJcEd6aHJMRV9DWXJTQnBSTTVtYU93Nlg5ZmhKdDBQNWlNc1BLRmRCQ3N4aXBOTDBZWFp0SVFFYUpENmJFazQ0THNzeXhrTkVSUExrQUVEVlRmWVdpNWR6SEpGd1pCYkRHU3RERGx5ZzY0dmIzeVRZYk1OOFU?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-8c31a07fe1badaff294579d99a0d7e35",
-            "title": "来月３日からとよはし共創プログラム",
-            "source": "東日新聞",
-            "published_at": "2026-11-25T00:02:47+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "来月３日からとよはし共創プログラム  東日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmRjZFQ3dZckpzcUswQnF6VzNLSlJFSDQtMVVUUTZxZ2dHTV9wdnVOUGUxNHdWcG80bG1LLTZ0Q1VWSHFhUHAxa3JsdWFPNUI4WE9TcjN6ZlFTTjRmTnc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+            "id": "news-240f8bb08b8f103bb30066d9f8d14a30",
+            "title": "愛知県一宮市の女性殺害クローゼット遺棄裁判、初公判 男が起訴内容を認める",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-25T19:05:00+09:00",
+            "category": "社会",
+            "area": "尾張",
+            "summary": "愛知県一宮市の女性殺害クローゼット遺棄裁判、初公判 男が起訴内容を認める  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vR3kxVElCR0F5bnR0UDBqQng3THFINlpCZ2FaeHZhN19KaGtuZ0h5MVFjdXpjYmxkODJ1SE5ZSjBTZk9xeENockxLbDQ5WDRDeGdpVA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-188ac53589141c2201c481dadefe7577",
@@ -199,10 +221,76 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-9155611917c780428dba7d20bfb91845",
+            "title": "中高生ら5人を強盗殺人未遂容疑で再逮捕 愛知・小牧の事件",
+            "source": "朝日新聞",
+            "published_at": "2026-11-25T13:30:00+09:00",
+            "category": "社会",
+            "area": "尾張",
+            "summary": "中高生ら5人を強盗殺人未遂容疑で再逮捕 愛知・小牧の事件  朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mLWpSdEtuajFJRXFiNmlGaGVwc2VsNnJ6U0pUVEtyTU9XRTNlXzc3aER5Rlk1MkdjM2t0UGJINVJpdXV5LWxmZHZuWGdKeEF3YjlhN2w1b3NXYk00VWJwdEY4TFZTLUE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-1ef91fa740414e9f1dfb92f1d9076bbe",
+            "title": "東京都・愛知県10年債：前月より改善 – CAPITAL EYE - https://c",
+            "source": "eye.co.jp/",
+            "published_at": "2026-11-25T13:48:45+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "東京都・愛知県10年債：前月より改善 – CAPITAL EYE  https://c-eye.co.jp/",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05LXEyc0JuV3dNU0owVmhRWDc4WTJZYXFWZEh6NzJoMzcteFJIdTJfeVVRUDEta1BHYTV1WTRsdmVMOXJLOENDWFBhSWk?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-bb9369419cd669eafc57a5d127f340c3",
+            "title": "セカイノコトワリ――私たちの時代の美術",
+            "source": "美術館・アート情報",
+            "published_at": "2026-11-25T17:31:38+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "セカイノコトワリ――私たちの時代の美術  美術館・アート情報",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fYXQ0TzV3aHVOU250TXZqRHdKSW5fZnVVT0k1SF95YWZud05iY2NSazZta2QzT1duNWRsRUtNMnUyN0xrdjNueHkwUTRDd0E?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-0e0f92448a93952af6c9df65bd3b5891",
+            "title": "愛知の養鶏場で鳥インフルエンザを確認　「明日どうなるか」養鶏業者の思いと高値が続く卵の価格への影響は",
+            "source": "名古屋テレビ【メ～テレ】",
+            "published_at": "2026-11-25T19:06:00+09:00",
+            "category": "一般ニュース",
+            "area": "名古屋",
+            "summary": "愛知の養鶏場で鳥インフルエンザを確認　「明日どうなるか」養鶏業者の思いと高値が続く卵の価格への影響は  名古屋テレビ【メ～テレ】",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1UlhRSl9yVDg0bkcxblpNWE03WENXVkNPdVRGX004d1g1bTBWY2VJbXYwdW9kYXZ3UW9XZ05TOGoybEdISVY0aVQzRFdGdmR3MWfSAWRBVV95cUxOZ2FsVUMtRU03QVQ3TUM2dDhLb1MxUTUwb09Iby1hVzJrbVpkSGtOZllZM0Z5VFQ0elQ3ajFndVlheThMX2hqSTh4V2R1LUJsTW9GdUQzcXMxT2pDRHVIOW9sRlpH?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ec564dfaaad98bd8136d91397149b407",
+            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
+            "source": "tenki.jp",
+            "published_at": "2026-11-25T19:06:09+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-a354f80ebe2fd238df5bf38707cea498",
+            "title": "ダンプ６台が全焼 住宅街に巨大な炎と黒煙上がる 放火の可能性 愛知・安城市（中京テレビＮＥＷＳ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-25T17:14:00+09:00",
+            "category": "一般ニュース",
+            "area": "三河",
+            "summary": "ダンプ６台が全焼 住宅街に巨大な炎と黒煙上がる 放火の可能性 愛知・安城市（中京テレビＮＥＷＳ）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtVF9lZlAtNnliWEl4QTRoX0VfeDNQQ1BWR3l1Qm9US1cwZU5HMDFPWkZ5LUJxVTA0SkZUbmZkRjhZenpBbVpmTVNwSmhUZXBVWjBSS1lFS3d2MmJxVFlxZHAyamdxbGQzcGtmeV95N0lUaHkybXU0TS13ZWkwQnc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-efb222642469b57fee3a3163237412b3",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
             "source": "tenki.jp",
-            "published_at": "2026-11-25T09:31:26+09:00",
+            "published_at": "2026-11-25T18:31:27+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
@@ -210,135 +298,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-aba76e5e0292db6443c256499d01f178",
-            "title": "女子高生殺害、男認める 自宅クローゼットに遺体 名古屋地裁（時事通信）",
+            "id": "news-d49d2c35aff7a1e6ebce4f964e1f1681",
+            "title": "小学生重傷のひき逃げ事件 愛知県に住む公務員男性(30)を書類送検 容疑認める【長野・諏訪市】（abn長野朝日放送）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-11-25T10:27:26+09:00",
-            "category": "一般ニュース",
-            "area": "名古屋",
-            "summary": "女子高生殺害、男認める 自宅クローゼットに遺体 名古屋地裁（時事通信）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RbVF3Tmh0RGFTX2pJOGg0SW5KVEt0RG9nTC1ieHZFemh0dnY3UnJhcWRRblZfa1h0c0pXMm13SUZJYlBRamRDelA3dmp1VXNYM0plY3pjX0dWV0J2QzB3cUxzcUIxM1ZlaEQwSkNXM2VtTDlSMkhfbjR3Y3lqMjA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-22db78dd8601b7d09666c56af9559fa7",
-            "title": "極東開発工業、愛知県豊田市に研究開発の新たな中核拠点「極東開発グループ テクニカルセンター」",
-            "source": "オートメーション新聞WEB",
-            "published_at": "2026-11-25T07:35:00+09:00",
-            "category": "ビジネス",
-            "area": "三河",
-            "summary": "極東開発工業、愛知県豊田市に研究開発の新たな中核拠点「極東開発グループ テクニカルセンター」  オートメーション新聞WEB",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yYnNaNmVXVFloTWp6aEZ1VjdQVFUtMFpSZ0tCZnotU3JCWjllN3QzMk1YR2xsU3hMRkNqMDUzcVNXTTAxMXRSZG5WWW1qTWJCMnFyb01keFo3Zw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-a38bc2f81750f691ebf750e01fbb6bea",
-            "title": "愛知・豊川市の独自ブランドミカン「あかね夕焼け姫」の収穫始まる　例年通りの甘味とこく",
-            "source": "名古屋テレビ【メ～テレ】",
-            "published_at": "2026-11-25T12:21:00+09:00",
-            "category": "一般ニュース",
-            "area": "名古屋",
-            "summary": "愛知・豊川市の独自ブランドミカン「あかね夕焼け姫」の収穫始まる　例年通りの甘味とこく  名古屋テレビ【メ～テレ】",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZcDF1RkpDQUV3NXY3TVA5M2RpNlVFYWtmc29EUDE4aVFKSW80MVo0Yl8za3NseVR4LVY2MlFCYXVuVzNJTkZ5MnBMN0NuQ0FzanfSAWRBVV95cUxQTkpQaWNyYmlxeW9NcjRtOVN1SGs3RXJLSURqMUhaRnpubmtGSTRzeHhkSmp2cl9EM0Jvc0pPZHNkdVFIV2dsU29FUEZsNUoybkRZWGpzQWxVdDVXdzFWekJwaFJl?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-9155611917c780428dba7d20bfb91845",
-            "title": "中高生ら5人を強盗殺人未遂容疑で再逮捕へ 愛知・小牧の事件",
-            "source": "朝日新聞",
-            "published_at": "2026-11-25T13:30:00+09:00",
+            "published_at": "2026-11-25T19:10:03+09:00",
             "category": "社会",
-            "area": "尾張",
-            "summary": "中高生ら5人を強盗殺人未遂容疑で再逮捕へ 愛知・小牧の事件  朝日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mLWpSdEtuajFJRXFiNmlGaGVwc2VsNnJ6U0pUVEtyTU9XRTNlXzc3aER5Rlk1MkdjM2t0UGJINVJpdXV5LWxmZHZuWGdKeEF3YjlhN2w1b3NXYk00VWJwdEY4TFZTLUE?oc=5",
+            "area": "愛知",
+            "summary": "小学生重傷のひき逃げ事件 愛知県に住む公務員男性(30)を書類送検 容疑認める【長野・諏訪市】（abn長野朝日放送）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPQVRNNlZzRzUxTkItUmNwR2g5eGpNSVFidlVjME5nMm51a0gyTDQ3TXFlSGE5bjhsLVVQT0pQUWx0OHZDSFBPUUF6RnhWOHlCTURGcGdhUEdXYVFtUTZWZ1JSelV0VDM4bDgyTWphME9jQ0hESk1DYjhwdWlEWG8?oc=5",
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-a6a7ec8d94a7952a302470a613d16ffa",
-            "title": "【満室稼働】名古屋市熱田区 一棟アパート 利回り6.30％",
-            "source": "www.rakumachi.jp",
-            "published_at": "2026-11-25T13:09:41+09:00",
-            "category": "一般ニュース",
-            "area": "名古屋",
-            "summary": "【満室稼働】名古屋市熱田区 一棟アパート 利回り6.30％  www.rakumachi.jp",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONFZhOGdGOHF1Z3p6TG5FREJuSEM4VXNaRUFBNGFwZGlXb2hkcWUtVVJ5Zk1PbTlXS1ppRkJwcTUzeXMzQjFWbmhPVjRkLVdGdy1SSTRMcU5WQlFab0h5bDlqa3g1R1ZqczRZZTNFQWdsb3V4SkVkeEdDVkIzckxVWkJB?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-7d0796db451f85390638f516130eb498",
-            "title": "エヌバイテクノロジーズ 築古物件の再生事業を拡大 愛知県から法人指定 高齢者らの住居・就労支援",
-            "source": "中部経済新聞",
-            "published_at": "2026-11-25T05:00:00+09:00",
-            "category": "ビジネス",
-            "area": "愛知",
-            "summary": "エヌバイテクノロジーズ 築古物件の再生事業を拡大 愛知県から法人指定 高齢者らの住居・就労支援  中部経済新聞",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80cWEwdjJkbnkzaU5fek94R1M4eXJOczY0TWhzZlMyNHFxOTVLbWxVdXdpVWxoWEF2dkRCZGhuTnlGbTYtZ0VqeHdGTmFzMkdPM05nRkJCcUVfY21jRUp0T0xfbWIxbXpVWF9wM0VTOUZ2Um8?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-fb32c1d3466bed42a475b344eba0fb25",
-            "title": "会社の敷地内で火事 ダンプカー6台が全焼 警察が放火の可能性も含め火事の原因調べる 愛知・安城市",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-11-25T04:08:00+09:00",
-            "category": "社会",
-            "area": "三河",
-            "summary": "会社の敷地内で火事 ダンプカー6台が全焼 警察が放火の可能性も含め火事の原因調べる 愛知・安城市  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iLV81X2tOUkNqb0c0cVdaWkJTbkczUFFhUkpRY1NodXliUkd6a29rSFZLNFBJT2h3OW9rdnB2ZlRYSWJ1N1dKSTBCVVlXOC12WUNJdnFVMA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-56de3f5b2b1c4e0a1c652db4697e4953",
-            "title": "このごにおよんで愛など 赤池(愛知県)の上映映画館・上映スケジュール",
-            "source": "MOVIE WALKER PRESS",
-            "published_at": "2026-11-25T13:22:23+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "このごにおよんで愛など 赤池(愛知県)の上映映画館・上映スケジュール  MOVIE WALKER PRESS",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ablFpRUFEaHJqVnd5b0hOcGR4amlIVDFtaFkwd0xHYTUtUXlmeGpSd0pWT2FKUkc4bS1yQ0NfUDQ1TmtUQjdWQnNYQ2tzTnJlVGlkQlYwcnc1UEtmSW1Xbg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-7b84845d0ecfab0965f057dc51659290",
-            "title": "愛知県の過去の天気(実況天気・2026年11月24日)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-25T09:29:15+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の過去の天気(実況天気・2026年11月24日)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01c2lWdGpGMm1HSHpZQkRhLTdqQWhaYVpwaWdDSGxkcmo0dkVSTmJjdUtOTk9RMk9QSGgxa3hfcUw0SXQ2a0lNMExfNk12N2NFRGtQcnpMXzZ4Zw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f5bb9e40e8ca063acc6f7a748963d249",
-            "title": "無人の駐車場でダンプカー6台全焼 愛知・安城市（中京テレビＮＥＷＳ）",
+            "id": "news-ffa159f62db7aa86b9f637b79d86f205",
+            "title": "富山県が養鶏場の緊急消毒 愛知県の鳥インフル発生を受け25日から 県内21の養鶏場対象に12月9日まで 富山",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-11-25T06:30:00+09:00",
-            "category": "一般ニュース",
-            "area": "三河",
-            "summary": "無人の駐車場でダンプカー6台全焼 愛知・安城市（中京テレビＮＥＷＳ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvM2hVS3l5SnA5T0dmMi1Yc3RRSDc2YTA5NVRwak5Jd3ZIS19NelRzcG9rWi1XSXVLUXd1MXhCVmZicHBVNzVOYVhiR1hENkdQemRYS25scExrcUZEMHNrMjRDbFVwbW5SUjg0aGZZLTg5WVZlR2gzdU01TkF3cnc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-5be795b9c14dfde56bcaea73621535a7",
-            "title": "16歳の女子高校生を殺害 クローゼットに遺棄したなどの罪 23歳男は初公判で起訴内容認める 検察側｢遺体を隠匿するなど行為は悪質｣ 弁護側｢被告には軽度の知的障害｣ 愛知･一宮市 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-11-25T12:09:00+09:00",
-            "category": "一般ニュース",
-            "area": "名古屋",
-            "summary": "16歳の女子高校生を殺害 クローゼットに遺棄したなどの罪 23歳男は初公判で起訴内容認める 検察側｢遺体を隠匿するなど行為は悪質｣ 弁護側｢被告には軽度の知的障害｣ 愛知･一宮市 ...",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DWFNKaTJaWWdzaWg3Q3JnOU8zaEpqNjVySXZRUmt0aFoyV3ExbXFTNDJseWFnUE1aZ1FqbUw1ZGhFUng2bnBiVm4xQms2QmxuLTY1NkozWGZyUQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-516787c221d9f23b027e82425c983f6d",
-            "title": "【愛知県】11/25の天気予報（FNNプライムオンライン（フジテレビ系））",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-25T05:10:33+09:00",
+            "published_at": "2026-11-25T19:27:16+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "【愛知県】11/25の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hTDRYVkl5dE5vT1MxdjY5aklEVUN4TjB6Ylh1ak1nNGZXMmlHcTlUYkg2SXlUMTV1aHBPUXQzdTZYYV9RQnZiQ2ZWWTRva1luRURjbEh5MUdwQUVsNzJmQXhQMFBNUFRPNzdYaU52UXZ0RXFvelZSOWVTTFJIWWc?oc=5",
+            "summary": "富山県が養鶏場の緊急消毒 愛知県の鳥インフル発生を受け25日から 県内21の養鶏場対象に12月9日まで 富山  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VMU9Jc0ViaFd3WmlsTS1Yb0tVRklyd1J3VGFXczU1dDdjaXVEQUJyNlJhTHhvN1BMQU00RTFBckVhV0s5MEZQUFJaazlzWGFLbGhkTHNQa0hYTFlvelNKUEMzNFNaWjBLNVNuSTRuRUM2YWpLT1pKMUo3ZXFzY2c?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
