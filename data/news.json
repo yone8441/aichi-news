@@ -1,16 +1,27 @@
 {
-    "last_updated": "2026-11-26T13:02:38+09:00",
-    "update_session": "昼刊便（12:00配信）",
+    "last_updated": "2026-11-26T21:08:52+09:00",
+    "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
-        "condition": "晴れ　昼過ぎ　から　くもり",
+        "condition": "くもり",
         "icon": "☀️",
-        "temp_max": 13,
-        "temp_min": 13,
-        "rain_prob": "40%"
+        "temp_max": 17,
+        "temp_min": 5,
+        "rain_prob": "60%"
     },
     "total_count": 29,
     "articles": [
+        {
+            "id": "toyohashi-city-b1c5102344811462390b493af58a86f5",
+            "title": "【中止連絡】令和８年度大規模林野火災空中消火訓練について",
+            "source": "豊橋市役所",
+            "published_at": "2026-11-26T09:52:00+09:00",
+            "category": "市政・くらし",
+            "area": "豊橋",
+            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
+            "url": "https://www.city.toyohashi.lg.jp/item/126770.htm#itemid126770",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
         {
             "id": "toyohashi-city-6af36d0fbddefaccc6a6f4c85349b811",
             "title": "豊橋市で発生した高病原性鳥インフルエンザへの対応について",
@@ -67,21 +78,10 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "toyohashi-city-7f1dd24292c8328989198bc0d930d11d",
-            "title": "こども性暴力防止法がスタートします",
-            "source": "豊橋市役所",
-            "published_at": "2026-11-11T16:13:00+09:00",
-            "category": "市政・くらし",
-            "area": "豊橋",
-            "summary": "豊橋市役所公式ホームページの新着情報・お知らせです。",
-            "url": "https://www.city.toyohashi.lg.jp/item/126535.htm#itemid126535",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-74a3988787d0ea7b100ffe33b407a9de",
             "title": "豊橋市の住宅「馬小屋と橙の納屋」が東海建築賞 荒木工務店が施工",
             "source": "東愛知新聞",
-            "published_at": "2026-11-26T12:46:38+09:00",
+            "published_at": "2026-11-26T18:46:39+09:00",
             "category": "市政・行政",
             "area": "豊橋",
             "summary": "豊橋市の住宅「馬小屋と橙の納屋」が東海建築賞 荒木工務店が施工  東愛知新聞",
@@ -89,14 +89,36 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-b63e2c0e67afc23feed3dda642ad4557",
-            "title": "宅配業者を装った男に「金を出せ」と脅される 男は何も奪わずに逃走も女性に軽いけが 愛知・豊橋市（メ〜テレ（名古屋テレビ））",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-25T17:38:01+09:00",
+            "id": "news-98ab18246eef3726c7e055a5f8a58395",
+            "title": "鳥インフル感染が確認された養鶏場　約8万羽の鶏の殺処分が完了　愛知県豊橋市",
+            "source": "名古屋テレビ【メ～テレ】",
+            "published_at": "2026-11-26T17:03:00+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "宅配業者を装った男に「金を出せ」と脅される 男は何も奪わずに逃走も女性に軽いけが 愛知・豊橋市（メ〜テレ（名古屋テレビ））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00N2ZKR05ocHp2eUstSFYzNVV6TDhxbnBQaFNzUGF4V0tJYTJyV0lMdzBqQVdkVDJvckIwZ20yTDV0YVZyT1JWU01pMno2WGJremhGbjJjODBDX044YlJWY1BHakRGZ2I1ODA1MUpSQzREdnhCN3FkeDhEMTRiYVk?oc=5",
+            "summary": "鳥インフル感染が確認された養鶏場　約8万羽の鶏の殺処分が完了　愛知県豊橋市  名古屋テレビ【メ～テレ】",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IRENoTl9BSVdLYUhxTzNDY184bGpuTkVXcjFnQUxwblgweDNiY3ZBRmtEOHpzUnhaRE5pNnYyV3RHWmw5NFF3bkRNVU42bFp4MXfSAWRBVV95cUxNa21Hb0NxR3VXTXJ0TU9SWmI0YUFFTFR4VU4xbzU1ZVFJOGRKdlRxQ0NnRTBEaWp0Z1M2UjlaSDVuYzVwMVR4bnBwYU16SGZ6N2JYWWFRbVRxQW8tWXc3b3BxZU1D?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-255e8fc4a30b46b2a71e4cdd26af1c6e",
+            "title": "「えっっっっっ」豊橋市出身の桃月なしこ、黒と青の“谷間競演”フルコース、ファン絶賛「ロイヤルブルーと青筋血管のマリアージュ」「いつもと違って新鮮」",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-26T16:49:44+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "「えっっっっっ」豊橋市出身の桃月なしこ、黒と青の“谷間競演”フルコース、ファン絶賛「ロイヤルブルーと青筋血管のマリアージュ」「いつもと違って新鮮」  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rSGthMW00eld2MXQxbUVCUllKNWtnNk85XzNaU0hFd0MtX3FCMjM5Z0VZLTJBdEZNbU5RRTdIdjVsS2Rha3lUcmZITXJoeXVsTHZjNA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-8afdf143c8984d51cb9c8d40f63b67cc",
+            "title": "愛知県の雨雲レーダー(過去)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-26T18:28:51+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "愛知県の雨雲レーダー(過去)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pbjJxV2FNdFE5akcyUUJqQlhDVEdJVDdNMnBfNGFod2p2MXhJeEJFdUsyU1YybnJzS0Q1ZlRTdjZfWEFFNFNOWnRwMG5DUQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -111,26 +133,15 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-d702379b9229567239e6f1b0ad6fbf99",
-            "title": "愛知･豊橋市の養鶏場で鳥インフルエンザ 周辺17農場で出荷可能に 約8万羽の殺処分は25日中に完了する見込み",
+            "id": "news-77a1de6f265e82f01db8e5ceea26d964",
+            "title": "宅配業者を装って訪問...女性に「金を出せ」などと脅し暴行を加えた男が逃走 愛知・豊橋市",
             "source": "TBS NEWS DIG",
-            "published_at": "2026-11-25T18:54:00+09:00",
+            "published_at": "2026-11-26T00:29:00+09:00",
             "category": "市政・行政",
             "area": "豊橋",
-            "summary": "愛知･豊橋市の養鶏場で鳥インフルエンザ 周辺17農場で出荷可能に 約8万羽の殺処分は25日中に完了する見込み  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FSE5JN1duUXdYQ0FWLXpHeTNMR1E1YmEtS3IwWThqQ1JEQWQ3ZVdBSlE3NFNxY1dmX1ZQTkJ3T2l2U1kzYy1FQW41bTNheFRReDFJREZGVQ?oc=5",
+            "summary": "宅配業者を装って訪問...女性に「金を出せ」などと脅し暴行を加えた男が逃走 愛知・豊橋市  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JLU5GRzlsU0VTUnJZSXJtUUYxZDZlQXdUMUNJajJabkFBRWZaQTEwZ1I2SzMtU2phNi1CV05yMTlQS3NKbHRhRDNBOHVMNV9mU3lQVC14ZmE0UQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-2bb1dc9eba7f13df5200def9a714abf3",
-            "title": "今年描いたもの中心に並ぶ – 東日新聞",
-            "source": "東日新聞",
-            "published_at": "2026-11-26T00:03:58+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "今年描いたもの中心に並ぶ – 東日新聞  東日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XTnFzaVhrSmh4bG9BSldKeUo3QkFtYng5SzlTUU5PeGhYbjkzVEhiOVgyeFVseWRoRkw5RmJiVEJSNWRQZy1WVjh1YmZwbW9BbDI3b1pyNjh0REU3NXc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-b56ec9421263990992a43ff168a9f929",
@@ -144,15 +155,26 @@
             "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-501572e9895f3eb1f5e9c3882c351f6b",
-            "title": "ANHAが愛知・豊橋でタウンミーティング 地域観光の課題共有 「通過点」から「目的地」へ",
-            "source": "観光経済新聞",
-            "published_at": "2026-11-26T06:31:19+09:00",
-            "category": "観光・イベント",
+            "id": "news-b63e2c0e67afc23feed3dda642ad4557",
+            "title": "宅配業者を装った男に「金を出せ」と脅される 男は何も奪わずに逃走も女性に軽いけが 愛知・豊橋市（メ〜テレ（名古屋テレビ））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-25T17:38:01+09:00",
+            "category": "市政・行政",
             "area": "豊橋",
-            "summary": "ANHAが愛知・豊橋でタウンミーティング 地域観光の課題共有 「通過点」から「目的地」へ  観光経済新聞",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XMVR2eXZnazhsR0NsYlFGQy1PbUxzS3hGRUxQLVh5aVpRQmpBNDRVcnFBS0hhQUtHN05UcDUxeThkR0pxZmpCRU43SThUYnlJWDJUVw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
+            "summary": "宅配業者を装った男に「金を出せ」と脅される 男は何も奪わずに逃走も女性に軽いけが 愛知・豊橋市（メ〜テレ（名古屋テレビ））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00N2ZKR05ocHp2eUstSFYzNVV6TDhxbnBQaFNzUGF4V0tJYTJyV0lMdzBqQVdkVDJvckIwZ20yTDV0YVZyT1JWU01pMno2WGJremhGbjJjODBDX044YlJWY1BHakRGZ2I1ODA1MUpSQzREdnhCN3FkeDhEMTRiYVk?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-46565a6c8dd1efc80db543d764d9a75d",
+            "title": "「絵本の駅」で待っててね 豊橋鉄道・渥美線の5駅などに本棚",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-26T15:00:22+09:00",
+            "category": "暮らし・交通",
+            "area": "豊橋",
+            "summary": "「絵本の駅」で待っててね 豊橋鉄道・渥美線の5駅などに本棚  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFYjlTUkMzVjdGNU5mYkdhTWJMWGkzejJ2ZF91WnVFcW5OWGhYYVdDLVBCa2FmRF9EYkx3ZFo3RV9nREVBZ3NPUFN5WXIzMUFBRGdZQw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-a5d8e727da7755034d6d4f75d3cb98e1",
@@ -163,6 +185,105 @@
             "area": "豊橋",
             "summary": "【豊橋市】11/26 最低3℃、冷え込み、晴天が続く予想【朝版】  Yahoo!ニュース",
             "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nUDVSTlkzSF9UckxSaDlrSC1sZmJocDRudkRCc0FPZHVFczhaZHE3emw1YnJDSmtBRUEyZWpEbU41ZlQ1M2hiT2M4TldueGl1THlCVUtObVhyRFRBVlVfaklzd0RLTzBWSWxQeFdaZEZWVDVfN1lNRHgtOUdaZDQ?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-70c936ab0e15922e391d10965e07293e",
+            "title": "愛知県の雨雲レーダー(予報)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-26T18:20:57+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-6e2620a13cd4319a77fc5c117a7fe646",
+            "title": "愛知県知事選挙に小早川弘江氏が出馬へ 「革新県政の会」が要請方針",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-26T16:47:05+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県知事選挙に小早川弘江氏が出馬へ 「革新県政の会」が要請方針  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PT0p2V19RcExBdEJSQXh2WDViUTZiamhtbGtsVE54VElHeEc2MTZhdDNvdHJqUGxIVWpvM0dobUZwd3pCZUJrUDAzYUxsbnVxUmtkNw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-6fc655ef3df3ae67a65225a4d241906d",
+            "title": "【U15】「第16回豊田通商カップ 第8回愛知県 U15 バスケットボール選手権大会 2026」大会結果について",
+            "source": "シーホース三河",
+            "published_at": "2026-11-26T15:56:15+09:00",
+            "category": "市政・行政",
+            "area": "三河",
+            "summary": "【U15】「第16回豊田通商カップ 第8回愛知県 U15 バスケットボール選手権大会 2026」大会結果について  シーホース三河",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55NWtVNm0tdVA2WnBlVTRxcHBNdndyZjJFeWVxUXgwdUlPZjRja2F5MVEwSnFOTzhFdUtELU5lUDgzMFpkQWMyaTR2LWZKQWo5QUU0NEVEaw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f24ef7eabe9f4f98ba1092bb8bc93ce6",
+            "title": "【愛知県インフルエンザ週報】学年閉鎖7校・学級閉鎖59校発生 依然として「A型」が主流 患者数1955人で微増傾向続く＜11月16日～22日の感染症情報＞（中京テレビＮＥＷＳ）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-26T18:05:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【愛知県インフルエンザ週報】学年閉鎖7校・学級閉鎖59校発生 依然として「A型」が主流 患者数1955人で微増傾向続く＜11月16日～22日の感染症情報＞（中京テレビＮＥＷＳ）  ...",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aWVRxMGo1VFJKbHBXRjBJYXlwSnBNUXIxN3paNkhnbmxxNW9EUTBVb0w3T0xZUWNpQXFTSklwd2t1ZGtQU3pVN1BqbENmZHpDZmJuckNvUnRGZFZLTVd3SV93YmthdFVHZDBSQ3dERktGMTVOXzE5SnlveFJuZlk?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-e8680738f3e67ad86d7d1a9e10741fd9",
+            "title": "来年2月の愛知県知事選挙 共産党などでつくる団体が社会福祉法人理事の小早川弘江氏（72）に出馬を要請する方針",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-26T19:39:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "来年2月の愛知県知事選挙 共産党などでつくる団体が社会福祉法人理事の小早川弘江氏（72）に出馬を要請する方針  TBS NEWS DIG",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oel92aW5hbDR6Smt1S0piNmk1UVRFU0oyVFl5cU9zRVowZks2RlNfZTF3MDQ4WXBWdXhKSF9GWHpEVzlkUjBsQXI0ZTJBN0pKSVF2bWFVZU9hMFN5ZmFj?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-b707090b13c4f9c4a9d2b22a3ebf5044",
+            "title": "県市長協議会が大村知事に2月の知事選への出馬を要請　これまでの県政運営を評価　愛知県",
+            "source": "名古屋テレビ【メ～テレ】",
+            "published_at": "2026-11-26T16:49:00+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "県市長協議会が大村知事に2月の知事選への出馬を要請　これまでの県政運営を評価　愛知県　  名古屋テレビ【メ～テレ】",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xM0FNUlNZMlJjR1pHNC15Sk1UbFVwTlVGVEl4WURESVFXUnVxN2tKUWthQURoaXF6bXVPUmk1YnNBVGtkcjI1ckI2UDBYZEQzeFHSAWRBVV95cUxOTnZUVkY0c3psV0dGVVh4UDJaT2ZBenZ0Q0pHa3JNVGVBN2IwMWhDeWdrOVltYVhSdUxqM05Eb3ZQTklWT2xjQWpFNGxEVVFhM01uQlRsbjJsRDRqRkpfRnl5c004?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-e5b3e1489c409310e79bdf8403f37ca8",
+            "title": "愛知県内の市長会が大村知事に知事選出馬を要請「県政運営を高く評価」",
+            "source": "愛知のニュース",
+            "published_at": "2026-11-26T19:03:09+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県内の市長会が大村知事に知事選出馬を要請「県政運営を高く評価」  愛知のニュース",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11aTEzRWFqZ3l2akc4d0laQWd1SHpCY3FxQ1IwcDVtcGlrOWZ4aVdNTUVYcTdQNFdOOFk5dXd3VlpoNkxzTUlhSXlsRHhXbTFTb0JHcnZOdDh4Nnc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-9c5a65669c5f76316b03b5fa9f430459",
+            "title": "愛知県の過去の天気(アメダス・降水量・2026年11月)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-26T15:31:27+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "愛知県の過去の天気(アメダス・降水量・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11bG5iSHVwQXlacml3M3VOa1FsRjVNcjVWTFVqeWFZYkcxbWc1RXJZb29xVTdkLWZLLU1fbmphclhKdF9iMHV0SGdqOExUNUp2c1lZTHdZbFhVNFB6RFE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-acab2ac3341f2631e2f95529f66d97cd",
+            "title": "【愛知県】11/27の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-26T19:30:49+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【愛知県】11/27の天気予報（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pWEd3emU5ZVAxZlA1QjNrV2kwT3c5d1V2MzBnWUpWMDgtTEhCSUF2VHpLRC13VmdhbmdOYVA3b1RJTDlWcVlEcmRFWWtBRHE4MDVGTy1NamtsTFgxMjJBX09wQTFoanJNeGJBRFlNX241bHFFVEpPRVBWekxvOVk?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -188,87 +309,10 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-9d1625771d34a64d478068fe74c08476",
-            "title": "【連載】エンジョイサッカー〈125〉クラブ初の愛知県制覇 ASラランジャ豊川U12が悲願の全国大会出場を決める",
-            "source": "東愛知新聞",
-            "published_at": "2026-11-26T12:03:55+09:00",
-            "category": "市政・行政",
-            "area": "三河",
-            "summary": "【連載】エンジョイサッカー〈125〉クラブ初の愛知県制覇 ASラランジャ豊川U12が悲願の全国大会出場を決める  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlX1JsLXV3THRCUDdXWG1qdGFIUnpTQlFRbW5YVUdZdm5POGt1Y295TVREOU1BeWpIRGxwVjg2TkZ4NTNMMklKOGptSVkxazlyS3JfRVRuZkZyTjJQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-35bfc08c7ce678f5ff70b9a97d6d4ea5",
-            "title": "副首都指定 愛知県と連携協約「進めている」…名古屋市長、政府の方針受け ：地域ニュース",
-            "source": "読売新聞",
-            "published_at": "2026-11-26T11:05:00+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "副首都指定 愛知県と連携協約「進めている」…名古屋市長、政府の方針受け ：地域ニュース  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MZThEam82cmdmdnFSTF9tdnI2NjJ6RkFKNTlSVUFzYUd1QXBfZHpXQjMyM1hKaDVjNEpua20tWENxQlN4ZUNVMlRYSkNOR1JXZG4xbGw0dEg4c1JEZ2tDZ2JwM0lFU3docTd4NlB2Z1E?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-1a27bd4b29bedfa71ab55d8bdf0b631a",
-            "title": "訪日客「手ぶら」で中部周遊 愛知県と名古屋市、荷物配送網づくり",
-            "source": "日本経済新聞",
-            "published_at": "2026-11-26T05:00:00+09:00",
-            "category": "ビジネス",
-            "area": "名古屋",
-            "summary": "訪日客「手ぶら」で中部周遊 愛知県と名古屋市、荷物配送網づくり  日本経済新聞",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXd2U2QUZJVXZxcFRfNTF1RWJ1VHJPSkJrVmhDbHlscFJrQUszUWVrcVFiSHJ6WG5fcm5zVHI1X3lSYVYwS3BTNERablVOS3ZwaDJqSHpIelVZbVJCUS1KenQ0YnZCM2R5WGg3bw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d4711e601dfbc2103a0fe1a3c950aa84",
-            "title": "愛知県警察学校で卒業点検 拳銃操法や逮捕術の習熟状況を確認",
-            "source": "日刊警察",
-            "published_at": "2026-11-26T10:30:20+09:00",
-            "category": "社会",
-            "area": "愛知",
-            "summary": "愛知県警察学校で卒業点検 拳銃操法や逮捕術の習熟状況を確認  日刊警察",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XWHZqQk9wbmNoVm9vTV9GVkpSMS1TWFNyblpJN0lleVZmLTFrbkRwMHl0WUZyMGkyQ0sxN0t4UVppeU5obWd1VUNydUZZUnpDQ3g1RjU1d1pTRzA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-bee6200b5dda14e8781ee7835f149be4",
-            "title": "中京大中京－東邦 観戦記（2026年愛知県1年生大会決勝戦） : 愛知野球通信＋",
-            "source": "タグマ！",
-            "published_at": "2026-11-26T07:00:59+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "中京大中京－東邦 観戦記（2026年愛知県1年生大会決勝戦） : 愛知野球通信＋  タグマ！",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85MDVTTDJBSjFIR3hsOW1mX2tlQ040ME9MVHpvRExBV1FKRTV0cWJOaFFwU2ZVSU1ETloweE5DU1REMFpiQUJ6d3J0Vk9leWxZR2l5TUI1Wk9aMFB2V1BUWXdvTWV4dw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-c351e99e87ce321a66b8610e92df4414",
-            "title": "【1/12-13愛知・蒲郡】資源循環は、観光地の経済を動かせるか。体験・共創型カンファレンス「サーキュラーツーリズム in 愛知県蒲郡市西浦温泉地区」参加者募集",
-            "source": "Circular Economy Hub",
-            "published_at": "2026-11-26T10:04:20+09:00",
-            "category": "観光・イベント",
-            "area": "三河",
-            "summary": "【1/12-13愛知・蒲郡】資源循環は、観光地の経済を動かせるか。体験・共創型カンファレンス「サーキュラーツーリズム in 愛知県蒲郡市西浦温泉地区」参加者募集  Circular...",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zZnVWd3lxZEwzLWx2bHZSYnBzUWR5S3VXSFhXVlVFZHZNVG5VbVhBcGRXdUlKYm5ZZ1FPNEhxcVVhWkdjakhERWVnbXhmR1BHRFJYUlZ4Y1BpX2hIMzgxd3pmUDA?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-df68c17d29608efcc964c07e78a60ac9",
-            "title": "アジア・アジアパラ大会、愛知県と名古屋市で検証へ 県知事・市長が共に意向を表明",
-            "source": "47NEWS",
-            "published_at": "2026-11-26T08:00:00+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "アジア・アジアパラ大会、愛知県と名古屋市で検証へ 県知事・市長が共に意向を表明  47NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHelNNeUJ1ejZTZmxBSExMX2JLdFRCcWRBeVBlNjFLX0VLOVdnRFRRT2EtcFgwQ1RjcXJXODB2WGxtbXlEcHNic1ZvRQ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-efb222642469b57fee3a3163237412b3",
             "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
             "source": "tenki.jp",
-            "published_at": "2026-11-26T09:31:28+09:00",
+            "published_at": "2026-11-26T15:31:27+09:00",
             "category": "市政・行政",
             "area": "名古屋",
             "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
@@ -276,58 +320,14 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ffc71021050f7966f634a20b6515da92",
-            "title": "道路を横断中の人も… 愛知で高齢歩行者の事故相次ぐ 女性2人が死亡（中京テレビＮＥＷＳ）",
+            "id": "news-dfb62a0e2c197d40d4dbcda2cf727284",
+            "title": "副首都指定 愛知県と連携協約「進めている」…名古屋市長、政府の方針受け（読売新聞オンライン）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-11-26T07:00:12+09:00",
-            "category": "社会",
-            "area": "愛知",
-            "summary": "道路を横断中の人も… 愛知で高齢歩行者の事故相次ぐ 女性2人が死亡（中京テレビＮＥＷＳ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80SlJSZjFaS1dUalIwb2NtQmtjajlDN25qNFV6bFp5NDhvMEhHd0MzNGtkNVNXdHFBSG9MUEkxTWlFOW5VQ0JGV0t5M041SExsczJDRE1qcFFOSXlvTF9lM1pYdlRoOWNYeFdHMjBCZ3g0dnlSZUh2WXZQa1Q0RXc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-c0ad909d44aab3f51577d5bd958f741d",
-            "title": "吉本新喜劇・座長のアキが愛知県刈谷市で１日署長に「アキさんポリス反則」「制服姿もかっこいい」",
-            "source": "読売新聞",
-            "published_at": "2026-11-26T12:57:00+09:00",
+            "published_at": "2026-11-26T15:02:36+09:00",
             "category": "市政・行政",
-            "area": "三河",
-            "summary": "吉本新喜劇・座長のアキが愛知県刈谷市で１日署長に「アキさんポリス反則」「制服姿もかっこいい」  読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aVEE5bkcxVE1QaXpmZnRjMXM1ZlVScEZxTDJWdWJCZUFncHFKUXpsTUd0Rjl3RkFWMk1lLWFJWTRxY3B4YUVkeVZUd194Y2ZZNVItdWR5ZXJPZGI4U1RZQ00tMDh2T0lHYXdVZFMzWEU?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-dccebddf09f1aaa8d1fe33e0b25fb4ae",
-            "title": "【連載】愛知大80年 上海から豊橋へ、志の軌跡〈3〉中国全土を歩く大旅行",
-            "source": "東愛知新聞",
-            "published_at": "2026-11-26T12:03:57+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "【連載】愛知大80年 上海から豊橋へ、志の軌跡〈3〉中国全土を歩く大旅行  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fVVlRVGJzY2x4c2E0NFJiSXZXcHVWeFNhcWZKMElTTllDazIzMlFmcUZ3RExlVWNSbnhiNGNfX1V5Z1Vsb0NMT0E2MDk1SFdrZ2pWSUY5NUxZY0o2?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-43a31e33435a05a13fd5d4c140d5c918",
-            "title": "愛知県の過去の雨雲レーダー(2026年11月25日)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-26T06:10:26+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の過去の雨雲レーダー(2026年11月25日)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tc2dHQjgtaXRQQWZIVVBDY1BsXzRQQk11YlBKaXFqNEtlTXI4QmFjM1k4TktZU1RZVE1QRlNycC1lSDVnd2ZnTjZHM3VmaHpfUGRfU3hvbw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-125324ff96bb070092ccc94de3106078",
-            "title": "「レギュラーガソリンが安い都道府県」ランキング！ 2位は「愛知県（162円）」、1位は？【2026年11月24日時点】（ねとらぼ）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-26T09:00:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "「レギュラーガソリンが安い都道府県」ランキング！ 2位は「愛知県（162円）」、1位は？【2026年11月24日時点】（ねとらぼ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fRF9sLWZvTTNaNHZZQ1ZJVEJPUmo3aFp3T2s5MTdEZEN4bjFOcHpYMmNYNWRBWlJpTDh1dndNQi1WeEpmZWZ0dXJuRkRZYW05M19yU05aRUN3c1RRSGZtWV9aSEJBNVdHOGplZUszbUxCUHNtZTVaSDB3NjFpRTQ?oc=5",
+            "area": "名古屋",
+            "summary": "副首都指定 愛知県と連携協約「進めている」…名古屋市長、政府の方針受け（読売新聞オンライン）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MTWxpYkJyeGRzcUZFdTh2VnJ1T0dSRGEtSzhpdDBJY2dKRmJOUGJrbXJlcmp3YjN6V2tUc1RvQ1RINWlOZ3VkZDZ4Zkxwd2NyaEtQSkk4NnUyN29LOHRKRHpoc2paNnVkOFpXMW1oTDAzTFdoUzk3SGEtY1VHLW8?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
