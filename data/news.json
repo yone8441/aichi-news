@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-27T20:57:44+09:00",
+    "last_updated": "2026-11-28T02:57:42+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,7 +9,7 @@
         "temp_min": 11,
         "rain_prob": "10%"
     },
-    "total_count": 29,
+    "total_count": 27,
     "articles": [
         {
             "id": "toyohashi-city-b1c5102344811462390b493af58a86f5",
@@ -78,6 +78,39 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-16e02b03553dd225ff4bc7a34397cf64",
+            "title": "鳥インフルエンザ感染の養鶏場で防疫措置完了 愛知・豊橋市（メ〜テレ（名古屋テレビ））",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-27T23:11:01+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "鳥インフルエンザ感染の養鶏場で防疫措置完了 愛知・豊橋市（メ〜テレ（名古屋テレビ））  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiZlRIOFhqTVBIYmotR3IyVmxVTmtsamJtYnlseEo0cWVMNjFSbDYwZEc2eWZNX2pGajh2WncyUVZieTkwS211VE5qUTY3UHp5Q3pEMmNwWjlUVlpGNWZDVDJJZWg0Q1VrbG5HZ3dzck9PMERZc3VtNC0taUxZeDg?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-621bbdc55d173812205e02c9d2b1a140",
+            "title": "仙台市生まれのホッキョクグマ 愛知・豊橋市に引っ越し 元気に過ごす",
+            "source": "khb東日本放送",
+            "published_at": "2026-11-27T18:55:03+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "仙台市生まれのホッキョクグマ 愛知・豊橋市に引っ越し 元気に過ごす  khb東日本放送",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ETE1rTFh1a2FqZjFQc0xoT0hhSWhvaHI5RXFDNk1LYTRmUEw4VTBQeWpxazNWdHRiWEtkdFYwQXE5NXduX0VZaVhoSUxPaHc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-07442c04ee32b15e6bf2f4e15ab314a2",
+            "title": "鳥インフルの感染が確認された養鶏場 防疫措置完了と愛知県が発表 殺処分したニワトリなどを密閉容器に入れ運び出し鶏舎を消毒 今シーズン3例目の高病原性鳥インフルエンザ 愛知・豊橋市 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
+            "source": "TBS NEWS DIG",
+            "published_at": "2026-11-28T00:39:00+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "鳥インフルの感染が確認された養鶏場 防疫措置完了と愛知県が発表 殺処分したニワトリなどを密閉容器に入れ運び出し鶏舎を消毒 今シーズン3例目の高病原性鳥インフルエンザ 愛知・豊橋市 ...",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwbTlreUdtWnhRX2g2VTBNMHlUaGFiNmY4ZU01dzZZSkR2YVhoVnJHRE5rMzcyQ2wzX3pxQlp4MktHbE1Uc2ZlN2RoenNHalhnS0lfV0VQZlNfZw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-9914d2d241b68931595edc38c93ca22d",
             "title": "【試合情報】臨時駐車場に関するご案内（豊橋市総合体育館）",
             "source": "三遠ネオフェニックス",
@@ -89,37 +122,37 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-621bbdc55d173812205e02c9d2b1a140",
-            "title": "仙台市生まれのホッキョクグマ 愛知・豊橋市に引っ越し 元気に過ごす",
-            "source": "khb東日本放送",
-            "published_at": "2026-11-27T18:35:00+09:00",
-            "category": "市政・行政",
+            "id": "news-446e8b60a8431c1ed5cd7138740b57e9",
+            "title": "市民への浸透いまひとつ",
+            "source": "東日新聞",
+            "published_at": "2026-11-28T00:04:43+09:00",
+            "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "仙台市生まれのホッキョクグマ 愛知・豊橋市に引っ越し 元気に過ごす  khb東日本放送",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ETE1rTFh1a2FqZjFQc0xoT0hhSWhvaHI5RXFDNk1LYTRmUEw4VTBQeWpxazNWdHRiWEtkdFYwQXE5NXduX0VZaVhoSUxPaHc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "市民への浸透いまひとつ  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiM2pTeXdtcDF1LTNwM0k0M2JwOHVVcUk5cXl1R2JXX3RMdHNKcWdHcENwQ1MwOHlGeDBZVUt5QV83UW9WYjRYWk1tQVFQOWxlSlpqU3BJWmh1dU5QbWc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-74a3988787d0ea7b100ffe33b407a9de",
-            "title": "豊橋市の住宅「馬小屋と橙の納屋」が東海建築賞 荒木工務店が施工",
+            "id": "news-a9357edd50eb315662ae661eb630a0a9",
+            "title": "豊橋の宮川工機に中小企業庁長官賞 構造材児童積み込み機で、春の発明功労賞に続き",
             "source": "東愛知新聞",
-            "published_at": "2026-11-27T20:16:27+09:00",
-            "category": "市政・行政",
+            "published_at": "2026-11-28T02:31:14+09:00",
+            "category": "ビジネス",
             "area": "豊橋",
-            "summary": "豊橋市の住宅「馬小屋と橙の納屋」が東海建築賞 荒木工務店が施工  東愛知新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYZjVkWG54V3ZCR2I4ekZ1WG1QMFlyTkY0aEtWcUdFSUJyNmI4cy1OUVJmREtBSmYwdi1kYjg5Z2MwTmE5dWY5VWY1V0NzWkZTRkFwcFlkYjhFa2Vp?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "豊橋の宮川工機に中小企業庁長官賞 構造材児童積み込み機で、春の発明功労賞に続き  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sTktHVUpYZXgxZEZGMG5qSDU3ckR4TmlQN0swMHhpZ3cyR0l3akREN1g2Ui0tMzItUldydmhFc2tfVUdHeU5kUm5zTklHTXBiM0FwNElQVTFvUnZl?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ec564dfaaad98bd8136d91397149b407",
-            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
-            "source": "tenki.jp",
-            "published_at": "2026-11-27T17:14:33+09:00",
-            "category": "市政・行政",
+            "id": "news-b1e32f6c7ae74c4c288cff9e92b8c582",
+            "title": "脂肪燃焼サポート効果が期待される藻類「ピンヌラリア」大量培養に成功 愛知・豊橋技術科学大など、古い温室活用",
+            "source": "中日新聞Web",
+            "published_at": "2026-11-28T01:44:46+09:00",
+            "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "脂肪燃焼サポート効果が期待される藻類「ピンヌラリア」大量培養に成功 愛知・豊橋技術科学大など、古い温室活用  中日新聞Web",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Sd3NVQVR4TE1BMzQ0ZENUV3g3Wm11Y1BaaUQ2aWVkcWpQVXhwVXN3M3JLSTRHTk54eW5TOVUtdHBnc1ZDZ0U2OTlFbFlNQjN6S1RLRA?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-4d530ff48c97e0254df9b6670176f5e7",
@@ -133,69 +166,25 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-062e5c84595cdc1aafad4318f5c232e9",
-            "title": "東海漬物、ロンジェビティ臨床研究に参画 豊橋市で12月開始の先行研究に研究協力",
-            "source": "ウェルネスデイリーニュース",
-            "published_at": "2026-11-27T13:04:17+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "東海漬物、ロンジェビティ臨床研究に参画 豊橋市で12月開始の先行研究に研究協力  ウェルネスデイリーニュース",
-            "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNklUNU1KcUVFNHhQVTZzRXI5a284NGZESHdldlBYcVlacE85M1oyNWJkMEhVZHhaYVowUFU3Zm1aMkg4SnprZTExZVAwRnBWNktDM0NrTDI0MC1aeXl1R1VLWnh3R1RUVXNXMlJRQ1ZuYy1CeFZEYTZ6dlU5Skhpb1YzMmF0VkpVWTAxR2VtX3VCY2pqOXljNFcwbUZYLW15bE9HNTR5d29LY01iXzhXcUdqV2lia25TeEI4bk44Z1ZQWUg4N25lTEZGN1ZpRGRNQkpkczJYOTBpVjVENFZlWjV4anZyRUhxSkU1Q3FvaEU4UkZaWjRvTmREREs4ZGJMQktkYjFOWnlmRjlJcVFYTFJEUFhMRnJhRkhUN19YQXJLamVPOUdIWnc3Wk0tX3F3YzlBdUhpaXZQTW84VlZ3Ql9rZkZlQkdJUFBEM2VnRTFzVmM?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-dbf31b4d229d57ae845c44566a88f057",
-            "title": "愛知県豊橋市で植林活動を4 年連続で実施",
-            "source": "物語コーポレーション",
-            "published_at": "2026-11-27T16:36:50+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "愛知県豊橋市で植林活動を4 年連続で実施  物語コーポレーション",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CUXpJTUhtNFFxaWVFdkwwbUpjX3o4aDNxWk1DbmdMckdnMldWUjNpamZkZjFaaS1meWx1NENGb0xEN0JLS2p3c1BrYUxENUtXTGM3VDhaUjBIeEhhR0ZVWktEYjE4Zw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-6214f951c4e0dfdf71f0e254facc5f0c",
-            "title": "新着情報“ＷＲ－ＶZ 特別仕様車 ブラックスタイル”2025年式クリスタルブラックパール入荷しました！",
-            "source": "中古車のガリバー",
-            "published_at": "2026-11-27T17:28:59+09:00",
+            "id": "news-8336f4a17e811d54c8b2e1892dc93692",
+            "title": "没後20年の代表作展示 – 東日新聞",
+            "source": "東日新聞",
+            "published_at": "2026-11-28T00:05:17+09:00",
             "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "新着情報“ＷＲ－ＶZ 特別仕様車 ブラックスタイル”2025年式クリスタルブラックパール入荷しました！  中古車のガリバー",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3eGZFWjNMN1JCaTNFaFd4M1lEYjQtY2N5RzFpZ3VoVGEydk5DV0pZRFcxYk84RnhmUXFmTjNyZTc1aDlFV2NtRVBqUGNuR0hlYXJ6azNHWXMyYjM2MlJlalNOS1pWRC1qc0VRVjNYczQyMW5JTzJFQU5DOWJZREE?oc=5",
+            "summary": "没後20年の代表作展示 – 東日新聞  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SQUJsdGl3V21xM2lTUmxyNE1GSl9wWUM3UjFTN0cyUXlwalhGOC1CSHRxUjBGSlNYVGhGZ085UHluWjU5OGw1ZVhfU2NGZ01vclNsNGRLOHpXeDhmNEE?oc=5",
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-6d49c8270d7f6741318ada4d0466ff1c",
-            "title": "「仕事休んで家族サービス」あいち県民の日で”学休ホリデー” 入園無料の動物園に朝から多くの親子連れ",
-            "source": "愛知のニュース",
-            "published_at": "2026-11-27T19:03:36+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "「仕事休んで家族サービス」あいち県民の日で”学休ホリデー” 入園無料の動物園に朝から多くの親子連れ  愛知のニュース",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KZEZPNnh2QmN0bnNzNGRNRXA1Sjd2ZWlyNEVJQ1ppVWxuY0tfMnNzbDVkLXJPVnoyN0c1MVlkSnFIeEY5RGUzN1E3dWlMdGxNUHF4X1BuRm0wTFE?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-facf26a143653f19f088b7e47f46e982",
-            "title": "【試合情報】12/3（金）ホーム北海道戦 シャトルバス運行のお知らせ",
-            "source": "三遠ネオフェニックス",
-            "published_at": "2026-11-27T15:14:40+09:00",
-            "category": "スポーツ",
-            "area": "豊橋",
-            "summary": "【試合情報】12/3（金）ホーム北海道戦 シャトルバス運行のお知らせ  三遠ネオフェニックス",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xYmFGN3lobVFoQlRBX1NkRms5WWVWZ1JwRVZmUWRZTDMzTDJmUUNESGNmSWtLVFVSOXBzUFlwRFlvMzQ1NUR3Tm11OVVkUGExaVNjUU14RUJYZw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
-            "title": "愛知県の今日のアメダスの記録(11月27日)",
+            "id": "news-a6b3aadbe3431b566f4c5e39c8bdbbfc",
+            "title": "愛知県の過去の天気(アメダス・風向・風速・2026年11月)",
             "source": "tenki.jp",
-            "published_at": "2026-11-27T16:32:30+09:00",
+            "published_at": "2026-11-27T21:31:27+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県の今日のアメダスの記録(11月27日)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
+            "summary": "愛知県の過去の天気(アメダス・風向・風速・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NZmt4eTY3SHV4MTJ2RGIyOGpBSVo0OEIwelZQR2VGVG1QWFJrTXdkS1dFXzZteWwwb1lqOWJrQkFoVnVwdzBRVVJXX3gySXYzODB2dXZGbGpiekk?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -221,14 +210,36 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-32b745919532aff35fa4fa126e0fc256",
-            "title": "愛知県岡崎市のアウトレットモール 開業1年で「好調」 要因は“日常使い”ニーズの取り込み（テレビ愛知）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-27T18:57:01+09:00",
+            "id": "news-08a37c4c346945f564fa7f558711c0a9",
+            "title": "上半期消費生活相談件数3.8％減 – 東日新聞",
+            "source": "東日新聞",
+            "published_at": "2026-11-28T00:04:43+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "上半期消費生活相談件数3.8％減 – 東日新聞  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvRWMxRjZWaXRDSjlyV2tnblJqQ3M3LTVmY0lGOV9Zckh2LXhqYlNGQ0ZMN0hLOTZmSTdJWkg2WFg2SGFiVHRlUTZxaFBFOC1Za1NOUW04bU9DSEFMRlE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-827dc674ca99eec2a880aa5e70385edf",
+            "title": "日本の底力 「職人の技」を次世代へつなぐ12月4日から愛知県で技能五輪全国大会が開幕 | お知らせ | ニュース",
+            "source": "自由民主党",
+            "published_at": "2026-11-27T17:01:12+09:00",
             "category": "市政・行政",
-            "area": "三河",
-            "summary": "愛知県岡崎市のアウトレットモール 開業1年で「好調」 要因は“日常使い”ニーズの取り込み（テレビ愛知）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGVtYWtVblpRYmhXZFZaQlo1MGthYzFMMU0xY3pWcXRwRk9sdmtnRVJudEtuVHczYkItV1NSSkhLSWlUa0xxQjEwd2hyTWo4LXRxb20xSEFBWnB1NFlMNGxSeEl2VXl2ekcweXh3ZDVyRUZTQVY2dDJhZHk4dVVObXM3MFZOMDBsOUVyVFhB?oc=5",
+            "area": "愛知",
+            "summary": "日本の底力 「職人の技」を次世代へつなぐ12月4日から愛知県で技能五輪全国大会が開幕 | お知らせ | ニュース  自由民主党",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBob3lNZlJDOXltc09aMnpaamdRTDJNTjhsRXlmenVTME9lZU93bVJaVEhjbUROTnBuWUJGOGdKcEYyVzNrNXgxVGhJNmhCdm1HQjVaQXllaWJ6R2dKYXc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ed0feb36406b13b9400d7a222e38f0aa",
+            "title": "【愛知県知事選挙】小早川弘江氏が出馬意向 「革新県政の会」の要請受け（2026年11月27日掲載）｜中京テレビNEWS NNN",
+            "source": "日テレNEWS NNN",
+            "published_at": "2026-11-27T18:54:00+09:00",
+            "category": "市政・行政",
+            "area": "愛知",
+            "summary": "【愛知県知事選挙】小早川弘江氏が出馬意向 「革新県政の会」の要請受け（2026年11月27日掲載）｜中京テレビNEWS NNN  日テレNEWS NNN",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVk9uejRSemwxM1NXem9ORXV2T1lDTXhJRWw4ZkdSSFFwdFdLUlBCUFdtb0hwT1V5QTJRZ1kySGpJZ21FX25wcFYyOTJvaFR3UEs4a19hWEpFTlBtaVRlLVB3bnkxVURLRE5NY2tVZXVKVHBBNFVnMkpwRGZLQlR0alQ0Mk9taG8?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -243,26 +254,48 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-072329f8380d83f2ac29a207cb88ada9",
-            "title": "愛知県・平均借入金利動向調査（2025年度）",
-            "source": "www.tdb.co.jp",
-            "published_at": "2026-11-27T14:25:45+09:00",
+            "id": "news-efb222642469b57fee3a3163237412b3",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-28T00:31:29+09:00",
             "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県・平均借入金利動向調査（2025年度）  www.tdb.co.jp",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tV242OVNBclBkTFBjUUVLNk1vaXpWUlNVUl9yekE4WGphTy0tTTB2SkNWYlhCemhYazc0b0RLZGFjWC1EaDllRFY5SFFEVnFaMVphVm94aEMzdElyQk1PVVMyYVRNWGh3YkFjZ0lfNk1UQjJNM2lxNFRVSnE?oc=5",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-827dc674ca99eec2a880aa5e70385edf",
-            "title": "日本の底力 「職人の技」を次世代へつなぐ12月4日から愛知県で技能五輪全国大会が開幕 | お知らせ | ニュース",
-            "source": "自由民主党",
-            "published_at": "2026-11-27T17:01:12+09:00",
+            "id": "news-32b745919532aff35fa4fa126e0fc256",
+            "title": "愛知県岡崎市のアウトレットモール 開業1年で「好調」 要因は“日常使い”ニーズの取り込み（テレビ愛知）",
+            "source": "Yahoo!ニュース",
+            "published_at": "2026-11-27T18:57:01+09:00",
+            "category": "市政・行政",
+            "area": "三河",
+            "summary": "愛知県岡崎市のアウトレットモール 開業1年で「好調」 要因は“日常使い”ニーズの取り込み（テレビ愛知）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGVtYWtVblpRYmhXZFZaQlo1MGthYzFMMU0xY3pWcXRwRk9sdmtnRVJudEtuVHczYkItV1NSSkhLSWlUa0xxQjEwd2hyTWo4LXRxb20xSEFBWnB1NFlMNGxSeEl2VXl2ekcweXh3ZDVyRUZTQVY2dDJhZHk4dVVObXM3MFZOMDBsOUVyVFhB?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-a0ca3f922d541399f5d6ab213e6eb661",
+            "title": "愛知県の過去の天気(実況天気・2026年11月27日)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-28T00:29:18+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "日本の底力 「職人の技」を次世代へつなぐ12月4日から愛知県で技能五輪全国大会が開幕 | お知らせ | ニュース  自由民主党",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBob3lNZlJDOXltc09aMnpaamdRTDJNTjhsRXlmenVTME9lZU93bVJaVEhjbUROTnBuWUJGOGdKcEYyVzNrNXgxVGhJNmhCdm1HQjVaQXllaWJ6R2dKYXc?oc=5",
+            "summary": "愛知県の過去の天気(実況天気・2026年11月27日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nSllBUWNXN0tCaU1ZVFluM1RjYUx3R2pKWkpDS2d1RVJWZGpSOTdHUlRueEpVX1h6Q1ByN2drY0JMdG1wTmoySUpPLXBRSmt4WnVQa2IzTmpfdw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ec8713a36ce078cf795cc33db4e14a64",
+            "title": "東海地方の雨雲レーダー(予報)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-27T20:17:09+09:00",
+            "category": "一般ニュース",
+            "area": "愛知",
+            "summary": "東海地方の雨雲レーダー(予報)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vMWZFcWVOajRwV3lncks2c3JrTkl4N1J5VllxRlo4NWhWVkdrajNnUjhUNzBxSzVKeGlKMDJSa05XX1dGTGIwQlp5Xy1ESFU?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-3c85098aa18ddb2b1c01c0131e928c8b",
@@ -273,61 +306,6 @@
             "area": "尾張",
             "summary": "一卓一釜の炊きたてごはんに肉が止まらない！愛知県半田市『焼肉ホルモン ざくろ 半田店』  locipo.jp",
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lLXd0b2tVcnlhcFMzaG90OE1ZS0RROVo1djBXdVU4Rml0SlhRdGFtd0J5QUtIRmVPWDBDZ2EyRFlRYXZfaDFERDhBSDZEbW1nNWprMF9icDNVQlU?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-aadcb4e1fbb36d2d81de5dc900af2eb9",
-            "title": "｢副首都｣来年6月以降に申請を受付→11月頃に指定想定 愛知県と名古屋市は立候補に向けて準備加速へ 広沢市長｢早めに協議を重ねて、内容をまとめたい｣",
-            "source": "TBS NEWS DIG",
-            "published_at": "2026-11-27T18:30:00+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "｢副首都｣来年6月以降に申請を受付→11月頃に指定想定 愛知県と名古屋市は立候補に向けて準備加速へ 広沢市長｢早めに協議を重ねて、内容をまとめたい｣  TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rZDBocDE4QVVVQmFUNGNyV2hMem5DbTdmaGJKUUFjWjN4R2thZXA3SmdNeThYeklMd1pMdXdzTFRwZ3dPQTJxNUdBbnZZQTJFYjljOTdyM1laYWN2QnNF?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-f96d9cf399b3db4d01d7160e0bae8799",
-            "title": "11月27日はあいち県民の日　のんほいパークは入園料が無料　保護者が仕事を休める取り組みも",
-            "source": "名古屋テレビ【メ～テレ】",
-            "published_at": "2026-11-27T17:40:00+09:00",
-            "category": "一般ニュース",
-            "area": "名古屋",
-            "summary": "11月27日はあいち県民の日　のんほいパークは入園料が無料　保護者が仕事を休める取り組みも  名古屋テレビ【メ～テレ】",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nM1l3V1FvcUMyLUpOeU0zZ0FzT2JXVTRQMkV2dXEtQ1FReDFlSFpVVDhjX2JaRmp4UXdISVVVUDA3SDZVOVdfVFdUVU5PNlNkZ1F4QWctUmJac2ZlTnFBWmw4MVnSAWRBVV95cUxOZzNZd1dRb3FDMi1KTnlNM2dBc09iV1U0UDJFdnVxLUNRUXgxZUhaVVQ4Y19iWkZqeFF3SElVVVAwN0g2VTlXX1RXVFVOTzZTZGdReEFnLVJiWnNmZU5xQVpsODFZ?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-1a090ee72076079c9283005130fa0408",
-            "title": "ラリー三河湾を活用した愛知の魅力発信業務に係る企画提案の公募",
-            "source": "トラベルボイス",
-            "published_at": "2026-11-27T15:29:05+09:00",
-            "category": "一般ニュース",
-            "area": "三河",
-            "summary": "ラリー三河湾を活用した愛知の魅力発信業務に係る企画提案の公募  トラベルボイス",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DM3RDaVpCS2szVUgxLWx3YjdQQlhCOHYyVVViMkx3TzVEeFNhUTFUbTZYOEdrVkdlajVBcklSaU4tNW1XcEE2clNRVHVvS0Zf?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-70c936ab0e15922e391d10965e07293e",
-            "title": "愛知県の雨雲レーダー(予報)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-27T17:12:29+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-91679937000df01cd8de472d48ca0560",
-            "title": "【愛知県知事選挙】小早川弘江氏が出馬意向 「革新県政の会」の要請受け（中京テレビＮＥＷＳ）",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-27T18:54:00+09:00",
-            "category": "市政・行政",
-            "area": "愛知",
-            "summary": "【愛知県知事選挙】小早川弘江氏が出馬意向 「革新県政の会」の要請受け（中京テレビＮＥＷＳ）  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZNXc4ME9sLUhmQ2lLaElWQUc5SDZOdjFBaHYyckZrYnBjZEhaWEdKNGRvU0oyQWs5ajhqYVFBLXZKdXh1bTFSQzhEQlRpODg3M3ZuQkZNbVhYUnBCQWlYcGdwS2w2RXg5QlVWNjRGNS1iRjFzcUpZMzJKSHJ4blk?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         }
     ]
