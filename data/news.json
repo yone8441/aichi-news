@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-28T20:33:21+09:00",
+    "last_updated": "2026-11-29T01:42:56+09:00",
     "update_session": "夕刊便（17:00配信）",
     "weather": {
         "location": "愛知県（西部・東部）",
@@ -9,7 +9,7 @@
         "temp_min": 7,
         "rain_prob": "0%"
     },
-    "total_count": 29,
+    "total_count": 28,
     "articles": [
         {
             "id": "toyohashi-city-b1c5102344811462390b493af58a86f5",
@@ -78,15 +78,15 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-ec564dfaaad98bd8136d91397149b407",
-            "title": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲",
-            "source": "tenki.jp",
-            "published_at": "2026-11-28T18:22:19+09:00",
-            "category": "市政・行政",
+            "id": "news-8f69740952dda9f14412390fa6a10d63",
+            "title": "日ごろの活動に感謝",
+            "source": "東日新聞",
+            "published_at": "2026-11-29T00:00:32+09:00",
+            "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "愛知県の雨雲レーダー(実況) / リアルタイムの雨雲  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PYVJuejFxTG5sdURfd2JLWnU1QnhfWXhHZGd4QUppRXRfZVZKb1F0Q2VCS25JWGhJT0JZcFo0VTFydw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "日ごろの活動に感謝  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NR1ZCbVMzTGdwcmZzVFl4cW1fX3g3akc1dU9FYlFMQUtvZVhwTmJmaXFPd2J2blF0UWJoeG9YdEFTb3JHZEZvLVBobnRIUkZvM0I3YmpkUmJuNW5NOEE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-29842cb11b89dbfca22efccef9b346d6",
@@ -97,6 +97,17 @@
             "area": "豊橋",
             "summary": "【連載】サッカーにできること〈32〉マザーズカップ初代王者はママミラン｜豊橋市サッカー協会会長小林立治  東愛知新聞",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wSmZEZjVWTEozMFRMMDFyNDdHamNmYTl5dU56RVV3OThtZ2pXS1VVSW42Y2lnVTNPeWp4NVBEbnNGWExuMERDMWtPbG9VYWJUaWtrSy1YUzFlWFMx?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-8afdf143c8984d51cb9c8d40f63b67cc",
+            "title": "愛知県の雨雲レーダー(過去)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-28T17:39:36+09:00",
+            "category": "市政・行政",
+            "area": "豊橋",
+            "summary": "愛知県の雨雲レーダー(過去)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pbjJxV2FNdFE5akcyUUJqQlhDVEdJVDdNMnBfNGFod2p2MXhJeEJFdUsyU1YybnJzS0Q1ZlRTdjZfWEFFNFNOWnRwMG5DUQ?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -122,39 +133,6 @@
             "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-16e02b03553dd225ff4bc7a34397cf64",
-            "title": "鳥インフルエンザ感染の養鶏場で防疫措置完了 愛知・豊橋市（メ〜テレ（名古屋テレビ））",
-            "source": "Yahoo!ニュース",
-            "published_at": "2026-11-27T23:11:01+09:00",
-            "category": "市政・行政",
-            "area": "豊橋",
-            "summary": "鳥インフルエンザ感染の養鶏場で防疫措置完了 愛知・豊橋市（メ〜テレ（名古屋テレビ））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiZlRIOFhqTVBIYmotR3IyVmxVTmtsamJtYnlseEo0cWVMNjFSbDYwZEc2eWZNX2pGajh2WncyUVZieTkwS211VE5qUTY3UHp5Q3pEMmNwWjlUVlpGNWZDVDJJZWg0Q1VrbG5HZ3dzck9PMERZc3VtNC0taUxZeDg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d7bbfdc760b14f06d624e18c50fdc56b",
-            "title": "愛知県豊橋市に新店舗オープン！「ワッツウィズ 岩田ニューライフフジ店」でお得な生活を。",
-            "source": "東大阪経済新聞",
-            "published_at": "2026-11-28T18:03:07+09:00",
-            "category": "観光・イベント",
-            "area": "豊橋",
-            "summary": "愛知県豊橋市に新店舗オープン！「ワッツウィズ 岩田ニューライフフジ店」でお得な生活を。  東大阪経済新聞",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNWnhhbURTZ1dRcndQVHJHUlpmcUpmb2FhRUpQaWpTc0lzQkI2c0ZFVjUwYlNobkNPZHRLS08wQWVRMlgtc3c3dXg1TXdrT1ZoZWVPaVlqS2dZNlk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-446e8b60a8431c1ed5cd7138740b57e9",
-            "title": "市民への浸透いまひとつ – 東日新聞",
-            "source": "東日新聞",
-            "published_at": "2026-11-28T00:04:43+09:00",
-            "category": "一般ニュース",
-            "area": "豊橋",
-            "summary": "市民への浸透いまひとつ – 東日新聞  東日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiM2pTeXdtcDF1LTNwM0k0M2JwOHVVcUk5cXl1R2JXX3RMdHNKcWdHcENwQ1MwOHlGeDBZVUt5QV83UW9WYjRYWk1tQVFQOWxlSlpqU3BJWmh1dU5QbWc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-9914d2d241b68931595edc38c93ca22d",
             "title": "【試合情報】臨時駐車場に関するご案内（豊橋市総合体育館）",
             "source": "三遠ネオフェニックス",
@@ -166,25 +144,58 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-621bbdc55d173812205e02c9d2b1a140",
-            "title": "仙台市生まれのホッキョクグマ 愛知・豊橋市に引っ越し 元気に過ごす",
-            "source": "khb東日本放送",
-            "published_at": "2026-11-27T18:54:52+09:00",
-            "category": "市政・行政",
+            "id": "news-0348b10e222c0854b110974ca8771839",
+            "title": "吉田領を示す石碑移設 – 東日新聞",
+            "source": "東日新聞",
+            "published_at": "2026-11-29T00:05:33+09:00",
+            "category": "一般ニュース",
             "area": "豊橋",
-            "summary": "仙台市生まれのホッキョクグマ 愛知・豊橋市に引っ越し 元気に過ごす  khb東日本放送",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ETE1rTFh1a2FqZjFQc0xoT0hhSWhvaHI5RXFDNk1LYTRmUEw4VTBQeWpxazNWdHRiWEtkdFYwQXE5NXduX0VZaVhoSUxPaHc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "吉田領を示す石碑移設 – 東日新聞  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBteWtieVYydU1PektpME5QMHA1MEYwMWFfYmpQN2NiV3FjV3V2RE9ieDM2a3NlRWdCMVFzcHBZSnNkNEN4MmJROFdNRmg2dlpqSXZZemFwQURJY3BleFE?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-70c936ab0e15922e391d10965e07293e",
-            "title": "愛知県の雨雲レーダー(予報)",
+            "id": "news-f688d02f3d6a89405cc5ca9893348af8",
+            "title": "唯一無二のラー油づくり 親子で独自レシピに挑戦 豊橋の三共食品がワークショップ",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-29T01:29:40+09:00",
+            "category": "一般ニュース",
+            "area": "豊橋",
+            "summary": "唯一無二のラー油づくり 親子で独自レシピに挑戦 豊橋の三共食品がワークショップ  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPZnYxSW14MWdtbldXQUs4S3hfS05YSWR4M2VmdVl0bjlQZ1Byem1Ca0xQN3ZockllM3JzbGhya0k4dE0xcE5IT1l6aUNkMkpNZ0paNmE4UzJDd0Zz?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-ea572e540c022f90306df5c674f2aa19",
+            "title": "少年野球「豊橋ライオンズ大会」決勝",
+            "source": "東日新聞",
+            "published_at": "2026-11-29T00:05:33+09:00",
+            "category": "スポーツ",
+            "area": "豊橋",
+            "summary": "少年野球「豊橋ライオンズ大会」決勝  東日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xNGI3aTNjcWkwWUVMZ3hhM09TYnVsd1RsUnFfVUpQXzVnLVdEUFRmc3pkRUtQMVA2OFAtVTZCUTBTbVJNNTlGRWg1MWRMZUxBVHFGd05vamY3NjZrQ3c?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f0d657192fb01a8314f2acad86cf24fd",
+            "title": "低温やけどしにくい「温泉カイロ」開発 豊橋の「MATUBA（松葉治療室）」",
+            "source": "東愛知新聞",
+            "published_at": "2026-11-29T01:29:40+09:00",
+            "category": "ビジネス",
+            "area": "豊橋",
+            "summary": "低温やけどしにくい「温泉カイロ」開発 豊橋の「MATUBA（松葉治療室）」  東愛知新聞",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQ09fTFlNQWszcnBxX3pyc1pkNV91ejluRmcxQUxMelZhLXFsblNnaHRONDl6RVJVTnRwOXFKaWkwNFpYZmtGNHNfNVQzZnZpZTQ3NlFmSFo3eHB5?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-f684bcb3f1848faa98c44ec172cdf678",
+            "title": "愛知県の今日のアメダスの記録(11月28日)",
             "source": "tenki.jp",
-            "published_at": "2026-11-28T17:11:52+09:00",
+            "published_at": "2026-11-28T18:41:40+09:00",
             "category": "市政・行政",
             "area": "愛知",
-            "summary": "愛知県の雨雲レーダー(予報)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWMwZ0FKeXp3SnNxNVJzWlJtc2VQenhzZHF4ejlZMGItdkhvNVQ4djc2OHlXQmh3d09QZWtjcWt0N1Q2VWc1MzZqZzNkZ0xUNWtz?oc=5",
+            "summary": "愛知県の今日のアメダスの記録(11月28日)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydElQeHdwWVdTYXpHdDg1SURoSEdfblVwTm5yN0hjcjI0eUYwc2o0dWdsalpfd3NCMXQ3NG50RGxWbE9JYU1TNEM1R3FHdw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -202,7 +213,7 @@
             "id": "news-5a74221577a917ff670994fb5d69a44e",
             "title": "地元の大学生が愛知県に政策提言",
             "source": "NHKニュース",
-            "published_at": "2026-11-28T17:49:24+09:00",
+            "published_at": "2026-11-28T17:49:00+09:00",
             "category": "市政・行政",
             "area": "愛知",
             "summary": "地元の大学生が愛知県に政策提言  NHKニュース",
@@ -221,6 +232,28 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
+            "id": "news-4ab3c99be07d2e5a6001593538000c17",
+            "title": "【秘境で絶景写真対決】日本有数の渓谷群・愛知県の奥三河に弾丸旅！",
+            "source": "TVer",
+            "published_at": "2026-11-28T17:21:19+09:00",
+            "category": "市政・行政",
+            "area": "三河",
+            "summary": "【秘境で絶景写真対決】日本有数の渓谷群・愛知県の奥三河に弾丸旅！  TVer",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BaHc2cm4zUFpBRVJWME93aGhCbTNqYmFvdV9FU3NVQ3R4R3JaWkJKS0k4Wk80OXhfVWRJUmQ2ZWFUd200RVJ1RGt2dw?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-efb222642469b57fee3a3163237412b3",
+            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
+            "source": "tenki.jp",
+            "published_at": "2026-11-28T21:31:27+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
             "id": "news-3dca83edb191d831b3d18d5100be1602",
             "title": "「流れ失わない守備重要」 社会人野球・王子（愛知県）・湯浅監督が秋田で講演",
             "source": "秋田魁新報電子版",
@@ -229,6 +262,17 @@
             "area": "愛知",
             "summary": "「流れ失わない守備重要」 社会人野球・王子（愛知県）・湯浅監督が秋田で講演  秋田魁新報電子版",
             "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZS3BGRnhFTzNaaWNKQklNd2J0enNZaEVRUllPNl81YjJ0M214MVJmd0c3ekplcmJCbURjOXNHdUViNENUV1gzTnRvcWNGSk1ZU2pqSFRTSjNLZGFRSG9wa0xB?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+        },
+        {
+            "id": "news-b78782ce40171423327f33e432d4cb1c",
+            "title": "「南海トラフ地震発生から4日目を想定」災害拠点病院で訓練　搬送手順などを確認　愛知県半田市",
+            "source": "名古屋テレビ【メ～テレ】",
+            "published_at": "2026-11-28T12:33:00+09:00",
+            "category": "市政・行政",
+            "area": "名古屋",
+            "summary": "「南海トラフ地震発生から4日目を想定」災害拠点病院で訓練　搬送手順などを確認　愛知県半田市  名古屋テレビ【メ～テレ】",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UajNoSHZmZ1JZNl85QzZMR05QdVNsS1I5UXNZRWhXMmhkSy1oNWNPSUszNjBxUW9CTENmQVc1clRkRHZXaE9NUWJTUmxodGdibnfSAWRBVV95cUxOTmdRdTBCUXhENUlEV2RGX2s3VXNPMGFXcW9zSF95TjZLanB4b25WT01GOVQ4d3dlZDZtYTdmSFF5d3hyTGdlajZjTGVZX2NMbW5kcHhyY2RqMlNCSmVHUkZabE5X?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
@@ -243,39 +287,6 @@
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-efb222642469b57fee3a3163237412b3",
-            "title": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-28T18:31:30+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "名古屋(愛知県)の過去の天気(実況天気・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWdGVHcENSUVE3WTV1MU9OZ19JZkdXMnRlbnBrdEdFTHRVVUVNdHhzRm80MFdIeWVqX0JaYlNtS2tadDhiM3AtMzNZYXFla0txbnQ1aGF0bjdPUWViQWc?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-4ab3c99be07d2e5a6001593538000c17",
-            "title": "【秘境で絶景写真対決】日本有数の渓谷群・愛知県の奥三河に弾丸旅！",
-            "source": "TVer",
-            "published_at": "2026-11-28T17:21:19+09:00",
-            "category": "市政・行政",
-            "area": "三河",
-            "summary": "【秘境で絶景写真対決】日本有数の渓谷群・愛知県の奥三河に弾丸旅！  TVer",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BaHc2cm4zUFpBRVJWME93aGhCbTNqYmFvdV9FU3NVQ3R4R3JaWkJKS0k4Wk80OXhfVWRJUmQ2ZWFUd200RVJ1RGt2dw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-d06f72760039f3320f5060563bd8e475",
-            "title": "江戸時代の手描きの魚図鑑に小泉八雲の英訳絵本も 古書約1万8000点余りが並ぶ即売会",
-            "source": "愛知のニュース",
-            "published_at": "2026-11-28T18:24:09+09:00",
-            "category": "一般ニュース",
-            "area": "愛知",
-            "summary": "江戸時代の手描きの魚図鑑に小泉八雲の英訳絵本も 古書約1万8000点余りが並ぶ即売会  愛知のニュース",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90MTdBQTNfc1pfMzNhT3lJb0M0VU5yUHljUERiZkdfTlpQUTR6a2thUW80OGhCaDV4dkdsaVQ3c1YzdDZFWlJ6bnJoc0dOcm1MM1hwbVJXclNLVE0?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
-        },
-        {
             "id": "news-ce32ffa73cff1c8d9b278c08138a5adf",
             "title": "三重ピックアップ－愛知ピックアップ 観戦記①（2026年愛知県・三重県ピックアップチーム交流試合）",
             "source": "タグマ！",
@@ -285,17 +296,6 @@
             "summary": "三重ピックアップ－愛知ピックアップ 観戦記①（2026年愛知県・三重県ピックアップチーム交流試合）  タグマ！",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkS2RjRW9jek1HbVJ5SzFxMGZOMV9GQkVNMHNNandNeWExQjJ4VU1MNWROd0IyaGE0cWVLbVc1U3c4dmhjU3NPRVFNSGhiR1BuN3RGdlNaLVFJQmF1OHRzcHFXbTROZw?oc=5",
             "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-0238a90c3690b179d8249363c2774cbb",
-            "title": "12月2日（水）「りそなグループ B.LEAGUE ALL-STAR GAME WEEKEND 2027 IN AICHI-NAGOYA」スタンプラリー・謎解きTIPOFFイベント出演のお知らせ",
-            "source": "名古屋ダイヤモンドドルフィンズ",
-            "published_at": "2026-11-28T12:16:35+09:00",
-            "category": "観光・イベント",
-            "area": "名古屋",
-            "summary": "12月2日（水）「りそなグループ B.LEAGUE ALL-STAR GAME WEEKEND 2027 IN AICHI-NAGOYA」スタンプラリー・謎解きTIPOFFイベント...",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43VWFGZ3lCWDVIYXVXeVVfZE9nbGxhY2pWcVlUQ2NCYW00cnM5OWlNY3hXTU5qWnhlQkRRc3pVdWdsYmMtZE1LR09UWDN6YXMwTW85eV84alI3YTg?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop&q=80"
         },
         {
             "id": "news-867d2f692b71944d5c5653b6416ec5f5",
@@ -309,26 +309,15 @@
             "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&auto=format&fit=crop&q=80"
         },
         {
-            "id": "news-d95152408d638964ee55a9d5929ea8f3",
-            "title": "「南海トラフ地震発生から4日目を想定」災害拠点病院で訓練 搬送手順などを確認 愛知県半田市（メ〜テレ（名古屋テレビ））",
+            "id": "news-9b027f2cc1ea66c6097a810b78344a51",
+            "title": "『ドライブスルー公衆電話』って知ってる？ 埼玉にひっそり置かれた一台 ⇒ 現地を訪ねると……〝国内でも希少〟愛知の「日本唯一」と何が違う？（西日本新聞me）",
             "source": "Yahoo!ニュース",
-            "published_at": "2026-11-28T12:30:02+09:00",
-            "category": "市政・行政",
-            "area": "名古屋",
-            "summary": "「南海トラフ地震発生から4日目を想定」災害拠点病院で訓練 搬送手順などを確認 愛知県半田市（メ〜テレ（名古屋テレビ））  Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xWFI3Y01IVHhLbnFVc1lVVlhiMVpwaUxGU0Qzb05ZSFQzbXh5MWtkRUFBMWU3RlhHaWo0RERuSFdXN3N5UG4wUDM5NEVjdEVZYlZlN3hLZjJ0RU5GMEZoQ3k5QVBKRDBjcVgyZkgydEJESnA1Y3pfV09keUluaVk?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
-        },
-        {
-            "id": "news-ca1113b116a72c528a59dd7a5626bc18",
-            "title": "愛知県の過去の天気(アメダス・気温・2026年11月)",
-            "source": "tenki.jp",
-            "published_at": "2026-11-28T15:31:28+09:00",
-            "category": "市政・行政",
+            "published_at": "2026-11-28T23:10:10+09:00",
+            "category": "一般ニュース",
             "area": "愛知",
-            "summary": "愛知県の過去の天気(アメダス・気温・2026年11月)  tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SOWpvSXJ4aG5PUVplUXh3Q0ZQSFotMEt3dUNMS0ktc2ptd0picEsyZ2V2M2VkN0hKNlFWU1NpUGx4REJtNGZWNFVIc3Btd3NlTTB2bw?oc=5",
-            "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=400&auto=format&fit=crop&q=80"
+            "summary": "『ドライブスルー公衆電話』って知ってる？ 埼玉にひっそり置かれた一台 ⇒ 現地を訪ねると……〝国内でも希少〟愛知の「日本唯一」と何が違う？（西日本新聞me）  Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wX1NJeS1tTzlpemZDZVpxSkdQRzBRamZkbWFsaHl2Q3RZSXJzR09WV0tIV0FFSndraC1RQnhLTHJqUndnWlJYOVRQcVZuSzlTSlVjd0E4MWNmY08wVzBfa0dld29DVU9YWW51bmcxVk1FRVF6R195dTlIUC1rTEU?oc=5",
+            "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop&q=80"
         }
     ]
 }
